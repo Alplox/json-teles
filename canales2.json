@@ -1094,6 +1094,98 @@
         "país": "ar",
         "categoría": "news"
     },
+    "a24com": {
+        "nombre": "A24com",
+        "logo": "https://graph.facebook.com/A24com/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCR9120YBAqMfntqgRTKmkjQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.a24.com/vivo",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "telefenoticias": {
+        "nombre": "Telefe Noticias",
+        "logo": "https://graph.facebook.com/telefenoticias/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UChxGASjdNEYHhVKpl667Huw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://noticias.mitelefe.com/vivo",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "cadena3": {
+        "nombre": "Cadena 3 Argentina",
+        "logo": "https://graph.facebook.com/Cadena3Argentina/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCNxohbqfDp8YxW_Mji2XMHA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cadena3.com/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "recordnews": {
+        "nombre": "Record News",
+        "logo": "https://graph.facebook.com/recordnews/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCuiLR4p6wQ3xLEm15pEn1Xw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw",
+        "país": "br",
+        "categoría": "news"
+    },
+    "redebrasiloficial": {
+        "nombre": "REDE BRASIL OFICIAL",
+        "logo": "https://graph.facebook.com/redebrasiloficial/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCubxEhRi56_V4_eTzzcFwkA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.redebrasiloficial.com.br/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "multimedios-costa-rica": {
+        "nombre": "Multimedios Costa Rica",
+        "logo": "https://graph.facebook.com/MultimediosCR/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://mdstrm.com/live-stream/5a7b1e63a8da282c34d65445?jsapi=true&autoplay=true&volume=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCILU2ghO8GrOeB-zo93eYdA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telediario.cr/television",
+        "país": "cr",
+        "categoría": "news"
+    },
     "el-tiempo": {
         "nombre": "EL TIEMPO",
         "logo": "",
@@ -1123,6 +1215,66 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.noticiascaracol.com/ahora",
+        "país": "co",
+        "categoría": "news"
+    },
+    "lafmcolombia": {
+        "nombre": "LA FM Colombia",
+        "logo": "https://graph.facebook.com/lafmcolombia/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC6GkkHjigCzoVgvtYg8UB9g",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.lafm.com.co/",
+        "país": "co",
+        "categoría": "news"
+    },
+    "teleantioquianoticiasta": {
+        "nombre": "Teleantioquia Noticias",
+        "logo": "https://graph.facebook.com/CanalTeleantioquia/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC6bwdK-GgRTE1C4Sc9Pe3kg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.teleantioquia.co/noticias/",
+        "país": "co",
+        "categoría": "news"
+    },
+    "eatlantico": {
+        "nombre": "EAtlantico",
+        "logo": "https://graph.facebook.com/EmisorAtlantico/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCPsO0NrAGNWX518uPPs7M9Q",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://emisoraatlantico.com.co/",
+        "país": "co",
+        "categoría": "news"
+    },
+    "hoynoticiasagenciademedios6793": {
+        "nombre": "HOY NOTICIAS AGENCIA DE MEDIOS",
+        "logo": "https://i0.wp.com/agenciademedioshoynoticias.com/wp-content/uploads/2020/01/agencia3.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "hoynoticiasagenciademedios6793",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://agenciademedioshoynoticias.com/",
         "país": "co",
         "categoría": "news"
     },
@@ -1230,6 +1382,21 @@
         "país": "pe",
         "categoría": "news"
     },
+    "pbo": {
+        "nombre": "PBO",
+        "logo": "https://graph.facebook.com/pboperu/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCgR0st4ZLABi-LQcWNu3wnQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://pbo.pe/",
+        "país": "pe",
+        "categoría": "news"
+    },
     "ovacion-tv": {
         "nombre": "Radio Ovación TV",
         "logo": "",
@@ -1318,6 +1485,35 @@
         "país": "pe",
         "categoría": "radio"
     },
+    "telemetro13": {
+        "nombre": "Telemetro Reporta",
+        "logo": "https://graph.facebook.com/TReporta/picture?width=800&height=800",
+        "señales": {
+            "m3u8_url": [],
+            "yt_id": "UCeFTJ001tE38wOXKgPvK1XQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telemetro.com/endirecto",
+        "país": "pa",
+        "categoría": "news"
+    },
+    "alvaroalvarado4703": {
+        "nombre": "Alvaro Alvarado - Noticias 180 Minutos",
+        "logo": "https://graph.facebook.com/alvaroalvaradoc/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC4RoqlERckC4gIhLEGb9Jjw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UC4RoqlERckC4gIhLEGb9Jjw",
+        "país": "pa",
+        "categoría": "news"
+    },
     "globovision": {
         "nombre": "Globovisión En Vivo",
         "logo": "",
@@ -1386,6 +1582,21 @@
         "país": "ve",
         "categoría": "general"
     },
+    "vpitvenvivo": {
+        "nombre": "VPItv",
+        "logo": "https://graph.facebook.com/vpitv/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCVFiIRuxJ2GmJLUkHmlmj4w",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vpitv.com/en-vivo/",
+        "país": "ve",
+        "categoría": "news"
+    },
     "hch-vivo": {
         "nombre": "HCH En Vivo",
         "logo": "",
@@ -1405,6 +1616,220 @@
         "país": "hn",
         "categoría": "news"
     },
+    "grupo-formula": {
+        "nombre": "Grupo Fórmula",
+        "logo": "https://graph.facebook.com/RadioFormulaMX/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCzmd9Aj2wmPggWZJpLdBB8Q",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.radioformula.com.mx/",
+        "país": "mx",
+        "categoría": "radio"
+    },
+    "televisa-puebla": {
+        "nombre": "Televisa Puebla",
+        "logo": "https://graph.facebook.com/TelevisaPuebla/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC-HNztluSQSffhIWJTL-LUw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UC-HNztluSQSffhIWJTL-LUw",
+        "país": "mx",
+        "categoría": "general"
+    },
+    "imagentv": {
+        "nombre": "ImagenTV",
+        "logo": "https://graph.facebook.com/ImagenTVMex/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCl5JKSQsl-_WSU1rz7_BCJA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.imagentv.com/en-vivo",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "imagentelevisionpuebla": {
+        "nombre": "Imagen Televisión Puebla",
+        "logo": "https://graph.facebook.com/ImagenTVPuebla/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UChA9u7JJzC4sCqegZeEoe9w",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.imagentv.com/en-vivo",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "telediarioMX": {
+        "nombre": "TelediarioMx",
+        "logo": "https://graph.facebook.com/TelediarioMx/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCKuAmo9OGf8kw2jrPWCpHdA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telediario.mx/television",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "televisa-sonora-oficial": {
+        "nombre": "Televisa Sonora Oficial",
+        "logo": "https://graph.facebook.com/TelevisaSON/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCyzWMHGS7bs0sot6KZk5EZg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCyzWMHGS7bs0sot6KZk5EZg",
+        "país": "mx",
+        "categoría": "general"
+    },
+    "milenio": {
+        "nombre": "MILENIO",
+        "logo": "https://graph.facebook.com/mileniodiario/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8"
+            ],
+            "yt_id": "UCFxHplbcoJK9m70c4VyTIxg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.milenio.com/mileniotv",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "televisamonterreytv": {
+        "nombre": "Televisa Monterrey",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/55/Channel_4.1.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCGDJLLphnP0zQQaE3kgo5Wg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "nmas": {
+        "nombre": "NMás",
+        "logo": "https://graph.facebook.com/nmas.com.mx/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8"
+            ],
+            "yt_id": "UCUsm-fannqOY02PNN67C0KA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.nmas.com.mx/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "adn40mx": {
+        "nombre": "adn40Mx",
+        "logo": "https://graph.facebook.com/adn40mx/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC7k--FhnJzhPTrbtldMSoQQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://live.adn40.mx/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "televisaveracruzoficial": {
+        "nombre": "Televisa Veracruz Oficial",
+        "logo": "https://graph.facebook.com/televertv/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC5EnLdE7ASjYzWt7wvT-QSg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://telever.tv/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "jcarlos_valerio": {
+        "nombre": "Juan Carlos Valerio",
+        "logo": "https://graph.facebook.com/JCarlosValerioNoticias/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCCETFebKrX0wIkA9lbqvoNA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCCETFebKrX0wIkA9lbqvoNA",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "aztecanoticias": {
+        "nombre": "Azteca Noticias",
+        "logo": "https://graph.facebook.com/aztecanoticias/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCUP6qv-_EIL0hwTsJaKYnvw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvazteca.com/aztecanoticias/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "gamavisionmx": {
+        "nombre": "Gamavisión Noticias",
+        "logo": "https://pbs.twimg.com/profile_images/1560373776109277184/17qG3Ktj_400x400.jpg",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.gamavision.com/",
+        "país": "mx",
+        "categoría": "news"
+    },
     "rtve": {
         "nombre": "RTVE Noticias",
         "logo": "",
@@ -1418,6 +1843,53 @@
         },
         "sitio_oficial": "https://www.rtve.es/noticias",
         "país": "es",
+        "categoría": "news"
+    },
+    "radiopichincha": {
+        "nombre": "Radio Pichincha Multimedia",
+        "logo": "https://graph.facebook.com/PichinchaRadio/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCK0WHZbs_ZJ4r7DMuft7p-g",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.radiopichincha.com/",
+        "país": "ec",
+        "categoría": "radio"
+    },
+    "ecuavisa": {
+        "nombre": "Ecuavisa",
+        "logo": "https://graph.facebook.com/ecuavisa/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8"
+            ],
+            "yt_id": "UCRUV3nUNSc-xpBrTwQOCQQg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ecuavisa.com/envivo",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "tcsnoticias8899": {
+        "nombre": "TCS Noticias",
+        "logo": "https://graph.facebook.com/tcsnoticias/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCUd3i3w8AKinobDEeEmjmWA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.esmitv.com/",
+        "país": "sv",
         "categoría": "news"
     },
     "global-news": {
@@ -1631,6 +2103,81 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.telemundo.com/noticias",
+        "país": "us",
+        "categoría": "news"
+    },
+    "abc13houston": {
+        "nombre": "ABC13Houston",
+        "logo": "https://graph.facebook.com/abc13Houston/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCDmNmxF3ZVMeGyvWE9tOqPQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://abc13.com/watch/live/",
+        "país": "us",
+        "categoría": "news"
+    },
+    "wplg-local-10": {
+        "nombre": "WPLG Local 10",
+        "logo": "https://graph.facebook.com/WPLGLocal10/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCgVZ0mrM3liHNhRYC5Mchgg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCgVZ0mrM3liHNhRYC5Mchgg",
+        "país": "us",
+        "categoría": "news"
+    },
+    "abc7chicago": {
+        "nombre": "ABC 7 Chicago",
+        "logo": "https://graph.facebook.com/abc7chicago/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC_vFLohxs5PkAxlk7Y6jEtw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://abc7chicago.com/watch/live/",
+        "país": "us",
+        "categoría": "news"
+    },
+    "usatoday": {
+        "nombre": "USA TODAY",
+        "logo": "https://graph.facebook.com/usatoday/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCP6HGa63sBC7-KHtkme-p-g",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.usatoday.com/",
+        "país": "us",
+        "categoría": "news"
+    },
+    "cnbc": {
+        "nombre": "CNBC",
+        "logo": "https://graph.facebook.com/CNBC/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cnbc.com/live-tv/",
         "país": "us",
         "categoría": "news"
     },
@@ -1891,6 +2438,21 @@
         "país": "cn",
         "categoría": "news"
     },
+    "ftvnews53": {
+        "nombre": "民視新聞網 Formosa TV News network",
+        "logo": "https://graph.facebook.com/ftvnews53/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC2VmWn8dAqkzlQqvy02E1PA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ftvnews.com.tw/live/live-channel/",
+        "país": "cn",
+        "categoría": "news"
+    },
     "nhk-world": {
         "nombre": "NHK World",
         "logo": "",
@@ -1908,6 +2470,21 @@
         "país": "jp",
         "categoría": "news"
     },
+    "annnewsch": {
+        "nombre": "ANNnewsCH",
+        "logo": "https://graph.facebook.com/tvasahinews/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCGCZAYq5Xxojl_tSXcVJhiQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://news.tv-asahi.co.jp/",
+        "país": "jp",
+        "categoría": "news"
+    },
     "trt-world": {
         "nombre": "TRT World",
         "logo": "",
@@ -1921,6 +2498,402 @@
         },
         "sitio_oficial": "https://www.trtworld.com/",
         "país": "tr",
+        "categoría": "news"
+    },
+    "abp-majha": {
+        "nombre": "ABP MAJHA",
+        "logo": "https://graph.facebook.com/abpmajha/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://cdn.abplive.com/LiveStreams/260118/abpmajha/streaming-new-nov2022.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCH7nv1A9xIrAifZJNvt7cgA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://marathi.abplive.com/live-tv",
+        "país": "in",
+        "categoría": "news"
+    },
+    "good-news-today": {
+        "nombre": "Good News Today",
+        "logo": "https://graph.facebook.com/goodnewstoday/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://feeds.intoday.in/livetv/ver-3-0/?id=livetv-gnt&autostart=1&mute=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCQC1wGbOOIoC23fRGxt4kbg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.gnttv.com/livetv",
+        "país": "in",
+        "categoría": "news"
+    },
+    "abn-telugu": {
+        "nombre": "ABN Telugu",
+        "logo": "https://graph.facebook.com/abntelugutv/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC_2irx_BQR7RsBKmUV9fePQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.andhrajyothy.com/live-tv",
+        "país": "in",
+        "categoría": "news"
+    },
+    "abn-digital-exclusives": {
+        "nombre": "ABN Digital Exclusives",
+        "logo": "https://graph.facebook.com/somethingspecialvideos/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCMIobchb8wgycijrgc1UnZw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCMIobchb8wgycijrgc1UnZw",
+        "país": "in",
+        "categoría": "general"
+    },
+    "reporter-live": {
+        "nombre": "REPORTER LIVE",
+        "logo": "https://graph.facebook.com/reporterlive/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCFx1nseXKTc1Culiu3neeSQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.reporterlive.com/",
+        "país": "in",
+        "categoría": "news"
+    },
+    "hmtvnewslive": {
+        "nombre": "hmtv News",
+        "logo": "https://graph.facebook.com/hmtvnewslive/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCNZOrs1QBt8cJnv9ud96qRA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.hmtvlive.com/",
+        "país": "in",
+        "categoría": "news"
+    },
+    "ndtv-india": {
+        "nombre": "NDTV India",
+        "logo": "https://graph.facebook.com/NDTVIndia/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8"
+            ],
+            "yt_id": "UC9CYT9gSNLevX5ey2_6CK0Q",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ndtv.com/",
+        "país": "in",
+        "categoría": "news"
+    },
+    "etnow": {
+        "nombre": "ET NOW",
+        "logo": "https://graph.facebook.com/etnow/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCI_mwTKUhicNzFrhm33MzBQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.etnownews.com/",
+        "país": "in",
+        "categoría": "news"
+    },
+    "news18rajasthan": {
+        "nombre": "News18 Rajasthan",
+        "logo": "https://graph.facebook.com/News18Rajasthan/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC7FlLbNo66YsCEAPuJITiNg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://hindi.news18.com/livetv/",
+        "país": "in",
+        "categoría": "news"
+    },
+    "news18assamnortheastlive": {
+        "nombre": "News18 Assam/Northeast",
+        "logo": "https://graph.facebook.com/News18AssamNE/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCAjBd-r8JWfnRjfhg23nqLQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://hindi.news18.com/livetv/",
+        "país": "in",
+        "categoría": "news"
+    },
+    "news18bangla": {
+        "nombre": "News18 Bangla",
+        "logo": "https://graph.facebook.com/News18Bangla/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCbf0XHULBkTfv2hBjaaDw9Q",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://bengali.news18.com/live-tv/",
+        "país": "in",
+        "categoría": "news"
+    },
+    "news18biharjharkhand": {
+        "nombre": "News18 Bihar Jharkhand",
+        "logo": "https://graph.facebook.com/News18Bihar/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC531MlZA5LUbeGwEN_zcppw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://hindi.news18.com/news/bihar/",
+        "país": "in",
+        "categoría": "news"
+    },
+    "news18gujarati": {
+        "nombre": "News18 Gujarati",
+        "logo": "https://graph.facebook.com/News18Gujarati/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCqfX_f4rBbPhq_KESE4saCA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.news18.com/livetv/",
+        "país": "in",
+        "categoría": "news"
+    },
+    "news18india": {
+        "nombre": "News18 India",
+        "logo": "https://graph.facebook.com/News18India/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCPP3etACgdUWvizcES1dJ8Q",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://hindi.news18.com/",
+        "país": "in",
+        "categoría": "news"
+    },
+    "news18kannada": {
+        "nombre": "News18 Kannada",
+        "logo": "https://graph.facebook.com/News18Kannada/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCa-vioGhe2btBcZneaPonKA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://kannada.news18.com/live-tv/",
+        "país": "in",
+        "categoría": "news"
+    },
+    "news18kerala": {
+        "nombre": "News18 Kerala",
+        "logo": "https://graph.facebook.com/News18Kerala/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC-mMi78WJST4N5o8_i1FoXw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://malayalam.news18.com/",
+        "país": "in",
+        "categoría": "news"
+    },
+    "news18lokmattv": {
+        "nombre": "News18 Lokmat",
+        "logo": "https://graph.facebook.com/News18Lokmat/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCrcpw88HvKJ0skdsHniCJtQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://lokmat.news18.com/",
+        "país": "in",
+        "categoría": "news"
+    },
+    "news18mpchhattisgarh": {
+        "nombre": "News18 MP Chhattisgarh",
+        "logo": "https://graph.facebook.com/News18MP/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCBwc2cbPpvxNCNEI2-8YrqQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://hindi.news18.com/",
+        "país": "in",
+        "categoría": "news"
+    },
+    "news18odia": {
+        "nombre": "News18 Odia",
+        "logo": "https://graph.facebook.com/News18Odia/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCUK49UvmYWYLiB7_bZFuFZQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://odia.news18.com/odisha/",
+        "país": "in",
+        "categoría": "news"
+    },
+    "news18punjabharyanahimacha35": {
+        "nombre": "News18 Punjab/Haryana/Himachal",
+        "logo": "https://graph.facebook.com/News18Haryana/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC-crZTQNRzZgzyighTKF0nQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://punjab.news18.com/",
+        "país": "in",
+        "categoría": "news"
+    },
+    "news18tamilnadu": {
+        "nombre": "News18 Tamil Nadu",
+        "logo": "https://graph.facebook.com/News18TamilNadu/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCat88i6_rELqI_prwvjspRA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tamil.news18.com/",
+        "país": "in",
+        "categoría": "news"
+    },
+    "news18urdu": {
+        "nombre": "News18 Urdu",
+        "logo": "https://graph.facebook.com/EtvUrduIndia/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC9IQhNgS43lmUdU-KdGyb0A",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://urdu.news18.com/",
+        "país": "in",
+        "categoría": "news"
+    },
+    "news18uputtarakhand": {
+        "nombre": "News18 UP Uttarakhand",
+        "logo": "https://graph.facebook.com/News18UP/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCafYgzpyw7aIUYOLjjADu7w",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://hindi.news18.com/news/uttar-pradesh/",
+        "país": "in",
+        "categoría": "news"
+    },
+    "ddindia": {
+        "nombre": "DD India",
+        "logo": "https://graph.facebook.com/DDIndiaLive/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCGDQNvybfDDeGTf4GtigXaw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ddindia.co.in/",
+        "país": "in",
+        "categoría": "news"
+    },
+    "kairalinews": {
+        "nombre": "Kairali News",
+        "logo": "https://graph.facebook.com/kairalinews/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCnEvxaWfVL91XIYuyQRO5QA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.kairalinewsonline.com/live",
+        "país": "in",
+        "categoría": "news"
+    },
+    "banglavisionlive": {
+        "nombre": "BanglaVision LIVE",
+        "logo": "https://graph.facebook.com/banglavision/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCAIEufoszs1J38-pKECORRg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.bvnews24.com/live/",
+        "país": "bd",
         "categoría": "news"
     },
     "al-jazeera-english": {
@@ -1953,6 +2926,246 @@
         },
         "sitio_oficial": "https://www.aljazeera.com/live/",
         "país": "qa",
+        "categoría": "news"
+    },
+    "vatican-news": {
+        "nombre": "Vatican News",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC7E-LYc1wivk33iyt5bR5zQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vaticannews.va/en.html",
+        "país": "it",
+        "categoría": "religious"
+    },
+    "vatican-news-english": {
+        "nombre": "Vatican News English",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCxIsefyl9g9A5SGWA4FvGIA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vaticannews.va/en.html",
+        "país": "it",
+        "categoría": "religious"
+    },
+    "vatican-news-español": {
+        "nombre": "Vatican News Español",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCnB5vfb9FMMNTnC6-kAT3fQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vaticannews.va/en.html",
+        "país": "it",
+        "categoría": "religious"
+    },
+    "vatican-news-italiano": {
+        "nombre": "Vatican News Italiano",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCkwbN2a1L1H6P9rcA7FhAqg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vaticannews.va/en.html",
+        "país": "it",
+        "categoría": "religious"
+    },
+    "vatican-news-portugues": {
+        "nombre": "Vatican News Português",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCGYSq4b4DXmtK4jyq6r-FYg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vaticannews.va/en.html",
+        "país": "it",
+        "categoría": "religious"
+    },
+    "vatican-news-frances": {
+        "nombre": "Vatican News Français",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCQxVySG5g2aC-Uz9NhpyiFg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vaticannews.va/en.html",
+        "país": "it",
+        "categoría": "religious"
+    },
+    "vatican-news-aleman": {
+        "nombre": "Vatican News Deutsch",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC4ndSG692MXx_zZlIKMYsdg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vaticannews.va/en.html",
+        "país": "it",
+        "categoría": "religious"
+    },
+    "vatican-news-polaco": {
+        "nombre": "Vatican News Polski",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCShH-YDtaUQH0Zvmg_6bKJQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vaticannews.va/en.html",
+        "país": "it",
+        "categoría": "religious"
+    },
+    "vatican-news-vietnamita": {
+        "nombre": "Vatican News Tiếng Việt",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC1HuzI97H8M5bI3Wl6wKdvA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vaticannews.va/en.html",
+        "país": "it",
+        "categoría": "religious"
+    },
+    "vatican-news-chino": {
+        "nombre": "Vatican News 中文",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCRvmnuS6-wC2ZkAjh2tNK7w",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vaticannews.va/en.html",
+        "país": "it",
+        "categoría": "religious"
+    },
+    "city21": {
+        "nombre": "City 21 News",
+        "logo": "https://graph.facebook.com/C21.Karachi/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCB-8E662xOk1I3-wdhTMNiw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw",
+        "país": "pk",
+        "categoría": "news"
+    },
+    "alquranhd": {
+        "nombre": "AlQuranHD القران الكريم",
+        "logo": "https://graph.facebook.com/AlQuran4K/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCraPI8sg-eiNzUrurxhKeEQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCraPI8sg-eiNzUrurxhKeEQ",
+        "país": "pk",
+        "categoría": "religious"
+    },
+    "talonnews_hd": {
+        "nombre": "Talon News HD",
+        "logo": "https://graph.facebook.com/TalonNewsHDOfficial/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCooaD1RPqtX2mY4yNc1PPqw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCooaD1RPqtX2mY4yNc1PPqw",
+        "país": "pk",
+        "categoría": "news"
+    },
+    "bolnewsofficial": {
+        "nombre": "BOL News",
+        "logo": "https://graph.facebook.com/BOLNETWORK/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCz2yxQJZgiB_5elTzqV7FiQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.bolnews.com/live/",
+        "país": "pk",
+        "categoría": "news"
+    },
+    "samaatvnews": {
+        "nombre": "SAMAA TV",
+        "logo": "https://graph.facebook.com/samaatvnews/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCJekW1Vj5fCVEGdye_mBN6Q",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://live.samaa.tv/",
+        "país": "pk",
+        "categoría": "news"
+    },
+    "gbnewsonline": {
+        "nombre": "GBNews",
+        "logo": "https://graph.facebook.com/CAMBIARAQUI/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC0vn8ISa4LKMunLbzaXLnOQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.gbnews.com/watch/live",
+        "país": "gb-eng",
         "categoría": "news"
     },
     "cna": {
@@ -2107,9 +3320,6 @@
         "país": "",
         "categoría": "music"
     },
-
-
-
     "dark-monkey-music": {
         "nombre": "Dark Monkey Music",
         "logo": "https://graph.facebook.com/DarkMonkeym/picture?width=800&height=800",
@@ -2690,7 +3900,7 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCxcnsr1R5Ge_fbTu5ajt8DQ",
             "yt_embed": "",
             "yt_playlist": "PLAEQD0ULngi67rwmhrkNjMZKvyCReqDV4",
             "twitch_id": ""
@@ -2712,7 +3922,7 @@
         },
         "sitio_oficial": "https://www.youtube.com/channel/UCNeq3Obf4zOv5rhORI8Vz5g",
         "país": "",
-        "categoría": "cartoons"
+        "categoría": "animation"
     },
     "cartoon-network-la": {
         "nombre": "Cartoon Network LA",
@@ -2727,7 +3937,7 @@
         },
         "sitio_oficial": "https://www.youtube.com/channel/UCQySZQ6rrgJXRuonMwIIGMA",
         "país": "",
-        "categoría": "cartoons"
+        "categoría": "animation"
     },
     "disney-xd": {
         "nombre": "Disney XD",
@@ -2742,7 +3952,7 @@
         },
         "sitio_oficial": "https://www.youtube.com/channel/UCktaw9L-f65LzUUdjmCFkbQ",
         "país": "",
-        "categoría": "cartoons"
+        "categoría": "animation"
     },
     "robocar-poli-tv": {
         "nombre": "Robocar POLI TV",
@@ -2757,7 +3967,7 @@
         },
         "sitio_oficial": "https://www.youtube.com/channel/UCr-rCvgg21KqfrnGopaQeGw",
         "país": "",
-        "categoría": "cartoons"
+        "categoría": "animation"
     },
     "bob-esponja-en-español": {
         "nombre": "Bob Esponja en Español",
@@ -2772,7 +3982,7 @@
         },
         "sitio_oficial": "https://www.youtube.com/channel/UCMfYMB69Y1B-SlGKm1Tdb0Q",
         "país": "",
-        "categoría": "cartoons"
+        "categoría": "animation"
     },
     "power-rangers-official": {
         "nombre": "Power Rangers Official",
@@ -2787,7 +3997,7 @@
         },
         "sitio_oficial": "https://www.youtube.com/channel/UCpgxmlXoDtkYzRQ4cJgCT5A",
         "país": "",
-        "categoría": "cartoons"
+        "categoría": "animation"
     },
     "el-increíble-mundo-de-gumball-la": {
         "nombre": "El Increíble Mundo de Gumball LA",
@@ -2802,7 +4012,7 @@
         },
         "sitio_oficial": "https://www.youtube.com/channel/UCEsK4_SMT6zgDVUwuLHvo8g",
         "país": "",
-        "categoría": "cartoons"
+        "categoría": "animation"
     },
     "peacock-jr": {
         "nombre": "Peacock jr",
@@ -2817,7 +4027,7 @@
         },
         "sitio_oficial": "https://www.youtube.com/channel/UCKtfozhWfwvXUTnR7PV3t5g",
         "país": "",
-        "categoría": "cartoons"
+        "categoría": "animation"
     },
     "shaun-the-sheep-official": {
         "nombre": "Shaun the Sheep Official",
@@ -2832,7 +4042,7 @@
         },
         "sitio_oficial": "https://www.youtube.com/channel/UCS7H8U-n5mINVJjJsaRtGHg",
         "país": "",
-        "categoría": "cartoons"
+        "categoría": "animation"
     },
     "game-master-tv": {
         "nombre": "Game Master TV",
@@ -2847,6 +4057,6 @@
         },
         "sitio_oficial": "https://www.youtube.com/channel/UC1AFNoYDu-Rub31kwug5drA",
         "país": "",
-        "categoría": "cartoons"
+        "categoría": "animation"
     }
 }
