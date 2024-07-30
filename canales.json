@@ -57,8 +57,8 @@
         "nombre": "CNN Chile",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
+            "iframe_url": ["https://rudo.video/live/cnn?autoplay=true&volume=0"],
+            "m3u8_url": ["https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR"],
             "yt_id": "UCpOAcjJNAp0Y0fhznRrXIJQ",
             "yt_embed": "",
             "yt_playlist": "",
@@ -769,9 +769,7 @@
         "nombre": "Ñublevision",
         "logo": "https://graph.facebook.com/nublevision/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [
-                "https://player.kick.com/nublevision"
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://v1.tustreaming.cl/nubletv/tracks-v1a1/mono.m3u8",
                 "https://v1.tustreaming.cl/nubletv/index.m3u8"
@@ -1511,6 +1509,21 @@
             "twitch_id": "eldestaperadio"
         },
         "sitio_oficial": "https://www.eldestapeweb.com/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "dnewsok": {
+        "nombre": "DNews",
+        "logo": "https://graph.facebook.com/dnewsok/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC4dWvSKVWJ36tJyhjDQCCaQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UC4dWvSKVWJ36tJyhjDQCCaQ",
         "país": "ar",
         "categoría": "news"
     },
@@ -2352,7 +2365,7 @@
     },
     "imesatnewstv": {
         "nombre": "Imesat News TV",
-        "logo": "https://graph.facebook.com/meteovenezuela/picture?width=800&height=800",
+        "logo": "https://graph.facebook.com/ImesatNewsTV1/picture?width=800&height=800",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [],
@@ -2362,6 +2375,98 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.youtube.com/channel/UC1gcFVHhxnbdVqZ8gRziDkg",
+        "país": "ve",
+        "categoría": "news"
+    },
+    "telesur": {
+        "nombre": "TeleSUR",
+        "logo": "https://graph.facebook.com/teleSUR/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": ["https://mblive.telesur.ultrabase.net/", "https://geo.dailymotion.com/player/x5poh.html?video=x82ug5r&autoplay=true&volume=0"],
+            "m3u8_url": ["https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8", "https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8", "https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8"],
+            "yt_id": "UCh57chOa8G811mvbqHBqxlw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telesurtv.net/",
+        "país": "ve",
+        "categoría": "news"
+    },
+    "telesur-eng": {
+            "nombre": "TeleSUR English",
+            "logo": "https://graph.facebook.com/telesurenglish/picture?width=800&height=800",
+            "señales": {
+                "iframe_url": ["https://mbliveec.telesur.ultrabase.net/"],
+                "m3u8_url": ["https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8", "https://cdnenmain.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8", "https://cdnenmain.telesur.ultrabase.net/mblivev3/360p/playlist.m3u8"],
+                "yt_id": "UCmuTmpLY35O3csvhyA6vrkg",
+                "yt_embed": "",
+                "yt_playlist": "",
+                "twitch_id": ""
+            },
+            "sitio_oficial": "https://www.telesurenglish.net/",
+            "país": "ve",
+            "categoría": "news"
+    },
+    "telesurenespanol": {
+        "nombre": "teleSURtv",
+        "logo": "https://graph.facebook.com/teleSUR/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": ["https://mblive.telesur.ultrabase.net/"],
+            "m3u8_url": ["https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8", "https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8", "https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8"],
+            "yt_id": "UCj55An2-k4Ww8nmHQFWti5Q",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telesurtv.net/",
+        "país": "ve",
+        "categoría": "news"
+    },
+    "venezolana-de-television": {
+        "nombre": "Venezolana de Televisión",
+        "logo": "https://graph.facebook.com/VTVtuCanal/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": ["https://geo.dailymotion.com/player/x5poh.html?video=k1yNOrgCd2jz9hBaDXQ&autoplay=true&volume=0"],
+            "m3u8_url": [],
+            "yt_id": "UC_cL7HTt3R9Esk-Tj0XoC9Q",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vtv.gob.ve/en-vivo/",
+        "país": "ve",
+        "categoría": "news"
+    },
+    "ntn24": {
+        "nombre": "NTN24",
+        "logo": "https://graph.facebook.com/ntn24/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": ["https://www.dailymotion.com/cdn/live/video/x7w4okl.m3u8?sec=7cCFdxKBXqwoMliGhU_szyFPdXxlSGE7tiDH8bx2dZFAZoTbhJx8IZ_F5cI03Igo&dmTs=444588&dmV1st=6fbbf4da-5d33-4953-9d22-c7d9f432f366"],
+            "yt_id": "UCEJs1fTF3KszRJGxJY14VrA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ntn24.com/en-vivo",
+        "país": "ve",
+        "categoría": "news"
+    },
+    "televentv": {
+        "nombre": "TelevenTV",
+        "logo": "https://graph.facebook.com/TelevenTV/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://app.televen.com/player/tv?channelId=20000841&categoryId=0&channelNumber=1"
+            ],
+            "m3u8_url": [""],
+            "yt_id": "UCPxs1siPSF6YKGtKP_Zyvtw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://televen.com/",
         "país": "ve",
         "categoría": "news"
     },
