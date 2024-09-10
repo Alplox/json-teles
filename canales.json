@@ -43,7 +43,8 @@
                 "https://rudo.video/live/t13?autoplay=true&volume=0"
             ],
             "m3u8_url": [
-                "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8"
+                "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+                "https://jireh-4-hls-video-cl-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_900.m3u8"
             ],
             "yt_id": "UCsRnhjcUCR78Q3Ud6OXCTNg",
             "yt_embed": "",
@@ -82,7 +83,8 @@
                 "https://rudo.video/live/chvn?autoplay=true&volume=0"
             ],
             "m3u8_url": [
-                "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?DVR"
+                "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?DVR",
+                "https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8"
             ],
             "yt_id": "UCRsUoZYC1ULUspipMRnMhwg",
             "yt_embed": "",
@@ -133,7 +135,7 @@
             "iframe_url": [
                 "https://rudo.video/live/bbtv?autoplay=true&volume=0"
             ],
-            "m3u8_url": [],
+            "m3u8_url": ["https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8"],
             "yt_id": "UCuvM3c8rmdApmk-g22shZ7w",
             "yt_embed": "",
             "yt_playlist": "",
@@ -170,7 +172,10 @@
             "iframe_url": [
                 "https://rudo.video/live/dunatv?volume=0&mute=1"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://unlimited2-cl-isp.dps.live/dunatv/dunatv.smil/playlist.m3u8",
+                "https://unlimited1-cl-isp.dps.live/dunatv/dunatv.smil/playlist.m3u8"
+            ],
             "yt_id": "UC2dUjKdv0sezxuflNK4w8Pg",
             "yt_embed": "",
             "yt_playlist": "",
@@ -317,7 +322,8 @@
                 "https://rudo.video/live/laclavetv?autoplay=true&volume=0"
             ],
             "m3u8_url": [
-                "https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8"
+                "https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8",
+                "https://pantera1-100gb-cl-movistar.dps.live/laclavetv/laclavetv.smil/playlist.m3u8"
             ],
             "yt_id": "UCKGi2oU9Eoa5dJAIE7K60gA",
             "yt_embed": "",
@@ -460,7 +466,8 @@
                 "https://audio.streaminghd.cl:2000/stream/estacionmetropolitana/;stream.mp3"
             ],
             "m3u8_url": [
-                "https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/metropolitanatv/livestream1/chunks.m3u8"
+                "https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/metropolitanatv/livestream1/chunks.m3u8",
+                "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8"
             ],
             "yt_id": "UC1NcCfxvIYT_JxCjquphGSg",
             "yt_embed": "",
@@ -515,7 +522,8 @@
                 "https://mdstrm.com/live-stream/5653641561b4eba30a7e4929?jsapi=true&player=57f40bb4dc5b9f3075c49cfe"
             ],
             "m3u8_url": [
-                "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8"
+                "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
+                "https://marine2.miplay.cl/tvnchile/index.m3u8"
             ],
             "yt_id": "UCaVaCaiG6qRzDiJDuEGKOhQ",
             "yt_embed": "",
@@ -525,6 +533,25 @@
         "sitio_oficial": "https://www.youtube.com/channel/UCaVaCaiG6qRzDiJDuEGKOhQ",
         "país": "cl",
         "categoría": "general"
+    },
+    "tvn-3": {
+        "nombre": "TVN 3",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/TVN_3_2023.svg/320px-TVN_3_2023.svg.png",
+        "señales": {
+            "iframe_url": [
+                "https://mdstrm.com/live-stream/5653641561b4eba30a7e4929?jsapi=true"
+            ],
+            "m3u8_url": [
+                "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvn.cl/tvn3",
+        "país": "cl",
+        "categoría": "culture"
     },
     "mega-cl": {
         "nombre": "Mega",
@@ -552,7 +579,8 @@
             ],
             "m3u8_url": [
                 "https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist.m3u8",
-                "https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/529d29eb-8117-44d3-9e21-cdfd68c3c097:MRN2/master.m3u8"
+                "https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/529d29eb-8117-44d3-9e21-cdfd68c3c097:MRN2/master.m3u8",
+                "https://marine2.miplay.cl/c13/index.m3u8"
             ],
             "yt_id": "UCd4D3LfXC_9MY2zSv_3gMgw",
             "yt_embed": "",
@@ -570,7 +598,10 @@
             "iframe_url": [
                 "https://www.tvonlinechile.cl/senal-chv"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8",
+                "https://marine2.miplay.cl/chvchile/index.m3u8"
+            ],
             "yt_id": "UC8EdTmyUaFIfZvVttJ9lgIA",
             "yt_embed": "",
             "yt_playlist": "",
@@ -588,7 +619,8 @@
                 "https://rudo.video/live/lared?autoplay=true&volume=0"
             ],
             "m3u8_url": [
-                "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8"
+                "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8",
+                "https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -944,6 +976,25 @@
         "país": "cl",
         "categoría": "general"
     },
+    "tvr-television-regional": {
+        "nombre": "TVR Television Regional",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Televisi%C3%B3n_Regional_de_Chile_-_logo.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://redirector.dps.live/hls/tvr/playlist.m3u8",
+                "https://unlimited2-cl-isp.dps.live/tvr/tvr.smil/tvr/livestream0/chunks.m3u8",
+                "https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8"
+            ],
+            "yt_id": "UCJTWU_1-_89NflP1XKnyuWg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvr.cl",
+        "país": "cl",
+        "categoría": "general"
+    },
     "veo-tv": {
         "nombre": "veoTV",
         "logo": "https://www.veotv.cl/img/logo_grande.png",
@@ -1099,6 +1150,25 @@
         "país": "cl",
         "categoría": "general"
     },
+    "wapp-tv": {
+        "nombre": "Wapp TV",
+        "logo": "https://graph.facebook.com/wapptv.cl/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://rudo.video/live/wapptv?autoplay=true&volume=0"
+            ],
+            "m3u8_url": [
+                "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/wapptv/wapptv.smil/playlist.m3u8"
+            ],
+            "yt_id": "UCgylg1Pa7i56wLwn6sA74HA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.wapptv.cl/",
+        "país": "cl",
+        "categoría": "general"
+    },
     "megadeportescl": {
         "nombre": "MegaDeportes",
         "logo": "https://graph.facebook.com/MegaDeportesCL/picture?width=800&height=800",
@@ -1241,7 +1311,8 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://wowlive.grupoz.cl/camara/live/chunklist_w1358283897_DVR.m3u8"
+                "https://wowlive.grupoz.cl/camara/live/chunklist_w1358283897_DVR.m3u8",
+                "https://wowlive.grupoz.cl/camara/live/playlist.m3u8"
             ],
             "yt_id": "UCYd5k2TyOyOmUJNx0SH17KA",
             "yt_embed": "",
@@ -3022,7 +3093,7 @@
         },
         "sitio_oficial": "https://culturavenezuela.com/emision-en-directo/",
         "país": "ve",
-        "categoría": "Culture"
+        "categoría": "culture"
     },
     "hch-vivo": {
         "nombre": "HCH En Vivo",
@@ -4215,7 +4286,9 @@
         "logo": "",
         "señales": {
             "iframe_url": [],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://euronews-euronews-spanish-2-us.tcl.wurl.tv/playlist.m3u8"
+            ],
             "yt_id": "UCyoGb3SMlTlB8CLGVH4c8Rw",
             "yt_embed": "",
             "yt_playlist": "",
@@ -4315,9 +4388,26 @@
         "país": "fr",
         "categoría": "news"
     },
+    "dw-news-es": {
+        "nombre": "DW Español",
+        "logo": "https://deultimominuto.net/wp-content/uploads/2022/03/DW-LOGO.jpg",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8"
+            ],
+            "yt_id": "UCT4Jg8h03dD0iN3Pb5L0PMA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.dw.com/es",
+        "país": "de",
+        "categoría": "news"
+    },
     "dw-news": {
         "nombre": "DW News",
-        "logo": "",
+        "logo": "https://deultimominuto.net/wp-content/uploads/2022/03/DW-LOGO.jpg",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [],
@@ -4332,7 +4422,7 @@
     },
     "dw-arabic": {
         "nombre": "DW عربية",
-        "logo": "",
+        "logo": "https://deultimominuto.net/wp-content/uploads/2022/03/DW-LOGO.jpg",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [],
@@ -4488,7 +4578,8 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+                "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8",
+                "https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8"
             ],
             "yt_id": "UCSPEjw8F2nQDtmUKPFNF7_A",
             "yt_embed": "",

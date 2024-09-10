@@ -42,6 +42,7 @@ Canales "Chile"
 - [AGRICULTURA TV](https://www.radioagricultura.cl/en-vivo-3/) [radio]
 - [¡Llegó la hora!](https://www.radioagricultura.cl/podcast_programas/llego-la-hora/) [radio]
 - [TVN](https://www.youtube.com/channel/UCaVaCaiG6qRzDiJDuEGKOhQ) [general]
+- [TVN 3](https://www.tvn.cl/tvn3) [culture]
 - [Mega](https://www.mega.cl/) [general]
 - [Canal 13](https://www.13.cl/en-vivo) [general]
 - [Chilevisión](https://www.chilevision.cl/senal-online) [general]
@@ -64,6 +65,7 @@ Canales "Chile"
 - [UCV TV Eventos](https://ucvtv.cl/home.php) [general]
 - [UATV](https://uatv.cl/uatv-en-vivo/) [general]
 - [VTV](http://canalvtv.cl/vtv/) [general]
+- [TVR Television Regional](https://www.tvr.cl) [general]
 - [veoTV](https://www.veotv.cl/) [general]
 - [Contivision](https://contivision.cl/) [general]
 - [Osorno TV+](https://www.osornotv.cl/envivo.html) [general]
@@ -73,6 +75,7 @@ Canales "Chile"
 - [Canal 2 San Antonio](https://cablenoticias.cl/san-antonio-en-vivo) [general]
 - [Canal 2 Quellón](https://www.canal2quellon.cl/) [general]
 - [Iquique TV](https://iquiquetv.cl/senal-online/) [general]
+- [Wapp TV](https://www.wapptv.cl/) [general]
 - [MegaDeportes](https://www.meganoticias.cl/deportes/) [sports]
 - [Tierra de Dragones](https://tierradedragones.cl/online/) [sports]
 - [TV Salud](https://tvsalud.cl/) [lifestyle]
@@ -209,7 +212,7 @@ Canales "Venezuela"
 - [Anzoátegui TV](https://lorini.net/anzoateguitv/) [general]
 - [BTA TV](https://btatv.tv/) [general]
 - [Canal 21 Táchira](https://www.canal21tachira.com/tv/) [general]
-- [Canal Cultura Venezuela](https://culturavenezuela.com/emision-en-directo/) [Culture]
+- [Canal Cultura Venezuela](https://culturavenezuela.com/emision-en-directo/) [culture]
 
 Canales "Honduras"
 - [HCH En Vivo](https://hch.tv/live/) [news]
@@ -312,6 +315,7 @@ Canales "Francia"
 - [franceinfo](https://www.francetvinfo.fr/) [news]
 
 Canales "Alemania"
+- [DW Español](https://www.dw.com/es) [news]
 - [DW News](https://www.dw.com/en) [news]
 - [DW عربية](https://www.dw.com/ar) [news]
 - [WELT](https://www.welt.de/) [news]
@@ -606,6 +610,7 @@ Categoría "news"
 - [FRANCE 24 Español](https://www.france24.com/es/) [Francia]
 - [FRANCE 24 English](https://www.france24.com/en/) [Francia]
 - [franceinfo](https://www.francetvinfo.fr/) [Francia]
+- [DW Español](https://www.dw.com/es) [Alemania]
 - [DW News](https://www.dw.com/en) [Alemania]
 - [DW عربية](https://www.dw.com/ar) [Alemania]
 - [WELT](https://www.welt.de/) [Alemania]
@@ -739,6 +744,7 @@ Categoría "general"
 - [UCV TV Eventos](https://ucvtv.cl/home.php) [Chile]
 - [UATV](https://uatv.cl/uatv-en-vivo/) [Chile]
 - [VTV](http://canalvtv.cl/vtv/) [Chile]
+- [TVR Television Regional](https://www.tvr.cl) [Chile]
 - [veoTV](https://www.veotv.cl/) [Chile]
 - [Contivision](https://contivision.cl/) [Chile]
 - [Osorno TV+](https://www.osornotv.cl/envivo.html) [Chile]
@@ -747,6 +753,7 @@ Categoría "general"
 - [Canal 2 San Antonio](https://cablenoticias.cl/san-antonio-en-vivo) [Chile]
 - [Canal 2 Quellón](https://www.canal2quellon.cl/) [Chile]
 - [Iquique TV](https://iquiquetv.cl/senal-online/) [Chile]
+- [Wapp TV](https://www.wapptv.cl/) [Chile]
 - [El Siete TV](https://www.elsietetv.com.ar/) [Argentina]
 - [EXTRA TV VIVO](https://www.canalextra.com.ar/) [Argentina]
 - [BREAK POINT](https://www.youtube.com/channel/UC_49ElhhVd1BO7MsdBPm77Q) [Argentina]
@@ -762,6 +769,11 @@ Categoría "general"
 - [Una Nueva Mañana](https://unanuevamanana.com/) [República Dominicana]
 - [Naciones Unidas](https://www.un.org/) [Estados Unidos]
 - [ABN Digital Exclusives](https://www.youtube.com/channel/UCMIobchb8wgycijrgc1UnZw) [India]
+
+Categoría "culture"
+- [TVN 3](https://www.tvn.cl/tvn3) [Chile]
+- [Bolivia Al aire TV](https://boliviaalairetv.com/) [Bolivia]
+- [Canal Cultura Venezuela](https://culturavenezuela.com/emision-en-directo/) [Venezuela]
 
 Categoría "sports"
 - [MegaDeportes](https://www.meganoticias.cl/deportes/) [Chile]
@@ -853,14 +865,8 @@ Categoría "music"
 Categoría "auto"
 - [Carburando](https://www.carburando.com/) [Argentina]
 
-Categoría "culture"
-- [Bolivia Al aire TV](https://boliviaalairetv.com/) [Bolivia]
-
 Categoría "entertainment"
 - [Gogoplaytv](https://www.gogoplaytv.com/) [Bolivia]
-
-Categoría "Culture"
-- [Canal Cultura Venezuela](https://culturavenezuela.com/emision-en-directo/) [Venezuela]
 
 Categoría "science"
 - [NASA Live](https://www.nasa.gov/) [Estados Unidos]
