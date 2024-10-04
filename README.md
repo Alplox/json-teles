@@ -1,6 +1,7 @@
 # Canales
 El contenido del archivo JSON es principalmente enfocado a medios audiovisuales que transmitan noticias, existen casos que rompen esta regla.
 Siendo lo importante que todo canal debe ser de acceso público y tener el enlace a su sitio oficial.
+(se actualiza de forma manual)
 
 # ¿Por qué dejar JSON en otro repositorio?
 Evitar que muera todo el repositorio en caso de querer eliminar alguna señal.
