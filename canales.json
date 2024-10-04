@@ -4,7 +4,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png",
         "señales": {
             "iframe_url": [
-                "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab"
+                "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?volume=0"
             ],
             "m3u8_url": [
                 "https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8",
@@ -197,7 +197,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Radio_Infinita_logo_2023.jpg",
         "señales": {
             "iframe_url": [
-                "https://mdstrm.com/live-stream/63a066e54ed536087960b550"
+                "https://mdstrm.com/live-stream/63a066e54ed536087960b550?volume=0"
             ],
             "m3u8_url": [
                 "https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8"
@@ -233,7 +233,7 @@
         "logo": "https://www.aeradio.cl/wp-content/uploads/2024/04/AE-RADIO-2024.png",
         "señales": {
             "iframe_url": [
-                "https://live.grupoz.cl/3e3852b5c1ea7821ab9cdfadbbe735f2?sound=0"
+                "https://live.grupoz.cl/3e3852b5c1ea7821ab9cdfadbbe735f2"
             ],
             "m3u8_url": [],
             "yt_id": "UCZNfM5NJgXg1khL1D2_80Xg",
@@ -250,7 +250,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_Radio_Carolina_2020.png",
         "señales": {
             "iframe_url": [
-                "https://mdstrm.com/live-stream/63a06468117f42713374addd"
+                "https://mdstrm.com/live-stream/63a06468117f42713374addd?volume=0"
             ],
             "m3u8_url": [
                 "https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8"
@@ -288,7 +288,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Marca-radio-romantica.jpg",
         "señales": {
             "iframe_url": [
-                "https://mdstrm.com/live-stream/63a0674c1137d408b45d4821"
+                "https://mdstrm.com/live-stream/63a0674c1137d408b45d4821?volume=0"
             ],
             "m3u8_url": [
                 "https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8"
@@ -546,7 +546,7 @@
         "logo": "https://graph.facebook.com/subelaradio/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://mdstrm.com/live-stream/6580414b99f9d36397019551"
+                "https://mdstrm.com/live-stream/6580414b99f9d36397019551?volume=0"
             ],
             "m3u8_url": [
                 "https://mdstrm.com/live-stream-playlist/6580414b99f9d36397019551.m3u8"
@@ -602,7 +602,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/4/48/Logotipo_de_TV_Chile.svg",
         "señales": {
             "iframe_url": [
-                "https://mdstrm.com/live-stream/533adcc949386ce765657d7c"
+                "https://mdstrm.com/live-stream/533adcc949386ce765657d7c?volume=0"
             ],
             "m3u8_url": [
                 "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8"
@@ -621,7 +621,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/TVN_3_2023.svg/320px-TVN_3_2023.svg.png",
         "señales": {
             "iframe_url": [
-                "https://mdstrm.com/live-stream/5653641561b4eba30a7e4929"
+                "https://mdstrm.com/live-stream/5653641561b4eba30a7e4929?volume=0"
             ],
             "m3u8_url": [
                 "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8"
@@ -640,7 +640,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Logotipo_de_NTV.svg",
         "señales": {
             "iframe_url": [
-                "https://mdstrm.com/live-stream/5aaabe9e2c56420918184c6d"
+                "https://mdstrm.com/live-stream/5aaabe9e2c56420918184c6d?volume=0"
             ],
             "m3u8_url": [
                 "https://marine2.miplay.cl/ntv/playlist.m3u8"
@@ -754,7 +754,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",
         "señales": {
             "iframe_url": [
-                "https://mdstrm.com/live-stream/5c0e8b19e4c87f3f2d3e6a59"
+                "https://mdstrm.com/live-stream/5c0e8b19e4c87f3f2d3e6a59?volume=0"
             ],
             "m3u8_url": [
                 "https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8"
@@ -1443,7 +1443,7 @@
         "logo": "https://www.ufromedios.cl/wp-content/uploads/2021/02/UFROMEDIOS-VISION-LOW-VERT.png",
         "señales": {
             "iframe_url": [
-                "https://mdstrm.com/live-stream/580a80b827de0ae2086ea6d8",
+                "https://mdstrm.com/live-stream/580a80b827de0ae2086ea6d8?volume=0",
                 "https://s02.azuracast.cl/radio/8190/ufro-clasica"
             ],
             "m3u8_url": [
@@ -2589,7 +2589,7 @@
         "logo": "https://graph.facebook.com/MultimediosCR/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://mdstrm.com/live-stream/5a7b1e63a8da282c34d65445"
+                "https://mdstrm.com/live-stream/5a7b1e63a8da282c34d65445?volume=0"
             ],
             "m3u8_url": [],
             "yt_id": "UCILU2ghO8GrOeB-zo93eYdA",
@@ -2621,7 +2621,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://mdstrm.com/live-stream/632391734be92a791e2750e6"
+                "https://mdstrm.com/live-stream/632391734be92a791e2750e6?volume=0"
             ],
             "m3u8_url": [],
             "yt_id": "UC2Xq2PK-got3Rtz9ZJ32hLQ",
