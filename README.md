@@ -968,4 +968,11 @@ Categoría "classic"
 - https://www.streamweasels.com/tools/youtube-channel-id-and-user-id-convertor/
 - https://commentpicker.com/youtube-channel-id.php
 
+# Herramientas generales
+- https://viloud.tv/hls-stream-tester/
+- https://castr.com/hlsplayer/
+- https://codepen.io/alplox/pen/xxbwrMg
+- https://iptv-org.github.io/
+
+
 [![Visits Badge](https://badges.strrl.dev/visits/Alplox/json-teles)](https://badges.strrl.dev)

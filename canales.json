@@ -7,7 +7,6 @@
                 "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?volume=0"
             ],
             "m3u8_url": [
-                "https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8",
                 "https://cl-a3-p-e-av11.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/Vhsu2zp3REyknGR4Sb3qbg/stream/fde4a5f7-bd59-4db5-915b-d0f52f687957:CBF2/variant/ccc5ea100ce22656d0073fe92b9b7cee/bandwidth/1755600.m3u8?aid=51c2f628b440bd797900051f&adInsertionGoogleStreamId=fde4a5f7-bd59-4db5-915b-d0f52f687957%3ACBF2&pid=rJUxKQ9Y52G5MGY6atGLVv7glx8brbc5&sid=pm326esjeRHB8tGdaQdr1xtl7RL9kxxd&uid=rrcNqegzH7rQFPCnY1v7Cazqmqd3ry3G&es=cl-a3-p-e-av11.cdn.mdstrm.com&ote=1726844026721&ot=RDme5sS9jpd2tEVjgNoWow&proto=https&pz=cl"
             ],
             "yt_id": "UCTXNz3gjAypWp3EhlIATEJQ",
@@ -82,11 +81,8 @@
         "nombre": "CHV Noticias",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png",
         "señales": {
-            "iframe_url": [
-                "https://rudo.video/live/chvn"
-            ],
+            "iframe_url": [],
             "m3u8_url": [
-                "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?DVR",
                 "https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8"
             ],
             "yt_id": "UCRsUoZYC1ULUspipMRnMhwg",
@@ -680,7 +676,6 @@
             ],
             "m3u8_url": [
                 "https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist.m3u8",
-                "https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/529d29eb-8117-44d3-9e21-cdfd68c3c097:MRN2/master.m3u8",
                 "https://marine2.miplay.cl/c13/index.m3u8"
             ],
             "yt_id": "UCd4D3LfXC_9MY2zSv_3gMgw",
@@ -696,11 +691,8 @@
         "nombre": "Chilevisión",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Emblema_de_Chilevisi%C3%B3n.svg",
         "señales": {
-            "iframe_url": [
-                "https://www.tvonlinechile.cl/senal-chv"
-            ],
+            "iframe_url": [],
             "m3u8_url": [
-                "https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8",
                 "https://marine2.miplay.cl/chvchile/index.m3u8"
             ],
             "yt_id": "UC8EdTmyUaFIfZvVttJ9lgIA",
