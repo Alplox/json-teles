@@ -691,14 +691,17 @@
         "nombre": "Chilevisión",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Emblema_de_Chilevisi%C3%B3n.svg",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.chilevision.cl/senal-online",
+                "https://monitortv.vercel.app/Monitores/Senal/WEB/Se%C3%B1alCHV_IFRAME"
+            ],
             "m3u8_url": [
                 "https://marine2.miplay.cl/chvchile/index.m3u8"
             ],
             "yt_id": "UC8EdTmyUaFIfZvVttJ9lgIA",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "chilevisioncl"
         },
         "sitio_oficial": "https://www.chilevision.cl/senal-online",
         "país": "cl",
@@ -2731,7 +2734,7 @@
         "categoría": "news"
     },
     "el-espectador": {
-        "nombre": "",
+        "nombre": "El Espectador",
         "logo": "https://graph.facebook.com/elespectadorcom/picture?width=800&height=800",
         "señales": {
             "iframe_url": [],
