@@ -2,13 +2,29 @@
 
 El contenido del archivo JSON es principalmente enfocado a medios audiovisuales que transmitan noticias, existen casos que rompen esta regla.
 Siendo lo importante que todo canal debe ser de acceso público y tener el enlace a su sitio oficial.
+
 (se actualiza de forma manual)
+
+Formato JSON:
+``
+https://raw.githubusercontent.com/Alplox/json-teles/refs/heads/main/canales.json
+``
+
+Formato M3U:
+``
+https://raw.githubusercontent.com/Alplox/json-teles/refs/heads/main/canales.m3u
+``
 
 ## ¿Por qué dejar JSON en otro repositorio?
 
 Evitar que muera todo el repositorio en caso de querer eliminar alguna señal.
 
 [[Repositorio original (RIP)]](https://github.com/Alplox/tele)
+
+## Convertir JSON a M3U
+
+[https://alplox.github.io/json-teles/](https://alplox.github.io/json-teles/)
+
 
 ## Canales disponibles junto a su origen
 
@@ -1031,5 +1047,6 @@ Categoría "classic"
 - <https://castr.com/hlsplayer/>
 - <https://codepen.io/alplox/pen/xxbwrMg>
 - <https://iptv-org.github.io/>
+- <https://alplox.github.io/json-teles/>
 
 [![Visits Badge](https://badges.strrl.dev/visits/Alplox/json-teles)](https://badges.strrl.dev)
