@@ -1,17 +1,18 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Convierte listas JSON de canales en archivos .M3U fácilmente.">
-  <title>Convertidor JSON a .M3U</title>
+  <title>🧾 Convertidor .JSON a .M3U</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <script>
     try {
       if (localStorage.getItem('darkmode') === 'true') {
         document.documentElement.classList.add('darkmode-preload');
       }
-    } catch(e) {}
+    } catch (e) { }
   </script>
   <style>
     body {
@@ -20,9 +21,12 @@
       font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
       transition: background 0.3s;
     }
-    body.darkmode, .darkmode-preload body {
+
+    body.darkmode,
+    .darkmode-preload body {
       background: linear-gradient(135deg, #18181b 0%, #312e81 100%);
     }
+
     .deluxe-card {
       background: #fff;
       border-radius: 2rem;
@@ -32,14 +36,17 @@
       margin: 2rem auto;
       transition: box-shadow 0.3s, background 0.3s;
     }
+
     .darkmode-preload .deluxe-card {
       background: #23233a;
       box-shadow: 0 8px 32px rgba(30, 30, 60, 0.22);
     }
+
     body.darkmode .deluxe-card {
       background: #23233a;
       box-shadow: 0 8px 32px rgba(30, 30, 60, 0.22);
     }
+
     .deluxe-title {
       font-weight: 800;
       font-size: 2.3rem;
@@ -48,57 +55,69 @@
       margin-bottom: 0.5rem;
       transition: color 0.3s;
     }
+
     .darkmode-preload .deluxe-title {
       color: #f3f4f6;
     }
+
     body.darkmode .deluxe-title {
       color: #f3f4f6;
     }
+
     .deluxe-desc {
       font-size: 1.1rem;
       color: #6b7280;
       margin-bottom: 2rem;
       transition: color 0.3s;
     }
+
     .darkmode-preload .deluxe-desc {
       color: #a5b4fc;
     }
+
     body.darkmode .deluxe-desc {
       color: #a5b4fc;
     }
+
     .deluxe-btn {
       font-size: 1.1rem;
       border-radius: 1.5rem;
       padding: 0.75rem 2rem;
-      box-shadow: 0 2px 8px rgba(60,60,120,0.08);
+      box-shadow: 0 2px 8px rgba(60, 60, 120, 0.08);
       transition: background 0.2s, box-shadow 0.2s, transform 0.15s;
       font-weight: 600;
       letter-spacing: 0.02em;
       border: none;
     }
+
     .deluxe-btn:active {
       transform: scale(0.98);
     }
+
     .btn-primary.deluxe-btn {
       background: linear-gradient(90deg, #4f46e5 0%, #6366f1 100%);
       color: #fff;
       border: none;
-      text-shadow: 0 1px 2px rgba(60,60,120,0.18);
+      text-shadow: 0 1px 2px rgba(60, 60, 120, 0.18);
     }
+
     .btn-primary.deluxe-btn:hover {
       background: linear-gradient(90deg, #6366f1 0%, #818cf8 100%);
       color: #fff;
     }
+
     .btn-success.deluxe-btn {
       background: linear-gradient(90deg, #16a34a 0%, #22c55e 100%);
       color: #fff;
       border: none;
-      text-shadow: 0 1px 2px rgba(60,60,120,0.18);
+      text-shadow: 0 1px 2px rgba(60, 60, 120, 0.18);
     }
+
     .btn-success.deluxe-btn:hover {
       background: linear-gradient(90deg, #22c55e 0%, #16a34a 100%);
       color: #fff;
     }
+
     .btn-warning.deluxe-btn {
       background: linear-gradient(90deg, #fbbf24 0%, #f59e42 100%);
       color: #3b3b5c;
@@ -106,84 +125,108 @@
       text-shadow: none;
       font-weight: 700;
     }
+
     .btn-warning.deluxe-btn:hover {
       background: linear-gradient(90deg, #f59e42 0%, #fbbf24 100%);
       color: #23233a;
     }
-    .btn-outline-primary.deluxe-btn, .btn-outline-primary {
+
+    .btn-outline-primary.deluxe-btn,
+    .btn-outline-primary {
       background: #fff;
       color: #6366f1;
       border: 2px solid #6366f1;
       font-weight: 700;
       text-shadow: none;
     }
-    .btn-outline-primary.deluxe-btn:hover, .btn-outline-primary:hover {
+
+    .btn-outline-primary.deluxe-btn:hover,
+    .btn-outline-primary:hover {
       background: #6366f1;
       color: #fff;
     }
+
     .deluxe-textarea {
       border-radius: 1.2rem;
       font-size: 1rem;
       background: #f3f4f6;
       border: 1px solid #e5e7eb;
-      box-shadow: 0 1px 4px rgba(60,60,120,0.04);
+      box-shadow: 0 1px 4px rgba(60, 60, 120, 0.04);
       transition: box-shadow 0.2s, background 0.3s, color 0.3s, border 0.3s;
       color: #23233a;
     }
+
     .deluxe-textarea:focus {
-      box-shadow: 0 2px 8px rgba(60,60,120,0.10);
+      box-shadow: 0 2px 8px rgba(60, 60, 120, 0.10);
       border-color: #6366f1;
       background: #eef2ff;
     }
+
     .darkmode-preload .deluxe-textarea {
       background: #23233a;
       color: #f3f4f6;
       border: 1px solid #6366f1;
     }
+
     body.darkmode .deluxe-textarea {
       background: #23233a;
       color: #f3f4f6;
       border: 1px solid #6366f1;
     }
+
     #output.deluxe-textarea {
       background: #fdf6e3;
       border: 1px solid #fbbf24;
       color: #3b3b5c;
       font-weight: 500;
     }
+
     .darkmode-preload #output.deluxe-textarea {
       background: #312e81;
       border: 1px solid #818cf8;
       color: #f3f4f6;
     }
+
     body.darkmode #output.deluxe-textarea {
       background: #312e81;
       border: 1px solid #818cf8;
       color: #f3f4f6;
     }
+
     #spinner {
       animation: fadeIn 0.5s;
       display: none;
     }
+
     @keyframes fadeIn {
-      from { opacity: 0; }
-      to { opacity: 1; }
+      from {
+        opacity: 0;
+      }
+
+      to {
+        opacity: 1;
+      }
     }
+
     .deluxe-label {
       font-weight: 600;
       color: #6366f1;
       margin-bottom: 0.3rem;
       transition: color 0.3s;
     }
+
     .darkmode-preload .deluxe-label {
       color: #a5b4fc;
     }
+
     body.darkmode .deluxe-label {
       color: #a5b4fc;
     }
+
     .deluxe-section {
       margin-bottom: 1.5rem;
     }
+
     .darkmode-toggle {
       position: absolute;
       top: 32px;
@@ -191,7 +234,7 @@
       z-index: 10;
       background: #fff;
       border-radius: 2rem;
-      box-shadow: 0 2px 8px rgba(60,60,120,0.10);
+      box-shadow: 0 2px 8px rgba(60, 60, 120, 0.10);
       padding: 0.4rem 1.2rem;
       font-size: 1.1rem;
       font-weight: 600;
@@ -200,73 +243,213 @@
       cursor: pointer;
       transition: background 0.2s, color 0.2s;
     }
+
     .darkmode-toggle:hover {
       background: #6366f1;
       color: #fff;
     }
+
     .darkmode-preload .darkmode-toggle {
       background: #23233a;
       color: #a5b4fc;
     }
+
     .darkmode-preload .darkmode-toggle:hover {
       background: #818cf8;
       color: #23233a;
     }
+
     body.darkmode .darkmode-toggle {
       background: #23233a;
       color: #a5b4fc;
     }
+
     body.darkmode .darkmode-toggle:hover {
       background: #818cf8;
       color: #23233a;
     }
+
     body.darkmode ::placeholder,
     .darkmode-preload ::placeholder {
       color: #a5b4fc !important;
       opacity: 1;
     }
+
+    /* Guía JSON */
+    #jsonGuide {
+      font-family: monospace;
+      background: #f3f4f6;
+      border: 1px solid #e5e7eb;
+      border-radius: 1.2rem;
+      padding: 1rem;
+      margin-top: 2rem;
+      color: #23233a;
+      font-size: 0.9rem;
+      line-height: 1.4;
+    }
+
+    .darkmode-preload #jsonGuide,
+    body.darkmode #jsonGuide {
+      background: #23233a;
+      border: 1px solid #6366f1;
+      color: #a5b4fc;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: separate;
+      border-spacing: 0 0.5rem;
+      font-size: 0.95rem;
+      color: #3b3b5c;
+      font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+    }
+
+    thead tr {
+      background: #6366f1;
+      color: white;
+      font-weight: 600;
+      border-radius: 1.5rem;
+    }
+
+    thead th {
+      padding: 0.75rem 1rem;
+      text-align: left;
+    }
+
+    tbody tr {
+      background: #f3f4f6;
+      box-shadow: 0 1px 4px rgba(60, 60, 120, 0.1);
+      border-radius: 1.2rem;
+      transition: background 0.3s, box-shadow 0.3s;
+    }
+
+    tbody tr:hover {
+      background: #e0e7ff;
+      box-shadow: 0 4px 12px rgba(60, 60, 120, 0.15);
+    }
+
+    tbody td {
+      padding: 0.65rem 1rem;
+      vertical-align: middle;
+    }
+
+    /* Quitar bordes dobles en separación (dejar bordes redondeados) */
+    tbody tr td:first-child {
+      border-top-left-radius: 1.2rem;
+      border-bottom-left-radius: 1.2rem;
+    }
+
+    tbody tr td:last-child {
+      border-top-right-radius: 1.2rem;
+      border-bottom-right-radius: 1.2rem;
+    }
+
+    /* Modo oscuro */
+    body.darkmode table {
+      color: #f3f4f6;
+    }
+
+    body.darkmode thead tr {
+      background: #818cf8;
+      color: #23233a;
+    }
+
+    body.darkmode tbody tr {
+      background: #2c2c4a;
+      box-shadow: 0 1px 4px rgba(100, 100, 180, 0.3);
+    }
+
+    body.darkmode tbody tr:hover {
+      background: #3b3b66;
+      box-shadow: 0 4px 12px rgba(100, 100, 180, 0.5);
+    }
+
+
     #opcionesAvanzadas {
       animation: fadeIn 0.4s;
     }
+
     #toggleOpcionesBtn {
       margin-bottom: 0.5rem;
       font-size: 1rem;
       font-weight: 600;
       border-radius: 1.2rem;
-      box-shadow: 0 1px 4px rgba(60,60,120,0.04);
+      box-shadow: 0 1px 4px rgba(60, 60, 120, 0.04);
       transition: background 0.2s, color 0.2s;
     }
+
     #toggleOpcionesBtn:focus {
       outline: 2px solid #6366f1;
     }
+
     body.darkmode #toggleOpcionesBtn {
       background: #23233a;
       color: #a5b4fc;
       border: 1px solid #6366f1;
     }
+
     body.darkmode #toggleOpcionesBtn:hover {
+      background: #818cf8;
+      color: #23233a;
+    }
+
+    .floating-button {
+      position: absolute;
+      top: 80px;
+      /* Justo debajo del botón de modo oscuro */
+      right: 32px;
+      z-index: 10;
+      background: #fff;
+      border-radius: 2rem;
+      box-shadow: 0 2px 8px rgba(60, 60, 120, 0.10);
+      padding: 0.4rem 1.2rem;
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: #6366f1;
+      border: none;
+      cursor: pointer;
+      transition: background 0.2s, color 0.2s;
+    }
+
+    .floating-button:hover {
+      background: #6366f1;
+      color: #fff;
+    }
+
+    body.darkmode .floating-button {
+      background: #23233a;
+      color: #a5b4fc;
+    }
+
+    body.darkmode .floating-button:hover {
       background: #818cf8;
       color: #23233a;
     }
   </style>
 </head>
+
 <body class="bg-light">
   <main>
     <div class="deluxe-card">
       <header>
         <h1 class="deluxe-title text-center">🧾 Convertidor .JSON a .M3U</h1>
         <p class="deluxe-desc text-center">
-          Este sitio solo funciona con archivos JSON que sigan el formato del repositorio <a href="https://github.com/Alplox/json-teles" target="_blank" rel="noopener">json-teles</a> y/o variaciones compatibles. Si tu archivo no sigue ese formato, la conversión puede fallar.
+          Este sitio solo funciona con archivos JSON que sigan el formato del repositorio <a
+            href="https://github.com/Alplox/json-teles" target="_blank" rel="noopener">json-teles</a> y/o variaciones
+          compatibles. Si tu archivo no sigue ese formato, la conversión puede fallar.
         </p>
       </header>
       <section aria-label="Cargar lista por defecto" class="deluxe-section">
-        <button class="btn btn-secondary deluxe-btn w-100" id="cargarPorDefectoBtn">📂 Cargar lista por defecto</button>
+        <button class="btn btn-secondary deluxe-btn w-100" id="cargarPorDefectoBtn">📂 Cargar URL canales desde
+          json-teles</button>
       </section>
-      <button class="btn btn-outline-primary w-100 mb-3" id="toggleOpcionesBtn" type="button">Opciones avanzadas ▼</button>
+      <button class="btn btn-outline-primary w-100 mb-3" id="toggleOpcionesBtn" type="button">Opciones avanzadas
+        ▼</button>
       <div id="opcionesAvanzadas" style="display:none;">
         <section aria-label="Entrada desde URL" class="deluxe-section">
           <label for="urlInput" class="deluxe-label">🌐 Pegar URL de JSON (opcional):</label>
-          <input type="text" class="form-control deluxe-textarea" id="urlInput" placeholder="https://raw.githubusercontent.com/.../canales.json">
+          <input type="text" class="form-control deluxe-textarea" id="urlInput"
+            placeholder="https://raw.githubusercontent.com/.../canales.json">
           <button class="btn btn-primary deluxe-btn mt-2 w-100" id="cargarDesdeURLBtn">Cargar desde URL</button>
         </section>
         <section aria-label="Carga desde archivo" class="deluxe-section">
@@ -283,7 +466,8 @@
         <button class="btn btn-primary deluxe-btn w-100 mb-2" id="convertirBtn">Transformar a .M3U</button>
         <div class="d-flex gap-2">
           <button class="btn btn-success deluxe-btn d-none flex-fill" id="copiarBtn">📋 Copiar Resultado</button>
-          <a class="btn btn-warning deluxe-btn d-none flex-fill" id="descargarBtn" download="lista.m3u">⬇️ Descargar Resultado</a>
+          <a class="btn btn-warning deluxe-btn d-none flex-fill" id="descargarBtn" download="lista.m3u">⬇️ Descargar
+            Resultado</a>
         </div>
       </nav>
       <section aria-live="polite" id="estadoCanales" class="mb-4 text-success fw-semibold"></section>
@@ -297,6 +481,114 @@
         </div>
         <div class="text-muted mt-2">Cargando archivo JSON...</div>
       </div>
+
+      <section id="jsonGuide" aria-label="Guía rápida estructura JSON">
+        <h2>Guía rápida de la estructura JSON</h2>
+        <p>El JSON debe tener la siguiente estructura para cada canal:</p>
+        <pre><code>
+{
+  "noticiero-generico-id": {
+    "nombre": "noticiero genérico",
+    "logo": "https://logo.png",
+    "señales": {
+      "iframe_url": [
+        "https://...",
+        "https://..."
+      ],
+      "m3u8_url": [
+        "https://....m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.sitio-noticiero.com/envivo/",
+    "país": "cl",
+    "categoría": "news"
+  }
+}
+</code></pre>
+      </section>
+      <table>
+        <thead>
+          <tr>
+            <th>Campo</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><code>noticiero-generico-id</code></td>
+            <td>string</td>
+            <td>ID único del canal, en minúsculas y con guiones.</td>
+          </tr>
+          <tr>
+            <td><code>nombre</code></td>
+            <td>string</td>
+            <td>Nombre del canal.</td>
+          </tr>
+          <tr>
+            <td><code>logo</code></td>
+            <td>string</td>
+            <td>URL del logo (PNG, SVG, JPG...)</td>
+          </tr>
+          <tr>
+            <td><code>señales</code></td>
+            <td>object</td>
+            <td>URLs de las señales del canal.</td>
+          </tr>
+          <tr>
+            <td><code>iframe_url</code></td>
+            <td>array</td>
+            <td>Embeds o sitios con reproductores del canal.</td>
+          </tr>
+          <tr>
+            <td><code>m3u8_url</code></td>
+            <td>array</td>
+            <td>Solo enlaces HLS terminados en <code>.m3u8</code>.</td>
+          </tr>
+          <tr>
+            <td><code>yt_id</code></td>
+            <td>string</td>
+            <td>ID del canal de YouTube.</td>
+          </tr>
+          <tr>
+            <td><code>yt_embed</code></td>
+            <td>string</td>
+            <td>URL de YouTube embebida.</td>
+          </tr>
+          <tr>
+            <td><code>yt_playlist</code></td>
+            <td>string</td>
+            <td>ID de una playlist de YouTube.</td>
+          </tr>
+          <tr>
+            <td><code>twitch_id</code></td>
+            <td>string</td>
+            <td>ID de canal de Twitch.</td>
+          </tr>
+          <tr>
+            <td><code>sitio_oficial</code></td>
+            <td>string</td>
+            <td>Enlace al sitio oficial del canal.</td>
+          </tr>
+          <tr>
+            <td><code>país</code></td>
+            <td>string</td>
+            <td>Código ISO 3166 (en minúscula).</td>
+          </tr>
+          <tr>
+            <td><code>categoría</code></td>
+            <td>string</td>
+            <td>Compatible con <a href="https://iptv-org.github.io/api/categories.json" target="_blank">iptv-org</a>.
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <button id="pageToggle" class="floating-button" aria-label="Cambiar de vista">Ir a 🗂️ Organizador de
+        canales</button>
       <button class="darkmode-toggle" id="darkmodeToggle" title="Cambiar modo claro/oscuro">🌙 Modo oscuro</button>
     </div>
   </main>
@@ -319,6 +611,16 @@
       const darkmodeToggle = document.getElementById('darkmodeToggle');
       const toggleOpcionesBtn = document.getElementById('toggleOpcionesBtn');
       const opcionesAvanzadas = document.getElementById('opcionesAvanzadas');
+
+      document.getElementById('pageToggle').addEventListener('click', () => {
+        const currentUrl = window.location.href;
+
+        if (currentUrl.includes('index.html')) {
+          window.location.href = 'organizador.html';
+        } else {
+          window.location.href = 'index.html';
+        }
+      });
 
       fileInput.addEventListener('change', (event) => {
         const file = event.target.files[0];
@@ -513,4 +815,5 @@
     });
   </script>
 </body>
+
 </html>

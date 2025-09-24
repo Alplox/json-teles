@@ -1,8 +1,11 @@
-Enlaces [iframe] rudo video se puede añadir al final ?autoplay
+Enlaces [iframe_url] rudo video se puede añadir al final ?autoplay
     Ejemplo: https://rudo.video/live/CANAL?autoplay
 
-Enlaces [iframe] dailymotion se puede añadir al final &autoplay=true&volume=0
+Enlaces [iframe_url] dailymotion se puede añadir al final &autoplay=true&volume=0
     Ejemplo: https://geo.dailymotion.com/player/x5poh.html?video=CANAL&autoplay=true&volume=0
 
-Enlaces [iframe] mdstrm se puede añadir al final ?jsapi=true&autostart=true&volume=0 (solo en algunos casos particulares)
+Enlaces [iframe_url] mdstrm se puede añadir al final ?jsapi=true&autostart=true&volume=0 (solo en algunos casos particulares)
     Ejemplo: https://mdstrm.com/live-stream/CANAL?jsapi=true&autostart=true&volume=0
+
+Enlaces [m3u8_url] v2.tustreaming pueden ser transformados a [iframe_url] añadiendo id CANAL a enlace videoplayer
+    Ejemplo: https://v2.tustreaming.cl/CANAL/index.m3u8 -> https://v2.tustreaming.cl:2000/VideoPlayer/CANAL

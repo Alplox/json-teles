@@ -33,43 +33,53 @@ Evitar que muera todo el repositorio en caso de querer eliminar alguna señal.
 <summary>Canales por País 🌐</summary>
 
 Canales "Chile"
-
 - [24 horas](https://www.24horas.cl/envivo/) [news]
 - [Meganoticias](https://www.mega.cl/) [news]
 - [T13](https://www.t13.cl/en-vivo) [news]
 - [CNN Chile](https://www.cnnchile.com/page/en-vivo/) [news]
 - [CHV Noticias](https://www.chvnoticias.cl/senal-online/) [news]
 - [El Mostrador](https://www.elmostrador.cl/) [news]
-- [Radio Cooperativa](http://programas.cooperativa.cl/showalairelibre/) [radio]
-- [Radio Biobio TV](https://www.biobiochile.cl/biobiotv/) [radio]
-- [Radio ADN](https://www.adnradio.cl/noticias/videos/) [radio]
-- [Radio Duna](https://www.duna.cl/tv/) [radio]
-- [Radio Infinita](http://www.infinita.cl/home/) [radio]
-- [Radio Universo](https://www.universo.cl/) [radio]
-- [Radio AE Radio DuocUC](https://www.aeradio.cl/) [radio]
-- [Radio Carolina TV](https://www.carolina.cl/tv/) [radio]
-- [Radio Carolina 2 TV](https://www.carolina.cl/carolina2/) [radio]
-- [Radio Romántica TV](https://www.romantica.cl/romantica-tv/) [radio]
-- [Radio Genial 100.5 FM](https://radiogenial.cl/) [radio]
-- [Radio La Clave](https://radiolaclave.cl/) [radio]
-- [Radio El Conquistador FM](https://www.elconquistadorfm.net/) [radio]
-- [Radio Folclor de Chile](https://radiofolclordechile.cl/) [radio]
-- [Radio El Sembrador](https://tv.radioelsembrador.cl/) [radio]
-- [Radio Ñuble 89.7 FM](https://radionuble.cl/v1/) [radio]
-- [Radio Alternativa FM (Huasco)](https://www.alternativafm.cl/p/alternativa-tv.html) [radio]
-- [Radio Universidad de Chile](https://radio.uchile.cl/) [radio]
-- [Tele13 Radio](https://tele13radio.cl/) [radio]
-- [La MetroFM](https://lametrofm.cl/) [radio]
-- [AGRICULTURA TV](https://www.radioagricultura.cl/en-vivo-3/) [radio]
-- [¡Llegó la hora!](https://www.radioagricultura.cl/podcast_programas/llego-la-hora/) [radio]
+- [Radio Cooperativa](http://programas.cooperativa.cl/showalairelibre/) [music]
+- [Radio Biobio TV](https://www.biobiochile.cl/biobiotv/) [music]
+- [Radio ADN](https://www.adnradio.cl/noticias/videos/) [music]
+- [Radio Duna](https://www.duna.cl/tv/) [music]
+- [Radio Infinita](http://www.infinita.cl/home/) [music]
+- [Radio Universo](https://www.universo.cl/) [music]
+- [Radio AE Radio DuocUC](https://www.aeradio.cl/) [music]
+- [Radio Carolina TV](https://www.carolina.cl/tv/) [music]
+- [Radio Carolina 2 TV](https://www.carolina.cl/carolina2/) [music]
+- [Radio Romántica TV](https://www.romantica.cl/romantica-tv/) [music]
+- [Radio Genial 100.5 FM](https://radiogenial.cl/) [music]
+- [Radio La Clave](https://radiolaclave.cl/) [music]
+- [Radio El Conquistador FM](https://www.elconquistadorfm.net/) [music]
+- [Radio Folclor de Chile](https://radiofolclordechile.cl/) [music]
+- [Radio El Sembrador](https://tv.radioelsembrador.cl/) [music]
+- [Radio Ñuble 89.7 FM](https://radionuble.cl/v1/) [music]
+- [Radio Alternativa FM (Huasco)](https://www.alternativafm.cl/p/alternativa-tv.html) [music]
+- [Radio Universidad de Chile](https://radio.uchile.cl/) [music]
+- [Tele13 Radio](https://tele13radio.cl/) [music]
+- [La MetroFM](https://lametrofm.cl/) [music]
+- [AGRICULTURA TV](https://www.radioagricultura.cl/en-vivo-3/) [music]
+- [¡Llegó la hora!](https://www.radioagricultura.cl/podcast_programas/llego-la-hora/) [music]
+- [La nuestra](https://www.lanuestra.cl/) [music]
+- [Súbela Radio](https://www.subela.cl/) [music]
+- [Pauta](https://www.pauta.cl/) [music]
 - [TVN](https://www.youtube.com/channel/UCaVaCaiG6qRzDiJDuEGKOhQ) [general]
+- [TV Chile](https://www.tvn.cl/tvchile/envivo) [general]
 - [TVN 3](https://www.tvn.cl/tvn3) [culture]
+- [NTV](https://www.tvn.cl/ntv) [culture]
 - [Mega](https://www.mega.cl/) [general]
 - [Canal 13](https://www.13.cl/en-vivo) [general]
 - [Chilevisión](https://www.chilevision.cl/senal-online) [general]
 - [La Red](https://www.lared.cl/senal-online) [general]
 - [Stgo.TV](https://www.santiagotelevision.cl/) [general]
 - [TV+](https://www.tvmas.tv/) [general]
+- [13 Cultura](https://www.13.cl/c) [culture]
+- [13 Entretención](https://www.13.cl/) [entertainment]
+- [13 Festival](https://www.13.cl/) [music]
+- [13 Realities](https://www.13.cl/) [entertainment]
+- [13 Teleseries](https://www.13.cl/) [entertainment]
+- [13 Pop](https://www.13.cl/) [entertainment]
 - [La Voz De Los Que Sobran](https://lavozdelosquesobran.cl/) [general]
 - [Puranoticia TV](https://puranoticia.pnt.cl/) [general]
 - [Holvoet TV](https://holvoet.cl/en-vivo/) [general]
@@ -92,7 +102,62 @@ Canales "Chile"
 - [Osorno TV+](https://www.osornotv.cl/envivo.html) [general]
 - [Copano](https://copano.news/) [news]
 - [Zona Latina](https://zonalatinatv.com/) [general]
-- [Real TV Chile](https://www.youtube.com/channel/) [general]
+- [UTalcaTV (U. de Talca)](https://tv.utalca.cl) [general]
+- [TV UCT (U. Católica de Temuco)](https://www.tvuct.cl/) [general]
+- [UA TV (U. Autonoma)](https://uatv.cl/) [general]
+- [UMAG TV (U. de Magallanes)](https://www.umagtv.cl/) [general]
+- [UMAG TV 2 (U. de Magallanes)](https://www.umagtv.cl/blank-2) [general]
+- [UESTV](https://www.uestv.cl/) [general]
+- [U de Chile TV](https://uchile.cl/uchiletv) [general]
+- [UfroMedios](https://www.ufromedios.cl/programacion-ufrovision/) [general]
+- [ULagosTV (U. de los Lagos)](https://www.ulagos.cl/) [general]
+- [Real TV Chile](https://www.youtube.com/@RealTVChile-PorLaLibertad) [general]
+- [Arica TV](https://arica.tv/) [general]
+- [RTC Television](https://www.rtctelevision.cl/) [general]
+- [LRP Television](https://www.lrptelevision.com/) [general]
+- [Huasco Television](https://www.huascotelevisionstreaming.cl/) [general]
+- [Mi Radio TV](https://miradiotv.cl/) [general]
+- [America TV](https://radioamerica.cl/) [general]
+- [Radio America TV](https://radioamerica.cl/radio-tv-online/) [general]
+- [TV Costa](https://tvcosta.cl) [general]
+- [Canal Local Quillota](https://www.canallocal.cl) [general]
+- [Marga Marga TV](https://margamargatv.cl) [general]
+- [VTV Quillota](https://www.diariovtv.cl/) [general]
+- [Frecuencia 7](https://www.frecuencia7tv.cl) [general]
+- [Buin Somos Todos](https://www.buin.cl/) [general]
+- [La Granja TV](https://www.lagranja.tv) [general]
+- [laGranja FM 107.3](https://www.lagranja.tv) [music]
+- [Caracola TV La Florida](https://www.caracolatv.cl) [general]
+- [Suyai TV](https://suyaitv.cl/) [general]
+- [Vision Plus TV Melipilla](https://www.visionplustv.cl) [general]
+- [Unetev Talagante](https://www.unetev.cl) [general]
+- [ISB San Bernardo](https://www.canalisb.cl) [general]
+- [TVO San Vicente](https://www.tvosanvicente.cl) [general]
+- [Sextavision](https://sextavision.cl) [general]
+- [Radio Graneros TV](https://www.radiograneros.cl) [music]
+- [Pichilemu TV](https://pichilemutv.org) [general]
+- [TV5 Linares](https://www.tv5.cl/) [general]
+- [Canal TV8 Concepcion](https://www.canaltv8.cl/) [general]
+- [Concepcion TV](https://www.concepciontv.cl/) [general]
+- [Exprezion TV](https://www.exprezion.cl/) [general]
+- [Club TV Santa Juana](https://www.clubtv.cl/) [general]
+- [TeleAngol](https://www.teleangol.cl/) [general]
+- [Temuco Television](https://temucotelevision.cl/) [general]
+- [Pucon TV](https://www.pucontv.com/) [general]
+- [Lanco TV](https://lancotelevision.cl/) [general]
+- [Canal 5 Pto. Montt](https://canal5.cl/) [general]
+- [Cronicas del Sur TV](https://cronicasdelsur.cl/) [general]
+- [T-Vinet Digital](https://tvinet.cl/) [general]
+- [Inter Radio TV Frutillar](https://www.interradio1.net/) [general]
+- [Aysen TV](https://www.aysen.tv/) [general]
+- [Canal 11 Aysen](https://canal11aysen.cl/) [general]
+- [Canal Sur Patagonia](https://www.canalsurpatagonia.cl/) [general]
+- [Panoramica Informativa](https://panoramicaysen.cl/) [general]
+- [Radio Magallanes](https://www.radiomagallanes.cl/) [general]
+- [Radio Presidente Ibañez](https://www.radiopresidenteibanez.cl/) [general]
+- [Polar TV](https://radiopolar.com/) [general]
+- [Soberania TV](https://www.soberaniaradio.cl/) [general]
+- [Sur TV](https://www.surtv.cl/) [general]
 - [Canal 2 San Antonio](https://cablenoticias.cl/san-antonio-en-vivo) [general]
 - [Canal 2 Quellón](https://www.canal2quellon.cl/) [general]
 - [Iquique TV](https://iquiquetv.cl/senal-online/) [general]
@@ -106,17 +171,16 @@ Canales "Chile"
 - [Tribunal Constitucional](https://www2.tribunalconstitucional.cl/) [legislative]
 - [Poder Judicial](https://www.poderjudicialtv.cl/) [legislative]
 - [Cámara Diputados](http://www.cdtv.cl/) [legislative]
-- [Nuevas Comunicaciones](https://www.youtube.com/channel/UCMvQGOyumsXP4V7dGAdIKWg) [camera]
-- [Marejadas UV](https://marejadas.uv.cl/) [camera]
-- [Ledrium](https://www.goledrium.cl/) [camera]
-- [Galería CIMA](https://galeriacima.cl/) [camera]
-- [Halcón Parquemet, Cumbre](https://halcon.parquemet.cl/index.html) [camera]
-- [Halcón Parquemet, Terraza](https://halcon.parquemet.cl/index.html) [camera]
-- [Municipalidad Osorno](https://www.municipalidadosorno.cl/) [camera]
+- [Nuevas Comunicaciones](https://www.youtube.com/channel/UCMvQGOyumsXP4V7dGAdIKWg) [outdoor]
+- [Marejadas UV](https://marejadas.uv.cl/) [outdoor]
+- [Ledrium](https://www.goledrium.cl/) [outdoor]
+- [Galería CIMA](https://galeriacima.cl/) [outdoor]
+- [Halcón Parquemet, Cumbre](https://halcon.parquemet.cl/index.html) [outdoor]
+- [Halcón Parquemet, Terraza](https://halcon.parquemet.cl/index.html) [outdoor]
+- [Municipalidad Osorno](https://www.municipalidadosorno.cl/) [outdoor]
 - [Portal Foxmix Chile](https://www.portalfoxmix.cl/tv/) [music]
 
 Canales "Argentina"
-
 - [Todonoticias](https://tn.com.ar/envivo/24hs/) [news]
 - [C5N](https://www.c5n.com/vivo) [news]
 - [Net TV](https://www.canalnet.tv/page/senal-en-vivo) [news]
@@ -135,47 +199,45 @@ Canales "Argentina"
 - [El Destape](https://www.eldestapeweb.com/) [news]
 - [DNews](https://www.youtube.com/channel/UC4dWvSKVWJ36tJyhjDQCCaQ) [news]
 - [Cadena 3 Argentina](https://www.cadena3.com/) [news]
-- [Radio Mitre](https://radiomitre.cienradios.com/) [radio]
-- [Radio De la Azotea](https://www.youtube.com/channel/) [radio]
-- [Radio Nihuil](https://www.radionihuil.com.ar/) [radio]
-- [Pop Radio 101.5](https://www.radiopop.fm/) [radio]
-- [Radio10](https://www.radio10.com.ar/) [radio]
-- [Urbana Play 104.3 FM](https://urbanaplayfm.com/) [radio]
-- [FMVale975](https://radiovale.fm/) [radio]
+- [Radio Mitre](https://radiomitre.cienradios.com/) [music]
+- [Radio De la Azotea](http://www.radiodelaazotea.com.ar) [music]
+- [Radio Nihuil](https://www.radionihuil.com.ar/) [music]
+- [Pop Radio 101.5](https://www.radiopop.fm/) [music]
+- [Radio10](https://www.radio10.com.ar/) [music]
+- [Urbana Play 104.3 FM](https://urbanaplayfm.com/) [music]
+- [FMVale975](https://radiovale.fm/) [music]
 - [El Siete TV](https://www.elsietetv.com.ar/) [general]
 - [EXTRA TV VIVO](https://www.canalextra.com.ar/) [general]
 - [BREAK POINT](https://www.youtube.com/channel/UC_49ElhhVd1BO7MsdBPm77Q) [general]
 - [Extratv](https://www.canalextra.com.ar/) [general]
-- [Ushuaia Live](https://www.youtube.com/channel/UC6NTD1HmdaZMbe9K5qADOvw) [camera]
-- [FourSeasons BuenosAires](https://www.youtube.com/channel/UCCkRwmztPEvut3gpsgmCmzw) [camera]
-- [SISE Argentina](https://siseargentina.com/camaras-en-vivo/) [camera]
-- [Radio One 103.7](https://www.radioone1037.fm/) [radio]
+- [Ushuaia Live](https://www.youtube.com/channel/UC6NTD1HmdaZMbe9K5qADOvw) [outdoor]
+- [FourSeasons BuenosAires](https://www.youtube.com/channel/UCCkRwmztPEvut3gpsgmCmzw) [outdoor]
+- [SISE Argentina](https://siseargentina.com/camaras-en-vivo/) [outdoor]
+- [Radio One 103.7](https://www.radioone1037.fm/) [music]
 - [Carburando](https://www.carburando.com/) [auto]
 
 Canales "Bolivia"
-
 - [Unitel Bolivia](https://television.unitel.bo/vivo) [news]
 - [RTP BOLIVIA](https://rtpbolivia.com.bo/) [news]
 - [Noticias Bolivisión Al Día](https://www.redbolivision.tv.bo/envivo-canal-5/) [news]
 - [Red Uno](https://www.reduno.com.bo/) [general]
+- [Bolivia TV 7.2](https://www.boliviatv.bo/) [general]
+- [Bolivision](https://www.redbolivision.tv.bo/) [general]
 - [Bolivia Al aire TV](https://boliviaalairetv.com/) [culture]
 - [Gogoplaytv](https://www.gogoplaytv.com/) [entertainment]
 
 Canales "Brasil"
-
 - [Record News](https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw) [news]
 - [REDE BRASIL OFICIAL](https://tv.redebrasiloficial.com.br/) [news]
 - [UOL](https://www.uol.com.br/) [news]
 - [TV Fórum](https://revistaforum.com.br/) [news]
 - [TV 247](https://www.brasil247.com/) [news]
-- [BRADO](https://www.bradojornal.com/) [radio]
+- [BRADO](https://www.bradojornal.com/) [music]
 
 Canales "Costa Rica"
-
 - [Multimedios Costa Rica](https://www.telediario.cr/television) [news]
 
 Canales "Colombia"
-
 - [EL TIEMPO](https://www.eltiempo.com/) [news]
 - [Noticias Caracol](https://www.noticiascaracol.com/ahora) [news]
 - [LA FM Colombia](https://www.lafm.com.co/) [news]
@@ -185,18 +247,19 @@ Canales "Colombia"
 - [La Q Digital](https://www.youtube.com/channel/UCNCwZcHiMq-hiKUifqVgWLQ) [news]
 - [CNC CHOCÓ](https://www.youtube.com/channel/UC1y9xnPuEvaPCqwJTFDr-8Q) [news]
 - [Tercer Canal](https://www.youtube.com/channel/UCH0qX_eG0lDi00plxvidu7g) [news]
-- [](https://www.elespectador.com/) [news]
+- [El Espectador](https://www.elespectador.com/) [news]
 - [Nos Cogió La Noche Noticias](https://www.coosmovision.com/nos-cogio-la-noche/) [news]
-- [RCPC](http://www.rcpc.co/) [radio]
-- [Buenisima Radio Tv](https://www.youtube.com/channel/UCk20PydKzK3giq80G4mqSeg) [radio]
+- [RCPC](http://www.rcpc.co/) [music]
+- [Buenisima Radio Tv](https://www.youtube.com/channel/UCk20PydKzK3giq80G4mqSeg) [music]
 - [Pulzo](https://www.pulzo.com/) [general]
+- [Señal Colombia](https://www.senalcolombia.tv/) [general]
+- [Canal Institucional TV (Colombia)](https://www.canalinstitucional.tv/) [general]
 
 Canales "Paraguay"
-
 - [1000 Noticias](https://1000noticias.com.py/) [news]
+- [ABC-TV (Paraguay)](https://www.abc.com.py/) [general]
 
 Canales "Perú"
-
 - [TVPerú Noticias](https://www.tvperu.gob.pe/noticias/play) [news]
 - [Panamericana TV](https://panamericana.pe/tvenvivo) [news]
 - [Onda Digital TV](https://ondadigitaltv.com) [news]
@@ -208,23 +271,25 @@ Canales "Perú"
 - [Avance Social Noticias](https://www.youtube.com/channel/UCo75W2AP1hnjUF4V_ovOAsg) [news]
 - [Diario El Comercio Videos](https://elcomercio.pe) [news]
 - [N60 Noticias](https://n60.pe/) [news]
-- [Ideeleradio](https://www.ideeleradio.pe/) [radio]
-- [Radio Ovación TV](https://ovacion.pe/radio) [radio]
-- [Radio San Borja Tv](https://radiosanborjatv.com/) [radio]
-- [Radio Onda Digital](https://www.ondadigital.pe/) [radio]
-- [Radio Tropical 99.1 FM](https://radiotropical.pe/) [radio]
-- [Radio Uno 93.7 FM](https://radiouno.pe/) [radio]
+- [Latina Noticias](https://www.latina.pe/) [news]
+- [TVPerú Noticias](https://www.tvperu.gob.pe/) [news]
+- [TVPerú](https://www.tvperu.gob.pe/) [general]
+- [Radio Latina](https://www.latina.pe/) [music]
+- [Ideeleradio](https://www.ideeleradio.pe/) [music]
+- [Radio Ovación TV](https://ovacion.pe/radio) [music]
+- [Radio San Borja Tv](https://radiosanborjatv.com/) [music]
+- [Radio Onda Digital](https://www.ondadigital.pe/) [music]
+- [Radio Tropical 99.1 FM](https://radiotropical.pe/) [music]
+- [Radio Uno 93.7 FM](https://radiouno.pe/) [music]
 
 Canales "Panamá"
-
 - [Telemetro Reporta](https://www.telemetro.com/endirecto) [news]
 - [Alvaro Alvarado - Noticias 180 Minutos](https://www.youtube.com/channel/UC4RoqlERckC4gIhLEGb9Jjw) [news]
 - [FARO TV](https://www.youtube.com/channel/UCH70iZotY9DHPZA_XCJbXGQ) [news]
-- [Círculo TV](https://www.youtube.com/channel/) [news]
+- [Círculo TV](https://www.youtube.com/channel/UCDPbA7nEEmzhRb5NnItyKag) [news]
 - [Telemetro](https://www.telemetro.com/endirecto) [general]
 
 Canales "Venezuela"
-
 - [Globovisión En Vivo](https://www.globovision.com/) [news]
 - [VPItv](https://vpitv.com/en-vivo/) [news]
 - [Imesat News TV](https://www.youtube.com/channel/UC1gcFVHhxnbdVqZ8gRziDkg) [news]
@@ -235,22 +300,20 @@ Canales "Venezuela"
 - [NTN24](https://www.ntn24.com/en-vivo) [news]
 - [TelevenTV](https://televen.com/) [news]
 - [La Iguana TV](https://www.laiguana.tv/envivo/) [news]
-- [MundoURenVivo](https://mundour.com/) [radio]
-- [Lista Tv](https://www.youtube.com/channel/UCw2ceOxZ4VhgRSre0ny2RcA) [radio]
-- [VTV RADIO](https://www.atom.bio/vtvradio_) [radio]
-- [Venezuela News Radio](https://venezuela-news.com/radio/) [radio]
+- [MundoURenVivo](https://mundour.com/) [music]
+- [Lista Tv](https://www.youtube.com/channel/UCw2ceOxZ4VhgRSre0ny2RcA) [music]
+- [VTV RADIO](https://www.atom.bio/vtvradio_) [music]
+- [Venezuela News Radio](https://venezuela-news.com/radio/) [music]
 - [Anzoátegui TV](https://lorini.net/anzoateguitv/) [general]
 - [BTA TV](https://btatv.tv/) [general]
 - [Canal 21 Táchira](https://www.canal21tachira.com/tv/) [general]
 - [Canal Cultura Venezuela](https://culturavenezuela.com/emision-en-directo/) [culture]
 
 Canales "Honduras"
-
 - [HCH En Vivo](https://hch.tv/live/) [news]
 - [METRO TV CHOLUTECA HONDURAS](https://www.lametrohn.com/) [news]
 
 Canales "México"
-
 - [ImagenTV](https://www.imagentv.com/en-vivo) [news]
 - [Imagen Televisión Puebla](https://www.imagentv.com/en-vivo) [news]
 - [TelediarioMx](https://www.telediario.mx/television) [news]
@@ -269,50 +332,44 @@ Canales "México"
 - [Azteca Noticias](https://www.tvazteca.com/aztecanoticias/) [news]
 - [Gamavisión Noticias](https://www.gamavision.com/) [news]
 - [Aristegui Noticias](https://www.aristeguinoticias.com/) [news]
-- [Grupo Fórmula](https://www.radioformula.com.mx/) [radio]
-- [DK 1250 AM](https://dk1250.mx/en-vivo-por-youtube/) [radio]
+- [Grupo Fórmula](https://www.radioformula.com.mx/) [music]
+- [DK 1250 AM](https://dk1250.mx/en-vivo-por-youtube/) [music]
 - [Televisa Puebla](https://www.youtube.com/channel/UC-HNztluSQSffhIWJTL-LUw) [general]
 - [Televisa Sonora Oficial](https://www.youtube.com/channel/UCyzWMHGS7bs0sot6KZk5EZg) [general]
-- [Fideicomiso de Puentes Fronterizos de Chihuahua](https://puentesfronterizos.gob.mx/) [camera]
+- [Fideicomiso de Puentes Fronterizos de Chihuahua](https://puentesfronterizos.gob.mx/) [outdoor]
 
 Canales "España"
-
 - [RTVE Noticias](https://www.rtve.es/noticias) [news]
 - [Televisión de Galicia](https://agalega.gal/) [news]
 - [Málaga 24h TV Noticias](https://malaga24h.com/directo-de-malaga-24-horas/) [news]
 - [TelevisionCanaria](https://rtvc.es/en-directo/) [news]
 - [CNN en Español](https://cnnespanol.cnn.com/) [news]
-- [Cámaras de tráfico de Vigo](https://www.youtube.com/channel/UC30mmDZa-tMpIS-cIXoErsA) [camera]
+- [Cámaras de tráfico de Vigo](https://www.youtube.com/channel/UC30mmDZa-tMpIS-cIXoErsA) [outdoor]
 
 Canales "Ecuador"
-
 - [Ecuavisa](https://www.ecuavisa.com/envivo) [news]
 - [Ecotel TV](https://www.ecotel.tv/) [news]
 - [Catomedia UCSG](https://catomedia.net/) [news]
 - [Canal Tv Digital](https://canaltvdigitalonline.com/) [news]
 - [Periódico D'Una](https://deunanoticias.com/) [news]
 - [Café la Posta](https://www.laposta.ec/) [news]
-- [Radio Centro 101.3 FM](https://radiocentro.com.ec/en-vivo/) [radio]
-- [Radio Elite 99.7 TV](https://radioelite997.com/online/) [radio]
-- [Radio Sono Onda](https://sonoonda.com/tv-online/) [radio]
-- [Radio Rumba 107.3 FM](https://radiorumba.fm/) [radio]
-- [Radio Pichincha Multimedia](https://www.radiopichincha.com/) [radio]
-- [Sonorama TV](https://www.youtube.com/channel/UCGOHw6AjriiGhkJnDAhJsRA) [radio]
+- [Radio Centro 101.3 FM](https://radiocentro.com.ec/en-vivo/) [music]
+- [Radio Elite 99.7 TV](https://radioelite997.com/online/) [music]
+- [Radio Sono Onda](https://sonoonda.com/tv-online/) [music]
+- [Radio Rumba 107.3 FM](https://radiorumba.fm/) [music]
+- [Radio Pichincha Multimedia](https://www.radiopichincha.com/) [music]
+- [Sonorama TV](https://www.youtube.com/channel/UCGOHw6AjriiGhkJnDAhJsRA) [music]
 
 Canales "República Dominicana"
-
 - [Una Nueva Mañana](https://unanuevamanana.com/) [general]
 
 Canales "El Salvador"
-
 - [TCS Noticias](https://www.esmitv.com/) [news]
 
 Canales "Canadá"
-
 - [Global News](https://globalnews.ca/live/national/) [news]
 
 Canales "Estados Unidos"
-
 - [ABC7 SWFL](https://www.abc-7.com/) [news]
 - [ABC News](https://abcnews.go.com/Live) [news]
 - [Agenda-Free TV](https://twitter.com/agendafreetv) [news]
@@ -334,17 +391,16 @@ Canales "Estados Unidos"
 - [Associated Press](https://www.apnews.com/) [news]
 - [Naciones Unidas](https://www.un.org/) [general]
 - [International House of Prayer](https://www.ihopkc.org/prayerroom/) [music]
-- [Axis Experience Center South Central](https://www.axis.com/) [camera]
-- [Times Square Live 4K](https://www.earthcam.net/) [camera]
-- [St. George Tower](https://stgeorgetower.com/) [camera]
-- [Bryant Park NYC](https://bryantpark.org/) [camera]
+- [Axis Experience Center South Central](https://www.axis.com/) [outdoor]
+- [Times Square Live 4K](https://www.earthcam.net/) [outdoor]
+- [St. George Tower](https://stgeorgetower.com/) [outdoor]
+- [Bryant Park NYC](https://bryantpark.org/) [outdoor]
 - [NASA Live](https://www.nasa.gov/) [science]
 - [SpaceX](https://www.spacex.com/) [science]
 - [Blue Origin](https://www.blueorigin.com/) [science]
 - [Virgin Galactic](https://www.virgingalactic.com/) [science]
 
 Canales "Francia"
-
 - [euronews (Español)](https://es.euronews.com/) [news]
 - [euronews (English)](https://www.euronews.com/) [news]
 - [euronews Русский](https://ru.euronews.com/) [news]
@@ -354,7 +410,6 @@ Canales "Francia"
 - [franceinfo](https://www.francetvinfo.fr/) [news]
 
 Canales "Alemania"
-
 - [DW Español](https://www.dw.com/es) [news]
 - [DW News](https://www.dw.com/en) [news]
 - [DW عربية](https://www.dw.com/ar) [news]
@@ -362,34 +417,28 @@ Canales "Alemania"
 - [We Are Diamond](https://wearediamond.net/) [music]
 
 Canales "Ucrania"
-
 - [24 Канал онлайн](https://24tv.ua/online/) [news]
 - [Суспільне Новини](https://suspilne.media/) [news]
 
 Canales "China"
-
 - [三立iNEWS](https://live.setn.com/) [news]
 - [中視新聞 HD直播頻道](https://www.ctv.com.tw/) [news]
 - [CGTN](https://www.cgtn.com/) [news]
 - [民視新聞網 Formosa TV News network](https://www.ftvnews.com.tw/live/live-channel/) [news]
 
 Canales "Taiwán"
-
 - [華視新聞 CH52](https://news.cts.com.tw/) [news]
 
 Canales "Japón"
-
 - [NHK World](https://www3.nhk.or.jp/nhkworld/en/live/) [news]
 - [ANNnewsCH](https://news.tv-asahi.co.jp/) [news]
 - [HTB北海道ニュース](https://www.htb.co.jp/news/) [news]
-- [Aoba traffics](https://www.youtube.com/channel/UCynDLZ-YJnrMLSQvwYi-bUA) [camera]
+- [Aoba traffics](https://www.youtube.com/channel/UCynDLZ-YJnrMLSQvwYi-bUA) [outdoor]
 
 Canales "Turquía"
-
 - [TRT World](https://www.trtworld.com/) [news]
 
 Canales "India"
-
 - [ABP MAJHA](https://marathi.abplive.com/live-tv) [news]
 - [Good News Today](https://www.gnttv.com/livetv) [news]
 - [ABN Telugu](https://www.andhrajyothy.com/live-tv) [news]
@@ -421,16 +470,13 @@ Canales "India"
 - [ABN Digital Exclusives](https://www.youtube.com/channel/UCMIobchb8wgycijrgc1UnZw) [general]
 
 Canales "Bangladesh"
-
 - [BanglaVision LIVE](https://www.bvnews24.com/live/) [news]
 
 Canales "Catar"
-
 - [Al Jazeera English](https://www.aljazeera.com/live/) [news]
 - [AlJazeera Channel قناة الجزيرة](https://www.aljazeera.com/live/) [news]
 
 Canales "Italia"
-
 - [Vatican News](https://www.vaticannews.va/en.html) [religious]
 - [Vatican News English](https://www.vaticannews.va/en.html) [religious]
 - [Vatican News Español](https://www.vaticannews.va/en.html) [religious]
@@ -443,7 +489,6 @@ Canales "Italia"
 - [Vatican News 中文](https://www.vaticannews.va/en.html) [religious]
 
 Canales "Pakistán"
-
 - [City 21 News](https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw) [news]
 - [AlQuranHD القران الكريم](https://www.youtube.com/channel/UCraPI8sg-eiNzUrurxhKeEQ) [religious]
 - [Talon News HD](https://www.youtube.com/channel/UCooaD1RPqtX2mY4yNc1PPqw) [news]
@@ -452,33 +497,27 @@ Canales "Pakistán"
 - [Dunya News](https://dunyanews.tv/live/) [news]
 
 Canales "Inglaterra"
-
 - [GBNews](https://www.gbnews.com/watch/live) [news]
 
 Canales "Singapur"
-
 - [CNA](https://www.channelnewsasia.com/) [news]
 
 Canales "República Centroafricana"
-
 - [Channels Television](https://www.channelstv.com/live) [news]
 - [africanews](https://www.africanews.com/live/) [news]
-- [NamibiaCam](https://www.youtube.com/channel/UC9X6gGKDv2yhMoofoeS7-Gg) [camera]
+- [TVGE (Ginea Ecuatorial)](https://tvgelive.gq/) [general]
+- [NamibiaCam](https://www.youtube.com/channel/UC9X6gGKDv2yhMoofoeS7-Gg) [outdoor]
 
 Canales "Australia"
-
 - [ABC News AU](https://www.abc.net.au/news/) [news]
 
 Canales "Hawái"
-
-- [Aqualink Hawaii](https://www.youtube.com/channel/UCTLF36lXVM7uiR-VolWHv0Q) [camera]
+- [Aqualink Hawaii](https://www.youtube.com/channel/UCTLF36lXVM7uiR-VolWHv0Q) [outdoor]
 
 Canales "Corea del Sur"
+- [Daily Seoul Live outdoor - Hangang](https://www.youtube.com/channel/UCQKQTgZJo3PlxA-9V1Z51XA) [outdoor]
 
-- [Daily Seoul Live Camera - Hangang](https://www.youtube.com/channel/UCQKQTgZJo3PlxA-9V1Z51XA) [camera]
-
-Canales "Desconocido"
-
+Canales "País Desconocido"
 - [Lofi Girl](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) [music]
 - [Chillhop](https://live.chillhop.com) [music]
 - [Steezyasfuck](https://www.stzzzy.com/) [music]
@@ -511,10 +550,10 @@ Canales "Desconocido"
 - [Music Hits](https://www.youtube.com/channel/UC-ITe1nKavRL6-Sl2aE3LKA) [music]
 - [The Good Life Radio x Sensual Musique](https://www.youtube.com/channel/UChs0pSaEoNLV4mevBFGaoKA) [music]
 - [BGM Totoro Studio](https://www.youtube.com/channel/UCdg_xadHqcIT40t-rgwuSZg) [music]
-- [Boston and Maine Live](https://www.youtube.com/channel/UC8gbWbcNNyb5-NIXvFklkOA) [camera]
-- [Birder King](https://www.youtube.com/channel/UC7wafFu5c8AO0YF5U7R7xFA) [camera]
-- [Alyssa's Nature Sanctuary](https://www.youtube.com/channel/UCkirg3K9o212uh5BEt100NQ) [camera]
-- [afarTV](https://afar.tv/) [camera]
+- [Boston and Maine Live](https://www.youtube.com/channel/UC8gbWbcNNyb5-NIXvFklkOA) [outdoor]
+- [Birder King](https://www.youtube.com/channel/UC7wafFu5c8AO0YF5U7R7xFA) [outdoor]
+- [Alyssa's Nature Sanctuary](https://www.youtube.com/channel/UCkirg3K9o212uh5BEt100NQ) [outdoor]
+- [afarTV](https://afar.tv/) [outdoor]
 - [Bob Ross (Todas las Temporadas)](https://www.youtube.com/channel/UCxcnsr1R5Ge_fbTu5ajt8DQ) [relax]
 - [Nickelodeon en Español](https://www.youtube.com/channel/UCNeq3Obf4zOv5rhORI8Vz5g) [kids]
 - [Cartoon Network LA](https://www.youtube.com/channel/UCQySZQ6rrgJXRuonMwIIGMA) [kids]
@@ -525,7 +564,7 @@ Canales "Desconocido"
 - [El Increíble Mundo de Gumball LA](https://www.youtube.com/channel/UCEsK4_SMT6zgDVUwuLHvo8g) [animation]
 - [Peacock jr](https://www.youtube.com/channel/UCKtfozhWfwvXUTnR7PV3t5g) [kids]
 - [Shaun the Sheep Official](https://www.youtube.com/channel/UCS7H8U-n5mINVJjJsaRtGHg) [animation]
-- [KawaiiGames](https://www.youtube.com/channel/) [classic]
+- [KawaiiGames](https://www.youtube.com/channel/UCGmvywjUliYi6MSwg_FuW_g) [classic]
 - [Game Master TV](https://www.youtube.com/channel/UC1AFNoYDu-Rub31kwug5drA) [classic]
 
 </details>
@@ -534,7 +573,6 @@ Canales "Desconocido"
 <summary>Canales por Categoría 📻</summary>
 
 Categoría "news"
-
 - [24 horas](https://www.24horas.cl/envivo/) [Chile]
 - [Meganoticias](https://www.mega.cl/) [Chile]
 - [T13](https://www.t13.cl/en-vivo) [Chile]
@@ -578,7 +616,7 @@ Categoría "news"
 - [La Q Digital](https://www.youtube.com/channel/UCNCwZcHiMq-hiKUifqVgWLQ) [Colombia]
 - [CNC CHOCÓ](https://www.youtube.com/channel/UC1y9xnPuEvaPCqwJTFDr-8Q) [Colombia]
 - [Tercer Canal](https://www.youtube.com/channel/UCH0qX_eG0lDi00plxvidu7g) [Colombia]
-- [](https://www.elespectador.com/) [Colombia]
+- [El Espectador](https://www.elespectador.com/) [Colombia]
 - [Nos Cogió La Noche Noticias](https://www.coosmovision.com/nos-cogio-la-noche/) [Colombia]
 - [1000 Noticias](https://1000noticias.com.py/) [Paraguay]
 - [TVPerú Noticias](https://www.tvperu.gob.pe/noticias/play) [Perú]
@@ -592,10 +630,12 @@ Categoría "news"
 - [Avance Social Noticias](https://www.youtube.com/channel/UCo75W2AP1hnjUF4V_ovOAsg) [Perú]
 - [Diario El Comercio Videos](https://elcomercio.pe) [Perú]
 - [N60 Noticias](https://n60.pe/) [Perú]
+- [Latina Noticias](https://www.latina.pe/) [Perú]
+- [TVPerú Noticias](https://www.tvperu.gob.pe/) [Perú]
 - [Telemetro Reporta](https://www.telemetro.com/endirecto) [Panamá]
 - [Alvaro Alvarado - Noticias 180 Minutos](https://www.youtube.com/channel/UC4RoqlERckC4gIhLEGb9Jjw) [Panamá]
 - [FARO TV](https://www.youtube.com/channel/UCH70iZotY9DHPZA_XCJbXGQ) [Panamá]
-- [Círculo TV](https://www.youtube.com/channel/) [Panamá]
+- [Círculo TV](https://www.youtube.com/channel/UCDPbA7nEEmzhRb5NnItyKag) [Panamá]
 - [Globovisión En Vivo](https://www.globovision.com/) [Venezuela]
 - [VPItv](https://vpitv.com/en-vivo/) [Venezuela]
 - [Imesat News TV](https://www.youtube.com/channel/UC1gcFVHhxnbdVqZ8gRziDkg) [Venezuela]
@@ -722,8 +762,7 @@ Categoría "news"
 - [africanews](https://www.africanews.com/live/) [República Centroafricana]
 - [ABC News AU](https://www.abc.net.au/news/) [Australia]
 
-Categoría "radio"
-
+Categoría "music"
 - [Radio Cooperativa](http://programas.cooperativa.cl/showalairelibre/) [Chile]
 - [Radio Biobio TV](https://www.biobiochile.cl/biobiotv/) [Chile]
 - [Radio ADN](https://www.adnradio.cl/noticias/videos/) [Chile]
@@ -746,8 +785,15 @@ Categoría "radio"
 - [La MetroFM](https://lametrofm.cl/) [Chile]
 - [AGRICULTURA TV](https://www.radioagricultura.cl/en-vivo-3/) [Chile]
 - [¡Llegó la hora!](https://www.radioagricultura.cl/podcast_programas/llego-la-hora/) [Chile]
+- [La nuestra](https://www.lanuestra.cl/) [Chile]
+- [Súbela Radio](https://www.subela.cl/) [Chile]
+- [Pauta](https://www.pauta.cl/) [Chile]
+- [13 Festival](https://www.13.cl/) [Chile]
+- [laGranja FM 107.3](https://www.lagranja.tv) [Chile]
+- [Radio Graneros TV](https://www.radiograneros.cl) [Chile]
+- [Portal Foxmix Chile](https://www.portalfoxmix.cl/tv/) [Chile]
 - [Radio Mitre](https://radiomitre.cienradios.com/) [Argentina]
-- [Radio De la Azotea](https://www.youtube.com/channel/) [Argentina]
+- [Radio De la Azotea](http://www.radiodelaazotea.com.ar) [Argentina]
 - [Radio Nihuil](https://www.radionihuil.com.ar/) [Argentina]
 - [Pop Radio 101.5](https://www.radiopop.fm/) [Argentina]
 - [Radio10](https://www.radio10.com.ar/) [Argentina]
@@ -757,6 +803,7 @@ Categoría "radio"
 - [BRADO](https://www.bradojornal.com/) [Brasil]
 - [RCPC](http://www.rcpc.co/) [Colombia]
 - [Buenisima Radio Tv](https://www.youtube.com/channel/UCk20PydKzK3giq80G4mqSeg) [Colombia]
+- [Radio Latina](https://www.latina.pe/) [Perú]
 - [Ideeleradio](https://www.ideeleradio.pe/) [Perú]
 - [Radio Ovación TV](https://ovacion.pe/radio) [Perú]
 - [Radio San Borja Tv](https://radiosanborjatv.com/) [Perú]
@@ -775,123 +822,6 @@ Categoría "radio"
 - [Radio Rumba 107.3 FM](https://radiorumba.fm/) [Ecuador]
 - [Radio Pichincha Multimedia](https://www.radiopichincha.com/) [Ecuador]
 - [Sonorama TV](https://www.youtube.com/channel/UCGOHw6AjriiGhkJnDAhJsRA) [Ecuador]
-
-Categoría "general"
-
-- [TVN](https://www.youtube.com/channel/UCaVaCaiG6qRzDiJDuEGKOhQ) [Chile]
-- [Mega](https://www.mega.cl/) [Chile]
-- [Canal 13](https://www.13.cl/en-vivo) [Chile]
-- [Chilevisión](https://www.chilevision.cl/senal-online) [Chile]
-- [La Red](https://www.lared.cl/senal-online) [Chile]
-- [Stgo.TV](https://www.santiagotelevision.cl/) [Chile]
-- [TV+](https://www.tvmas.tv/) [Chile]
-- [La Voz De Los Que Sobran](https://lavozdelosquesobran.cl/) [Chile]
-- [Puranoticia TV](https://puranoticia.pnt.cl/) [Chile]
-- [Holvoet TV](https://holvoet.cl/en-vivo/) [Chile]
-- [Antofagasta TV](https://www.antofagasta.tv/) [Chile]
-- [Atacama TV](http://atacamatelevision.com/) [Chile]
-- [Canal 9](https://www.canal9.cl/en-vivo/) [Chile]
-- [TVU](https://www.tvu.cl/) [Chile]
-- [Canal 21](https://www.canal21tv.cl/wp/en-vivo/) [Chile]
-- [Ñublevision](https://nublevision.cl/) [Chile]
-- [Ñuble RVT](https://canalrtv.cl/) [Chile]
-- [Pingüino TV](https://elpinguino.com/reproductor/) [Chile]
-- [ITV Patagonia](https://www.itvpatagonia.com/) [Chile]
-- [UCV TV](https://ucvtv.cl/home.php) [Chile]
-- [UCV TV Eventos](https://ucvtv.cl/home.php) [Chile]
-- [UATV](https://uatv.cl/uatv-en-vivo/) [Chile]
-- [VTV](http://canalvtv.cl/vtv/) [Chile]
-- [TVR Television Regional](https://www.tvr.cl) [Chile]
-- [veoTV](https://www.veotv.cl/) [Chile]
-- [Contivision](https://contivision.cl/) [Chile]
-- [Osorno TV+](https://www.osornotv.cl/envivo.html) [Chile]
-- [Zona Latina](https://zonalatinatv.com/) [Chile]
-- [Real TV Chile](https://www.youtube.com/channel/) [Chile]
-- [Canal 2 San Antonio](https://cablenoticias.cl/san-antonio-en-vivo) [Chile]
-- [Canal 2 Quellón](https://www.canal2quellon.cl/) [Chile]
-- [Iquique TV](https://iquiquetv.cl/senal-online/) [Chile]
-- [Wapp TV](https://www.wapptv.cl/) [Chile]
-- [El Siete TV](https://www.elsietetv.com.ar/) [Argentina]
-- [EXTRA TV VIVO](https://www.canalextra.com.ar/) [Argentina]
-- [BREAK POINT](https://www.youtube.com/channel/UC_49ElhhVd1BO7MsdBPm77Q) [Argentina]
-- [Extratv](https://www.canalextra.com.ar/) [Argentina]
-- [Red Uno](https://www.reduno.com.bo/) [Bolivia]
-- [Pulzo](https://www.pulzo.com/) [Colombia]
-- [Telemetro](https://www.telemetro.com/endirecto) [Panamá]
-- [Anzoátegui TV](https://lorini.net/anzoateguitv/) [Venezuela]
-- [BTA TV](https://btatv.tv/) [Venezuela]
-- [Canal 21 Táchira](https://www.canal21tachira.com/tv/) [Venezuela]
-- [Televisa Puebla](https://www.youtube.com/channel/UC-HNztluSQSffhIWJTL-LUw) [México]
-- [Televisa Sonora Oficial](https://www.youtube.com/channel/UCyzWMHGS7bs0sot6KZk5EZg) [México]
-- [Una Nueva Mañana](https://unanuevamanana.com/) [República Dominicana]
-- [Naciones Unidas](https://www.un.org/) [Estados Unidos]
-- [ABN Digital Exclusives](https://www.youtube.com/channel/UCMIobchb8wgycijrgc1UnZw) [India]
-
-Categoría "culture"
-
-- [TVN 3](https://www.tvn.cl/tvn3) [Chile]
-- [Bolivia Al aire TV](https://boliviaalairetv.com/) [Bolivia]
-- [Canal Cultura Venezuela](https://culturavenezuela.com/emision-en-directo/) [Venezuela]
-
-Categoría "sports"
-
-- [MegaDeportes](https://www.meganoticias.cl/deportes/) [Chile]
-- [Tierra de Dragones](https://tierradedragones.cl/online/) [Chile]
-
-Categoría "lifestyle"
-
-- [TV Salud](https://tvsalud.cl/) [Chile]
-
-Categoría "Business"
-
-- [Canal País](https://www.canalpais.com/en-vivo) [Chile]
-
-Categoría "kids"
-
-- [TV Educa Chile](https://www.tvn.cl/envivo/tveducachile/) [Chile]
-- [Nickelodeon en Español](https://www.youtube.com/channel/UCNeq3Obf4zOv5rhORI8Vz5g) [Desconocido]
-- [Cartoon Network LA](https://www.youtube.com/channel/UCQySZQ6rrgJXRuonMwIIGMA) [Desconocido]
-- [Disney XD](https://www.youtube.com/channel/UCktaw9L-f65LzUUdjmCFkbQ) [Desconocido]
-- [Power Rangers Official](https://www.youtube.com/channel/UCpgxmlXoDtkYzRQ4cJgCT5A) [Desconocido]
-- [Peacock jr](https://www.youtube.com/channel/UCKtfozhWfwvXUTnR7PV3t5g) [Desconocido]
-
-Categoría "legislative"
-
-- [TV Senado](https://tv.senado.cl/) [Chile]
-- [Tribunal Constitucional](https://www2.tribunalconstitucional.cl/) [Chile]
-- [Poder Judicial](https://www.poderjudicialtv.cl/) [Chile]
-- [Cámara Diputados](http://www.cdtv.cl/) [Chile]
-
-Categoría "camera"
-
-- [Nuevas Comunicaciones](https://www.youtube.com/channel/UCMvQGOyumsXP4V7dGAdIKWg) [Chile]
-- [Marejadas UV](https://marejadas.uv.cl/) [Chile]
-- [Ledrium](https://www.goledrium.cl/) [Chile]
-- [Galería CIMA](https://galeriacima.cl/) [Chile]
-- [Halcón Parquemet, Cumbre](https://halcon.parquemet.cl/index.html) [Chile]
-- [Halcón Parquemet, Terraza](https://halcon.parquemet.cl/index.html) [Chile]
-- [Municipalidad Osorno](https://www.municipalidadosorno.cl/) [Chile]
-- [Ushuaia Live](https://www.youtube.com/channel/UC6NTD1HmdaZMbe9K5qADOvw) [Argentina]
-- [FourSeasons BuenosAires](https://www.youtube.com/channel/UCCkRwmztPEvut3gpsgmCmzw) [Argentina]
-- [SISE Argentina](https://siseargentina.com/camaras-en-vivo/) [Argentina]
-- [Fideicomiso de Puentes Fronterizos de Chihuahua](https://puentesfronterizos.gob.mx/) [México]
-- [Cámaras de tráfico de Vigo](https://www.youtube.com/channel/UC30mmDZa-tMpIS-cIXoErsA) [España]
-- [Axis Experience Center South Central](https://www.axis.com/) [Estados Unidos]
-- [Times Square Live 4K](https://www.earthcam.net/) [Estados Unidos]
-- [St. George Tower](https://stgeorgetower.com/) [Estados Unidos]
-- [Bryant Park NYC](https://bryantpark.org/) [Estados Unidos]
-- [Aoba traffics](https://www.youtube.com/channel/UCynDLZ-YJnrMLSQvwYi-bUA) [Japón]
-- [NamibiaCam](https://www.youtube.com/channel/UC9X6gGKDv2yhMoofoeS7-Gg) [República Centroafricana]
-- [Aqualink Hawaii](https://www.youtube.com/channel/UCTLF36lXVM7uiR-VolWHv0Q) [Hawái]
-- [Daily Seoul Live Camera - Hangang](https://www.youtube.com/channel/UCQKQTgZJo3PlxA-9V1Z51XA) [Corea del Sur]
-- [Boston and Maine Live](https://www.youtube.com/channel/UC8gbWbcNNyb5-NIXvFklkOA) [Desconocido]
-- [Birder King](https://www.youtube.com/channel/UC7wafFu5c8AO0YF5U7R7xFA) [Desconocido]
-- [Alyssa's Nature Sanctuary](https://www.youtube.com/channel/UCkirg3K9o212uh5BEt100NQ) [Desconocido]
-- [afarTV](https://afar.tv/) [Desconocido]
-
-Categoría "music"
-
-- [Portal Foxmix Chile](https://www.portalfoxmix.cl/tv/) [Chile]
 - [International House of Prayer](https://www.ihopkc.org/prayerroom/) [Estados Unidos]
 - [We Are Diamond](https://wearediamond.net/) [Alemania]
 - [Lofi Girl](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) [Desconocido]
@@ -927,23 +857,191 @@ Categoría "music"
 - [The Good Life Radio x Sensual Musique](https://www.youtube.com/channel/UChs0pSaEoNLV4mevBFGaoKA) [Desconocido]
 - [BGM Totoro Studio](https://www.youtube.com/channel/UCdg_xadHqcIT40t-rgwuSZg) [Desconocido]
 
-Categoría "auto"
+Categoría "general"
+- [TVN](https://www.youtube.com/channel/UCaVaCaiG6qRzDiJDuEGKOhQ) [Chile]
+- [TV Chile](https://www.tvn.cl/tvchile/envivo) [Chile]
+- [Mega](https://www.mega.cl/) [Chile]
+- [Canal 13](https://www.13.cl/en-vivo) [Chile]
+- [Chilevisión](https://www.chilevision.cl/senal-online) [Chile]
+- [La Red](https://www.lared.cl/senal-online) [Chile]
+- [Stgo.TV](https://www.santiagotelevision.cl/) [Chile]
+- [TV+](https://www.tvmas.tv/) [Chile]
+- [La Voz De Los Que Sobran](https://lavozdelosquesobran.cl/) [Chile]
+- [Puranoticia TV](https://puranoticia.pnt.cl/) [Chile]
+- [Holvoet TV](https://holvoet.cl/en-vivo/) [Chile]
+- [Antofagasta TV](https://www.antofagasta.tv/) [Chile]
+- [Atacama TV](http://atacamatelevision.com/) [Chile]
+- [Canal 9](https://www.canal9.cl/en-vivo/) [Chile]
+- [TVU](https://www.tvu.cl/) [Chile]
+- [Canal 21](https://www.canal21tv.cl/wp/en-vivo/) [Chile]
+- [Ñublevision](https://nublevision.cl/) [Chile]
+- [Ñuble RVT](https://canalrtv.cl/) [Chile]
+- [Pingüino TV](https://elpinguino.com/reproductor/) [Chile]
+- [ITV Patagonia](https://www.itvpatagonia.com/) [Chile]
+- [UCV TV](https://ucvtv.cl/home.php) [Chile]
+- [UCV TV Eventos](https://ucvtv.cl/home.php) [Chile]
+- [UATV](https://uatv.cl/uatv-en-vivo/) [Chile]
+- [VTV](http://canalvtv.cl/vtv/) [Chile]
+- [TVR Television Regional](https://www.tvr.cl) [Chile]
+- [veoTV](https://www.veotv.cl/) [Chile]
+- [Contivision](https://contivision.cl/) [Chile]
+- [Osorno TV+](https://www.osornotv.cl/envivo.html) [Chile]
+- [Zona Latina](https://zonalatinatv.com/) [Chile]
+- [UTalcaTV (U. de Talca)](https://tv.utalca.cl) [Chile]
+- [TV UCT (U. Católica de Temuco)](https://www.tvuct.cl/) [Chile]
+- [UA TV (U. Autonoma)](https://uatv.cl/) [Chile]
+- [UMAG TV (U. de Magallanes)](https://www.umagtv.cl/) [Chile]
+- [UMAG TV 2 (U. de Magallanes)](https://www.umagtv.cl/blank-2) [Chile]
+- [UESTV](https://www.uestv.cl/) [Chile]
+- [U de Chile TV](https://uchile.cl/uchiletv) [Chile]
+- [UfroMedios](https://www.ufromedios.cl/programacion-ufrovision/) [Chile]
+- [ULagosTV (U. de los Lagos)](https://www.ulagos.cl/) [Chile]
+- [Real TV Chile](https://www.youtube.com/@RealTVChile-PorLaLibertad) [Chile]
+- [Arica TV](https://arica.tv/) [Chile]
+- [RTC Television](https://www.rtctelevision.cl/) [Chile]
+- [LRP Television](https://www.lrptelevision.com/) [Chile]
+- [Huasco Television](https://www.huascotelevisionstreaming.cl/) [Chile]
+- [Mi Radio TV](https://miradiotv.cl/) [Chile]
+- [America TV](https://radioamerica.cl/) [Chile]
+- [Radio America TV](https://radioamerica.cl/radio-tv-online/) [Chile]
+- [TV Costa](https://tvcosta.cl) [Chile]
+- [Canal Local Quillota](https://www.canallocal.cl) [Chile]
+- [Marga Marga TV](https://margamargatv.cl) [Chile]
+- [VTV Quillota](https://www.diariovtv.cl/) [Chile]
+- [Frecuencia 7](https://www.frecuencia7tv.cl) [Chile]
+- [Buin Somos Todos](https://www.buin.cl/) [Chile]
+- [La Granja TV](https://www.lagranja.tv) [Chile]
+- [Caracola TV La Florida](https://www.caracolatv.cl) [Chile]
+- [Suyai TV](https://suyaitv.cl/) [Chile]
+- [Vision Plus TV Melipilla](https://www.visionplustv.cl) [Chile]
+- [Unetev Talagante](https://www.unetev.cl) [Chile]
+- [ISB San Bernardo](https://www.canalisb.cl) [Chile]
+- [TVO San Vicente](https://www.tvosanvicente.cl) [Chile]
+- [Sextavision](https://sextavision.cl) [Chile]
+- [Pichilemu TV](https://pichilemutv.org) [Chile]
+- [TV5 Linares](https://www.tv5.cl/) [Chile]
+- [Canal TV8 Concepcion](https://www.canaltv8.cl/) [Chile]
+- [Concepcion TV](https://www.concepciontv.cl/) [Chile]
+- [Exprezion TV](https://www.exprezion.cl/) [Chile]
+- [Club TV Santa Juana](https://www.clubtv.cl/) [Chile]
+- [TeleAngol](https://www.teleangol.cl/) [Chile]
+- [Temuco Television](https://temucotelevision.cl/) [Chile]
+- [Pucon TV](https://www.pucontv.com/) [Chile]
+- [Lanco TV](https://lancotelevision.cl/) [Chile]
+- [Canal 5 Pto. Montt](https://canal5.cl/) [Chile]
+- [Cronicas del Sur TV](https://cronicasdelsur.cl/) [Chile]
+- [T-Vinet Digital](https://tvinet.cl/) [Chile]
+- [Inter Radio TV Frutillar](https://www.interradio1.net/) [Chile]
+- [Aysen TV](https://www.aysen.tv/) [Chile]
+- [Canal 11 Aysen](https://canal11aysen.cl/) [Chile]
+- [Canal Sur Patagonia](https://www.canalsurpatagonia.cl/) [Chile]
+- [Panoramica Informativa](https://panoramicaysen.cl/) [Chile]
+- [Radio Magallanes](https://www.radiomagallanes.cl/) [Chile]
+- [Radio Presidente Ibañez](https://www.radiopresidenteibanez.cl/) [Chile]
+- [Polar TV](https://radiopolar.com/) [Chile]
+- [Soberania TV](https://www.soberaniaradio.cl/) [Chile]
+- [Sur TV](https://www.surtv.cl/) [Chile]
+- [Canal 2 San Antonio](https://cablenoticias.cl/san-antonio-en-vivo) [Chile]
+- [Canal 2 Quellón](https://www.canal2quellon.cl/) [Chile]
+- [Iquique TV](https://iquiquetv.cl/senal-online/) [Chile]
+- [Wapp TV](https://www.wapptv.cl/) [Chile]
+- [El Siete TV](https://www.elsietetv.com.ar/) [Argentina]
+- [EXTRA TV VIVO](https://www.canalextra.com.ar/) [Argentina]
+- [BREAK POINT](https://www.youtube.com/channel/UC_49ElhhVd1BO7MsdBPm77Q) [Argentina]
+- [Extratv](https://www.canalextra.com.ar/) [Argentina]
+- [Red Uno](https://www.reduno.com.bo/) [Bolivia]
+- [Bolivia TV 7.2](https://www.boliviatv.bo/) [Bolivia]
+- [Bolivision](https://www.redbolivision.tv.bo/) [Bolivia]
+- [Pulzo](https://www.pulzo.com/) [Colombia]
+- [Señal Colombia](https://www.senalcolombia.tv/) [Colombia]
+- [Canal Institucional TV (Colombia)](https://www.canalinstitucional.tv/) [Colombia]
+- [ABC-TV (Paraguay)](https://www.abc.com.py/) [Paraguay]
+- [TVPerú](https://www.tvperu.gob.pe/) [Perú]
+- [Telemetro](https://www.telemetro.com/endirecto) [Panamá]
+- [Anzoátegui TV](https://lorini.net/anzoateguitv/) [Venezuela]
+- [BTA TV](https://btatv.tv/) [Venezuela]
+- [Canal 21 Táchira](https://www.canal21tachira.com/tv/) [Venezuela]
+- [Televisa Puebla](https://www.youtube.com/channel/UC-HNztluSQSffhIWJTL-LUw) [México]
+- [Televisa Sonora Oficial](https://www.youtube.com/channel/UCyzWMHGS7bs0sot6KZk5EZg) [México]
+- [Una Nueva Mañana](https://unanuevamanana.com/) [República Dominicana]
+- [Naciones Unidas](https://www.un.org/) [Estados Unidos]
+- [ABN Digital Exclusives](https://www.youtube.com/channel/UCMIobchb8wgycijrgc1UnZw) [India]
+- [TVGE (Ginea Ecuatorial)](https://tvgelive.gq/) [República Centroafricana]
 
-- [Carburando](https://www.carburando.com/) [Argentina]
+Categoría "culture"
+- [TVN 3](https://www.tvn.cl/tvn3) [Chile]
+- [NTV](https://www.tvn.cl/ntv) [Chile]
+- [13 Cultura](https://www.13.cl/c) [Chile]
+- [Bolivia Al aire TV](https://boliviaalairetv.com/) [Bolivia]
+- [Canal Cultura Venezuela](https://culturavenezuela.com/emision-en-directo/) [Venezuela]
 
 Categoría "entertainment"
-
+- [13 Entretención](https://www.13.cl/) [Chile]
+- [13 Realities](https://www.13.cl/) [Chile]
+- [13 Teleseries](https://www.13.cl/) [Chile]
+- [13 Pop](https://www.13.cl/) [Chile]
 - [Gogoplaytv](https://www.gogoplaytv.com/) [Bolivia]
 
-Categoría "science"
+Categoría "sports"
+- [MegaDeportes](https://www.meganoticias.cl/deportes/) [Chile]
+- [Tierra de Dragones](https://tierradedragones.cl/online/) [Chile]
 
+Categoría "lifestyle"
+- [TV Salud](https://tvsalud.cl/) [Chile]
+
+Categoría "Business"
+- [Canal País](https://www.canalpais.com/en-vivo) [Chile]
+
+Categoría "kids"
+- [TV Educa Chile](https://www.tvn.cl/envivo/tveducachile/) [Chile]
+- [Nickelodeon en Español](https://www.youtube.com/channel/UCNeq3Obf4zOv5rhORI8Vz5g) [Desconocido]
+- [Cartoon Network LA](https://www.youtube.com/channel/UCQySZQ6rrgJXRuonMwIIGMA) [Desconocido]
+- [Disney XD](https://www.youtube.com/channel/UCktaw9L-f65LzUUdjmCFkbQ) [Desconocido]
+- [Power Rangers Official](https://www.youtube.com/channel/UCpgxmlXoDtkYzRQ4cJgCT5A) [Desconocido]
+- [Peacock jr](https://www.youtube.com/channel/UCKtfozhWfwvXUTnR7PV3t5g) [Desconocido]
+
+Categoría "legislative"
+- [TV Senado](https://tv.senado.cl/) [Chile]
+- [Tribunal Constitucional](https://www2.tribunalconstitucional.cl/) [Chile]
+- [Poder Judicial](https://www.poderjudicialtv.cl/) [Chile]
+- [Cámara Diputados](http://www.cdtv.cl/) [Chile]
+
+Categoría "outdoor"
+- [Nuevas Comunicaciones](https://www.youtube.com/channel/UCMvQGOyumsXP4V7dGAdIKWg) [Chile]
+- [Marejadas UV](https://marejadas.uv.cl/) [Chile]
+- [Ledrium](https://www.goledrium.cl/) [Chile]
+- [Galería CIMA](https://galeriacima.cl/) [Chile]
+- [Halcón Parquemet, Cumbre](https://halcon.parquemet.cl/index.html) [Chile]
+- [Halcón Parquemet, Terraza](https://halcon.parquemet.cl/index.html) [Chile]
+- [Municipalidad Osorno](https://www.municipalidadosorno.cl/) [Chile]
+- [Ushuaia Live](https://www.youtube.com/channel/UC6NTD1HmdaZMbe9K5qADOvw) [Argentina]
+- [FourSeasons BuenosAires](https://www.youtube.com/channel/UCCkRwmztPEvut3gpsgmCmzw) [Argentina]
+- [SISE Argentina](https://siseargentina.com/camaras-en-vivo/) [Argentina]
+- [Fideicomiso de Puentes Fronterizos de Chihuahua](https://puentesfronterizos.gob.mx/) [México]
+- [Cámaras de tráfico de Vigo](https://www.youtube.com/channel/UC30mmDZa-tMpIS-cIXoErsA) [España]
+- [Axis Experience Center South Central](https://www.axis.com/) [Estados Unidos]
+- [Times Square Live 4K](https://www.earthcam.net/) [Estados Unidos]
+- [St. George Tower](https://stgeorgetower.com/) [Estados Unidos]
+- [Bryant Park NYC](https://bryantpark.org/) [Estados Unidos]
+- [Aoba traffics](https://www.youtube.com/channel/UCynDLZ-YJnrMLSQvwYi-bUA) [Japón]
+- [NamibiaCam](https://www.youtube.com/channel/UC9X6gGKDv2yhMoofoeS7-Gg) [República Centroafricana]
+- [Aqualink Hawaii](https://www.youtube.com/channel/UCTLF36lXVM7uiR-VolWHv0Q) [Hawái]
+- [Daily Seoul Live outdoor - Hangang](https://www.youtube.com/channel/UCQKQTgZJo3PlxA-9V1Z51XA) [Corea del Sur]
+- [Boston and Maine Live](https://www.youtube.com/channel/UC8gbWbcNNyb5-NIXvFklkOA) [Desconocido]
+- [Birder King](https://www.youtube.com/channel/UC7wafFu5c8AO0YF5U7R7xFA) [Desconocido]
+- [Alyssa's Nature Sanctuary](https://www.youtube.com/channel/UCkirg3K9o212uh5BEt100NQ) [Desconocido]
+- [afarTV](https://afar.tv/) [Desconocido]
+
+Categoría "auto"
+- [Carburando](https://www.carburando.com/) [Argentina]
+
+Categoría "science"
 - [NASA Live](https://www.nasa.gov/) [Estados Unidos]
 - [SpaceX](https://www.spacex.com/) [Estados Unidos]
 - [Blue Origin](https://www.blueorigin.com/) [Estados Unidos]
 - [Virgin Galactic](https://www.virgingalactic.com/) [Estados Unidos]
 
 Categoría "religious"
-
 - [Vatican News](https://www.vaticannews.va/en.html) [Italia]
 - [Vatican News English](https://www.vaticannews.va/en.html) [Italia]
 - [Vatican News Español](https://www.vaticannews.va/en.html) [Italia]
@@ -957,33 +1055,30 @@ Categoría "religious"
 - [AlQuranHD القران الكريم](https://www.youtube.com/channel/UCraPI8sg-eiNzUrurxhKeEQ) [Pakistán]
 
 Categoría "relax"
-
 - [Bob Ross (Todas las Temporadas)](https://www.youtube.com/channel/UCxcnsr1R5Ge_fbTu5ajt8DQ) [Desconocido]
 
 Categoría "animation"
-
 - [Robocar POLI TV](https://www.youtube.com/channel/UCr-rCvgg21KqfrnGopaQeGw) [Desconocido]
 - [Bob Esponja en Español](https://www.youtube.com/channel/UCMfYMB69Y1B-SlGKm1Tdb0Q) [Desconocido]
 - [El Increíble Mundo de Gumball LA](https://www.youtube.com/channel/UCEsK4_SMT6zgDVUwuLHvo8g) [Desconocido]
 - [Shaun the Sheep Official](https://www.youtube.com/channel/UCS7H8U-n5mINVJjJsaRtGHg) [Desconocido]
 
 Categoría "classic"
-
-- [KawaiiGames](https://www.youtube.com/channel/) [Desconocido]
+- [KawaiiGames](https://www.youtube.com/channel/UCGmvywjUliYi6MSwg_FuW_g) [Desconocido]
 - [Game Master TV](https://www.youtube.com/channel/UC1AFNoYDu-Rub31kwug5drA) [Desconocido]
 
 </details>
 
 ## Guía rápida estructura JSON
 
-```
+```jsonc
  "noticiero-generico-id": {
         "nombre": "noticiero genérico",
         "logo": "https://logo.png",
         "señales": {
             "iframe_url": [
                 "https://...",
-    "https://...",
+                "https://...",
             ],
             "m3u8_url": [
                 "https://....m3u8"
@@ -999,42 +1094,21 @@ Categoría "classic"
     }
 ```
 
-- "noticiero-generico-id": Se recomienda usar mismo nombre canal reemplazando espacios con guiones tanto como escribirlo todo en minúsculas.
-- iframe_url y m3u8_url: son elementos de tipo array. Pueden contener más de un item separados por comas ["elemento1", "elemento2"...]
-- m3u8_url: esta destinado a solo enlaces finalizados en ".m3u8", no listas ".m3u".
-- yt_id: esta destinado al ID referente a un canal de Youtube [https://www.youtube.com/channel/yt_id]. No su Youtube Handle (@nombre)
-- país: Añade en base a ISO 3166, <https://flagcdn.com/en/codes.json>. Se recomiendo escribirlo en minúscula.
-- categoría: Categorías en ingles para compatibilidad con <https://github.com/iptv-org/iptv?tab=readme-ov-file#grouped-by-category>.
-  - Animation
-  - Auto
-  - Business
-  - Classic
-  - Comedy
-  - Cooking
-  - Culture
-  - Documentary
-  - Education
-  - Entertainment
-  - Family
-  - General
-  - Kids
-  - Legislative
-  - Lifestyle
-  - Movies
-  - Music
-  - News
-  - Outdoor
-  - Relax
-  - Religious
-  - Science
-  - Series
-  - Shop
-  - Sports
-  - Travel
-  - Weather
-  - XXX
-  - Undefined
-  - Existen categorías extras como: camera y radio.
+| Campo                 | Tipo   | Descripción                                                                                                                                                                                                               |
+|-----------------------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| noticiero-generico-id | string | ID único del canal, en minúsculas y con espacios reemplazados por guiones.                                                                                                                                                |
+| nombre                | string | Nombre del canal                                                                                                                                                                                                          |
+| logo                  | string | URL del logo del canal (PNG, SVG, JPG...)                                                                                                                                                                                 |
+| señales               | object | Contiene las URLs de las señales del canal.                                                                                                                                                                               |
+| iframe_url            | array  | Enlaces directos a sitios web que contengan reproductores del canal, embeds y/o señales que requieran tokens para reproducirse.                                                                                           |
+| m3u8_url              | array  | Destinado a solo enlaces finalizados en ".m3u8" (HLS), no listas ".m3u"                                                                                                                                                   |
+| yt_id                 | string | ID referente a un canal de Youtube [https://www.youtube.com/channel/yt_id]. No su Youtube Handle [@nombre]                                                                                                                |
+| yt_embed              | string | Para señales conocidas por no reiniciar su transimision (evitando asi el cambio de su URL) tanto como para casos donde un canal contenga multiples señales en directo activas. [https://www.youtube.com/watch?v=yt_embed] |
+| yt_playlist           | string | ID Youtube playlists [https://www.youtube.com/playlist?list=yt_playlist]                                                                                                                                                  |
+| twitch_id             | string | ID referente a un canal de Twitch [https://www.twitch.tv/twitch_id]                                                                                                                                                       |
+| sitio_oficial         | string | Enlace sitio web oficial de canal.                                                                                                                                                                                        |
+| país                  | string | Añade en base a ISO 3166, https://flagcdn.com/en/codes.json. Se recomiendo escribirlo en minúscula.                                                                                                                       |
+| categoría             | string | Categorías en ingles para compatibilidad con https://iptv-org.github.io/api/categories.json.                                                                                                                              |
 
 ## Herramientas obtener yt_id
 
@@ -1045,8 +1119,6 @@ Categoría "classic"
 
 - <https://viloud.tv/hls-stream-tester/>
 - <https://castr.com/hlsplayer/>
-- <https://codepen.io/alplox/pen/xxbwrMg>
 - <https://iptv-org.github.io/>
-- <https://alplox.github.io/json-teles/>
 
 [![Visits Badge](https://badges.strrl.dev/visits/Alplox/json-teles)](https://badges.strrl.dev)
