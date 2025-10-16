@@ -25,7 +25,6 @@ Evitar que muera todo el repositorio en caso de querer eliminar alguna señal.
 
 [https://alplox.github.io/json-teles/](https://alplox.github.io/json-teles/)
 
-
 ## Canales disponibles junto a su origen
 
 (clic para expandir)
@@ -33,6 +32,7 @@ Evitar que muera todo el repositorio en caso de querer eliminar alguna señal.
 <summary>Canales por País 🌐</summary>
 
 Canales "Chile"
+
 - [24 horas](https://www.24horas.cl/envivo/) [news]
 - [Meganoticias](https://www.mega.cl/) [news]
 - [T13](https://www.t13.cl/en-vivo) [news]
@@ -178,9 +178,14 @@ Canales "Chile"
 - [Halcón Parquemet, Cumbre](https://halcon.parquemet.cl/index.html) [outdoor]
 - [Halcón Parquemet, Terraza](https://halcon.parquemet.cl/index.html) [outdoor]
 - [Municipalidad Osorno](https://www.municipalidadosorno.cl/) [outdoor]
+- [ConceCam](https://www.concecam.cl/) [outdoor]
+- [Manupuntocl - Valparaiso](https://www.youtube.com/channel/UCXaQjESu5cdF1CGH1aAA52Q) [outdoor]
+- [sanantonioimagen - San Antonio](https://www.youtube.com/channel/UCprCdxrg_u9E9hhc-MZDk5A) [outdoor]
+- [La Serena Drone](https://www.youtube.com/channel/UCQJzBVoVLCLe1G7tIxXDc6w) [outdoor]
 - [Portal Foxmix Chile](https://www.portalfoxmix.cl/tv/) [music]
 
 Canales "Argentina"
+
 - [Todonoticias](https://tn.com.ar/envivo/24hs/) [news]
 - [C5N](https://www.c5n.com/vivo) [news]
 - [Net TV](https://www.canalnet.tv/page/senal-en-vivo) [news]
@@ -217,6 +222,7 @@ Canales "Argentina"
 - [Carburando](https://www.carburando.com/) [auto]
 
 Canales "Bolivia"
+
 - [Unitel Bolivia](https://television.unitel.bo/vivo) [news]
 - [RTP BOLIVIA](https://rtpbolivia.com.bo/) [news]
 - [Noticias Bolivisión Al Día](https://www.redbolivision.tv.bo/envivo-canal-5/) [news]
@@ -227,6 +233,7 @@ Canales "Bolivia"
 - [Gogoplaytv](https://www.gogoplaytv.com/) [entertainment]
 
 Canales "Brasil"
+
 - [Record News](https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw) [news]
 - [REDE BRASIL OFICIAL](https://tv.redebrasiloficial.com.br/) [news]
 - [UOL](https://www.uol.com.br/) [news]
@@ -235,9 +242,11 @@ Canales "Brasil"
 - [BRADO](https://www.bradojornal.com/) [music]
 
 Canales "Costa Rica"
+
 - [Multimedios Costa Rica](https://www.telediario.cr/television) [news]
 
 Canales "Colombia"
+
 - [EL TIEMPO](https://www.eltiempo.com/) [news]
 - [Noticias Caracol](https://www.noticiascaracol.com/ahora) [news]
 - [LA FM Colombia](https://www.lafm.com.co/) [news]
@@ -256,10 +265,12 @@ Canales "Colombia"
 - [Canal Institucional TV (Colombia)](https://www.canalinstitucional.tv/) [general]
 
 Canales "Paraguay"
+
 - [1000 Noticias](https://1000noticias.com.py/) [news]
 - [ABC-TV (Paraguay)](https://www.abc.com.py/) [general]
 
 Canales "Perú"
+
 - [TVPerú Noticias](https://www.tvperu.gob.pe/noticias/play) [news]
 - [Panamericana TV](https://panamericana.pe/tvenvivo) [news]
 - [Onda Digital TV](https://ondadigitaltv.com) [news]
@@ -283,6 +294,7 @@ Canales "Perú"
 - [Radio Uno 93.7 FM](https://radiouno.pe/) [music]
 
 Canales "Panamá"
+
 - [Telemetro Reporta](https://www.telemetro.com/endirecto) [news]
 - [Alvaro Alvarado - Noticias 180 Minutos](https://www.youtube.com/channel/UC4RoqlERckC4gIhLEGb9Jjw) [news]
 - [FARO TV](https://www.youtube.com/channel/UCH70iZotY9DHPZA_XCJbXGQ) [news]
@@ -290,6 +302,7 @@ Canales "Panamá"
 - [Telemetro](https://www.telemetro.com/endirecto) [general]
 
 Canales "Venezuela"
+
 - [Globovisión En Vivo](https://www.globovision.com/) [news]
 - [VPItv](https://vpitv.com/en-vivo/) [news]
 - [Imesat News TV](https://www.youtube.com/channel/UC1gcFVHhxnbdVqZ8gRziDkg) [news]
@@ -310,10 +323,12 @@ Canales "Venezuela"
 - [Canal Cultura Venezuela](https://culturavenezuela.com/emision-en-directo/) [culture]
 
 Canales "Honduras"
+
 - [HCH En Vivo](https://hch.tv/live/) [news]
 - [METRO TV CHOLUTECA HONDURAS](https://www.lametrohn.com/) [news]
 
 Canales "México"
+
 - [ImagenTV](https://www.imagentv.com/en-vivo) [news]
 - [Imagen Televisión Puebla](https://www.imagentv.com/en-vivo) [news]
 - [TelediarioMx](https://www.telediario.mx/television) [news]
@@ -339,6 +354,7 @@ Canales "México"
 - [Fideicomiso de Puentes Fronterizos de Chihuahua](https://puentesfronterizos.gob.mx/) [outdoor]
 
 Canales "España"
+
 - [RTVE Noticias](https://www.rtve.es/noticias) [news]
 - [Televisión de Galicia](https://agalega.gal/) [news]
 - [Málaga 24h TV Noticias](https://malaga24h.com/directo-de-malaga-24-horas/) [news]
@@ -347,6 +363,7 @@ Canales "España"
 - [Cámaras de tráfico de Vigo](https://www.youtube.com/channel/UC30mmDZa-tMpIS-cIXoErsA) [outdoor]
 
 Canales "Ecuador"
+
 - [Ecuavisa](https://www.ecuavisa.com/envivo) [news]
 - [Ecotel TV](https://www.ecotel.tv/) [news]
 - [Catomedia UCSG](https://catomedia.net/) [news]
@@ -361,15 +378,19 @@ Canales "Ecuador"
 - [Sonorama TV](https://www.youtube.com/channel/UCGOHw6AjriiGhkJnDAhJsRA) [music]
 
 Canales "República Dominicana"
+
 - [Una Nueva Mañana](https://unanuevamanana.com/) [general]
 
 Canales "El Salvador"
+
 - [TCS Noticias](https://www.esmitv.com/) [news]
 
 Canales "Canadá"
+
 - [Global News](https://globalnews.ca/live/national/) [news]
 
 Canales "Estados Unidos"
+
 - [ABC7 SWFL](https://www.abc-7.com/) [news]
 - [ABC News](https://abcnews.go.com/Live) [news]
 - [Agenda-Free TV](https://twitter.com/agendafreetv) [news]
@@ -401,6 +422,7 @@ Canales "Estados Unidos"
 - [Virgin Galactic](https://www.virgingalactic.com/) [science]
 
 Canales "Francia"
+
 - [euronews (Español)](https://es.euronews.com/) [news]
 - [euronews (English)](https://www.euronews.com/) [news]
 - [euronews Русский](https://ru.euronews.com/) [news]
@@ -410,6 +432,7 @@ Canales "Francia"
 - [franceinfo](https://www.francetvinfo.fr/) [news]
 
 Canales "Alemania"
+
 - [DW Español](https://www.dw.com/es) [news]
 - [DW News](https://www.dw.com/en) [news]
 - [DW عربية](https://www.dw.com/ar) [news]
@@ -417,28 +440,34 @@ Canales "Alemania"
 - [We Are Diamond](https://wearediamond.net/) [music]
 
 Canales "Ucrania"
+
 - [24 Канал онлайн](https://24tv.ua/online/) [news]
 - [Суспільне Новини](https://suspilne.media/) [news]
 
 Canales "China"
+
 - [三立iNEWS](https://live.setn.com/) [news]
 - [中視新聞 HD直播頻道](https://www.ctv.com.tw/) [news]
 - [CGTN](https://www.cgtn.com/) [news]
 - [民視新聞網 Formosa TV News network](https://www.ftvnews.com.tw/live/live-channel/) [news]
 
 Canales "Taiwán"
+
 - [華視新聞 CH52](https://news.cts.com.tw/) [news]
 
 Canales "Japón"
+
 - [NHK World](https://www3.nhk.or.jp/nhkworld/en/live/) [news]
 - [ANNnewsCH](https://news.tv-asahi.co.jp/) [news]
 - [HTB北海道ニュース](https://www.htb.co.jp/news/) [news]
 - [Aoba traffics](https://www.youtube.com/channel/UCynDLZ-YJnrMLSQvwYi-bUA) [outdoor]
 
 Canales "Turquía"
+
 - [TRT World](https://www.trtworld.com/) [news]
 
 Canales "India"
+
 - [ABP MAJHA](https://marathi.abplive.com/live-tv) [news]
 - [Good News Today](https://www.gnttv.com/livetv) [news]
 - [ABN Telugu](https://www.andhrajyothy.com/live-tv) [news]
@@ -470,13 +499,16 @@ Canales "India"
 - [ABN Digital Exclusives](https://www.youtube.com/channel/UCMIobchb8wgycijrgc1UnZw) [general]
 
 Canales "Bangladesh"
+
 - [BanglaVision LIVE](https://www.bvnews24.com/live/) [news]
 
 Canales "Catar"
+
 - [Al Jazeera English](https://www.aljazeera.com/live/) [news]
 - [AlJazeera Channel قناة الجزيرة](https://www.aljazeera.com/live/) [news]
 
 Canales "Italia"
+
 - [Vatican News](https://www.vaticannews.va/en.html) [religious]
 - [Vatican News English](https://www.vaticannews.va/en.html) [religious]
 - [Vatican News Español](https://www.vaticannews.va/en.html) [religious]
@@ -489,6 +521,7 @@ Canales "Italia"
 - [Vatican News 中文](https://www.vaticannews.va/en.html) [religious]
 
 Canales "Pakistán"
+
 - [City 21 News](https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw) [news]
 - [AlQuranHD القران الكريم](https://www.youtube.com/channel/UCraPI8sg-eiNzUrurxhKeEQ) [religious]
 - [Talon News HD](https://www.youtube.com/channel/UCooaD1RPqtX2mY4yNc1PPqw) [news]
@@ -497,27 +530,34 @@ Canales "Pakistán"
 - [Dunya News](https://dunyanews.tv/live/) [news]
 
 Canales "Inglaterra"
+
 - [GBNews](https://www.gbnews.com/watch/live) [news]
 
 Canales "Singapur"
+
 - [CNA](https://www.channelnewsasia.com/) [news]
 
 Canales "República Centroafricana"
+
 - [Channels Television](https://www.channelstv.com/live) [news]
 - [africanews](https://www.africanews.com/live/) [news]
 - [TVGE (Ginea Ecuatorial)](https://tvgelive.gq/) [general]
 - [NamibiaCam](https://www.youtube.com/channel/UC9X6gGKDv2yhMoofoeS7-Gg) [outdoor]
 
 Canales "Australia"
+
 - [ABC News AU](https://www.abc.net.au/news/) [news]
 
 Canales "Hawái"
+
 - [Aqualink Hawaii](https://www.youtube.com/channel/UCTLF36lXVM7uiR-VolWHv0Q) [outdoor]
 
 Canales "Corea del Sur"
+
 - [Daily Seoul Live outdoor - Hangang](https://www.youtube.com/channel/UCQKQTgZJo3PlxA-9V1Z51XA) [outdoor]
 
 Canales "País Desconocido"
+
 - [Lofi Girl](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) [music]
 - [Chillhop](https://live.chillhop.com) [music]
 - [Steezyasfuck](https://www.stzzzy.com/) [music]
@@ -573,6 +613,7 @@ Canales "País Desconocido"
 <summary>Canales por Categoría 📻</summary>
 
 Categoría "news"
+
 - [24 horas](https://www.24horas.cl/envivo/) [Chile]
 - [Meganoticias](https://www.mega.cl/) [Chile]
 - [T13](https://www.t13.cl/en-vivo) [Chile]
@@ -763,6 +804,7 @@ Categoría "news"
 - [ABC News AU](https://www.abc.net.au/news/) [Australia]
 
 Categoría "music"
+
 - [Radio Cooperativa](http://programas.cooperativa.cl/showalairelibre/) [Chile]
 - [Radio Biobio TV](https://www.biobiochile.cl/biobiotv/) [Chile]
 - [Radio ADN](https://www.adnradio.cl/noticias/videos/) [Chile]
@@ -858,6 +900,7 @@ Categoría "music"
 - [BGM Totoro Studio](https://www.youtube.com/channel/UCdg_xadHqcIT40t-rgwuSZg) [Desconocido]
 
 Categoría "general"
+
 - [TVN](https://www.youtube.com/channel/UCaVaCaiG6qRzDiJDuEGKOhQ) [Chile]
 - [TV Chile](https://www.tvn.cl/tvchile/envivo) [Chile]
 - [Mega](https://www.mega.cl/) [Chile]
@@ -969,6 +1012,7 @@ Categoría "general"
 - [TVGE (Ginea Ecuatorial)](https://tvgelive.gq/) [República Centroafricana]
 
 Categoría "culture"
+
 - [TVN 3](https://www.tvn.cl/tvn3) [Chile]
 - [NTV](https://www.tvn.cl/ntv) [Chile]
 - [13 Cultura](https://www.13.cl/c) [Chile]
@@ -976,6 +1020,7 @@ Categoría "culture"
 - [Canal Cultura Venezuela](https://culturavenezuela.com/emision-en-directo/) [Venezuela]
 
 Categoría "entertainment"
+
 - [13 Entretención](https://www.13.cl/) [Chile]
 - [13 Realities](https://www.13.cl/) [Chile]
 - [13 Teleseries](https://www.13.cl/) [Chile]
@@ -983,16 +1028,20 @@ Categoría "entertainment"
 - [Gogoplaytv](https://www.gogoplaytv.com/) [Bolivia]
 
 Categoría "sports"
+
 - [MegaDeportes](https://www.meganoticias.cl/deportes/) [Chile]
 - [Tierra de Dragones](https://tierradedragones.cl/online/) [Chile]
 
 Categoría "lifestyle"
+
 - [TV Salud](https://tvsalud.cl/) [Chile]
 
 Categoría "Business"
+
 - [Canal País](https://www.canalpais.com/en-vivo) [Chile]
 
 Categoría "kids"
+
 - [TV Educa Chile](https://www.tvn.cl/envivo/tveducachile/) [Chile]
 - [Nickelodeon en Español](https://www.youtube.com/channel/UCNeq3Obf4zOv5rhORI8Vz5g) [Desconocido]
 - [Cartoon Network LA](https://www.youtube.com/channel/UCQySZQ6rrgJXRuonMwIIGMA) [Desconocido]
@@ -1001,12 +1050,14 @@ Categoría "kids"
 - [Peacock jr](https://www.youtube.com/channel/UCKtfozhWfwvXUTnR7PV3t5g) [Desconocido]
 
 Categoría "legislative"
+
 - [TV Senado](https://tv.senado.cl/) [Chile]
 - [Tribunal Constitucional](https://www2.tribunalconstitucional.cl/) [Chile]
 - [Poder Judicial](https://www.poderjudicialtv.cl/) [Chile]
 - [Cámara Diputados](http://www.cdtv.cl/) [Chile]
 
 Categoría "outdoor"
+
 - [Nuevas Comunicaciones](https://www.youtube.com/channel/UCMvQGOyumsXP4V7dGAdIKWg) [Chile]
 - [Marejadas UV](https://marejadas.uv.cl/) [Chile]
 - [Ledrium](https://www.goledrium.cl/) [Chile]
@@ -1014,6 +1065,10 @@ Categoría "outdoor"
 - [Halcón Parquemet, Cumbre](https://halcon.parquemet.cl/index.html) [Chile]
 - [Halcón Parquemet, Terraza](https://halcon.parquemet.cl/index.html) [Chile]
 - [Municipalidad Osorno](https://www.municipalidadosorno.cl/) [Chile]
+- [ConceCam](https://www.concecam.cl/) [Chile]
+- [Manupuntocl - Valparaiso](https://www.youtube.com/channel/UCXaQjESu5cdF1CGH1aAA52Q) [Chile]
+- [sanantonioimagen - San Antonio](https://www.youtube.com/channel/UCprCdxrg_u9E9hhc-MZDk5A) [Chile]
+- [La Serena Drone](https://www.youtube.com/channel/UCQJzBVoVLCLe1G7tIxXDc6w) [Chile]
 - [Ushuaia Live](https://www.youtube.com/channel/UC6NTD1HmdaZMbe9K5qADOvw) [Argentina]
 - [FourSeasons BuenosAires](https://www.youtube.com/channel/UCCkRwmztPEvut3gpsgmCmzw) [Argentina]
 - [SISE Argentina](https://siseargentina.com/camaras-en-vivo/) [Argentina]
@@ -1033,15 +1088,18 @@ Categoría "outdoor"
 - [afarTV](https://afar.tv/) [Desconocido]
 
 Categoría "auto"
+
 - [Carburando](https://www.carburando.com/) [Argentina]
 
 Categoría "science"
+
 - [NASA Live](https://www.nasa.gov/) [Estados Unidos]
 - [SpaceX](https://www.spacex.com/) [Estados Unidos]
 - [Blue Origin](https://www.blueorigin.com/) [Estados Unidos]
 - [Virgin Galactic](https://www.virgingalactic.com/) [Estados Unidos]
 
 Categoría "religious"
+
 - [Vatican News](https://www.vaticannews.va/en.html) [Italia]
 - [Vatican News English](https://www.vaticannews.va/en.html) [Italia]
 - [Vatican News Español](https://www.vaticannews.va/en.html) [Italia]
@@ -1055,15 +1113,18 @@ Categoría "religious"
 - [AlQuranHD القران الكريم](https://www.youtube.com/channel/UCraPI8sg-eiNzUrurxhKeEQ) [Pakistán]
 
 Categoría "relax"
+
 - [Bob Ross (Todas las Temporadas)](https://www.youtube.com/channel/UCxcnsr1R5Ge_fbTu5ajt8DQ) [Desconocido]
 
 Categoría "animation"
+
 - [Robocar POLI TV](https://www.youtube.com/channel/UCr-rCvgg21KqfrnGopaQeGw) [Desconocido]
 - [Bob Esponja en Español](https://www.youtube.com/channel/UCMfYMB69Y1B-SlGKm1Tdb0Q) [Desconocido]
 - [El Increíble Mundo de Gumball LA](https://www.youtube.com/channel/UCEsK4_SMT6zgDVUwuLHvo8g) [Desconocido]
 - [Shaun the Sheep Official](https://www.youtube.com/channel/UCS7H8U-n5mINVJjJsaRtGHg) [Desconocido]
 
 Categoría "classic"
+
 - [KawaiiGames](https://www.youtube.com/channel/UCGmvywjUliYi6MSwg_FuW_g) [Desconocido]
 - [Game Master TV](https://www.youtube.com/channel/UC1AFNoYDu-Rub31kwug5drA) [Desconocido]
 
@@ -1107,8 +1168,8 @@ Categoría "classic"
 | yt_playlist           | string | ID Youtube playlists [https://www.youtube.com/playlist?list=yt_playlist]                                                                                                                                                  |
 | twitch_id             | string | ID referente a un canal de Twitch [https://www.twitch.tv/twitch_id]                                                                                                                                                       |
 | sitio_oficial         | string | Enlace sitio web oficial de canal.                                                                                                                                                                                        |
-| país                  | string | Añade en base a ISO 3166, https://flagcdn.com/en/codes.json. Se recomiendo escribirlo en minúscula.                                                                                                                       |
-| categoría             | string | Categorías en ingles para compatibilidad con https://iptv-org.github.io/api/categories.json.                                                                                                                              |
+| país                  | string | Añade en base a ISO 3166, <https://flagcdn.com/en/codes.json>. Se recomiendo escribirlo en minúscula.                                                                                                                       |
+| categoría             | string | Categorías en ingles para compatibilidad con <https://iptv-org.github.io/api/categories.json>.                                                                                                                              |
 
 ## Herramientas obtener yt_id
 

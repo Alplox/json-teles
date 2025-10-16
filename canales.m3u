@@ -153,8 +153,10 @@ https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 https://v1.tustreaming.cl/nubletv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Ñublevision" tvg-logo="https://graph.facebook.com/nublevision/picture?width=800&height=800" group-title="general", Ñublevision (2) [CL]
 https://v1.tustreaming.cl/nubletv/index.m3u8
-#EXTINF:-1 tvg-name="Ñuble RVT" tvg-logo="https://graph.facebook.com/RTVNUBLE/picture?width=800&height=800" group-title="general", Ñuble RVT [CL]
-https://paneltv.online:1936/8050/8050/playlist.m3u8
+#EXTINF:-1 tvg-name="Ñuble RVT" tvg-logo="https://graph.facebook.com/RTVNUBLE/picture?width=800&height=800" group-title="general", Ñuble RVT (1) [CL]
+https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Ñuble RVT" tvg-logo="https://graph.facebook.com/RTVNUBLE/picture?width=800&height=800" group-title="general", Ñuble RVT (2) [CL]
+https://tv.arkeo.cl:1936/canalrtv/canalrtv/chunklist.m3u8
 #EXTINF:-1 tvg-name="Pingüino TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Pinguino_TV.png" group-title="general", Pingüino TV (1) [CL]
 https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Pingüino TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Pinguino_TV.png" group-title="general", Pingüino TV (2) [CL]

@@ -1059,7 +1059,9 @@
     "nombre": "Ñublevision",
     "logo": "https://graph.facebook.com/nublevision/picture?width=800&height=800",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://v2.tustreaming.cl/VideoPlayer/nubletv"
+      ],
       "m3u8_url": [
         "https://v1.tustreaming.cl/nubletv/tracks-v1a1/mono.m3u8",
         "https://v1.tustreaming.cl/nubletv/index.m3u8"
@@ -1077,11 +1079,14 @@
     "nombre": "Ñuble RVT",
     "logo": "https://graph.facebook.com/RTVNUBLE/picture?width=800&height=800",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [
-        "https://paneltv.online:1936/8050/8050/playlist.m3u8"
+      "iframe_url": [
+        "https://tv.arkeo.cl/VideoPlayer/canalrtv?autoplay=1"
       ],
-      "yt_id": "",
+      "m3u8_url": [
+        "https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8",
+        "https://tv.arkeo.cl:1936/canalrtv/canalrtv/chunklist.m3u8"
+      ],
+      "yt_id": "UCX5f3-dP2vf1taBSSR62WJg",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
@@ -2710,7 +2715,7 @@
   },
   "muni-osorno": {
     "nombre": "Municipalidad Osorno",
-    "logo": "",
+    "logo": "https://www.municipalidadosorno.cl/img/logo_img_footer.png",
     "señales": {
       "iframe_url": [],
       "m3u8_url": [],
@@ -2720,6 +2725,66 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.municipalidadosorno.cl/",
+    "país": "cl",
+    "categoría": "outdoor"
+  },
+  "concecam": {
+    "nombre": "ConceCam",
+    "logo": "https://yt3.googleusercontent.com/AchF_zMekNiXUURd3hHdeJvXxVmU5XSgk6GmrcjcBfbVVmWB-Q2zVpH3DnLZINUpC9xJBjhA5w=s900-c-k-c0x00ffffff-no-rj",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCJizf5PzUJ88hro1m-cUcSA",
+      "yt_embed": "RhdmP5017VM",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.concecam.cl/",
+    "país": "cl",
+    "categoría": "outdoor"
+  },
+  "manupuntocl": {
+    "nombre": "Manupuntocl - Valparaiso",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_n-qhDu7Zb1hVUTacpdBWa6eKtqrk3TjAK1Adl8LB7R_Q=s900-c-k-c0x00ffffff-no-rj",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCXaQjESu5cdF1CGH1aAA52Q",
+      "yt_embed": "2op3_aYG6ho",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCXaQjESu5cdF1CGH1aAA52Q",
+    "país": "cl",
+    "categoría": "outdoor"
+  },
+"sanantonioimagen": {
+    "nombre": "sanantonioimagen - San Antonio",
+    "logo": "https://yt3.googleusercontent.com/SqvDZujVnu6DQR4eoxFdT0GPUJe8-5KEYT9u2w1-aCc2FldKpTepwcpyQTiR87uRtwCkvL94=s900-c-k-c0x00ffffff-no-rj",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCprCdxrg_u9E9hhc-MZDk5A",
+      "yt_embed": "79PtdSvv1Xc",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCprCdxrg_u9E9hhc-MZDk5A",
+    "país": "cl",
+    "categoría": "outdoor"
+  },
+  "la-serena-drone": {
+    "nombre": "La Serena Drone",
+    "logo": "https://yt3.googleusercontent.com/Wg8gb4tBcMOTAH0P421Gv3wH1TRWuMNMJ8-M1a-aAcvCqrSBCMNQwjNI_yv3cSPYIVSrgqcmOVM=s900-c-k-c0x00ffffff-no-rj",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCQJzBVoVLCLe1G7tIxXDc6w",
+      "yt_embed": "c01mivPXWbE",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCQJzBVoVLCLe1G7tIxXDc6w",
     "país": "cl",
     "categoría": "outdoor"
   },
