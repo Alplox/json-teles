@@ -17,8 +17,10 @@ https://jireh-4-hls-video-cl-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/playlist.
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
 #EXTINF:-1 tvg-name="Radio Cooperativa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Radio_Cooperativa_Logo.svg" group-title="music", Radio Cooperativa [CL]
 https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Biobio TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Biobio_TV_logo.jpg" group-title="music", Radio Biobio TV [CL]
+#EXTINF:-1 tvg-name="Radio Biobio TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Biobio_TV_logo.jpg" group-title="music", Radio Biobio TV (1) [CL]
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Biobio TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Biobio_TV_logo.jpg" group-title="music", Radio Biobio TV (2) [CL]
+https://pantera1-100gb-cl-movistar.dps.live/bbclccp/bbclccp.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio ADN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/ADN_Radio_Chile.svg" group-title="music", Radio ADN (1) [CL]
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio ADN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/ADN_Radio_Chile.svg" group-title="music", Radio ADN (2) [CL]
@@ -41,8 +43,10 @@ https://v1.tustreaming.cl:19360/genialtv/genialtv.m3u8
 https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio La Clave" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Logo_La_Clave_2019.png" group-title="music", Radio La Clave (2) [CL]
 https://pantera1-100gb-cl-movistar.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio El Conquistador FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Radio_El_Conquistador_91.3_FM.jpg" group-title="music", Radio El Conquistador FM [CL]
+#EXTINF:-1 tvg-name="Radio El Conquistador FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Radio_El_Conquistador_91.3_FM.jpg" group-title="music", Radio El Conquistador FM (1) [CL]
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio El Conquistador FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Radio_El_Conquistador_91.3_FM.jpg" group-title="music", Radio El Conquistador FM (2) [CL]
+https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8
 #EXTINF:-1 tvg-name="Radio El Sembrador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Radio_El_Sembrador.png" group-title="music", Radio El Sembrador [CL]
 https://tv.streaming-chile.com:19360/elsembrador/elsembrador.m3u8
 #EXTINF:-1 tvg-name="Radio Ñuble 89.7 FM" tvg-logo="https://graph.facebook.com/laNuble/picture?width=800&height=800" group-title="music", Radio Ñuble 89.7 FM [CL]
@@ -53,9 +57,9 @@ https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8
 https://mdstrm.com/audio/5c915613519bce27671c4caa/live.m3u8
 #EXTINF:-1 tvg-name="Tele13 Radio" tvg-logo="https://graph.facebook.com/Tele13Radio/picture?width=800&height=800" group-title="music", Tele13 Radio (2) [CL]
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="La MetroFM" tvg-logo="" group-title="music", La MetroFM (1) [CL]
+#EXTINF:-1 tvg-name="La MetroFM" tvg-logo="https://lametrofm.cl/wp-content/uploads/2025/03/LOGO_2025_fm-removebg-preview1.png" group-title="music", La MetroFM (1) [CL]
 https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/metropolitanatv/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-name="La MetroFM" tvg-logo="" group-title="music", La MetroFM (2) [CL]
+#EXTINF:-1 tvg-name="La MetroFM" tvg-logo="https://lametrofm.cl/wp-content/uploads/2025/03/LOGO_2025_fm-removebg-preview1.png" group-title="music", La MetroFM (2) [CL]
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="AGRICULTURA TV" tvg-logo="https://graph.facebook.com/RadioAgricultura/picture?width=800&height=800" group-title="music", AGRICULTURA TV (1) [CL]
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
@@ -67,6 +71,10 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 https://mdstrm.com/live-stream-playlist/6580414b99f9d36397019551.m3u8
 #EXTINF:-1 tvg-name="Pauta" tvg-logo="https://graph.facebook.com/pauta.cl/picture?width=800&height=800" group-title="music", Pauta [CL]
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Puangue Curacaví" tvg-logo="https://radiopuanguecuracavi.cl/wp-content/uploads/2024/11/Logo.png" group-title="music", Radio Puangue Curacaví [CL]
+https://micanal.ovh/livestreams/242.7KDFJNBISVRZ.m3u8
+#EXTINF:-1 tvg-name="Nina FM" tvg-logo="https://graph.facebook.com/ninaladiferente/picture?width=800&height=800" group-title="music", Nina FM [CL]
+https://tv1.ninatv.cl/web/stream.m3u8
 #EXTINF:-1 tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg" group-title="general", TVN (1) [CL]
 https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8
 #EXTINF:-1 tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg" group-title="general", TVN (2) [CL]
@@ -117,6 +125,16 @@ https://dai.google.com/linear/hls/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 https://origin.dpsgo.com/ssai/event/WKlE4m31TOijQS05TZmhqw/master.m3u8
 #EXTINF:-1 tvg-name="13 Pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/13pop.svg" group-title="entertainment", 13 Pop (2) [CL]
 https://dai.google.com/linear/hls/event/WKlE4m31TOijQS05TZmhqw/master.m3u8
+#EXTINF:-1 tvg-name="13 Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/13kids.svg" group-title="kids", 13 Kids [CL]
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 tvg-name="Canal 13 (Señal de Pruebas)" tvg-logo="" group-title="general", Canal 13 (Señal de Pruebas) [CL]
+https://jireh-9-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13live/13live.smil/13live/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-name="13 Deportes" tvg-logo="https://s.t13.cl/sites/default/files/t13/componentes/field-componente-logo/deportes13_1.png" group-title="sports", 13 Deportes [CL]
+https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
+#EXTINF:-1 tvg-name="13 FutGO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/FutGo.svg" group-title="sports", 13 FutGO [CL]
+https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8
+#EXTINF:-1 tvg-name="CHV Deportes" tvg-logo="" group-title="sports", CHV Deportes [CL]
+https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8
 #EXTINF:-1 tvg-name="La Voz De Los Que Sobran" tvg-logo="https://graph.facebook.com/delosquesobran/picture?width=800&height=800" group-title="general", La Voz De Los Que Sobran (1) [CL]
 https://unlimited1-cl-isp.dps.live/lvdlqs/lvdlqs.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="La Voz De Los Que Sobran" tvg-logo="https://graph.facebook.com/delosquesobran/picture?width=800&height=800" group-title="general", La Voz De Los Que Sobran (2) [CL]
@@ -147,7 +165,7 @@ https://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/tvu/tvu.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TVU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_tvu.png" group-title="general", TVU (3) [CL]
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Logo_Canal_21.jpg" group-title="general", Canal 21 [CL]
+#EXTINF:-1 tvg-name="Canal 1 Ñuble" tvg-logo="https://images.squarespace-cdn.com/content/v1/670e696722c95f04171e0924/c9b5d2ac-2f70-40e1-beed-78d39108f657/_Canal+Uno_.png" group-title="general", Canal 1 Ñuble [CL]
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Ñublevision" tvg-logo="https://graph.facebook.com/nublevision/picture?width=800&height=800" group-title="general", Ñublevision (1) [CL]
 https://v1.tustreaming.cl/nubletv/tracks-v1a1/mono.m3u8
@@ -299,6 +317,8 @@ https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
 https://5ff3d9babae13.streamlock.net:443/fzkqsdfray/fzkqsdfray/playlist.m3u8
 #EXTINF:-1 tvg-name="Sextavision" tvg-logo="https://sextavision.cl/wp-content/uploads/2024/06/cropped-ojo-SV-32x32.png" group-title="general", Sextavision (3) [CL]
 https://5ff3d9babae13.streamlock.net:1936/fzkqsdfray/fzkqsdfray/playlist.m3u8
+#EXTINF:-1 tvg-name="Tevex Oficial" tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg" group-title="general", Tevex Oficial [CL]
+https://v4.tustreaming.cl:443/tevexinter/index.m3u8
 #EXTINF:-1 tvg-name="Radio Graneros TV" tvg-logo="https://www.radiograneros.cl/imagen/logoradiograneros.jpg" group-title="music", Radio Graneros TV (1) [CL]
 https://5ff3d9babae13.streamlock.net/rravdcnywy/rravdcnywy/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Graneros TV" tvg-logo="https://www.radiograneros.cl/imagen/logoradiograneros.jpg" group-title="music", Radio Graneros TV (2) [CL]
@@ -409,6 +429,10 @@ https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 https://wowlive.grupoz.cl/camara/live/chunklist_w1358283897_DVR.m3u8
 #EXTINF:-1 tvg-name="Cámara Diputados" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Emblema_de_la_C%C3%A1mara_de_Diputados_de_Chile.png" group-title="legislative", Cámara Diputados (2) [CL]
 https://wowlive.grupoz.cl/camara/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Mediabanco Chile" tvg-logo="https://www.mediabanco.com/wp-content/uploads/2021/11/senal-logo2-1.png" group-title="outdoor", Mediabanco Chile (1) [CL]
+https://scl.edge.grupoz.cl/mediabanco_prueba/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Mediabanco Chile" tvg-logo="https://www.mediabanco.com/wp-content/uploads/2021/11/senal-logo2-1.png" group-title="outdoor", Mediabanco Chile (2) [CL]
+https://wowlive.grupoz.cl/mediabanco_prueba/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Portal Foxmix Chile" tvg-logo="https://graph.facebook.com/portalfoxmix/picture?width=800&height=800" group-title="music", Portal Foxmix Chile [CL]
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 tvg-name="Todonoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TN_todo_noticias_logo.svg" group-title="news", Todonoticias [AR]

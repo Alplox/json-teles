@@ -1,5 +1,6 @@
 Enlaces [iframe_url] rudo video se puede añadir al final ?autoplay
     Ejemplo: https://rudo.video/live/CANAL?autoplay
+Rudo video usa videojs y depende de cada configuración si toman parametros desde URL, la mayoria no por lo visto.
 
 Enlaces [iframe_url] dailymotion se puede añadir al final &autoplay=true&volume=0
     Ejemplo: https://geo.dailymotion.com/player/x5poh.html?video=CANAL&autoplay=true&volume=0

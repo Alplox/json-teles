@@ -88,7 +88,8 @@
     "señales": {
       "iframe_url": [
         "https://mdstrm.com/live-stream/6491ced935a5833c47dd7f41?volume=0",
-        "https://www.chvnoticias.cl/senal-online/"
+        "https://www.chvnoticias.cl/senal-online/",
+        "https://rudo.video/live/chvn"
       ],
       "m3u8_url": [
         "https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8"
@@ -142,10 +143,12 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Biobio_TV_logo.jpg",
     "señales": {
       "iframe_url": [
-        "https://rudo.video/live/bbtv"
+        "https://rudo.video/live/bbtv",
+        "https://rudo.video/live/bbclccp"
       ],
       "m3u8_url": [
-        "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8"
+        "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
+        "https://pantera1-100gb-cl-movistar.dps.live/bbclccp/bbclccp.smil/playlist.m3u8"
       ],
       "yt_id": "UCuvM3c8rmdApmk-g22shZ7w",
       "yt_embed": "",
@@ -353,7 +356,8 @@
         "https://rudo.video/live/elconquistadortv"
       ],
       "m3u8_url": [
-        "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8"
+        "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8",
+        "https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8"
       ],
       "yt_id": "UCiBkbU6jMFk1wRsgpCt_Rdw",
       "yt_embed": "",
@@ -473,7 +477,7 @@
   },
   "lametro95-9fm": {
     "nombre": "La MetroFM",
-    "logo": "",
+    "logo": "https://lametrofm.cl/wp-content/uploads/2025/03/LOGO_2025_fm-removebg-preview1.png",
     "señales": {
       "iframe_url": [
         "https://rudo.video/live/metropolitanatv",
@@ -583,6 +587,44 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.pauta.cl/",
+    "país": "cl",
+    "categoría": "music"
+  },
+  "radio-puangue-curacavi": {
+    "nombre": "Radio Puangue Curacaví",
+    "logo": "https://radiopuanguecuracavi.cl/wp-content/uploads/2024/11/Logo.png",
+    "señales": {
+      "iframe_url": [
+        "https://sonic.mallocohosting.cl/8036/stream"
+      ],
+      "m3u8_url": [
+        "https://micanal.ovh/livestreams/242.7KDFJNBISVRZ.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://radiopuanguecuracavi.cl/",
+    "país": "cl",
+    "categoría": "music"
+  },
+  "nina-fm": {
+    "nombre": "Nina FM",
+    "logo": "https://graph.facebook.com/ninaladiferente/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://sonic-us.arkeo.cl/8236/stream/"
+      ],
+      "m3u8_url": [
+        "https://tv1.ninatv.cl/web/stream.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://ninafm.cl/",
     "país": "cl",
     "categoría": "music"
   },
@@ -898,6 +940,112 @@
     "país": "cl",
     "categoría": "entertainment"
   },
+  "13-kids": {
+    "nombre": "13 Kids",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9b/13kids.svg",
+    "señales": {
+      "iframe_url": [
+        "https://rudo.video/live/13kids"
+      ],
+      "m3u8_url": [
+        "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.13.cl/",
+    "país": "cl",
+    "categoría": "kids"
+  },
+  "13-canal-pruebas": {
+    "nombre": "Canal 13 (Señal de Pruebas)",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://jireh-9-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13live/13live.smil/13live/livestream1/chunks.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.13.cl/",
+    "país": "cl",
+    "categoría": "general"
+  },
+  "13-deportes": {
+    "nombre": "13 Deportes",
+    "logo": "https://s.t13.cl/sites/default/files/t13/componentes/field-componente-logo/deportes13_1.png",
+    "señales": {
+      "iframe_url": [
+        "https://rudo.video/live/13d"
+      ],
+      "m3u8_url": [
+        "https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.13.cl/",
+    "país": "cl",
+    "categoría": "sports"
+  },
+  "13-futgo": {
+    "nombre": "13 FutGO",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4a/FutGo.svg",
+    "señales": {
+      "iframe_url": [
+        "https://rudo.video/live/futgo"
+      ],
+      "m3u8_url": [
+        "https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.13.cl/",
+    "país": "cl",
+    "categoría": "sports"
+  },
+  "chv-deportes": {
+    "nombre": "CHV Deportes",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://pluto.tv/latam/live-tv/638df6f8b63cf100075ccfa1",
+    "país": "cl",
+    "categoría": "sports"
+  },
+  "mega-tiempo": {
+    "nombre": "MegaTiempo",
+    "logo": "https://logowik.com/content/uploads/images/mega-tiempo-new2760.logowik.com.webp",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCMlbrjJMsxg5KRSLVN-hbeg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.megatiempo.cl/",
+    "país": "cl",
+    "categoría": "weather"
+  },
   "voz-sobran": {
     "nombre": "La Voz De Los Que Sobran",
     "logo": "https://graph.facebook.com/delosquesobran/picture?width=800&height=800",
@@ -1036,9 +1184,9 @@
     "país": "cl",
     "categoría": "general"
   },
-  "canal-21": {
-    "nombre": "Canal 21",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/Logo_Canal_21.jpg",
+  "canal-1-ñuble": {
+    "nombre": "Canal 1 Ñuble",
+    "logo": "https://images.squarespace-cdn.com/content/v1/670e696722c95f04171e0924/c9b5d2ac-2f70-40e1-beed-78d39108f657/_Canal+Uno_.png",
     "señales": {
       "iframe_url": [
         "https://live.grupoz.cl/7092f3c5b7a28815b97373b9d6e84df5"
@@ -1051,7 +1199,7 @@
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://www.canal21tv.cl/wp/en-vivo/",
+    "sitio_oficial": "https://www.canal1.cl/",
     "país": "cl",
     "categoría": "general"
   },
@@ -1937,6 +2085,55 @@
     "país": "cl",
     "categoría": "general"
   },
+  "via-x": {
+    "nombre": "Vía X",
+    "logo": "https://canalviax.com/wp-content/uploads/2022/12/verticallogo.png",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCdxumXNz0uUt_h9POWtR8pQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://canalviax.com/",
+    "país": "cl",
+    "categoría": "music"
+  },
+  "amikas": {
+    "nombre": "Amikas",
+    "logo": "https://amikas.cl/site-media/images/amikas-logo-300x103.png",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCV9vbBN4BVZYR13o9GA4DVw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "www.amikas.cl",
+    "país": "cl",
+    "categoría": "general"
+  },
+  "tevex-oficial": {
+    "nombre": "Tevex Oficial",
+    "logo": "https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg",
+    "señales": {
+      "iframe_url": [
+        "https://v4.tustreaming.cl:2000/VideoPlayer/tevexinter"
+      ],
+      "m3u8_url": [
+        "https://v4.tustreaming.cl:443/tevexinter/index.m3u8"
+      ],
+      "yt_id": "UC_ikcfLiZgPmw5P8Zre8YWg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://tevex.cl",
+    "país": "cl",
+    "categoría": "general"
+  },
   "radio-graneros-tv": {
     "nombre": "Radio Graneros TV",
     "logo": "https://www.radiograneros.cl/imagen/logoradiograneros.jpg",
@@ -2184,7 +2381,7 @@
     "logo": "https://tvinet.cl/site/wp-content/uploads/cropped-channels4_profile-192x192.jpg",
     "señales": {
       "iframe_url": [
-        "https://rudo.video/live/inet2?autoplay"
+        "https://rudo.video/live/inet2"
       ],
       "m3u8_url": [
         "https://pantera1-100gb-cl-movistar.dps.live/inet2/inet2.smil/playlist.m3u8",
@@ -2372,7 +2569,7 @@
     "logo": "https://www.surtv.cl/imagenes/logo.png",
     "señales": {
       "iframe_url": [
-        "https://rudo.video/live/surtv?autoplay"
+        "https://rudo.video/live/surtv"
       ],
       "m3u8_url": [
         "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8"
@@ -2590,7 +2787,9 @@
     "nombre": "Poder Judicial",
     "logo": "https://graph.facebook.com/PoderJudicialdeChile/picture?width=800&height=800",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://rudo.video/live/poderjudicial2"
+      ],
       "m3u8_url": [],
       "yt_id": "UCo0C1-ocUG9a0Yb3iO0V-xg",
       "yt_embed": "",
@@ -2684,7 +2883,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://g1.ipcamlive.com/player/player.php?alias=5a7084c9e0136&autoplay=true"
+        "https://g3.ipcamlive.com/player/player.php?alias=67619ece93982&autoplay=1"
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -2701,7 +2900,41 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://g1.ipcamlive.com/player/player.php?alias=5a7085fe914c0&autoplay=true"
+        "https://g3.ipcamlive.com/player/player.php?alias=6761ca2edaf46&autoplay=true"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://halcon.parquemet.cl/index.html",
+    "país": "cl",
+    "categoría": "outdoor"
+  },
+  "parquemet-antilen": {
+    "nombre": "Halcón Parquemet, Antilén",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://g3.ipcamlive.com/player/player.php?alias=6797ab2deab1c&autoplay=true"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://halcon.parquemet.cl/index.html",
+    "país": "cl",
+    "categoría": "outdoor"
+  },
+  "parquemet-polanco": {
+    "nombre": "Halcón Parquemet, Polanco",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://g3.ipcamlive.com/player/player.php?alias=6797cf0f11c15&autoplay=true"
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -2750,7 +2983,7 @@
       "iframe_url": [],
       "m3u8_url": [],
       "yt_id": "UCXaQjESu5cdF1CGH1aAA52Q",
-      "yt_embed": "2op3_aYG6ho",
+      "yt_embed": "5jPpMkg5daM",
       "yt_playlist": "",
       "twitch_id": ""
     },
@@ -2758,7 +2991,7 @@
     "país": "cl",
     "categoría": "outdoor"
   },
-"sanantonioimagen": {
+  "sanantonioimagen": {
     "nombre": "sanantonioimagen - San Antonio",
     "logo": "https://yt3.googleusercontent.com/SqvDZujVnu6DQR4eoxFdT0GPUJe8-5KEYT9u2w1-aCc2FldKpTepwcpyQTiR87uRtwCkvL94=s900-c-k-c0x00ffffff-no-rj",
     "señales": {
@@ -2785,6 +3018,89 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.youtube.com/channel/UCQJzBVoVLCLe1G7tIxXDc6w",
+    "país": "cl",
+    "categoría": "outdoor"
+  },
+  "mediabanco-cl": {
+    "nombre": "Mediabanco Chile",
+    "logo": "https://www.mediabanco.com/wp-content/uploads/2021/11/senal-logo2-1.png",
+    "señales": {
+      "iframe_url": [
+        "https://directorcloud.grupoz.cl/storage/players/9/sheduler_d3a8114f4939915baety698ytfeernbk.html",
+        "https://live.grupoz.cl/b45b976a3814f9ac1b41dd6c3a1fe273",
+        "https://rudo.video/live/mediabanco",
+        "ttps://rudo.video/live/mediabanco2"
+      ],
+      "m3u8_url": [
+        "https://scl.edge.grupoz.cl/mediabanco_prueba/live/playlist.m3u8",
+        "https://wowlive.grupoz.cl/mediabanco_prueba/live/playlist.m3u8"
+      ],
+      "yt_id": "UCu2f4b2pXKXJz4kYl-0b9LA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.mediabanco.cl/",
+    "país": "cl",
+    "categoría": "outdoor"
+  },
+  "valle-nevado-cam-fourchette": {
+    "nombre": "Valle Nevado Vista Terraza La Fourchette",
+    "logo": "https://www.vallenevado.com/wp-content/uploads/2024/01/1-2048x1152.png",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCeugwuttf3KGSyVuax_AzNw",
+      "yt_embed": "NSml9ERDZzk",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.vallenevado.com/es/camaras/",
+    "país": "cl",
+    "categoría": "outdoor"
+  },
+  "valle-nevado-cam-piscina": {
+    "nombre": "Valle Nevado Vista Piscina",
+    "logo": "https://www.vallenevado.com/wp-content/uploads/2024/01/1-2048x1152.png",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCeugwuttf3KGSyVuax_AzNw",
+      "yt_embed": "uyt8JsITTac",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.vallenevado.com/es/camaras/",
+    "país": "cl",
+    "categoría": "outdoor"
+  },
+  "valle-nevado-cam-puerta-sol": {
+    "nombre": "Valle Nevado Vista Hotel Puerta del Sol",
+    "logo": "https://www.vallenevado.com/wp-content/uploads/2024/01/1-2048x1152.png",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCeugwuttf3KGSyVuax_AzNw",
+      "yt_embed": "tmS73xQ4zVc",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.vallenevado.com/es/camaras/",
+    "país": "cl",
+    "categoría": "outdoor"
+  },
+  "valle-nevado-cam-gondola": {
+    "nombre": "Valle Nevado Vista La Góndola",
+    "logo": "https://www.vallenevado.com/wp-content/uploads/2024/01/1-2048x1152.png",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCeugwuttf3KGSyVuax_AzNw",
+      "yt_embed": "O_7aVzUBvUY",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.vallenevado.com/es/camaras/",
     "país": "cl",
     "categoría": "outdoor"
   },
@@ -3105,23 +3421,6 @@
     "país": "ar",
     "categoría": "music"
   },
-  "radio-de-la-azotea": {
-    "nombre": "Radio De la Azotea",
-    "logo": "https://graph.facebook.com/de.laazotea/picture?width=800&height=800",
-    "señales": {
-      "iframe_url": [
-        "http://www.radiodelaazotea.com.ar/player/"
-      ],
-      "m3u8_url": [],
-      "yt_id": "UCOCY6u-Q3SGwwP3teXhuGMQ",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "http://www.radiodelaazotea.com.ar",
-    "país": "ar",
-    "categoría": "music"
-  },
   "radio-nihuil": {
     "nombre": "Radio Nihuil",
     "logo": "https://graph.facebook.com/radionihuil/picture?width=800&height=800",
@@ -3332,6 +3631,21 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.radioone1037.fm/",
+    "país": "ar",
+    "categoría": "music"
+  },
+  "radio-la-red-am-910": {
+    "nombre": "Radio La Red AM 910",
+    "logo": "https://graph.facebook.com/radiolared/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCs1U5lRXvUJHn0CgXI6oXAw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.lared.am/",
     "país": "ar",
     "categoría": "music"
   },
