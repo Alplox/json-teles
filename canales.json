@@ -118,6 +118,21 @@
     "país": "cl",
     "categoría": "news"
   },
+  "la-tercera": {
+    "nombre": "La Tercera",
+    "logo": "https://assets.stickpng.com/images/5c091be92c6641059597e374.png",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCEQ_IiWGNvyvwSF3Sd-aQFA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCEQ_IiWGNvyvwSF3Sd-aQFA",
+    "país": "cl",
+    "categoría": "news"
+  },
   "cooperativa": {
     "nombre": "Radio Cooperativa",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Radio_Cooperativa_Logo.svg",
@@ -696,7 +711,7 @@
       "m3u8_url": [
         "https://marine2.miplay.cl/ntv/playlist.m3u8"
       ],
-      "yt_id": "",
+      "yt_id": "UC-qGzxz4cJjbWCdYndyO1gg",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
@@ -704,6 +719,21 @@
     "sitio_oficial": "https://www.tvn.cl/ntv",
     "país": "cl",
     "categoría": "culture"
+  },
+  "teleseries-tvn": {
+    "nombre": "Teleseries y series TVN",
+    "logo": "https://i.pinimg.com/736x/73/8c/06/738c06db140ef99b6f190d9e0a1867e6.jpg",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCJwtKyJIfr31zI077EnQTXg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCJwtKyJIfr31zI077EnQTXg",
+    "país": "cl",
+    "categoría": "entertainment"
   },
   "mega-cl": {
     "nombre": "Mega",
@@ -1028,6 +1058,51 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://pluto.tv/latam/live-tv/638df6f8b63cf100075ccfa1",
+    "país": "cl",
+    "categoría": "sports"
+  },
+  "picadotv-chile": {
+    "nombre": "PicadoTV Chile",
+    "logo": "https://graph.facebook.com/picadotv/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCpANs3C33Ay49hN2JeCV7FQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCpANs3C33Ay49hN2JeCV7FQ",
+    "país": "cl",
+    "categoría": "sports"
+  },
+  "frecuencia-cruzada": {
+    "nombre": "Frecuencia Cruzada",
+    "logo": "https://graph.facebook.com/FrecuenciaCruzada/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCQNt1ccbf8WXt1QJqqXfW3g",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://frecuenciacruzada.cl/en-vivo",
+    "país": "cl",
+    "categoría": "sports"
+  },
+  "balong": {
+    "nombre": "Balong - MDTPnet",
+    "logo": "https://graph.facebook.com/fuerteperoalbalong/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCEZEW2z22WBkUB2Fcs8Gq3A",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCEZEW2z22WBkUB2Fcs8Gq3A",
     "país": "cl",
     "categoría": "sports"
   },
@@ -3525,21 +3600,6 @@
     "país": "ar",
     "categoría": "general"
   },
-  "extratvvivo": {
-    "nombre": "EXTRA TV VIVO",
-    "logo": "https://yt3.googleusercontent.com/1x137ostiNGYbXe5sP-LYMun9ghpr_uz54WATZM7rVeBBrDV-8DQV0Hy8Fv8kbWeX_BIY48Vbng=s900-c-k-c0x00ffffff-no-rj",
-    "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
-      "yt_id": "UCe22LRtJ6sAx3nn2b0SzuRQ",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": "canalextratv"
-    },
-    "sitio_oficial": "https://www.canalextra.com.ar/",
-    "país": "ar",
-    "categoría": "general"
-  },
   "breakpointmp": {
     "nombre": "BREAK POINT",
     "logo": "",
@@ -3555,20 +3615,20 @@
     "país": "ar",
     "categoría": "general"
   },
-  "extratv": {
-    "nombre": "Extratv",
-    "logo": "https://yt3.googleusercontent.com/1x137ostiNGYbXe5sP-LYMun9ghpr_uz54WATZM7rVeBBrDV-8DQV0Hy8Fv8kbWeX_BIY48Vbng=s900-c-k-c0x00ffffff-no-rj",
+  "gelatina-ar": {
+    "nombre": "GELATINA",
+    "logo": "https://gelatina.com.ar/wp-content/uploads/2025/02/Gelatina-2025.png",
     "señales": {
       "iframe_url": [],
       "m3u8_url": [],
-      "yt_id": "UCy3MW5Goy1epjhvtjalzbKg",
+      "yt_id": "UCWSfXECGo1qK_H7SXRaUSMg",
       "yt_embed": "",
       "yt_playlist": "",
-      "twitch_id": "canalextratv"
+      "twitch_id": "somosgelatina_"
     },
-    "sitio_oficial": "https://www.canalextra.com.ar/",
+    "sitio_oficial": "https://www.youtube.com/channel/UCWSfXECGo1qK_H7SXRaUSMg",
     "país": "ar",
-    "categoría": "general"
+    "categoría": "entertainment"
   },
   "ushuaialive": {
     "nombre": "Ushuaia Live",
@@ -3649,6 +3709,21 @@
     "país": "ar",
     "categoría": "music"
   },
+  "radio-futuro-fm-arg": {
+    "nombre": "Radio Futurock FM",
+    "logo": "https://graph.facebook.com/FuturockOk/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCgn6r0aGRBnEQm02tE_jzbw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "futurockfm"
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCgn6r0aGRBnEQm02tE_jzbw",
+    "país": "ar",
+    "categoría": "music"
+  },
   "carburandotv": {
     "nombre": "Carburando",
     "logo": "https://graph.facebook.com/CarburandoOficial/picture?width=800&height=800",
@@ -3663,6 +3738,21 @@
     "sitio_oficial": "https://www.carburando.com/",
     "país": "ar",
     "categoría": "auto"
+  },
+  "ofi-presi-arg": {
+    "nombre": "Oficina del Presidente Arg",
+    "logo": "https://graph.facebook.com/OPRArg/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCSfMW32JeKVaYwgvUy5D3fw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCSfMW32JeKVaYwgvUy5D3fw",
+    "país": "ar",
+    "categoría": "legislative"
   },
   "unitel-bolivia": {
     "nombre": "Unitel Bolivia",
@@ -3875,6 +3965,36 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.brasil247.com/",
+    "país": "br",
+    "categoría": "news"
+  },
+  "gzhdigital": {
+    "nombre": "GZH",
+    "logo": "https://graph.facebook.com/gzhdigital/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCRC3upGcj_decdPi7JXT7Bg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://gauchazh.clicrbs.com.br/",
+    "país": "br",
+    "categoría": "news"
+  },
+  "tv-correio": {
+    "nombre": "TV Correio",
+    "logo": "https://i.imgur.com/FSnGAaZ.png",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCJ4uxK_mo6gNoqk9cyvgWkw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://tvcorreio.com.br/",
     "país": "br",
     "categoría": "news"
   },
@@ -5401,6 +5521,21 @@
     "país": "es",
     "categoría": "news"
   },
+  "la-vanguardia": {
+    "nombre": "La Vanguardia",
+    "logo": "https://graph.facebook.com/LaVanguardia/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UClLLRs_mFTsNT5U-DqTYAGg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg",
+    "país": "es",
+    "categoría": "news"
+  },
   "camarasdetraficodevigo8409": {
     "nombre": "Cámaras de tráfico de Vigo",
     "logo": "",
@@ -5659,6 +5794,23 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://globalnews.ca/live/national/",
+    "país": "ca",
+    "categoría": "news"
+  },
+  "cbc-news": {
+    "nombre": "CBC News",
+    "logo": "https://i.imgur.com/SjTdhvJ.png",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://livetv-fa.tubi.video/cbc2/master.m3u8"
+      ],
+      "yt_id": "UCuFFtHWoLl5fauMMD5Ww2jA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCuFFtHWoLl5fauMMD5Ww2jA",
     "país": "ca",
     "categoría": "news"
   },
@@ -5979,6 +6131,26 @@
     "país": "us",
     "categoría": "general"
   },
+  "thegameawards": {
+    "nombre": "The Game Awards",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/The_Game_Awards_Logo_2024.svg/1200px-The_Game_Awards_Logo_2024.svg.png",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/d-BDeU3R5ic?si=UaCOnWDbRIjwRiOS",
+        "https://www.youtube.com/embed/uFcNRQ3FkHs?si=LOleyBD75pI-AJ6z",
+        "https://www.youtube.com/embed/RzwMieh9c_8?si=qjk_6B2juXHLw0QU",
+        "https://thegameawards.com/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCqDS7KWjAPKv-7ZSlro9OiQ",
+      "yt_embed": "d-BDeU3R5ic",
+      "yt_playlist": "PLi9Mlnjwioo-mdNAFb4KUMdJi8WzbcuBh",
+      "twitch_id": "thegameawards"
+    },
+    "sitio_oficial": "https://thegameawards.com/",
+    "país": "us",
+    "categoría": "entertainment"
+  },
   "ihopkc": {
     "nombre": "International House of Prayer",
     "logo": "https://graph.facebook.com/ihopkc/picture?width=800&height=800",
@@ -6053,6 +6225,81 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://bryantpark.org/",
+    "país": "us",
+    "categoría": "outdoor"
+  },
+  "lorain-portand-finance-authority": {
+    "nombre": "Lorain Port and Finance Authority",
+    "logo": "https://lorainport.com/wp-content/uploads/2020/09/lpfa-logo-full-color-rgb-extended-300x130.jpg",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCMMBk7t5_yJ03OWwHdGTWOw",
+      "yt_embed": "1MVB3fgg7kg",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.lorainport.com/",
+    "país": "us",
+    "categoría": "outdoor"
+  },
+  "castro-street-cam-1": {
+    "nombre": "Castro Street Cam 1",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCoFUleuZUyRUVDjO4JcCSTQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCoFUleuZUyRUVDjO4JcCSTQ",
+    "país": "us",
+    "categoría": "outdoor"
+  },
+  "castro-street-cam-2": {
+    "nombre": "Castro Street Cam 2",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UClSdxxEoPbpZHrujhfQcdow",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UClSdxxEoPbpZHrujhfQcdow",
+    "país": "us",
+    "categoría": "outdoor"
+  },
+  "castro-street-cam-3": {
+    "nombre": "Castro Street Cam 3",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCKxzK9FBETp6vK3wdqrUelQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCKxzK9FBETp6vK3wdqrUelQ",
+    "país": "us",
+    "categoría": "outdoor"
+  },
+  "castro-street-cam-4": {
+    "nombre": "Castro Street Cam 4",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC7bQdkO4Q21ZU1Akc1kKVjA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UC7bQdkO4Q21ZU1Akc1kKVjA",
     "país": "us",
     "categoría": "outdoor"
   },
@@ -6921,6 +7168,56 @@
     "país": "in",
     "categoría": "news"
   },
+  "india-today": {
+    "nombre": "India Today",
+    "logo": "https://graph.facebook.com/IndiaToday/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8",
+        "https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrchestrator.m3u8"
+      ],
+      "yt_id": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw",
+    "país": "in",
+    "categoría": "news"
+  },
+  "cnbctv18india": {
+    "nombre": "CNBC-TV18",
+    "logo": "https://graph.facebook.com/cnbctv18india/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8"
+      ],
+      "yt_id": "UCmRbHAgG2k2vDUvb3xsEunQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCmRbHAgG2k2vDUvb3xsEunQ",
+    "país": "in",
+    "categoría": "news"
+  },
+  "hindustan-times": {
+    "nombre": "Hindustan Times",
+    "logo": "https://graph.facebook.com/hindustantimes/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCm7lHFkt2yB_WzL67aruVBQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCm7lHFkt2yB_WzL67aruVBQ",
+    "país": "in",
+    "categoría": "news"
+  },
   "abn-digital-exclusives": {
     "nombre": "ABN Digital Exclusives",
     "logo": "https://graph.facebook.com/somethingspecialvideos/picture?width=800&height=800",
@@ -7224,6 +7521,21 @@
     },
     "sitio_oficial": "https://dunyanews.tv/live/",
     "país": "pk",
+    "categoría": "news"
+  },
+  "globalquake": {
+    "nombre": "GlobalQuake",
+    "logo": "https://img1.wsimg.com/isteam/ip/b2e252f8-5387-4660-ba31-3f433af7b108/blob-8a5d034.png",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCZmcd4cQ2H_ELWAuUdOMgRQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "globalquake"
+    },
+    "sitio_oficial": "https://globalquake.net/",
+    "país": "cz",
     "categoría": "news"
   },
   "gbnewsonline": {

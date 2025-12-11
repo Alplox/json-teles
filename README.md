@@ -1,33 +1,55 @@
-# Canales
+# Canales IPTV
 
-El contenido del archivo JSON es principalmente enfocado a medios audiovisuales que transmitan noticias, existen casos que rompen esta regla.
-Siendo lo importante que todo canal debe ser de acceso público, tener el enlace a su sitio oficial y utilizar HTTPS.
+El contenido del repositorio es principalmente enfocado a medios audiovisuales que transmiten noticias, pero existen casos que rompen esta regla.
 
-(se actualiza de forma manual)
+* Siendo lo importante que todo canal debe:
+  * Ser de acceso público. (No hay mano pa' peliculas ni "canales premiums")
+  * Tener el enlace a su sitio oficial.
+  * Utilizar HTTPS. (Para compatibilidad con GitHub Pages)
 
-Formato JSON:
-``
-https://raw.githubusercontent.com/Alplox/json-teles/refs/heads/main/canales.json
-``
+(Nota: Lista canales se actualiza de forma manual)
 
-Formato M3U:
-``
-https://raw.githubusercontent.com/Alplox/json-teles/refs/heads/main/canales.m3u
-``
+## Formato JSON 🗂️{}
 
-## ¿Por qué dejar JSON en otro repositorio?
+### RAW
+
+* `https://raw.githubusercontent.com/Alplox/json-teles/refs/heads/main/canales.json`
+
+### CDN
+
+* `https://cdn.jsdelivr.net/gh/Alplox/json-teles@refs/heads/main/canales.json`
+* `https://cdn.statically.io/gh/Alplox/json-teles/refs/heads/main/canales.json`
+* `https://rawcdn.githack.com/Alplox/json-teles/refs/heads/main/canales.json`
+
+## Formato M3U 🗂️#EXTM3U
+
+### RAW
+
+* `https://raw.githubusercontent.com/Alplox/json-teles/refs/heads/main/canales.m3u`
+
+### CDN
+
+* `https://cdn.jsdelivr.net/gh/Alplox/json-teles@refs/heads/main/canales.m3u`
+* `https://cdn.statically.io/gh/Alplox/json-teles/refs/heads/main/canales.m3u`
+* `https://rawcdn.githack.com/Alplox/json-teles/refs/heads/main/canales.m3u`
+
+## ¿Por qué dejar canales en este repositorio?
 
 Evitar que muera todo el repositorio en caso de querer eliminar alguna señal.
 
 [[Repositorio original (RIP)]](https://github.com/Alplox/tele)
 
-## Convertir JSON a M3U
+## Convertir JSON a M3U manualmente
 
 [https://alplox.github.io/json-teles/](https://alplox.github.io/json-teles/)
 
 ## Canales disponibles junto a su origen
 
+Canales totales disponibles, versión M3U puede contener menos canales.
+
 (clic para expandir)
+
+
 <details>
 <summary>Canales por País 🌐</summary>
 
@@ -38,6 +60,7 @@ Canales "Chile"
 - [CNN Chile](https://www.cnnchile.com/page/en-vivo/) [news]
 - [CHV Noticias](https://www.chvnoticias.cl/senal-online/) [news]
 - [El Mostrador](https://www.elmostrador.cl/) [news]
+- [La Tercera](https://www.youtube.com/channel/UCEQ_IiWGNvyvwSF3Sd-aQFA) [news]
 - [Radio Cooperativa](http://programas.cooperativa.cl/showalairelibre/) [music]
 - [Radio Biobio TV](https://www.biobiochile.cl/biobiotv/) [music]
 - [Radio ADN](https://www.adnradio.cl/noticias/videos/) [music]
@@ -69,6 +92,7 @@ Canales "Chile"
 - [TV Chile](https://www.tvn.cl/tvchile/envivo) [general]
 - [TVN 3](https://www.tvn.cl/tvn3) [culture]
 - [NTV](https://www.tvn.cl/ntv) [culture]
+- [Teleseries y series TVN](https://www.youtube.com/channel/UCJwtKyJIfr31zI077EnQTXg) [entertainment]
 - [Mega](https://www.mega.cl/) [general]
 - [Canal 13](https://www.13.cl/en-vivo) [general]
 - [Chilevisión](https://www.chilevision.cl/senal-online) [general]
@@ -86,6 +110,9 @@ Canales "Chile"
 - [13 Deportes](https://www.13.cl/) [sports]
 - [13 FutGO](https://www.13.cl/) [sports]
 - [CHV Deportes](https://pluto.tv/latam/live-tv/638df6f8b63cf100075ccfa1) [sports]
+- [PicadoTV Chile](https://www.youtube.com/channel/UCpANs3C33Ay49hN2JeCV7FQ) [sports]
+- [Frecuencia Cruzada](https://frecuenciacruzada.cl/en-vivo) [sports]
+- [Balong - MDTPnet](https://www.youtube.com/channel/UCEZEW2z22WBkUB2Fcs8Gq3A) [sports]
 - [MegaTiempo](https://www.megatiempo.cl/) [weather]
 - [La Voz De Los Que Sobran](https://lavozdelosquesobran.cl/) [general]
 - [Puranoticia TV](https://puranoticia.pnt.cl/) [general]
@@ -227,15 +254,16 @@ Canales "Argentina"
 - [Urbana Play 104.3 FM](https://urbanaplayfm.com/) [music]
 - [FMVale975](https://radiovale.fm/) [music]
 - [El Siete TV](https://www.elsietetv.com.ar/) [general]
-- [EXTRA TV VIVO](https://www.canalextra.com.ar/) [general]
 - [BREAK POINT](https://www.youtube.com/channel/UC_49ElhhVd1BO7MsdBPm77Q) [general]
-- [Extratv](https://www.canalextra.com.ar/) [general]
+- [GELATINA](https://www.youtube.com/channel/UCWSfXECGo1qK_H7SXRaUSMg) [entertainment]
 - [Ushuaia Live](https://www.youtube.com/channel/UC6NTD1HmdaZMbe9K5qADOvw) [outdoor]
 - [FourSeasons BuenosAires](https://www.youtube.com/channel/UCCkRwmztPEvut3gpsgmCmzw) [outdoor]
 - [SISE Argentina](https://siseargentina.com/camaras-en-vivo/) [outdoor]
 - [Radio One 103.7](https://www.radioone1037.fm/) [music]
 - [Radio La Red AM 910](https://www.lared.am/) [music]
+- [Radio Futurock FM](https://www.youtube.com/channel/UCgn6r0aGRBnEQm02tE_jzbw) [music]
 - [Carburando](https://www.carburando.com/) [auto]
+- [Oficina del Presidente Arg](https://www.youtube.com/channel/UCSfMW32JeKVaYwgvUy5D3fw) [legislative]
 
 Canales "Bolivia"
 - [Unitel Bolivia](https://television.unitel.bo/vivo) [news]
@@ -253,6 +281,8 @@ Canales "Brasil"
 - [UOL](https://www.uol.com.br/) [news]
 - [TV Fórum](https://revistaforum.com.br/) [news]
 - [TV 247](https://www.brasil247.com/) [news]
+- [GZH](https://gauchazh.clicrbs.com.br/) [news]
+- [TV Correio](https://tvcorreio.com.br/) [news]
 - [BRADO](https://www.bradojornal.com/) [music]
 
 Canales "Costa Rica"
@@ -365,6 +395,7 @@ Canales "España"
 - [Málaga 24h TV Noticias](https://malaga24h.com/directo-de-malaga-24-horas/) [news]
 - [TelevisionCanaria](https://rtvc.es/en-directo/) [news]
 - [CNN en Español](https://cnnespanol.cnn.com/) [news]
+- [La Vanguardia](https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg) [news]
 - [Cámaras de tráfico de Vigo](https://www.youtube.com/channel/UC30mmDZa-tMpIS-cIXoErsA) [outdoor]
 
 Canales "Ecuador"
@@ -389,6 +420,7 @@ Canales "El Salvador"
 
 Canales "Canadá"
 - [Global News](https://globalnews.ca/live/national/) [news]
+- [CBC News](https://www.youtube.com/channel/UCuFFtHWoLl5fauMMD5Ww2jA) [news]
 
 Canales "Estados Unidos"
 - [ABC7 SWFL](https://www.abc-7.com/) [news]
@@ -411,11 +443,17 @@ Canales "Estados Unidos"
 - [EVTV MIAMI](https://evtv.online/noticias-de-venezuela/) [news]
 - [Associated Press](https://www.apnews.com/) [news]
 - [Naciones Unidas](https://www.un.org/) [general]
+- [The Game Awards](https://thegameawards.com/) [entertainment]
 - [International House of Prayer](https://www.ihopkc.org/prayerroom/) [music]
 - [Axis Experience Center South Central](https://www.axis.com/) [outdoor]
 - [Times Square Live 4K](https://www.earthcam.net/) [outdoor]
 - [St. George Tower](https://stgeorgetower.com/) [outdoor]
 - [Bryant Park NYC](https://bryantpark.org/) [outdoor]
+- [Lorain Port and Finance Authority](https://www.lorainport.com/) [outdoor]
+- [Castro Street Cam 1](https://www.youtube.com/channel/UCoFUleuZUyRUVDjO4JcCSTQ) [outdoor]
+- [Castro Street Cam 2](https://www.youtube.com/channel/UClSdxxEoPbpZHrujhfQcdow) [outdoor]
+- [Castro Street Cam 3](https://www.youtube.com/channel/UCKxzK9FBETp6vK3wdqrUelQ) [outdoor]
+- [Castro Street Cam 4](https://www.youtube.com/channel/UC7bQdkO4Q21ZU1Akc1kKVjA) [outdoor]
 - [NASA Live](https://www.nasa.gov/) [science]
 - [SpaceX](https://www.spacex.com/) [science]
 - [Blue Origin](https://www.blueorigin.com/) [science]
@@ -488,6 +526,9 @@ Canales "India"
 - [Kairali News](https://www.kairalinewsonline.com/live) [news]
 - [CNN-News18](https://www.news18.com/livetv/) [news]
 - [WION](https://www.wionews.com/live-tv) [news]
+- [India Today](https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw) [news]
+- [CNBC-TV18](https://www.youtube.com/channel/UCmRbHAgG2k2vDUvb3xsEunQ) [news]
+- [Hindustan Times](https://www.youtube.com/channel/UCm7lHFkt2yB_WzL67aruVBQ) [news]
 - [ABN Digital Exclusives](https://www.youtube.com/channel/UCMIobchb8wgycijrgc1UnZw) [general]
 
 Canales "Bangladesh"
@@ -516,6 +557,9 @@ Canales "Pakistán"
 - [BOL News](https://www.bolnews.com/live/) [news]
 - [SAMAA TV](https://live.samaa.tv/) [news]
 - [Dunya News](https://dunyanews.tv/live/) [news]
+
+Canales "República Checa"
+- [GlobalQuake](https://globalquake.net/) [news]
 
 Canales "Inglaterra"
 - [GBNews](https://www.gbnews.com/watch/live) [news]
@@ -600,6 +644,7 @@ Categoría "news"
 - [CNN Chile](https://www.cnnchile.com/page/en-vivo/) [Chile]
 - [CHV Noticias](https://www.chvnoticias.cl/senal-online/) [Chile]
 - [El Mostrador](https://www.elmostrador.cl/) [Chile]
+- [La Tercera](https://www.youtube.com/channel/UCEQ_IiWGNvyvwSF3Sd-aQFA) [Chile]
 - [Copano](https://copano.news/) [Chile]
 - [Todonoticias](https://tn.com.ar/envivo/24hs/) [Argentina]
 - [C5N](https://www.c5n.com/vivo) [Argentina]
@@ -627,6 +672,8 @@ Categoría "news"
 - [UOL](https://www.uol.com.br/) [Brasil]
 - [TV Fórum](https://revistaforum.com.br/) [Brasil]
 - [TV 247](https://www.brasil247.com/) [Brasil]
+- [GZH](https://gauchazh.clicrbs.com.br/) [Brasil]
+- [TV Correio](https://tvcorreio.com.br/) [Brasil]
 - [Multimedios Costa Rica](https://www.telediario.cr/television) [Costa Rica]
 - [EL TIEMPO](https://www.eltiempo.com/) [Colombia]
 - [Noticias Caracol](https://www.noticiascaracol.com/ahora) [Colombia]
@@ -692,6 +739,7 @@ Categoría "news"
 - [Málaga 24h TV Noticias](https://malaga24h.com/directo-de-malaga-24-horas/) [España]
 - [TelevisionCanaria](https://rtvc.es/en-directo/) [España]
 - [CNN en Español](https://cnnespanol.cnn.com/) [España]
+- [La Vanguardia](https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg) [España]
 - [Ecuavisa](https://www.ecuavisa.com/envivo) [Ecuador]
 - [Ecotel TV](https://www.ecotel.tv/) [Ecuador]
 - [Catomedia UCSG](https://catomedia.net/) [Ecuador]
@@ -700,6 +748,7 @@ Categoría "news"
 - [Café la Posta](https://www.laposta.ec/) [Ecuador]
 - [TCS Noticias](https://www.esmitv.com/) [El Salvador]
 - [Global News](https://globalnews.ca/live/national/) [Canadá]
+- [CBC News](https://www.youtube.com/channel/UCuFFtHWoLl5fauMMD5Ww2jA) [Canadá]
 - [ABC7 SWFL](https://www.abc-7.com/) [Estados Unidos]
 - [ABC News](https://abcnews.go.com/Live) [Estados Unidos]
 - [Agenda-Free TV](https://twitter.com/agendafreetv) [Estados Unidos]
@@ -769,6 +818,9 @@ Categoría "news"
 - [Kairali News](https://www.kairalinewsonline.com/live) [India]
 - [CNN-News18](https://www.news18.com/livetv/) [India]
 - [WION](https://www.wionews.com/live-tv) [India]
+- [India Today](https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw) [India]
+- [CNBC-TV18](https://www.youtube.com/channel/UCmRbHAgG2k2vDUvb3xsEunQ) [India]
+- [Hindustan Times](https://www.youtube.com/channel/UCm7lHFkt2yB_WzL67aruVBQ) [India]
 - [BanglaVision LIVE](https://www.bvnews24.com/live/) [Bangladesh]
 - [Al Jazeera English](https://www.aljazeera.com/live/) [Catar]
 - [AlJazeera Channel قناة الجزيرة](https://www.aljazeera.com/live/) [Catar]
@@ -777,6 +829,7 @@ Categoría "news"
 - [BOL News](https://www.bolnews.com/live/) [Pakistán]
 - [SAMAA TV](https://live.samaa.tv/) [Pakistán]
 - [Dunya News](https://dunyanews.tv/live/) [Pakistán]
+- [GlobalQuake](https://globalquake.net/) [República Checa]
 - [GBNews](https://www.gbnews.com/watch/live) [Inglaterra]
 - [CNA](https://www.channelnewsasia.com/) [Singapur]
 - [Channels Television](https://www.channelstv.com/live) [República Centroafricana]
@@ -824,6 +877,7 @@ Categoría "music"
 - [FMVale975](https://radiovale.fm/) [Argentina]
 - [Radio One 103.7](https://www.radioone1037.fm/) [Argentina]
 - [Radio La Red AM 910](https://www.lared.am/) [Argentina]
+- [Radio Futurock FM](https://www.youtube.com/channel/UCgn6r0aGRBnEQm02tE_jzbw) [Argentina]
 - [BRADO](https://www.bradojornal.com/) [Brasil]
 - [RCPC](http://www.rcpc.co/) [Colombia]
 - [Buenisima Radio Tv](https://www.youtube.com/channel/UCk20PydKzK3giq80G4mqSeg) [Colombia]
@@ -973,9 +1027,7 @@ Categoría "general"
 - [Iquique TV](https://iquiquetv.cl/senal-online/) [Chile]
 - [Wapp TV](https://www.wapptv.cl/) [Chile]
 - [El Siete TV](https://www.elsietetv.com.ar/) [Argentina]
-- [EXTRA TV VIVO](https://www.canalextra.com.ar/) [Argentina]
 - [BREAK POINT](https://www.youtube.com/channel/UC_49ElhhVd1BO7MsdBPm77Q) [Argentina]
-- [Extratv](https://www.canalextra.com.ar/) [Argentina]
 - [Red Uno](https://www.reduno.com.bo/) [Bolivia]
 - [Bolivia TV 7.2](https://www.boliviatv.bo/) [Bolivia]
 - [Bolivision](https://www.redbolivision.tv.bo/) [Bolivia]
@@ -1003,11 +1055,14 @@ Categoría "culture"
 - [Canal Cultura Venezuela](https://culturavenezuela.com/emision-en-directo/) [Venezuela]
 
 Categoría "entertainment"
+- [Teleseries y series TVN](https://www.youtube.com/channel/UCJwtKyJIfr31zI077EnQTXg) [Chile]
 - [13 Entretención](https://www.13.cl/) [Chile]
 - [13 Realities](https://www.13.cl/) [Chile]
 - [13 Teleseries](https://www.13.cl/) [Chile]
 - [13 Pop](https://www.13.cl/) [Chile]
+- [GELATINA](https://www.youtube.com/channel/UCWSfXECGo1qK_H7SXRaUSMg) [Argentina]
 - [Gogoplaytv](https://www.gogoplaytv.com/) [Bolivia]
+- [The Game Awards](https://thegameawards.com/) [Estados Unidos]
 
 Categoría "kids"
 - [13 Kids](https://www.13.cl/) [Chile]
@@ -1022,6 +1077,9 @@ Categoría "sports"
 - [13 Deportes](https://www.13.cl/) [Chile]
 - [13 FutGO](https://www.13.cl/) [Chile]
 - [CHV Deportes](https://pluto.tv/latam/live-tv/638df6f8b63cf100075ccfa1) [Chile]
+- [PicadoTV Chile](https://www.youtube.com/channel/UCpANs3C33Ay49hN2JeCV7FQ) [Chile]
+- [Frecuencia Cruzada](https://frecuenciacruzada.cl/en-vivo) [Chile]
+- [Balong - MDTPnet](https://www.youtube.com/channel/UCEZEW2z22WBkUB2Fcs8Gq3A) [Chile]
 - [MegaDeportes](https://www.meganoticias.cl/deportes/) [Chile]
 - [Tierra de Dragones](https://tierradedragones.cl/online/) [Chile]
 
@@ -1039,6 +1097,7 @@ Categoría "legislative"
 - [Tribunal Constitucional](https://www2.tribunalconstitucional.cl/) [Chile]
 - [Poder Judicial](https://www.poderjudicialtv.cl/) [Chile]
 - [Cámara Diputados](http://www.cdtv.cl/) [Chile]
+- [Oficina del Presidente Arg](https://www.youtube.com/channel/UCSfMW32JeKVaYwgvUy5D3fw) [Argentina]
 
 Categoría "outdoor"
 - [Nuevas Comunicaciones](https://www.youtube.com/channel/UCMvQGOyumsXP4V7dGAdIKWg) [Chile]
@@ -1068,6 +1127,11 @@ Categoría "outdoor"
 - [Times Square Live 4K](https://www.earthcam.net/) [Estados Unidos]
 - [St. George Tower](https://stgeorgetower.com/) [Estados Unidos]
 - [Bryant Park NYC](https://bryantpark.org/) [Estados Unidos]
+- [Lorain Port and Finance Authority](https://www.lorainport.com/) [Estados Unidos]
+- [Castro Street Cam 1](https://www.youtube.com/channel/UCoFUleuZUyRUVDjO4JcCSTQ) [Estados Unidos]
+- [Castro Street Cam 2](https://www.youtube.com/channel/UClSdxxEoPbpZHrujhfQcdow) [Estados Unidos]
+- [Castro Street Cam 3](https://www.youtube.com/channel/UCKxzK9FBETp6vK3wdqrUelQ) [Estados Unidos]
+- [Castro Street Cam 4](https://www.youtube.com/channel/UC7bQdkO4Q21ZU1Akc1kKVjA) [Estados Unidos]
 - [Aoba traffics](https://www.youtube.com/channel/UCynDLZ-YJnrMLSQvwYi-bUA) [Japón]
 - [NamibiaCam](https://www.youtube.com/channel/UC9X6gGKDv2yhMoofoeS7-Gg) [República Centroafricana]
 - [Aqualink Hawaii](https://www.youtube.com/channel/UCTLF36lXVM7uiR-VolWHv0Q) [Hawái]

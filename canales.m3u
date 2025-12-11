@@ -551,6 +551,8 @@ https://video1.makrodigital.com/radiocentro/radiocentro/playlist.m3u8
 https://live.obslivestream.com/sonoondatv/index.m3u8
 #EXTINF:-1 tvg-name="Global News" tvg-logo="" group-title="news", Global News [CA]
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-name="CBC News" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="news", CBC News [CA]
+https://livetv-fa.tubi.video/cbc2/master.m3u8
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="" group-title="news", ABC News [US]
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-name="Bloomberg US" tvg-logo="" group-title="news", Bloomberg US [US]
@@ -599,6 +601,12 @@ https://d7x8z4yuq42qn.cloudfront.net/index_4.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-name="WION" tvg-logo="https://graph.facebook.com/WIONews/picture?width=800&height=800" group-title="news", WION (7) [IN]
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
+#EXTINF:-1 tvg-name="India Today" tvg-logo="https://graph.facebook.com/IndiaToday/picture?width=800&height=800" group-title="news", India Today (1) [IN]
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 tvg-name="India Today" tvg-logo="https://graph.facebook.com/IndiaToday/picture?width=800&height=800" group-title="news", India Today (2) [IN]
+https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrchestrator.m3u8
+#EXTINF:-1 tvg-name="CNBC-TV18" tvg-logo="https://graph.facebook.com/cnbctv18india/picture?width=800&height=800" group-title="news", CNBC-TV18 [IN]
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="" group-title="news", Al Jazeera English [QA]
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 tvg-name="Dunya News" tvg-logo="https://graph.facebook.com/dunyanews/picture?width=800&height=800" group-title="news", Dunya News (1) [PK]
