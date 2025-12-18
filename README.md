@@ -56,7 +56,7 @@ Canales totales disponibles, versión M3U puede contener menos canales.
 Canales "Chile"
 - [24 horas](https://www.24horas.cl/envivo/) [news]
 - [Meganoticias](https://www.mega.cl/) [news]
-- [T13](https://www.t13.cl/en-vivo) [news]
+- [T13 - Teletrece](https://www.t13.cl/en-vivo) [news]
 - [CNN Chile](https://www.cnnchile.com/page/en-vivo/) [news]
 - [CHV Noticias](https://www.chvnoticias.cl/senal-online/) [news]
 - [El Mostrador](https://www.elmostrador.cl/) [news]
@@ -208,6 +208,7 @@ Canales "Chile"
 - [Tribunal Constitucional](https://www2.tribunalconstitucional.cl/) [legislative]
 - [Poder Judicial](https://www.poderjudicialtv.cl/) [legislative]
 - [Cámara Diputados](http://www.cdtv.cl/) [legislative]
+- [Servicio Electoral de Chile (Servel)](https://www.servel.cl/) [legislative]
 - [Nuevas Comunicaciones](https://www.youtube.com/channel/UCMvQGOyumsXP4V7dGAdIKWg) [outdoor]
 - [Marejadas UV](https://marejadas.uv.cl/) [outdoor]
 - [Ledrium](https://www.goledrium.cl/) [outdoor]
@@ -238,7 +239,6 @@ Canales "Argentina"
 - [Canal 26](https://www.canal26.com/canal26-en-vivo) [news]
 - [A24com](https://www.a24.com/vivo) [news]
 - [Telefe Noticias](https://noticias.mitelefe.com/vivo) [news]
-- [Cadena 3 Argentina](https://www.cadena3.com/) [news]
 - [América TV](https://www.americatv.com.ar/vivo) [news]
 - [eldoce](https://eldoce.tv/vivo/) [news]
 - [El Litoral](https://www.ellitoral.com/) [news]
@@ -640,7 +640,7 @@ Canales "País Desconocido"
 Categoría "news"
 - [24 horas](https://www.24horas.cl/envivo/) [Chile]
 - [Meganoticias](https://www.mega.cl/) [Chile]
-- [T13](https://www.t13.cl/en-vivo) [Chile]
+- [T13 - Teletrece](https://www.t13.cl/en-vivo) [Chile]
 - [CNN Chile](https://www.cnnchile.com/page/en-vivo/) [Chile]
 - [CHV Noticias](https://www.chvnoticias.cl/senal-online/) [Chile]
 - [El Mostrador](https://www.elmostrador.cl/) [Chile]
@@ -655,7 +655,6 @@ Categoría "news"
 - [Canal 26](https://www.canal26.com/canal26-en-vivo) [Argentina]
 - [A24com](https://www.a24.com/vivo) [Argentina]
 - [Telefe Noticias](https://noticias.mitelefe.com/vivo) [Argentina]
-- [Cadena 3 Argentina](https://www.cadena3.com/) [Argentina]
 - [América TV](https://www.americatv.com.ar/vivo) [Argentina]
 - [eldoce](https://eldoce.tv/vivo/) [Argentina]
 - [El Litoral](https://www.ellitoral.com/) [Argentina]
@@ -1097,6 +1096,7 @@ Categoría "legislative"
 - [Tribunal Constitucional](https://www2.tribunalconstitucional.cl/) [Chile]
 - [Poder Judicial](https://www.poderjudicialtv.cl/) [Chile]
 - [Cámara Diputados](http://www.cdtv.cl/) [Chile]
+- [Servicio Electoral de Chile (Servel)](https://www.servel.cl/) [Chile]
 - [Oficina del Presidente Arg](https://www.youtube.com/channel/UCSfMW32JeKVaYwgvUy5D3fw) [Argentina]
 
 Categoría "outdoor"

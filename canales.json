@@ -40,7 +40,7 @@
     "categoría": "news"
   },
   "t13": {
-    "nombre": "T13",
+    "nombre": "T13 - Teletrece",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Logotipo_de_Teletrece.svg",
     "señales": {
       "iframe_url": [
@@ -2893,6 +2893,21 @@
     "país": "cl",
     "categoría": "legislative"
   },
+ "servel-cl": {
+    "nombre": "Servicio Electoral de Chile (Servel)",
+    "logo": "https://www.servel.cl/wp-content/uploads/elementor/thumbs/Logo-Servel_2-pz97n8j4o5tj23nw56d5wjjua63x90jaekks37yinw.png",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCB8s6rETjmWgXrp_BxyXqdg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.servel.cl/",
+    "país": "cl",
+    "categoría": "legislative"
+  },
   "nuevascomunicaciones": {
     "nombre": "Nuevas Comunicaciones",
     "logo": "",
@@ -3341,21 +3356,6 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://noticias.mitelefe.com/vivo",
-    "país": "ar",
-    "categoría": "news"
-  },
-  "cadena-3": {
-    "nombre": "Cadena 3 Argentina",
-    "logo": "https://graph.facebook.com/Cadena3Argentina/picture?width=800&height=800",
-    "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
-      "yt_id": "UCNxohbqfDp8YxW_Mji2XMHA",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.cadena3.com/",
     "país": "ar",
     "categoría": "news"
   },
