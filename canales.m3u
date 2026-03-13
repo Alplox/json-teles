@@ -617,5 +617,4 @@ https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="TVGE (Ginea Ecuatorial)" tvg-logo="https://pbs.twimg.com/profile_images/1382981938231775232/-lv9ymLe_400x400.jpg" group-title="general", TVGE (Ginea Ecuatorial) [CF]
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="ABC News AU" tvg-logo="" group-title="news", ABC News AU [AU]
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
