@@ -1,0 +1,38 @@
+name: Actualizar README automáticamente
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+on:
+  push:
+    paths:
+      - "canales.json"
+      - "scripts/generar-listas-readme.js"
+  workflow_dispatch:
+
+jobs:
+  actualizar-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Ejecutar script
+        run: node scripts/generar-listas-readme.js
+
+      - name: Commit cambios
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Actualizan listas canales disponibles" || echo "Sin cambios"
+          git push
