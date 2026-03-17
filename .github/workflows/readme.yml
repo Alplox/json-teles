@@ -26,6 +26,9 @@ jobs:
         with:
           node-version: 24
 
+      - name: Instalar dependencias
+        run: npm install node-fetch@3
+
       - name: Ejecutar script
         run: node scripts/generar-listas-readme.js
 
