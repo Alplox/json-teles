@@ -104,6 +104,9 @@ Canales totales disponibles, versión M3U puede contener menos canales.
 - [KawaiiGames](https://www.youtube.com/channel/UCGmvywjUliYi6MSwg_FuW_g) (classic)
 - [Game Master TV](https://www.youtube.com/channel/UC1AFNoYDu-Rub31kwug5drA) (classic)
 
+### 🌍 Emiratos Árabes Unidos
+- [AlArabiya العربية](https://www.alarabiya.net/live-stream) (news)
+
 ### 🌍 Argentina
 - [Todonoticias](https://tn.com.ar/envivo/24hs/) (news)
 - [C5N](https://www.c5n.com/vivo) (news)
@@ -501,6 +504,10 @@ Canales totales disponibles, versión M3U puede contener menos canales.
 ### 🌍 Corea del Sur
 - [Daily Seoul Live outdoor - Hangang](https://www.youtube.com/channel/UCQKQTgZJo3PlxA-9V1Z51XA) (outdoor)
 
+### 🌍 Líbano
+- [Al Mayadeen Channel - قناة الميادين](https://staging-ar.almayadeen.net/live) (news)
+- [AlMayadeen Live - الميادين مباشر](https://www.youtube.com/channel/UCLaJbSWEyamrbyiLWCXL8AA) (news)
+
 ### 🌍 México
 - [ImagenTV](https://www.imagentv.com/en-vivo) (news)
 - [Imagen Televisión Puebla](https://www.imagentv.com/en-vivo) (news)
@@ -573,7 +580,12 @@ Canales totales disponibles, versión M3U puede contener menos canales.
 
 ### 🌍 Catar
 - [Al Jazeera English](https://www.aljazeera.com/live/) (news)
-- [AlJazeera Channel قناة الجزيرة](https://www.aljazeera.com/live/) (news)
+- [AlJazeera Arabic  قناة الجزيرة](https://www.aljazeera.com/live/) (news)
+- [التلفزيون العربي Alaraby TV](https://www.alaraby.com/live-stream) (news)
+- [العربي 2 Alaraby TV 2](https://www.alaraby2.com/) (news)
+
+### 🌍 Arabia Saudita
+- [AlHadath الحدث](https://www.alhadath.net/live-stream) (news)
 
 ### 🌍 Singapur
 - [CNA](https://www.channelnewsasia.com/) (news)
@@ -590,6 +602,10 @@ Canales totales disponibles, versión M3U puede contener menos canales.
 ### 🌍 Ucrania
 - [24 Канал онлайн](https://24tv.ua/online/) (news)
 - [Суспільне Новини](https://suspilne.media/) (news)
+
+### 🌍 País Desconocido
+- [BBC News](https://www.bbc.com/) (news)
+- [BBC News عربي](https://www.bbc.com/arabic) (news)
 
 ### 🌍 Estados Unidos
 - [ABC7 SWFL](https://www.abc-7.com/) (news)
@@ -1075,6 +1091,8 @@ Canales totales disponibles, versión M3U puede contener menos canales.
 - [FRANCE 24 Español](https://www.france24.com/es/) (Francia)
 - [FRANCE 24 English](https://www.france24.com/en/) (Francia)
 - [franceinfo](https://www.francetvinfo.fr/) (Francia)
+- [BBC News](https://www.bbc.com/) (País Desconocido)
+- [BBC News عربي](https://www.bbc.com/arabic) (País Desconocido)
 - [InquizeX]() (Nueva Zelanda)
 - [DW Español](https://www.dw.com/es) (Alemania)
 - [DW News](https://www.dw.com/en) (Alemania)
@@ -1124,12 +1142,18 @@ Canales totales disponibles, versión M3U puede contener menos canales.
 - [Hindustan Times](https://www.youtube.com/channel/UCm7lHFkt2yB_WzL67aruVBQ) (India)
 - [BanglaVision LIVE](https://www.bvnews24.com/live/) (Bangladesh)
 - [Al Jazeera English](https://www.aljazeera.com/live/) (Catar)
-- [AlJazeera Channel قناة الجزيرة](https://www.aljazeera.com/live/) (Catar)
+- [AlJazeera Arabic  قناة الجزيرة](https://www.aljazeera.com/live/) (Catar)
+- [التلفزيون العربي Alaraby TV](https://www.alaraby.com/live-stream) (Catar)
+- [العربي 2 Alaraby TV 2](https://www.alaraby2.com/) (Catar)
+- [Al Mayadeen Channel - قناة الميادين](https://staging-ar.almayadeen.net/live) (Líbano)
+- [AlMayadeen Live - الميادين مباشر](https://www.youtube.com/channel/UCLaJbSWEyamrbyiLWCXL8AA) (Líbano)
 - [City 21 News](https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw) (Pakistán)
 - [Talon News HD](https://www.youtube.com/channel/UCooaD1RPqtX2mY4yNc1PPqw) (Pakistán)
 - [BOL News](https://www.bolnews.com/live/) (Pakistán)
 - [SAMAA TV](https://live.samaa.tv/) (Pakistán)
 - [Dunya News](https://dunyanews.tv/live/) (Pakistán)
+- [AlArabiya العربية](https://www.alarabiya.net/live-stream) (Emiratos Árabes Unidos)
+- [AlHadath الحدث](https://www.alhadath.net/live-stream) (Arabia Saudita)
 - [GlobalQuake](https://globalquake.net/) (República Checa)
 - [GBNews](https://www.gbnews.com/watch/live) (Inglaterra)
 - [CNA](https://www.channelnewsasia.com/) (Singapur)
