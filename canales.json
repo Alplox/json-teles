@@ -6421,10 +6421,12 @@
   },
   "naciones-unidas": {
     "nombre": "Naciones Unidas",
-    "logo": "",
+    "logo": "https://graph.facebook.com/UNWebTV/picture?width=800&height=800",
     "señales": {
       "iframe_url": [],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8"
+      ],
       "yt_id": "UC5O114-PQNYkurlTg6hekZw",
       "yt_embed": "",
       "yt_playlist": "",
@@ -6608,14 +6610,14 @@
   },
   "nasa": {
     "nombre": "NASA Live",
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1280px-NASA_logo.svg.png",
     "señales": {
       "iframe_url": [],
       "m3u8_url": [],
       "yt_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "yt_embed": "21X5lGlDOfg",
+      "yt_embed": "zPH5KtjJFaQ",
       "yt_playlist": "",
-      "twitch_id": ""
+      "twitch_id": "nasa"
     },
     "sitio_oficial": "https://www.nasa.gov/",
     "país": "us",
@@ -6771,6 +6773,46 @@
     },
     "sitio_oficial": "https://www.francetvinfo.fr/",
     "país": "fr",
+    "categoría": "news"
+  },
+  "bbc-news": {
+    "nombre": "BBC News",
+    "logo": "https://graph.facebook.com/bbcnews/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8"
+      ],
+      "yt_id": "UC16niRr50-MSBwiO3YDb3RA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.bbc.com/",
+    "país": "uk",
+    "categoría": "news"
+  },
+  "bbc-news-arabic": {
+    "nombre": "BBC News عربي",
+    "logo": "https://graph.facebook.com/bbcnewsarabic/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
+        "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_http.mpd",
+        "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
+        "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_http.mpd",
+        "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_hd_abr_v2.m3u8",
+        "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8",
+        "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8"
+      ],
+      "yt_id": "UCelk6aHijZq-GJBBB9YpReA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.bbc.com/arabic",
+    "país": "uk",
     "categoría": "news"
   },
   "inquizex": {
@@ -7584,7 +7626,7 @@
     "categoría": "news"
   },
   "al-jazeera-arabe": {
-    "nombre": "AlJazeera Channel قناة الجزيرة",
+    "nombre": "AlJazeera Arabic  قناة الجزيرة",
     "logo": "",
     "señales": {
       "iframe_url": [],
@@ -7596,6 +7638,74 @@
     },
     "sitio_oficial": "https://www.aljazeera.com/live/",
     "país": "qa",
+    "categoría": "news"
+  },
+  "alaraby-tv": {
+    "nombre": "التلفزيون العربي Alaraby TV",
+    "logo": "https://graph.facebook.com/alarabytelevision/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8",
+        "https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/playlist.m3u8"
+      ],
+      "yt_id": "UC65i3Fyq91uiUkIS0i5GLNQ",
+      "yt_embed": "e2RgSa1Wt5o",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.alaraby.com/live-stream",
+    "país": "qa",
+    "categoría": "news"
+  },
+  "alaraby-tv-2": {
+    "nombre": "العربي 2 Alaraby TV 2",
+    "logo": "https://graph.facebook.com/AlarabyTV2/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8",
+        "https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8"
+      ],
+      "yt_id": "UCuCtlmcyOPNqdBf_FfrS7kg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.alaraby2.com/",
+    "país": "qa",
+    "categoría": "news"
+  },
+  "al-mayadeen-channel": {
+    "nombre": "Al Mayadeen Channel - قناة الميادين",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCZCFHCU-2eGF7V5ciMkoPHw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://staging-ar.almayadeen.net/live",
+    "país": "lb",
+    "categoría": "news"
+  },
+  "al-mayadeen-live": {
+    "nombre": "AlMayadeen Live - الميادين مباشر",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8"
+      ],
+      "yt_id": "UCLaJbSWEyamrbyiLWCXL8AA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCLaJbSWEyamrbyiLWCXL8AA",
+    "país": "lb",
     "categoría": "news"
   },
   "vatican-news": {
@@ -7839,6 +7949,43 @@
     },
     "sitio_oficial": "https://dunyanews.tv/live/",
     "país": "pk",
+    "categoría": "news"
+  },
+  "alarabiya": {
+    "nombre": "AlArabiya العربية",
+    "logo": "https://graph.facebook.com/alarabiya/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+        "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8",
+        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8"
+      ],
+      "yt_id": "UCahpxixMCwoANAftn6IxkTg",
+      "yt_embed": "n7eQejkXbnM",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.alarabiya.net/live-stream",
+    "país": "ae",
+    "categoría": "news"
+  },
+  "alhadath": {
+    "nombre": "AlHadath الحدث",
+    "logo": "https://graph.facebook.com/AlHadath/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+        "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8"
+      ],
+      "yt_id": "UCrj5BGAhtWxDfqbza9T9hqA",
+      "yt_embed": "0STUpSryLWY",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.alhadath.net/live-stream",
+    "país": "sa",
     "categoría": "news"
   },
   "globalquake": {
