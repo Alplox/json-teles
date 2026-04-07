@@ -639,10 +639,28 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1 tvg-name="NBC News" tvg-logo="" group-title="news", NBC News (2) [US]
 https://lnc-nbc-news-now.tubi.video/master.m3u8
+#EXTINF:-1 tvg-name="Naciones Unidas" tvg-logo="https://graph.facebook.com/UNWebTV/picture?width=800&height=800" group-title="general", Naciones Unidas [US]
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-name="International House of Prayer" tvg-logo="https://graph.facebook.com/ihopkc/picture?width=800&height=800" group-title="music", International House of Prayer [US]
 https://storage.sardius.media/archives/-K6FGrVYzVr92SDZiDnc/events/site_68FBe1c2dE/playlist.m3u8
 #EXTINF:-1 tvg-name="euronews (Español)" tvg-logo="" group-title="news", euronews (Español) [FR]
 https://euronews-euronews-spanish-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://graph.facebook.com/bbcnews/picture?width=800&height=800" group-title="news", BBC News [UK]
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC News عربي" tvg-logo="https://graph.facebook.com/bbcnewsarabic/picture?width=800&height=800" group-title="news", BBC News عربي (1) [UK]
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-name="BBC News عربي" tvg-logo="https://graph.facebook.com/bbcnewsarabic/picture?width=800&height=800" group-title="news", BBC News عربي (2) [UK]
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_http.mpd
+#EXTINF:-1 tvg-name="BBC News عربي" tvg-logo="https://graph.facebook.com/bbcnewsarabic/picture?width=800&height=800" group-title="news", BBC News عربي (3) [UK]
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-name="BBC News عربي" tvg-logo="https://graph.facebook.com/bbcnewsarabic/picture?width=800&height=800" group-title="news", BBC News عربي (4) [UK]
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_http.mpd
+#EXTINF:-1 tvg-name="BBC News عربي" tvg-logo="https://graph.facebook.com/bbcnewsarabic/picture?width=800&height=800" group-title="news", BBC News عربي (5) [UK]
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-name="BBC News عربي" tvg-logo="https://graph.facebook.com/bbcnewsarabic/picture?width=800&height=800" group-title="news", BBC News عربي (6) [UK]
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-name="BBC News عربي" tvg-logo="https://graph.facebook.com/bbcnewsarabic/picture?width=800&height=800" group-title="news", BBC News عربي (7) [UK]
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-name="DW Español" tvg-logo="https://deultimominuto.net/wp-content/uploads/2022/03/DW-LOGO.jpg" group-title="news", DW Español [DE]
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="" group-title="news", CGTN [CN]
@@ -677,10 +695,30 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrch
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="" group-title="news", Al Jazeera English [QA]
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+#EXTINF:-1 tvg-name="التلفزيون العربي Alaraby TV" tvg-logo="https://graph.facebook.com/alarabytelevision/picture?width=800&height=800" group-title="news", التلفزيون العربي Alaraby TV (1) [QA]
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+#EXTINF:-1 tvg-name="التلفزيون العربي Alaraby TV" tvg-logo="https://graph.facebook.com/alarabytelevision/picture?width=800&height=800" group-title="news", التلفزيون العربي Alaraby TV (2) [QA]
+https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/playlist.m3u8
+#EXTINF:-1 tvg-name="العربي 2 Alaraby TV 2" tvg-logo="https://graph.facebook.com/AlarabyTV2/picture?width=800&height=800" group-title="news", العربي 2 Alaraby TV 2 (1) [QA]
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="العربي 2 Alaraby TV 2" tvg-logo="https://graph.facebook.com/AlarabyTV2/picture?width=800&height=800" group-title="news", العربي 2 Alaraby TV 2 (2) [QA]
+https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8
+#EXTINF:-1 tvg-name="AlMayadeen Live - الميادين مباشر" tvg-logo="" group-title="news", AlMayadeen Live - الميادين مباشر [LB]
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Dunya News" tvg-logo="https://graph.facebook.com/dunyanews/picture?width=800&height=800" group-title="news", Dunya News (1) [PK]
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Dunya News" tvg-logo="https://graph.facebook.com/dunyanews/picture?width=800&height=800" group-title="news", Dunya News (2) [PK]
 https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+#EXTINF:-1 tvg-name="AlArabiya العربية" tvg-logo="https://graph.facebook.com/alarabiya/picture?width=800&height=800" group-title="news", AlArabiya العربية (1) [AE]
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="AlArabiya العربية" tvg-logo="https://graph.facebook.com/alarabiya/picture?width=800&height=800" group-title="news", AlArabiya العربية (2) [AE]
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
+#EXTINF:-1 tvg-name="AlArabiya العربية" tvg-logo="https://graph.facebook.com/alarabiya/picture?width=800&height=800" group-title="news", AlArabiya العربية (3) [AE]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8
+#EXTINF:-1 tvg-name="AlHadath الحدث" tvg-logo="https://graph.facebook.com/AlHadath/picture?width=800&height=800" group-title="news", AlHadath الحدث (1) [SA]
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="AlHadath الحدث" tvg-logo="https://graph.facebook.com/AlHadath/picture?width=800&height=800" group-title="news", AlHadath الحدث (2) [SA]
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="GBNews" tvg-logo="https://graph.facebook.com/GBNewsOnline/picture?width=800&height=800" group-title="news", GBNews [GB-ENG]
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="TVGE (Ginea Ecuatorial)" tvg-logo="https://pbs.twimg.com/profile_images/1382981938231775232/-lv9ymLe_400x400.jpg" group-title="general", TVGE (Ginea Ecuatorial) [CF]
