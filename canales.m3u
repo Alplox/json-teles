@@ -327,6 +327,8 @@ https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Girovisual Televisión (Valparaíso)" tvg-logo="https://www.girovisual.cl/Girovisual%20logo.png" group-title="general", Girovisual Televisión (Valparaíso) (2) [CL]
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="SoloTV (Valparaíso)" tvg-logo="https://stream.making.cl/logo-solotv.png" group-title="general", SoloTV (Valparaíso) [CL]
+https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8
 #EXTINF:-1 tvg-name="Canal ISB (Iglesia San Bernardo)" tvg-logo="https://www.canalisb.cl/imagenes/logo_isb.png" group-title="religious", Canal ISB (Iglesia San Bernardo) (1) [CL]
 https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal ISB (Iglesia San Bernardo)" tvg-logo="https://www.canalisb.cl/imagenes/logo_isb.png" group-title="religious", Canal ISB (Iglesia San Bernardo) (2) [CL]
