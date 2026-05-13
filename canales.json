@@ -8865,5 +8865,25 @@
     "sitio_oficial": "https://www.youtube.com/channel/UC1AFNoYDu-Rub31kwug5drA",
     "país": "",
     "categoría": "classic"
+  },
+  "solotv": {
+    "nombre": "SoloTV",
+    "logo": "https://stream.making.cl/logo-solotv.png",
+    "señales": {
+      "iframe_url": [
+        "https://www.solotv.cl/en-vivo/"
+      ],
+      "m3u8_url": [
+        "https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8"
+      ],
+      "yt_id": "UChgEe4mNbNkjpN2liYQCTUQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.solotv.cl",
+    "país": "cl",
+    "categoría": "general"
   }
+}
 }
