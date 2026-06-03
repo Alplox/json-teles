@@ -78,6 +78,28 @@ const SINGLE_CHANNEL = args.includes("--channel")
   : null;
 
 /**
+ * Parses yt-dlp output for live video IDs.
+ * @param {string} output - Raw stdout from yt-dlp.
+ * @returns {string[]} Array of live video IDs.
+ */
+function parseLiveIds(output) {
+  const lines = output
+    .trim()
+    .split("\n")
+    .map((l) => l.trim())
+    .filter(Boolean);
+
+  const liveIds = [];
+  for (const line of lines) {
+    const [id, status] = line.split("|");
+    if (id && status === "is_live" && id.length === 11) {
+      liveIds.push(id);
+    }
+  }
+  return liveIds;
+}
+
+/**
  * Checks for active livestream via yt-dlp (async, non-blocking).
  * Uses --print live_status to detect only "is_live" streams.
  * Retries once on empty results to guard against transient blocks.
@@ -90,7 +112,14 @@ async function checkYouTubeYtDlp(channelId) {
       const url = `https://www.youtube.com/channel/${channelId}/live`;
       const { stdout, stderr } = await execFileAsync(
         "yt-dlp",
-        ["--flat-playlist", "--print", "%(id)s|%(live_status)s", url],
+        [
+          "--flat-playlist",
+          "--print",
+          "%(id)s|%(live_status)s",
+          "--extractor-args",
+          "youtube:player_client=web",
+          url,
+        ],
         { timeout: YTDLP_TIMEOUT_MS },
       );
 
@@ -98,26 +127,18 @@ async function checkYouTubeYtDlp(channelId) {
         console.warn(`  [yt-dlp] ${channelId}: ${stderr.trim().split("\n")[0]}`);
       }
 
-      const lines = stdout
-        .trim()
-        .split("\n")
-        .map((l) => l.trim())
-        .filter(Boolean);
-
-      const liveIds = [];
-      for (const line of lines) {
-        const [id, status] = line.split("|");
-        if (id && status === "is_live" && id.length === 11) {
-          liveIds.push(id);
-        }
-      }
-
+      const liveIds = parseLiveIds(stdout);
       if (liveIds.length === 0 && attempt < MAX_RETRIES) {
         await sleep(RETRY_DELAY_MS + Math.random() * 1000);
         continue;
       }
       return liveIds;
     } catch (err) {
+      const output = err.stdout || "";
+      if (output) {
+        const liveIds = parseLiveIds(output);
+        if (liveIds.length > 0) return liveIds;
+      }
       if (err.code !== "ETIME") {
         console.error(`  [yt-dlp] ${channelId}: ${err.message.split("\n")[0]}`);
       }
