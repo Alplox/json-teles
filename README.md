@@ -37,18 +37,18 @@ m3u-playlists/    # Per-country M3U playlists (auto-generated, do not edit)
   "total": 529,
   "channels": [
     {
-      "id": "24-horas",
-      "name": "24 horas",
-      "logo": "https://...",
+      "id": "generic-channel",
+      "name": "Generic Channel Name",
+      "logo": "https://...jpg/webp/svg",
       "signals": [
         { "type": "m3u8", "url": "https://...m3u8" },
         { "type": "iframe", "url": "https://..." }
       ],
-      "youtube": "UCTXNz3gjAypWp3EhlIATEJQ",
+      "youtube": "UC...",
       "last_youtube_livestreams": ["VIDEO_ID"],
       "last_checked": "2026-06-02T12:00:00.000Z",
-      "twitch": "24horas_tvn",
-      "website": "https://www.24horas.cl/envivo/",
+      "twitch": "handle-of-generic-channel",
+      "website": "https://www...",
       "country": "cl",
       "category": "news"
     }
@@ -58,21 +58,21 @@ m3u-playlists/    # Per-country M3U playlists (auto-generated, do not edit)
 
 ### Fields
 
-| Field | Type | Required | Description |
-|-------|------|----------|-------------|
-| `id` | string | Yes | Unique channel identifier (slug) |
-| `name` | string | Yes | Display name |
-| `logo` | string \| null | No | Logo URL |
-| `signals` | array | Yes | Available signals |
-| `signals[].type` | string | Yes | `"m3u8"` or `"iframe"` |
-| `signals[].url` | string | Yes | Signal URL |
-| `youtube` | string \| null | No | YouTube channel ID |
-| `last_youtube_livestreams` | array \| null | No | Active YouTube livestream video IDs |
-| `last_checked` | string \| null | No | ISO timestamp of last livestream check |
-| `twitch` | string \| null | No | Twitch channel ID |
-| `website` | string \| null | No | Official website URL |
-| `country` | string \| null | Yes | ISO country code (inherited from parent, nullable for `_unknown`) |
-| `category` | string | Yes | Channel category |
+| Field                      | Type           | Required | Description                                                            |
+| -------------------------- | -------------- | -------- | ---------------------------------------------------------------------- |
+| `id`                       | string         | Yes      | Unique channel identifier (slug)                                       |
+| `name`                     | string         | Yes      | Display name                                                           |
+| `logo`                     | string \| null | No       | Logo URL                                                               |
+| `signals`                  | array          | Yes      | Available signals                                                      |
+| `signals[].type`           | string         | Yes      | `"m3u8"` or `"iframe"`                                                 |
+| `signals[].url`            | string         | Yes      | Signal URL                                                             |
+| `youtube`                  | string \| null | No       | YouTube channel ID                                                     |
+| `last_youtube_livestreams` | array \| null  | No       | Active YouTube livestream video IDs                                    |
+| `last_checked`             | string \| null | No       | ISO timestamp of last livestream check                                 |
+| `twitch`                   | string \| null | No       | Twitch channel ID                                                      |
+| `website`                  | string \| null | No       | Official website URL                                                   |
+| `country`                  | string \| null | Yes      | ISO 3166 country code (inherited from parent, nullable for `_unknown`) |
+| `category`                 | string         | Yes      | Channel category                                                       |
 
 ### Valid Categories
 
@@ -106,21 +106,21 @@ Each file in countries/ follows this structure:
 
 ### channels.json (compiled)
 
-- https://raw.githubusercontent.com/Alplox/json-teles/refs/heads/main/channels.json
-- https://cdn.jsdelivr.net/gh/Alplox/json-teles@refs/heads/main/channels.json
+- <https://raw.githubusercontent.com/Alplox/json-teles/refs/heads/main/channels.json>
+- <https://cdn.jsdelivr.net/gh/Alplox/json-teles@refs/heads/main/channels.json>
 
 ### channels.m3u (combined)
 
-- https://raw.githubusercontent.com/Alplox/json-teles/refs/heads/main/channels.m3u
-- https://cdn.jsdelivr.net/gh/Alplox/json-teles@refs/heads/main/channels.m3u
-- https://cdn.statically.io/gh/Alplox/json-teles/refs/heads/main/channels.m3u
-- https://rawcdn.githack.com/Alplox/json-teles/refs/heads/main/channels.m3u
+- <https://raw.githubusercontent.com/Alplox/json-teles/refs/heads/main/channels.m3u>
+- <https://cdn.jsdelivr.net/gh/Alplox/json-teles@refs/heads/main/channels.m3u>
+- <https://cdn.statically.io/gh/Alplox/json-teles/refs/heads/main/channels.m3u>
+- <https://rawcdn.githack.com/Alplox/json-teles/refs/heads/main/channels.m3u>
 
 ### Per-country playlists
 
-- https://raw.githubusercontent.com/Alplox/json-teles/refs/heads/main/m3u-playlists/cl.m3u
-- https://raw.githubusercontent.com/Alplox/json-teles/refs/heads/main/m3u-playlists/us.m3u
-- https://raw.githubusercontent.com/Alplox/json-teles/refs/heads/main/m3u-playlists/mx.m3u
+- <https://raw.githubusercontent.com/Alplox/json-teles/refs/heads/main/m3u-playlists/cl.m3u>
+- <https://raw.githubusercontent.com/Alplox/json-teles/refs/heads/main/m3u-playlists/us.m3u>
+- <https://raw.githubusercontent.com/Alplox/json-teles/refs/heads/main/m3u-playlists/mx.m3u>
 - ... (same pattern for all countries)
 
 ## Why keep channels in this repository?
@@ -183,7 +183,7 @@ Total channels available. M3U version may contain fewer channels.
 (click to expand)
 
 <!-- START:CHANNEL_COUNT -->
-**Total: 529 channels from 42 countries**
+Total: 529 channels from 42 countries
 
 <!-- END:CHANNEL_COUNT -->
 
@@ -192,6 +192,7 @@ Total channels available. M3U version may contain fewer channels.
 
 <!-- START:BY_COUNTRY -->
 ### 🌍 Unknown Country
+
 - [AcidJazz](https://www.youtube.com/channel/UC8cRYBn-z6y1EOUeMdJ0VHA) (music)
 - [afarTV](https://afar.tv/) (outdoor)
 - [Alyssa's Nature Sanctuary](https://www.youtube.com/channel/UCkirg3K9o212uh5BEt100NQ) (outdoor)
@@ -242,9 +243,11 @@ Total channels available. M3U version may contain fewer channels.
 - [Tomorrowland](https://www.tomorrowland.com/home/) (music)
 
 ### 🌍 Emiratos Árabes Unidos
+
 - [AlArabiya العربية](https://www.alarabiya.net/live-stream) (news)
 
 ### 🌍 Argentina
+
 - [A24com](https://www.a24.com/vivo) (news)
 - [América TV](https://www.americatv.com.ar/vivo) (news)
 - [BREAK POINT](https://www.youtube.com/channel/UC_49ElhhVd1BO7MsdBPm77Q) (general)
@@ -281,12 +284,15 @@ Total channels available. M3U version may contain fewer channels.
 - [Ushuaia Live](https://www.youtube.com/channel/UC6NTD1HmdaZMbe9K5qADOvw) (outdoor)
 
 ### 🌍 Australia
+
 - [ABC News AU](https://www.abc.net.au/news/) (news)
 
 ### 🌍 Bangladesh
+
 - [BanglaVision LIVE](https://www.bvnews24.com/live/) (news)
 
 ### 🌍 Bolivia
+
 - [Bolivia Al aire TV](https://boliviaalairetv.com/) (culture)
 - [Bolivia TV 7.2](https://www.boliviatv.bo/) (general)
 - [Bolivision](https://www.redbolivision.tv.bo/) (general)
@@ -297,6 +303,7 @@ Total channels available. M3U version may contain fewer channels.
 - [Unitel Bolivia](https://television.unitel.bo/vivo) (news)
 
 ### 🌍 Brasil
+
 - [BRADO](https://www.bradojornal.com/) (music)
 - [GZH](https://gauchazh.clicrbs.com.br/) (news)
 - [Record News](https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw) (news)
@@ -307,16 +314,19 @@ Total channels available. M3U version may contain fewer channels.
 - [UOL](https://www.uol.com.br/) (news)
 
 ### 🌍 Canadá
+
 - [CBC News](https://www.youtube.com/channel/UCuFFtHWoLl5fauMMD5Ww2jA) (news)
 - [Global News](https://globalnews.ca/live/national/) (news)
 
 ### 🌍 República Centroafricana
+
 - [africanews](https://www.africanews.com/live/) (news)
 - [Channels Television](https://www.channelstv.com/live) (news)
 - [NamibiaCam](https://www.youtube.com/channel/UC9X6gGKDv2yhMoofoeS7-Gg) (outdoor)
 - [TVGE (Ginea Ecuatorial)](https://tvgelive.gq/) (general)
 
 ### 🌍 Chile
+
 - [Canal 13 (Señal de Pruebas)](https://www.13.cl/) (general)
 - [13 Cultura](https://www.13.cl/c) (culture)
 - [13 Deportes](https://www.13.cl/) (sports)
@@ -509,12 +519,14 @@ Total channels available. M3U version may contain fewer channels.
 - [Wapp TV](https://www.wapptv.cl/) (general)
 
 ### 🌍 China
+
 - [CGTN](https://www.cgtn.com/) (news)
 - [中視新聞 HD直播頻道](https://www.ctv.com.tw/) (news)
 - [民視新聞網 Formosa TV News network](https://www.ftvnews.com.tw/live/live-channel/) (news)
 - [三立iNEWS](https://live.setn.com/) (news)
 
 ### 🌍 Colombia
+
 - [Buenisima Radio Tv](https://www.youtube.com/channel/UCk20PydKzK3giq80G4mqSeg) (music)
 - [Canal Institucional TV (Colombia)](https://www.canalinstitucional.tv/) (general)
 - [CNC CHOCÓ](https://www.youtube.com/channel/UC1y9xnPuEvaPCqwJTFDr-8Q) (news)
@@ -533,12 +545,15 @@ Total channels available. M3U version may contain fewer channels.
 - [Tercer Canal](https://www.youtube.com/channel/UCH0qX_eG0lDi00plxvidu7g) (news)
 
 ### 🌍 Costa Rica
+
 - [Multimedios Costa Rica](https://www.telediario.cr/television) (news)
 
 ### 🌍 República Checa
+
 - [GlobalQuake](https://globalquake.net/) (news)
 
 ### 🌍 Alemania
+
 - [DW عربية](https://www.dw.com/ar) (news)
 - [DW News](https://www.dw.com/en) (news)
 - [DW Español](https://www.dw.com/es) (news)
@@ -546,9 +561,11 @@ Total channels available. M3U version may contain fewer channels.
 - [WELT](https://www.welt.de/) (news)
 
 ### 🌍 República Dominicana
+
 - [Una Nueva Mañana](https://unanuevamanana.com/) (general)
 
 ### 🌍 Ecuador
+
 - [Café la Posta](https://www.laposta.ec/) (news)
 - [Canal Tv Digital](https://canaltvdigitalonline.com/) (news)
 - [Catomedia UCSG](https://catomedia.net/) (news)
@@ -563,6 +580,7 @@ Total channels available. M3U version may contain fewer channels.
 - [Sonorama TV](https://www.youtube.com/channel/UCGOHw6AjriiGhkJnDAhJsRA) (music)
 
 ### 🌍 España
+
 - [Cámaras de tráfico de Vigo](https://www.youtube.com/channel/UC30mmDZa-tMpIS-cIXoErsA) (outdoor)
 - [CNN en Español](https://cnnespanol.cnn.com/) (news)
 - [La Vanguardia](https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg) (news)
@@ -572,6 +590,7 @@ Total channels available. M3U version may contain fewer channels.
 - [TelevisionCanaria](https://rtvc.es/en-directo/) (news)
 
 ### 🌍 Francia
+
 - [euronews (English)](https://www.euronews.com/) (news)
 - [euronews (Español)](https://es.euronews.com/) (news)
 - [euronews (magyarul)](https://hu.euronews.com/) (news)
@@ -581,17 +600,21 @@ Total channels available. M3U version may contain fewer channels.
 - [franceinfo](https://www.francetvinfo.fr/) (news)
 
 ### 🌍 Reino Unido
+
 - [BBC News](https://www.bbc.com/) (news)
 - [BBC News عربي](https://www.bbc.com/arabic) (news)
 
 ### 🌍 Inglaterra
+
 - [GBNews](https://www.gbnews.com/watch/live) (news)
 
 ### 🌍 Honduras
+
 - [HCH En Vivo](https://hch.tv/live/) (news)
 - [METRO TV CHOLUTECA HONDURAS](https://www.lametrohn.com/) (news)
 
 ### 🌍 India
+
 - [ABN Digital Exclusives](https://www.youtube.com/channel/UCMIobchb8wgycijrgc1UnZw) (general)
 - [ABN Telugu](https://www.andhrajyothy.com/live-tv) (news)
 - [ABP MAJHA](https://marathi.abplive.com/live-tv) (news)
@@ -626,6 +649,7 @@ Total channels available. M3U version may contain fewer channels.
 - [WION](https://www.wionews.com/live-tv) (news)
 
 ### 🌍 Italia
+
 - [Vatican News](https://www.vaticannews.va/en.html) (religious)
 - [Vatican News Deutsch](https://www.vaticannews.va/en.html) (religious)
 - [Vatican News 中文](https://www.vaticannews.va/en.html) (religious)
@@ -638,19 +662,23 @@ Total channels available. M3U version may contain fewer channels.
 - [Vatican News Tiếng Việt](https://www.vaticannews.va/en.html) (religious)
 
 ### 🌍 Japón
+
 - [ANNnewsCH](https://news.tv-asahi.co.jp/) (news)
 - [HTB北海道ニュース](https://www.htb.co.jp/news/) (news)
 - [NHK World](https://www3.nhk.or.jp/nhkworld/en/live/) (news)
 - [Aoba traffics](https://www.youtube.com/channel/UCynDLZ-YJnrMLSQvwYi-bUA) (outdoor)
 
 ### 🌍 Corea del Sur
+
 - [Daily Seoul Live outdoor - Hangang](https://www.youtube.com/channel/UCQKQTgZJo3PlxA-9V1Z51XA) (outdoor)
 
 ### 🌍 Líbano
+
 - [Al Mayadeen Channel - قناة الميادين](https://staging-ar.almayadeen.net/live) (news)
 - [AlMayadeen Live - الميادين مباشر](https://www.youtube.com/channel/UCLaJbSWEyamrbyiLWCXL8AA) (news)
 
 ### 🌍 México
+
 - [adn40Mx](https://live.adn40.mx/) (news)
 - [Ahora Noticias](https://www.youtube.com/channel/UCn161AaU20-UcYeDEvDJyyA) (news)
 - [Aristegui Noticias](https://www.aristeguinoticias.com/) (news)
@@ -676,9 +704,11 @@ Total channels available. M3U version may contain fewer channels.
 - [VA+ Noticias](https://ryta.com.mx/envivo/) (news)
 
 ### 🌍 Nueva Zelanda
+
 - [InquizeX](null) (news)
 
 ### 🌍 Panamá
+
 - [Alvaro Alvarado - Noticias 180 Minutos](https://www.youtube.com/channel/UC4RoqlERckC4gIhLEGb9Jjw) (news)
 - [Círculo TV](https://www.youtube.com/channel/UCDPbA7nEEmzhRb5NnItyKag) (news)
 - [FARO TV](https://www.youtube.com/channel/UCH70iZotY9DHPZA_XCJbXGQ) (news)
@@ -686,6 +716,7 @@ Total channels available. M3U version may contain fewer channels.
 - [Telemetro](https://www.telemetro.com/endirecto) (general)
 
 ### 🌍 Perú
+
 - [Avance Social Noticias](https://www.youtube.com/channel/UCo75W2AP1hnjUF4V_ovOAsg) (news)
 - [Diario El Comercio Videos](https://elcomercio.pe) (news)
 - [Ideeleradio](https://www.ideeleradio.pe/) (music)
@@ -709,6 +740,7 @@ Total channels available. M3U version may contain fewer channels.
 - [Willax](https://willax.pe/en-vivo/) (news)
 
 ### 🌍 Pakistán
+
 - [AlQuranHD القران الكريم](https://www.youtube.com/channel/UCraPI8sg-eiNzUrurxhKeEQ) (religious)
 - [BOL News](https://www.bolnews.com/live/) (news)
 - [City 21 News](https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw) (news)
@@ -717,35 +749,44 @@ Total channels available. M3U version may contain fewer channels.
 - [Talon News HD](https://www.youtube.com/channel/UCooaD1RPqtX2mY4yNc1PPqw) (news)
 
 ### 🌍 Paraguay
+
 - [1000 Noticias](https://1000noticias.com.py/) (news)
 - [ABC-TV (Paraguay)](https://www.abc.com.py/) (general)
 
 ### 🌍 Catar
+
 - [AlJazeera Arabic  قناة الجزيرة](https://www.aljazeera.com/live/) (news)
 - [Al Jazeera English](https://www.aljazeera.com/live/) (news)
 - [التلفزيون العربي Alaraby TV](https://www.alaraby.com/live-stream) (news)
 - [العربي 2 Alaraby TV 2](https://www.alaraby2.com/) (news)
 
 ### 🌍 Arabia Saudita
+
 - [AlHadath الحدث](https://www.alhadath.net/live-stream) (news)
 
 ### 🌍 Singapur
+
 - [CNA](https://www.channelnewsasia.com/) (news)
 
 ### 🌍 El Salvador
+
 - [TCS Noticias](https://www.esmitv.com/) (news)
 
 ### 🌍 Turquía
+
 - [TRT World](https://www.trtworld.com/) (news)
 
 ### 🌍 Taiwán
+
 - [華視新聞 CH52](https://news.cts.com.tw/) (news)
 
 ### 🌍 Ucrania
+
 - [24 Канал онлайн](https://24tv.ua/online/) (news)
 - [Суспільне Новини](https://suspilne.media/) (news)
 
 ### 🌍 Estados Unidos
+
 - [ABC News](https://abcnews.go.com/Live) (news)
 - [ABC13Houston](https://abc13.com/watch/live/) (news)
 - [ABC7 SWFL](https://www.abc-7.com/) (news)
@@ -784,9 +825,11 @@ Total channels available. M3U version may contain fewer channels.
 - [WPLG Local 10](https://www.youtube.com/channel/UCgVZ0mrM3liHNhRYC5Mchgg) (news)
 
 ### 🌍 Hawái
+
 - [Aqualink Hawaii](https://www.youtube.com/channel/UCTLF36lXVM7uiR-VolWHv0Q) (outdoor)
 
 ### 🌍 Venezuela
+
 - [Anzoátegui TV](https://lorini.net/anzoateguitv/) (general)
 - [BTA TV](https://btatv.tv/) (general)
 - [Canal 21 Táchira](https://www.canal21tachira.com/tv/) (general)
@@ -806,7 +849,6 @@ Total channels available. M3U version may contain fewer channels.
 - [VPItv](https://vpitv.com/en-vivo/) (news)
 - [VTV RADIO](https://www.atom.bio/vtvradio_) (music)
 
-
 <!-- END:BY_COUNTRY -->
 
 </details>
@@ -816,6 +858,7 @@ Total channels available. M3U version may contain fewer channels.
 
 <!-- START:BY_CATEGORY -->
 ### 📂 Animation
+
 - [Bob Esponja en Español](https://www.youtube.com/channel/UCMfYMB69Y1B-SlGKm1Tdb0Q) (Unknown Country)
 - [El Increíble Mundo de Gumball LA](https://www.youtube.com/channel/UCEsK4_SMT6zgDVUwuLHvo8g) (Unknown Country)
 - [EnerGeek Fan](https://neotv.energeek.cl/canal?slug=energeek-fan) (Chile)
@@ -825,16 +868,20 @@ Total channels available. M3U version may contain fewer channels.
 - [Shaun the Sheep Official](https://www.youtube.com/channel/UCS7H8U-n5mINVJjJsaRtGHg) (Unknown Country)
 
 ### 📂 Auto
+
 - [Carburando](https://www.carburando.com/) (Argentina)
 
 ### 📂 Business
+
 - [Canal País](https://www.canalpais.com/en-vivo) (Chile)
 
 ### 📂 Classic
+
 - [Game Master TV](https://www.youtube.com/channel/UC1AFNoYDu-Rub31kwug5drA) (Unknown Country)
 - [KawaiiGames](https://www.youtube.com/channel/UCGmvywjUliYi6MSwg_FuW_g) (Unknown Country)
 
 ### 📂 Culture
+
 - [13 Cultura](https://www.13.cl/c) (Chile)
 - [Bolivia Al aire TV](https://boliviaalairetv.com/) (Bolivia)
 - [Canal Cultura Venezuela](https://culturavenezuela.com/emision-en-directo/) (Venezuela)
@@ -842,6 +889,7 @@ Total channels available. M3U version may contain fewer channels.
 - [TVN 3](https://www.tvn.cl/tvn3) (Chile)
 
 ### 📂 Entertainment
+
 - [13 Entretención](https://www.13.cl/) (Chile)
 - [13 Humor](https://www.13.cl/) (Chile)
 - [13 Pop](https://www.13.cl/) (Chile)
@@ -853,6 +901,7 @@ Total channels available. M3U version may contain fewer channels.
 - [The Game Awards](https://thegameawards.com/) (Estados Unidos)
 
 ### 📂 General
+
 - [Canal 13 (Señal de Pruebas)](https://www.13.cl/) (Chile)
 - [ABC-TV (Paraguay)](https://www.abc.com.py/) (Paraguay)
 - [ABN Digital Exclusives](https://www.youtube.com/channel/UCMIobchb8wgycijrgc1UnZw) (India)
@@ -970,6 +1019,7 @@ Total channels available. M3U version may contain fewer channels.
 - [Wapp TV](https://www.wapptv.cl/) (Chile)
 
 ### 📂 Kids
+
 - [13 Kids](https://www.13.cl/) (Chile)
 - [Cartoon Network LA](https://www.youtube.com/channel/UCQySZQ6rrgJXRuonMwIIGMA) (Unknown Country)
 - [Disney XD](https://www.youtube.com/channel/UCktaw9L-f65LzUUdjmCFkbQ) (Unknown Country)
@@ -979,6 +1029,7 @@ Total channels available. M3U version may contain fewer channels.
 - [TV Educa Chile](https://www.tvn.cl/envivo/tveducachile/) (Chile)
 
 ### 📂 Legislative
+
 - [Cámara Diputados](https://www.cdtv.cl/) (Chile)
 - [Oficina del Presidente Arg](https://www.youtube.com/channel/UCSfMW32JeKVaYwgvUy5D3fw) (Argentina)
 - [Poder Judicial](https://www.poderjudicialtv.cl/) (Chile)
@@ -987,10 +1038,12 @@ Total channels available. M3U version may contain fewer channels.
 - [TV Senado](https://tv.senado.cl/) (Chile)
 
 ### 📂 Lifestyle
+
 - [13 Prime](https://www.13.cl/) (Chile)
 - [TV Salud](https://tvsalud.cl/) (Chile)
 
 ### 📂 Music
+
 - [13 Festival](https://www.13.cl/) (Chile)
 - [AcidJazz](https://www.youtube.com/channel/UC8cRYBn-z6y1EOUeMdJ0VHA) (Unknown Country)
 - [Radio ADN](https://www.adnradio.cl/noticias/videos/) (Chile)
@@ -1093,6 +1146,7 @@ Total channels available. M3U version may contain fewer channels.
 - [We Are Diamond](https://wearediamond.net/) (Alemania)
 
 ### 📂 News
+
 - [1000 Noticias](https://1000noticias.com.py/) (Paraguay)
 - [24 Канал онлайн](https://24tv.ua/online/) (Ucrania)
 - [24 horas](https://www.24horas.cl/envivo/) (Chile)
@@ -1301,6 +1355,7 @@ Total channels available. M3U version may contain fewer channels.
 - [WPLG Local 10](https://www.youtube.com/channel/UCgVZ0mrM3liHNhRYC5Mchgg) (Estados Unidos)
 
 ### 📂 Outdoor
+
 - [afarTV](https://afar.tv/) (Unknown Country)
 - [Alyssa's Nature Sanctuary](https://www.youtube.com/channel/UCkirg3K9o212uh5BEt100NQ) (Unknown Country)
 - [Axis Experience Center South Central](https://www.axis.com/) (Estados Unidos)
@@ -1344,9 +1399,11 @@ Total channels available. M3U version may contain fewer channels.
 - [Valle Nevado Vista Hotel Puerta del Sol](https://www.vallenevado.com/es/camaras/) (Chile)
 
 ### 📂 Relax
+
 - [Bob Ross (Todas las Temporadas)](https://www.youtube.com/channel/UCxcnsr1R5Ge_fbTu5ajt8DQ) (Unknown Country)
 
 ### 📂 Religious
+
 - [AlQuranHD القران الكريم](https://www.youtube.com/channel/UCraPI8sg-eiNzUrurxhKeEQ) (Pakistán)
 - [Canal ISB (Iglesia San Bernardo)](https://www.canalisb.cl) (Chile)
 - [NCTV (Centro Cristiano Internacional CCINT - San Joaquín)](https://nctv.cl/en-vivo/) (Chile)
@@ -1362,12 +1419,14 @@ Total channels available. M3U version may contain fewer channels.
 - [Vatican News Tiếng Việt](https://www.vaticannews.va/en.html) (Italia)
 
 ### 📂 Science
+
 - [Blue Origin](https://www.blueorigin.com/) (Estados Unidos)
 - [NASA Live](https://www.nasa.gov/) (Estados Unidos)
 - [SpaceX](https://www.spacex.com/) (Estados Unidos)
 - [Virgin Galactic](https://www.virgingalactic.com/) (Estados Unidos)
 
 ### 📂 Sports
+
 - [13 Deportes](https://www.13.cl/) (Chile)
 - [13 FutGO](https://www.13.cl/) (Chile)
 - [Balong - MDTPnet](https://www.youtube.com/channel/UCEZEW2z22WBkUB2Fcs8Gq3A) (Chile)
@@ -1378,8 +1437,8 @@ Total channels available. M3U version may contain fewer channels.
 - [Tierra de Dragones](https://tierradedragones.cl/online/) (Chile)
 
 ### 📂 Weather
-- [MegaTiempo](https://www.megatiempo.cl/) (Chile)
 
+- [MegaTiempo](https://www.megatiempo.cl/) (Chile)
 
 <!-- END:BY_CATEGORY -->
 

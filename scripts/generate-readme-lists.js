@@ -380,11 +380,11 @@ function generateMarkdownByCountry(channelsList, codes) {
 
   for (const country of Object.keys(groups).sort()) {
     const countryName = codes[country] ? codes[country] : "Unknown Country";
-    md += `### 🌍 ${countryName}\n`;
+    if (md) md += "\n";
+    md += `### 🌍 ${countryName}\n\n`;
     for (const ch of groups[country]) {
       md += `- [${ch.name}](${ch.website}) (${ch.category})\n`;
     }
-    md += "\n";
   }
 
   return md;
@@ -401,12 +401,12 @@ function generateMarkdownByCategory(channelsList, codes) {
   let md = "";
 
   for (const cat of Object.keys(groups).sort()) {
-    md += `### 📂 ${cat}\n`;
+    if (md) md += "\n";
+    md += `### 📂 ${cat}\n\n`;
     for (const ch of groups[cat]) {
       const countryName = codes[ch.country] ? codes[ch.country] : "Unknown Country";
       md += `- [${ch.name}](${ch.website}) (${countryName})\n`;
     }
-    md += "\n";
   }
 
   return md;
@@ -434,7 +434,7 @@ function replaceBlock(readme, tag, content) {
 
   const totalChannels = channels.length;
   const totalCountries = new Set(channels.map((ch) => ch.country).filter(Boolean)).size;
-  const channelCount = `**Total: ${totalChannels} channels from ${totalCountries} countries**\n`;
+  const channelCount = `Total: ${totalChannels} channels from ${totalCountries} countries\n`;
 
   const byCountry = generateMarkdownByCountry(channels, countryCodes);
   const byCategory = generateMarkdownByCategory(channels, countryCodes);
