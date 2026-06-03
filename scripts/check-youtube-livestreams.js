@@ -9,9 +9,10 @@ const execFileAsync = util.promisify(execFile);
  * Checks YouTube channels for active livestreams using yt-dlp.
  *
  * Optimizations:
- * - Parallel processing (10 channels simultaneously via async execFile)
+ * - Parallel processing (4 channels simultaneously via async execFile)
  * - Skip recently checked channels
  * - Priority-based checking (live channels checked more often)
+ * - Retry logic for transient failures
  *
  * Usage:
  *   node scripts/check-youtube-livestreams.js [--dry-run] [--force] [--channel ID]
@@ -21,11 +22,13 @@ const COUNTRIES_DIR = path.join(__dirname, "..", "countries");
 const BUILD_SCRIPT = path.join(__dirname, "build-channels.js");
 
 // Configuration
-const CONCURRENCY = 10;
-const BATCH_DELAY_MS = 1500;
+const CONCURRENCY = 4;
+const BATCH_DELAY_MS = 4000;
 const SKIP_THRESHOLD_MS = 30 * 60 * 1000; // 30 min for normal channels
 const PRIORITY_SKIP_MS = 15 * 60 * 1000; // 15 min for channels that were live
-const YTDLP_TIMEOUT_MS = 10000;
+const YTDLP_TIMEOUT_MS = 15000;
+const RETRY_DELAY_MS = 3000;
+const MAX_RETRIES = 1;
 
 // Field order for consistent output
 const CHANNEL_FIELDS = [
@@ -77,38 +80,55 @@ const SINGLE_CHANNEL = args.includes("--channel")
 /**
  * Checks for active livestream via yt-dlp (async, non-blocking).
  * Uses --print live_status to detect only "is_live" streams.
+ * Retries once on empty results to guard against transient blocks.
  * @param {string} channelId - YouTube channel ID.
  * @returns {Promise<string[]>} Array of videoIds if live, empty array otherwise.
  */
 async function checkYouTubeYtDlp(channelId) {
-  try {
-    const url = `https://www.youtube.com/channel/${channelId}/live`;
-    const { stdout } = await execFileAsync(
-      "yt-dlp",
-      ["--flat-playlist", "--print", "%(id)s|%(live_status)s", "--no-warnings", url],
-      { timeout: YTDLP_TIMEOUT_MS },
-    );
+  for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
+    try {
+      const url = `https://www.youtube.com/channel/${channelId}/live`;
+      const { stdout, stderr } = await execFileAsync(
+        "yt-dlp",
+        ["--flat-playlist", "--print", "%(id)s|%(live_status)s", url],
+        { timeout: YTDLP_TIMEOUT_MS },
+      );
 
-    const lines = stdout
-      .trim()
-      .split("\n")
-      .map((l) => l.trim())
-      .filter(Boolean);
-
-    const liveIds = [];
-    for (const line of lines) {
-      const [id, status] = line.split("|");
-      if (id && status === "is_live" && id.length === 11) {
-        liveIds.push(id);
+      if (stderr && stderr.trim()) {
+        console.warn(`  [yt-dlp] ${channelId}: ${stderr.trim().split("\n")[0]}`);
       }
+
+      const lines = stdout
+        .trim()
+        .split("\n")
+        .map((l) => l.trim())
+        .filter(Boolean);
+
+      const liveIds = [];
+      for (const line of lines) {
+        const [id, status] = line.split("|");
+        if (id && status === "is_live" && id.length === 11) {
+          liveIds.push(id);
+        }
+      }
+
+      if (liveIds.length === 0 && attempt < MAX_RETRIES) {
+        await sleep(RETRY_DELAY_MS + Math.random() * 1000);
+        continue;
+      }
+      return liveIds;
+    } catch (err) {
+      if (err.code !== "ETIME") {
+        console.error(`  [yt-dlp] ${channelId}: ${err.message.split("\n")[0]}`);
+      }
+      if (attempt < MAX_RETRIES) {
+        await sleep(RETRY_DELAY_MS + Math.random() * 1000);
+        continue;
+      }
+      return [];
     }
-    return liveIds;
-  } catch (err) {
-    if (err.code !== "ETIME") {
-      console.error(`  [yt-dlp] ${channelId}: ${err.message}`);
-    }
-    return [];
   }
+  return [];
 }
 
 /**
@@ -212,18 +232,21 @@ function sleep(ms) {
       channel.last_youtube_livestreams = videoIds;
       channel.last_checked = new Date().toISOString();
 
+      if (videoIds.length > 0) {
+        totalLive++;
+      }
+      if (previousLivestreams.length > 0 && videoIds.length === 0) {
+        totalCleared++;
+      }
+
       if (!DRY_RUN) {
         const prefix = `  [${totalChecked}/${channelsActive.length}]`;
         if (videoIds.length > 0) {
-          totalLive++;
           console.log(`${prefix} ${channel.id}: LIVE (${videoIds.length} stream(s))`);
+        } else if (previousLivestreams.length > 0) {
+          console.log(`${prefix} ${channel.id}: cleared (was live)`);
         } else {
-          if (previousLivestreams.length > 0) {
-            totalCleared++;
-            console.log(`${prefix} ${channel.id}: cleared (was live)`);
-          } else {
-            console.log(`${prefix} ${channel.id}: not live`);
-          }
+          console.log(`${prefix} ${channel.id}: not live`);
         }
       }
     }
@@ -240,9 +263,10 @@ function sleep(ms) {
       }
     }
 
-    // Delay between batches
+    // Delay between batches with random jitter to avoid pattern detection
     if (i + CONCURRENCY < channelsActive.length) {
-      await sleep(BATCH_DELAY_MS);
+      const jitter = Math.random() * 2000;
+      await sleep(BATCH_DELAY_MS + jitter);
     }
   }
 

@@ -23,13 +23,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Set up deno (JS runtime for yt-dlp)
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
       - name: Install yt-dlp
-        run: pip install yt-dlp
+        run: pip install yt-dlp==2026.3.17
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -50,4 +55,5 @@ jobs:
           git add countries/ channels.json
           timestamp=$(date -u +"%Y-%m-%d %H:%M UTC")
           git diff --staged --quiet || git commit -m "chore: update YouTube livestreams ($timestamp)"
+          git pull --rebase
           git push
