@@ -116,8 +116,7 @@ async function checkYouTubeYtDlp(channelId) {
           "--flat-playlist",
           "--print",
           "%(id)s|%(live_status)s",
-          "--extractor-args",
-          "youtube:player_client=web",
+          "--no-warnings",
           url,
         ],
         { timeout: YTDLP_TIMEOUT_MS },
@@ -139,6 +138,16 @@ async function checkYouTubeYtDlp(channelId) {
         const liveIds = parseLiveIds(output);
         if (liveIds.length > 0) return liveIds;
       }
+
+      const stderrText = err.stderr || "";
+      const messageText = err.message || "";
+      if (
+        stderrText.includes("is not currently live") ||
+        messageText.includes("is not currently live")
+      ) {
+        return [];
+      }
+
       if (err.code !== "ETIME") {
         console.error(`  [yt-dlp] ${channelId}: ${err.message.split("\n")[0]}`);
       }

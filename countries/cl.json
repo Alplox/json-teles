@@ -264,8 +264,10 @@
         }
       ],
       "youtube": "UCTXNz3gjAypWp3EhlIATEJQ",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:43:30.319Z",
+      "last_youtube_livestreams": [
+        "j-_p0naHbxE"
+      ],
+      "last_checked": "2026-06-03T08:02:13.735Z",
       "twitch": "24horas_tvn",
       "website": "https://www.24horas.cl/envivo/",
       "category": "news"
