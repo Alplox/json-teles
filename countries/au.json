@@ -12,8 +12,10 @@
         }
       ],
       "youtube": "UCVgO39Bk5sMo66-6o6Spn6Q",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:43:21.252Z",
+      "last_youtube_livestreams": [
+        "vOTiJkg1voo"
+      ],
+      "last_checked": "2026-06-03T08:34:04.037Z",
       "twitch": null,
       "website": "https://www.abc.net.au/news/",
       "category": "news"

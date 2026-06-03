@@ -7,8 +7,10 @@
       "logo": "https://graph.facebook.com/adn40mx/picture?width=800&height=800",
       "signals": [],
       "youtube": "UC7k--FhnJzhPTrbtldMSoQQ",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:45:26.181Z",
+      "last_youtube_livestreams": [
+        "d6sRTSG4rgs"
+      ],
+      "last_checked": "2026-06-03T08:40:15.009Z",
       "twitch": null,
       "website": "https://live.adn40.mx/",
       "category": "news"
@@ -19,8 +21,10 @@
       "logo": "https://graph.facebook.com/AhoraNoticiasC/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCn161AaU20-UcYeDEvDJyyA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:45:26.181Z",
+      "last_youtube_livestreams": [
+        "hAM96rrKDeA"
+      ],
+      "last_checked": "2026-06-03T08:40:15.009Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCn161AaU20-UcYeDEvDJyyA",
       "category": "news"
@@ -32,7 +36,7 @@
       "signals": [],
       "youtube": "UCafNntv_qTQB26AvbEQNHPw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:45:26.181Z",
+      "last_checked": "2026-06-03T08:40:15.009Z",
       "twitch": null,
       "website": "https://www.aristeguinoticias.com/",
       "category": "news"
@@ -43,8 +47,10 @@
       "logo": "https://graph.facebook.com/aztecanoticias/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCUP6qv-_EIL0hwTsJaKYnvw",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:45:26.181Z",
+      "last_youtube_livestreams": [
+        "0j-UwUPyJO4"
+      ],
+      "last_checked": "2026-06-03T08:40:15.010Z",
       "twitch": null,
       "website": "https://www.tvazteca.com/aztecanoticias/",
       "category": "news"

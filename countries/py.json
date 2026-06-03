@@ -7,8 +7,10 @@
       "logo": "https://graph.facebook.com/1000noticiaspy/picture?width=800&height=800",
       "signals": [],
       "youtube": "UC7US6YiqeUQ3CWOgFsplSfg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:45:52.254Z",
+      "last_youtube_livestreams": [
+        "08JHUIsfbN8"
+      ],
+      "last_checked": "2026-06-03T08:41:26.176Z",
       "twitch": null,
       "website": "https://1000noticias.com.py/",
       "category": "news"

@@ -7,8 +7,10 @@
       "logo": null,
       "signals": [],
       "youtube": "UC30mmDZa-tMpIS-cIXoErsA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:44:53.425Z",
+      "last_youtube_livestreams": [
+        "2vDowXZy9cc"
+      ],
+      "last_checked": "2026-06-03T08:38:39.312Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UC30mmDZa-tMpIS-cIXoErsA",
       "category": "outdoor"
@@ -19,8 +21,10 @@
       "logo": "https://graph.facebook.com/CNNee/picture?width=800&height=800",
       "signals": [],
       "youtube": "UC_lEiu6917IJz03TnntWUaQ",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:44:53.425Z",
+      "last_youtube_livestreams": [
+        "Qr61waJ6AZg"
+      ],
+      "last_checked": "2026-06-03T08:38:39.312Z",
       "twitch": null,
       "website": "https://cnnespanol.cnn.com/",
       "category": "news"
@@ -31,8 +35,10 @@
       "logo": "https://graph.facebook.com/LaVanguardia/picture?width=800&height=800",
       "signals": [],
       "youtube": "UClLLRs_mFTsNT5U-DqTYAGg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:16:06.654Z",
+      "last_youtube_livestreams": [
+        "VJk3WrrKZ8E"
+      ],
+      "last_checked": "2026-06-03T08:38:39.313Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg",
       "category": "news"
@@ -44,7 +50,7 @@
       "signals": [],
       "youtube": "UCoMWImnPAur6JhXDK63dpAg",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:16:06.654Z",
+      "last_checked": "2026-06-03T08:38:39.313Z",
       "twitch": null,
       "website": "https://malaga24h.com/directo-de-malaga-24-horas/",
       "category": "news"

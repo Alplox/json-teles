@@ -8,7 +8,7 @@
       "signals": [],
       "youtube": "UCo75W2AP1hnjUF4V_ovOAsg",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:45:39.734Z",
+      "last_checked": "2026-06-03T08:40:51.738Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCo75W2AP1hnjUF4V_ovOAsg",
       "category": "news"
@@ -19,8 +19,10 @@
       "logo": "https://graph.facebook.com/elcomercio.pe/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCLtGUPjKLqa3zgdmhKCZONg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:45:39.734Z",
+      "last_youtube_livestreams": [
+        "5iFHd29WTj0"
+      ],
+      "last_checked": "2026-06-03T08:40:51.738Z",
       "twitch": null,
       "website": "https://elcomercio.pe",
       "category": "news"
@@ -32,7 +34,7 @@
       "signals": [],
       "youtube": "UCqURueAPBefOz3YhpfDErmw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:45:39.734Z",
+      "last_checked": "2026-06-03T08:40:51.739Z",
       "twitch": null,
       "website": "https://www.ideeleradio.pe/",
       "category": "music"

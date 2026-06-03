@@ -267,7 +267,7 @@
       "last_youtube_livestreams": [
         "j-_p0naHbxE"
       ],
-      "last_checked": "2026-06-03T08:17:06.983Z",
+      "last_checked": "2026-06-03T08:34:36.410Z",
       "twitch": "24horas_tvn",
       "website": "https://www.24horas.cl/envivo/",
       "category": "news"
@@ -291,8 +291,10 @@
         }
       ],
       "youtube": "UCczkrFICr0xEgDsk51zZojA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:43:30.319Z",
+      "last_youtube_livestreams": [
+        "H7gXxrOtldI"
+      ],
+      "last_checked": "2026-06-03T08:34:36.410Z",
       "twitch": null,
       "website": "https://www.adnradio.cl/noticias/videos/",
       "category": "music"
@@ -325,7 +327,7 @@
       ],
       "youtube": "UCBkkqRIsRTbio4W7MwAZiEw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:43:30.319Z",
+      "last_checked": "2026-06-03T08:34:36.410Z",
       "twitch": null,
       "website": "https://www.radioagricultura.cl/en-vivo-3/",
       "category": "music"
@@ -1983,11 +1985,11 @@
           "url": "ttps://rudo.video/live/mediabanco2"
         }
       ],
-      "youtube": "UCu2f4b2pXKXJz4kYl-0b9LA",
+      "youtube": null,
       "last_youtube_livestreams": [],
       "last_checked": "2026-06-02T23:11:13.721Z",
       "twitch": null,
-      "website": "https://www.mediabanco.cl/",
+      "website": "https://www.mediabanco.com/",
       "category": "outdoor"
     },
     {

@@ -8,7 +8,7 @@
       "signals": [],
       "youtube": "UC8cRYBn-z6y1EOUeMdJ0VHA",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:42:45.593Z",
+      "last_checked": "2026-06-03T08:43:01.641Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UC8cRYBn-z6y1EOUeMdJ0VHA",
       "category": "music"
@@ -19,8 +19,10 @@
       "logo": null,
       "signals": [],
       "youtube": "UCaG0IHN1RMOZ4-U3wDXAkwA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:42:45.593Z",
+      "last_youtube_livestreams": [
+        "LAI8dHL9bVM"
+      ],
+      "last_checked": "2026-06-03T08:43:01.642Z",
       "twitch": null,
       "website": "https://afar.tv/",
       "category": "outdoor"
@@ -31,8 +33,10 @@
       "logo": "https://graph.facebook.com/alyssasnaturesanctuary/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCkirg3K9o212uh5BEt100NQ",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:42:45.593Z",
+      "last_youtube_livestreams": [
+        "O6uaw8TV19U"
+      ],
+      "last_checked": "2026-06-03T08:43:01.642Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCkirg3K9o212uh5BEt100NQ",
       "category": "outdoor"
@@ -377,18 +381,6 @@
       "last_checked": "2026-06-02T23:25:38.888Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCBzTytkF5toaL4o5EHQ0UoA",
-      "category": "music"
-    },
-    {
-      "id": "musichits6891",
-      "name": "Music Hits",
-      "logo": null,
-      "signals": [],
-      "youtube": "UC-ITe1nKavRL6-Sl2aE3LKA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:25:38.888Z",
-      "twitch": null,
-      "website": "https://www.youtube.com/channel/UC-ITe1nKavRL6-Sl2aE3LKA",
       "category": "music"
     },
     {

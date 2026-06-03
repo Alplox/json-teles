@@ -157,10 +157,12 @@ npm run format:check       # Check Prettier formatting
 npm run test               # Run M3U conversion tests
 npm run ci                 # Full pipeline: validate + lint + format + test
 npm run watch              # Watch countries/ for changes, auto-rebuild
-npm run check-youtube      # Check YouTube livestreams
+npm run check-youtube      # Check YouTube livestreams (manual)
 npm run check-youtube:dry  # Dry run (no file writes)
 npm run check-youtube:force # Force check (ignore skip threshold)
 ```
+
+> **Tip:** Install [deno](https://deno.com) for better yt-dlp YouTube detection.
 
 ### How to Add a Channel
 
@@ -183,7 +185,7 @@ Total channels available. M3U version may contain fewer channels.
 (click to expand)
 
 <!-- START:CHANNEL_COUNT -->
-Total: 529 channels from 42 countries
+Total: 528 channels from 42 countries
 
 <!-- END:CHANNEL_COUNT -->
 
@@ -222,7 +224,6 @@ Total: 529 channels from 42 countries
 - [Radio Hits Music](https://www.youtube.com/channel/UC0f4WJAjYdwl4XYHz-6FhyQ) (music)
 - [Lofi Girl](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) (music)
 - [Melody Note 멜로디노트](https://www.youtube.com/channel/UCBzTytkF5toaL4o5EHQ0UoA) (music)
-- [Music Hits](https://www.youtube.com/channel/UC-ITe1nKavRL6-Sl2aE3LKA) (music)
 - [Nickelodeon en Español](https://www.youtube.com/channel/UCNeq3Obf4zOv5rhORI8Vz5g) (kids)
 - [NoCopyrightSounds](https://www.youtube.com/channel/UC_aEa8K-EOJ3D6gOs7HcyNg) (music)
 - [Nonstop Music](https://nonstop-records.com/) (music)
@@ -417,7 +418,7 @@ Total: 529 channels from 42 countries
 - [Manupuntocl - Valparaiso](https://www.youtube.com/channel/UCXaQjESu5cdF1CGH1aAA52Q) (outdoor)
 - [Marejadas UV](https://marejadas.uv.cl/) (outdoor)
 - [Marga Marga TV](https://margamargatv.cl) (general)
-- [Mediabanco Chile](https://www.mediabanco.cl/) (outdoor)
+- [Mediabanco Chile](https://www.mediabanco.com/) (outdoor)
 - [Mega](https://www.mega.cl/) (general)
 - [MegaTiempo](https://www.megatiempo.cl/) (weather)
 - [MegaDeportes](https://www.meganoticias.cl/deportes/) (sports)
@@ -1087,7 +1088,6 @@ Total: 529 channels from 42 countries
 - [Lofi Girl](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) (Unknown Country)
 - [Melody Note 멜로디노트](https://www.youtube.com/channel/UCBzTytkF5toaL4o5EHQ0UoA) (Unknown Country)
 - [MundoURenVivo](https://mundour.com/) (Venezuela)
-- [Music Hits](https://www.youtube.com/channel/UC-ITe1nKavRL6-Sl2aE3LKA) (Unknown Country)
 - [Nina FM](https://ninafm.cl/) (Chile)
 - [NoCopyrightSounds](https://www.youtube.com/channel/UC_aEa8K-EOJ3D6gOs7HcyNg) (Unknown Country)
 - [Nonstop Music](https://nonstop-records.com/) (Unknown Country)
@@ -1378,7 +1378,7 @@ Total: 529 channels from 42 countries
 - [Lorain Port and Finance Authority](https://www.lorainport.com/) (Estados Unidos)
 - [Manupuntocl - Valparaiso](https://www.youtube.com/channel/UCXaQjESu5cdF1CGH1aAA52Q) (Chile)
 - [Marejadas UV](https://marejadas.uv.cl/) (Chile)
-- [Mediabanco Chile](https://www.mediabanco.cl/) (Chile)
+- [Mediabanco Chile](https://www.mediabanco.com/) (Chile)
 - [Municipalidad Osorno](https://www.municipalidadosorno.cl/) (Chile)
 - [NamibiaCam](https://www.youtube.com/channel/UC9X6gGKDv2yhMoofoeS7-Gg) (República Centroafricana)
 - [Nuevas Comunicaciones](https://www.youtube.com/channel/UCMvQGOyumsXP4V7dGAdIKWg) (Chile)

@@ -7,8 +7,10 @@
       "logo": null,
       "signals": [],
       "youtube": "UC7fWeaHhqgM4Ry-RMpM2YYw",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:45:56.564Z",
+      "last_youtube_livestreams": [
+        "eIBtiuI1eQ8"
+      ],
+      "last_checked": "2026-06-03T08:41:44.500Z",
       "twitch": null,
       "website": "https://www.trtworld.com/",
       "category": "news"

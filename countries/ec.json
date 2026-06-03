@@ -8,7 +8,7 @@
       "signals": [],
       "youtube": "UCLCCMz3exOqYc59IN0VOLlA",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:44:48.980Z",
+      "last_checked": "2026-06-03T08:38:21.721Z",
       "twitch": null,
       "website": "https://www.laposta.ec/",
       "category": "news"
@@ -20,7 +20,7 @@
       "signals": [],
       "youtube": "UCzfV4_Fh7BEZxYsqe-vUjNw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:44:48.980Z",
+      "last_checked": "2026-06-03T08:38:21.721Z",
       "twitch": null,
       "website": "https://canaltvdigitalonline.com/",
       "category": "news"
@@ -41,7 +41,7 @@
       ],
       "youtube": "UCH5499PHqkqKPsGEUJl5lZg",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:44:48.980Z",
+      "last_checked": "2026-06-03T08:38:21.721Z",
       "twitch": null,
       "website": "https://catomedia.net/",
       "category": "news"
@@ -61,8 +61,10 @@
         }
       ],
       "youtube": "UCGgJIShx7nSBzuI4JeT5aew",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:44:48.980Z",
+      "last_youtube_livestreams": [
+        "1DDokCc5yKo"
+      ],
+      "last_checked": "2026-06-03T08:38:21.721Z",
       "twitch": null,
       "website": "https://www.ecotel.tv/",
       "category": "news"

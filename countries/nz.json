@@ -7,8 +7,10 @@
       "logo": "https://graph.facebook.com/Inquizexx/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCuyLmOJb7PVCvx8zbRT9_GQ",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:45:35.518Z",
+      "last_youtube_livestreams": [
+        "Sa0UpjTdJT4"
+      ],
+      "last_checked": "2026-06-03T08:40:41.039Z",
       "twitch": "inquizex",
       "website": null,
       "category": "news"

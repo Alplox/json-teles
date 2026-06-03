@@ -7,8 +7,10 @@
       "logo": "https://img1.wsimg.com/isteam/ip/b2e252f8-5387-4660-ba31-3f433af7b108/blob-8a5d034.png",
       "signals": [],
       "youtube": "UCZmcd4cQ2H_ELWAuUdOMgRQ",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:44:44.470Z",
+      "last_youtube_livestreams": [
+        "rvtygG4n6ew"
+      ],
+      "last_checked": "2026-06-03T08:38:11.910Z",
       "twitch": "globalquake",
       "website": "https://globalquake.net/",
       "category": "news"

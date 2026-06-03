@@ -7,8 +7,10 @@
       "logo": "https://graph.facebook.com/A24com/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCR9120YBAqMfntqgRTKmkjQ",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:43:04.241Z",
+      "last_youtube_livestreams": [
+        "ArKbAx1K-2U"
+      ],
+      "last_checked": "2026-06-03T08:33:23.260Z",
       "twitch": "a24noticias",
       "website": "https://www.a24.com/vivo",
       "category": "news"
@@ -27,7 +29,7 @@
       "last_youtube_livestreams": [
         "zcWXboTnous"
       ],
-      "last_checked": "2026-06-02T23:06:12.002Z",
+      "last_checked": "2026-06-03T08:33:23.260Z",
       "twitch": null,
       "website": "https://www.americatv.com.ar/vivo",
       "category": "news"
@@ -39,7 +41,7 @@
       "signals": [],
       "youtube": "UC_49ElhhVd1BO7MsdBPm77Q",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:06:12.002Z",
+      "last_checked": "2026-06-03T08:33:23.260Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UC_49ElhhVd1BO7MsdBPm77Q",
       "category": "general"

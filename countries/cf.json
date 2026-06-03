@@ -7,8 +7,10 @@
       "logo": "https://graph.facebook.com/africanews.channel/picture?width=800&height=800",
       "signals": [],
       "youtube": "UC1_E8NeF5QHY2dtdLRBCCLA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:43:30.319Z",
+      "last_youtube_livestreams": [
+        "NQjabLGdP5g"
+      ],
+      "last_checked": "2026-06-03T08:34:30.335Z",
       "twitch": null,
       "website": "https://www.africanews.com/live/",
       "category": "news"
@@ -19,8 +21,10 @@
       "logo": "https://graph.facebook.com/channelsforum/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCEXGDNclvmg6RW0vipJYsTQ",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:43:30.319Z",
+      "last_youtube_livestreams": [
+        "d4zDorDl5UE"
+      ],
+      "last_checked": "2026-06-03T08:34:30.335Z",
       "twitch": null,
       "website": "https://www.channelstv.com/live",
       "category": "news"

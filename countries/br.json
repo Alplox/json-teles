@@ -7,8 +7,10 @@
       "logo": "https://graph.facebook.com/bradoradio/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCBtpKi29d2LQTYJWTKPHAvg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:43:25.633Z",
+      "last_youtube_livestreams": [
+        "gty-X8aWmaI"
+      ],
+      "last_checked": "2026-06-03T08:34:19.825Z",
       "twitch": null,
       "website": "https://www.bradojornal.com/",
       "category": "music"
@@ -19,8 +21,10 @@
       "logo": "https://graph.facebook.com/gzhdigital/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCRC3upGcj_decdPi7JXT7Bg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:43:25.633Z",
+      "last_youtube_livestreams": [
+        "NcpKjvzsv8g"
+      ],
+      "last_checked": "2026-06-03T08:34:19.825Z",
       "twitch": null,
       "website": "https://gauchazh.clicrbs.com.br/",
       "category": "news"
@@ -31,8 +35,10 @@
       "logo": "https://graph.facebook.com/recordnews/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCuiLR4p6wQ3xLEm15pEn1Xw",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:43:25.633Z",
+      "last_youtube_livestreams": [
+        "Bnd-O7I-2hc"
+      ],
+      "last_checked": "2026-06-03T08:34:19.826Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw",
       "category": "news"

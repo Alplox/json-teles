@@ -7,8 +7,10 @@
       "logo": null,
       "signals": [],
       "youtube": "UCSrZ3UV4jOidv8ppoVuvW9Q",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:44:57.923Z",
+      "last_youtube_livestreams": [
+        "pykpO5kQJ98"
+      ],
+      "last_checked": "2026-06-03T08:38:45.582Z",
       "twitch": null,
       "website": "https://www.euronews.com/",
       "category": "news"

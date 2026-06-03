@@ -7,8 +7,10 @@
       "logo": "https://graph.facebook.com/tcsnoticias/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCUd3i3w8AKinobDEeEmjmWA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:45:52.254Z",
+      "last_youtube_livestreams": [
+        "fPqN0CI62F0"
+      ],
+      "last_checked": "2026-06-03T08:41:37.918Z",
       "twitch": null,
       "website": "https://www.esmitv.com/",
       "category": "news"

@@ -161,24 +161,42 @@ async function checkYouTubeYtDlp(channelId) {
 }
 
 /**
- * Checks for active livestream via native HTTPS request to bypass bot checks.
- * @param {string} channelId - YouTube channel ID.
- * @returns {Promise<string[]>} Array of videoIds if live, empty array otherwise.
+ * Helper to fetch HTML content from a URL, following redirects up to a limit.
+ * Includes a consent cookie to bypass Google's consent page redirects.
+ * @param {string} targetUrl - URL to fetch.
+ * @param {number} [redirectCount=0] - Current redirect count.
+ * @returns {Promise<string>} HTML response body.
  */
-function checkYouTubeHtml(channelId) {
+function fetchUrlHtml(targetUrl, redirectCount = 0) {
   return new Promise((resolve, reject) => {
-    const url = `https://www.youtube.com/channel/${channelId}/live`;
+    if (redirectCount > 3) {
+      reject(new Error("Too many redirects"));
+      return;
+    }
+
     const options = {
       headers: {
         "User-Agent":
           "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Accept-Language": "en-US,en;q=0.9",
+        Cookie: "CONSENT=YES+cb.20230530-04-p0.en+FX+904",
       },
       timeout: 10000,
     };
 
     https
-      .get(url, options, (res) => {
+      .get(targetUrl, options, (res) => {
+        if ([301, 302, 303, 307, 308].includes(res.statusCode)) {
+          let redirectUrl = res.headers.location;
+          if (redirectUrl) {
+            if (redirectUrl.startsWith("/")) {
+              redirectUrl = `https://www.youtube.com${redirectUrl}`;
+            }
+            resolve(fetchUrlHtml(redirectUrl, redirectCount + 1));
+            return;
+          }
+        }
+
         if (res.statusCode !== 200) {
           reject(new Error(`HTTP status ${res.statusCode}`));
           return;
@@ -189,28 +207,43 @@ function checkYouTubeHtml(channelId) {
           data += chunk;
         });
         res.on("end", () => {
-          if (data.includes("captcha") || data.includes("confirm you're not a bot")) {
-            reject(new Error("Bot check detected in HTML"));
-            return;
-          }
-
-          const canonical = data.match(/<link rel="canonical" href="([^"]+)"/)?.[1];
-          const isLive = data.includes('"isLive":true');
-
-          if (isLive && canonical && canonical.includes("watch?v=")) {
-            const v = canonical.match(/v=([^&]+)/)?.[1];
-            if (v) {
-              resolve([v]);
-              return;
-            }
-          }
-          resolve([]);
+          resolve(data);
         });
       })
       .on("error", (err) => {
         reject(err);
       });
   });
+}
+
+/**
+ * Checks for active livestream via native HTTPS request to bypass bot checks.
+ * @param {string} channelId - YouTube channel ID.
+ * @returns {Promise<string[]>} Array of videoIds if live, empty array otherwise.
+ */
+async function checkYouTubeHtml(channelId) {
+  const url = `https://www.youtube.com/channel/${channelId}/live`;
+  const data = await fetchUrlHtml(url);
+
+  if (
+    data.includes("confirm you're not a bot") ||
+    data.includes("confirm you’re not a bot") ||
+    data.includes("g-recaptcha") ||
+    data.includes("robot check")
+  ) {
+    throw new Error("Bot check detected in HTML");
+  }
+
+  const canonical = data.match(/<link rel="canonical" href="([^"]+)"/)?.[1];
+  const isLive = data.includes('"isLive":true');
+
+  if (isLive && canonical && canonical.includes("watch?v=")) {
+    const v = canonical.match(/v=([^&]+)/)?.[1];
+    if (v) {
+      return [v];
+    }
+  }
+  return [];
 }
 
 /**
@@ -222,6 +255,7 @@ async function checkYouTubeLive(channelId) {
   try {
     return await checkYouTubeHtml(channelId);
   } catch (err) {
+    console.warn(`  [HTML-check] ${channelId} failed: ${err.message}`);
     // Fallback to yt-dlp if native fetch failed
     return checkYouTubeYtDlp(channelId);
   }
