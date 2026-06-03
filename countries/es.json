@@ -1,0 +1,108 @@
+{
+  "country": "es",
+  "channels": [
+    {
+      "id": "camarasdetraficodevigo8409",
+      "name": "Cámaras de tráfico de Vigo",
+      "logo": null,
+      "signals": [],
+      "youtube": "UC30mmDZa-tMpIS-cIXoErsA",
+      "last_youtube_livestreams": [
+        "2vDowXZy9cc"
+      ],
+      "last_checked": "2026-06-02T23:16:06.654Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UC30mmDZa-tMpIS-cIXoErsA",
+      "category": "outdoor"
+    },
+    {
+      "id": "cnnee",
+      "name": "CNN en Español",
+      "logo": "https://graph.facebook.com/CNNee/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC_lEiu6917IJz03TnntWUaQ",
+      "last_youtube_livestreams": [
+        "Qr61waJ6AZg"
+      ],
+      "last_checked": "2026-06-02T23:16:06.654Z",
+      "twitch": null,
+      "website": "https://cnnespanol.cnn.com/",
+      "category": "news"
+    },
+    {
+      "id": "la-vanguardia",
+      "name": "La Vanguardia",
+      "logo": "https://graph.facebook.com/LaVanguardia/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UClLLRs_mFTsNT5U-DqTYAGg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:16:06.654Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg",
+      "category": "news"
+    },
+    {
+      "id": "malaga24h",
+      "name": "Málaga 24h TV Noticias",
+      "logo": "https://graph.facebook.com/Malaga24hTv/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCoMWImnPAur6JhXDK63dpAg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:16:06.654Z",
+      "twitch": null,
+      "website": "https://malaga24h.com/directo-de-malaga-24-horas/",
+      "category": "news"
+    },
+    {
+      "id": "rtve",
+      "name": "RTVE Noticias",
+      "logo": null,
+      "signals": [],
+      "youtube": "UC7QZIf0dta-XPXsp9Hv4dTw",
+      "last_youtube_livestreams": [
+        "b4tE5aKhtlg"
+      ],
+      "last_checked": "2026-06-02T23:16:06.654Z",
+      "twitch": null,
+      "website": "https://www.rtve.es/noticias",
+      "category": "news"
+    },
+    {
+      "id": "television-de-galicia",
+      "name": "Televisión de Galicia",
+      "logo": "https://graph.facebook.com/tvgalicia/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://agalega.gal/videos/76475-tvg"
+        }
+      ],
+      "youtube": "UCz46p3cffUXUSGUtcnw_Ouw",
+      "last_youtube_livestreams": [
+        "-TPDdyXedgg"
+      ],
+      "last_checked": "2026-06-02T23:16:06.654Z",
+      "twitch": null,
+      "website": "https://agalega.gal/",
+      "category": "news"
+    },
+    {
+      "id": "televisioncanaria",
+      "name": "TelevisionCanaria",
+      "logo": "https://graph.facebook.com/RadioTelevisionCanaria/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCTQrUTmzCWIfG6h4EVCdOCQ",
+      "last_youtube_livestreams": [
+        "ucRYG4XFp6w"
+      ],
+      "last_checked": "2026-06-02T23:16:06.654Z",
+      "twitch": null,
+      "website": "https://rtvc.es/en-directo/",
+      "category": "news"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "country": "ua",
+  "channels": [
+    {
+      "id": "24-channel-online",
+      "name": "24 Канал онлайн",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCja992VI_u2e52c9FHQXw5A",
+      "last_youtube_livestreams": [
+        "j6GE3Tham_o"
+      ],
+      "last_checked": "2026-06-02T23:22:10.944Z",
+      "twitch": null,
+      "website": "https://24tv.ua/online/",
+      "category": "news"
+    },
+    {
+      "id": "social-news",
+      "name": "Суспільне Новини",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCPY6gj8G7dqwPxg9KwHrj5Q",
+      "last_youtube_livestreams": [
+        "uOntga5OQrs"
+      ],
+      "last_checked": "2026-06-02T23:22:10.944Z",
+      "twitch": null,
+      "website": "https://suspilne.media/",
+      "category": "news"
+    }
+  ]
+}

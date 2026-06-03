@@ -1,0 +1,4030 @@
+{
+  "country": "cl",
+  "channels": [
+    {
+      "id": "13-canal-pruebas",
+      "name": "Canal 13 (Señal de Pruebas)",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://jireh-9-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13live/13live.smil/13live/livestream1/chunks.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/",
+      "category": "general"
+    },
+    {
+      "id": "13-cultura",
+      "name": "13 Cultura",
+      "logo": "https://graph.facebook.com/canal13c/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://dai.google.com/linear/hls/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/13cultura"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/c",
+      "category": "culture"
+    },
+    {
+      "id": "13-deportes",
+      "name": "13 Deportes",
+      "logo": "https://s.t13.cl/sites/default/files/t13/componentes/field-componente-logo/deportes13_1.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/13d"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/",
+      "category": "sports"
+    },
+    {
+      "id": "13-entretencion",
+      "name": "13 Entretención",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4f/13entretencion.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://dai.google.com/linear/hls/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/13e"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/",
+      "category": "entertainment"
+    },
+    {
+      "id": "13-festival",
+      "name": "13 Festival",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/6/6e/13festival.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://dai.google.com/linear/hls/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/13festival"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/",
+      "category": "music"
+    },
+    {
+      "id": "13-futgo",
+      "name": "13 FutGO",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4a/FutGo.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/futgo"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/",
+      "category": "sports"
+    },
+    {
+      "id": "13-humor",
+      "name": "13 Humor",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/e/ea/13humor.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/13humor"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/",
+      "category": "entertainment"
+    },
+    {
+      "id": "13-kids",
+      "name": "13 Kids",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9b/13humor.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/13kids"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/",
+      "category": "kids"
+    },
+    {
+      "id": "13-pop",
+      "name": "13 Pop",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/5/5c/13pop.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/WKlE4m31TOijQS05TZmhqw/master.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://dai.google.com/linear/hls/event/WKlE4m31TOijQS05TZmhqw/master.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/13pop"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/",
+      "category": "entertainment"
+    },
+    {
+      "id": "13-prime",
+      "name": "13 Prime",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b6/13prime.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/",
+      "category": "lifestyle"
+    },
+    {
+      "id": "13-realities",
+      "name": "13 Realities",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/2/29/13realities.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://dai.google.com/linear/hls/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/13realities"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/",
+      "category": "entertainment"
+    },
+    {
+      "id": "13-teleseries",
+      "name": "13 Teleseries",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f1/13teleseries.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://dai.google.com/linear/hls/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/13t"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/",
+      "category": "entertainment"
+    },
+    {
+      "id": "24-horas",
+      "name": "24 horas",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?volume=0"
+        },
+        {
+          "type": "iframe",
+          "url": "https://www.24horas.cl/envivo/"
+        }
+      ],
+      "youtube": "UCTXNz3gjAypWp3EhlIATEJQ",
+      "last_youtube_livestreams": [
+        "xE_ap6IQRRc"
+      ],
+      "last_checked": "2026-06-02T23:08:27.338Z",
+      "twitch": "24horas_tvn",
+      "website": "https://www.24horas.cl/envivo/",
+      "category": "news"
+    },
+    {
+      "id": "adn",
+      "name": "Radio ADN",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c2/ADN_Radio_Chile.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://jireh-2-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/adntv"
+        }
+      ],
+      "youtube": "UCczkrFICr0xEgDsk51zZojA",
+      "last_youtube_livestreams": [
+        "1WKZS2VGAcA"
+      ],
+      "last_checked": "2026-06-02T23:08:27.338Z",
+      "twitch": null,
+      "website": "https://www.adnradio.cl/noticias/videos/",
+      "category": "music"
+    },
+    {
+      "id": "agriculturatv",
+      "name": "AGRICULTURA TV",
+      "logo": "https://graph.facebook.com/RadioAgricultura/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited2-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/921tv"
+        },
+        {
+          "type": "iframe",
+          "url": "https://infiny.stream/listen/agricultura/"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/agceventos"
+        }
+      ],
+      "youtube": "UCBkkqRIsRTbio4W7MwAZiEw",
+      "last_youtube_livestreams": [
+        "sPHnLBMoWzc"
+      ],
+      "last_checked": "2026-06-02T23:08:27.338Z",
+      "twitch": null,
+      "website": "https://www.radioagricultura.cl/en-vivo-3/",
+      "category": "music"
+    },
+    {
+      "id": "alternativa-fm",
+      "name": "Radio Alternativa FM (Huasco)",
+      "logo": "https://i0.wp.com/alternativatv.cl/wp-content/uploads/2022/11/cropped-Logo-Red-Alternativa.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.alternativafm.cl/p/alternativa-tv.html",
+      "category": "music"
+    },
+    {
+      "id": "america-tv-cl",
+      "name": "America TV",
+      "logo": "https://radioamerica.cl/wp-content/uploads/2025/07/logo-america.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://v2.tustreaming.cl/radioamericatv/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://v2.tustreaming.cl:2000/VideoPlayer/radioamericatv"
+        }
+      ],
+      "youtube": "UC5N30p76ZhNq3W2cKcimS9g",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:08:48.847Z",
+      "twitch": null,
+      "website": "https://radioamerica.cl/",
+      "category": "general"
+    },
+    {
+      "id": "amikas",
+      "name": "Amikas",
+      "logo": "https://amikas.cl/site-media/images/amikas-logo-300x103.png",
+      "signals": [],
+      "youtube": "UCV9vbBN4BVZYR13o9GA4DVw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:08:48.847Z",
+      "twitch": null,
+      "website": "https://www.amikas.cl",
+      "category": "general"
+    },
+    {
+      "id": "antofagasta-tv",
+      "name": "Antofagasta TV",
+      "logo": "https://graph.facebook.com/AntofagastaTelevision/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited6-cl.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCPPF9v9ISzU_wp8ao2SBfpg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:08:48.847Z",
+      "twitch": null,
+      "website": "https://www.antofagasta.tv/",
+      "category": "general"
+    },
+    {
+      "id": "arica-tv",
+      "name": "Arica TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Logo_de_Arica_TV.png/240px-Logo_de_Arica_TV.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://envivo.arica.tv/hls/Live2025AricaTV.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://arica.tv/envivo/"
+        },
+        {
+          "type": "iframe",
+          "url": "https://envivo.arica.tv/stream/"
+        }
+      ],
+      "youtube": "UC7z3grpL2BZuf1zIN0v99LQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:08:48.847Z",
+      "twitch": null,
+      "website": "https://arica.tv/",
+      "category": "general"
+    },
+    {
+      "id": "atacama-tv",
+      "name": "Atacama TV",
+      "logo": "https://graph.facebook.com/tucanalregional/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://v2.tustreaming.cl/atacamanoticias/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://v2.tustreaming.cl/atacamatv/embed.html?autoplay=true"
+        },
+        {
+          "type": "iframe",
+          "url": "https://v2.tustreaming.cl:2000/VideoPlayer/atacamatv"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://atacamatelevision.com/",
+      "category": "general"
+    },
+    {
+      "id": "aysen-tv",
+      "name": "Aysen TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Logotipo_Ays%C3%A9n_Televisi%C3%B3n.svg/320px-Logotipo_Ays%C3%A9n_Televisi%C3%B3n.svg.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://v1.tustreaming.cl/aysentv/index.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://v1.tustreaming.cl/aysentv/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://v1.tustreaming.cl:443/aysentv/index.m3u8"
+        }
+      ],
+      "youtube": "UCBVPu6vmh0MmBP0nOKMd9Mg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:08:48.847Z",
+      "twitch": null,
+      "website": "https://www.aysen.tv/",
+      "category": "general"
+    },
+    {
+      "id": "balong",
+      "name": "Balong - MDTPnet",
+      "logo": "https://graph.facebook.com/fuerteperoalbalong/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCEZEW2z22WBkUB2Fcs8Gq3A",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:08:48.847Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCEZEW2z22WBkUB2Fcs8Gq3A",
+      "category": "sports"
+    },
+    {
+      "id": "bbtv",
+      "name": "Radio Biobio TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Biobio_TV_logo.jpg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/bbclccp/bbclccp.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/bbtv"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/bbclccp"
+        }
+      ],
+      "youtube": "UCuvM3c8rmdApmk-g22shZ7w",
+      "last_youtube_livestreams": [
+        "Yev0fk7EL3Q"
+      ],
+      "last_checked": "2026-06-02T23:08:48.847Z",
+      "twitch": null,
+      "website": "https://www.biobiochile.cl/biobiotv/",
+      "category": "music"
+    },
+    {
+      "id": "buin-somos-todos",
+      "name": "Buin Somos Todos",
+      "logo": "https://www.buin.cl/wp-content/uploads/2023/05/Botonera_Mesa-de-trabajo-5-copia.jpg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://bst.buin.cl/0.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://www.buin.cl/senal-online/"
+        }
+      ],
+      "youtube": "UC2umV4IwZVvsbZ90u8asuZA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:08:48.847Z",
+      "twitch": null,
+      "website": "https://www.buin.cl/",
+      "category": "general"
+    },
+    {
+      "id": "camara-diputados",
+      "name": "Cámara Diputados",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Emblema_de_la_C%C3%A1mara_de_Diputados_de_Chile.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://wowlive.grupoz.cl/camara/live/chunklist_w1358283897_DVR.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://wowlive.grupoz.cl/camara/live/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCYd5k2TyOyOmUJNx0SH17KA",
+      "last_youtube_livestreams": [
+        "izrYFT6x4t4"
+      ],
+      "last_checked": "2026-06-02T23:08:48.847Z",
+      "twitch": null,
+      "website": "https://www.cdtv.cl/",
+      "category": "legislative"
+    },
+    {
+      "id": "canal-1-ñuble",
+      "name": "Canal 1 Ñuble",
+      "logo": "https://images.squarespace-cdn.com/content/v1/670e696722c95f04171e0924/c9b5d2ac-2f70-40e1-beed-78d39108f657/_Canal+Uno_.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://live.grupoz.cl/7092f3c5b7a28815b97373b9d6e84df5"
+        }
+      ],
+      "youtube": "UCTddesXQ0nyjXcmXe6mgrbA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:08:48.847Z",
+      "twitch": null,
+      "website": "https://www.canal1.cl/",
+      "category": "general"
+    },
+    {
+      "id": "canal-11-aysen",
+      "name": "Canal 11 Aysen",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://v2.tustreaming.cl/canal11aysen/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://cdn.jwplayer.com/players/2R4TGXTm-InE6g9DY.html"
+        },
+        {
+          "type": "iframe",
+          "url": "https://v2.tustreaming.cl:2000/VideoPlayer/canal11aysen"
+        }
+      ],
+      "youtube": "UCCM5Ktm-Kdf4GrRTKz_xLkw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:09:13.813Z",
+      "twitch": null,
+      "website": "https://canal11aysen.cl/",
+      "category": "general"
+    },
+    {
+      "id": "canal-13",
+      "name": "Canal 13",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Emblema_del_Canal_13_Chile.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.dps.live/hls/13cl/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13popup/13popup.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/c13"
+        }
+      ],
+      "youtube": "UCd4D3LfXC_9MY2zSv_3gMgw",
+      "last_youtube_livestreams": [
+        "seTxqEzzCtA"
+      ],
+      "last_checked": "2026-06-02T23:09:13.813Z",
+      "twitch": null,
+      "website": "https://www.13.cl/en-vivo",
+      "category": "general"
+    },
+    {
+      "id": "canal-13-internacional",
+      "name": "Canal 13 Internacional",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/8/88/13_Internacional_2025.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.dps.live/hls/13intav/playlist.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/en-vivo",
+      "category": "general"
+    },
+    {
+      "id": "canal-2-quellon",
+      "name": "Canal 2 Quellón",
+      "logo": "https://graph.facebook.com/canal2quellon/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited2-cl-isp.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://redirector.dps.live/hls/tvquellon/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited6-cl.dps.live/tvquellon/tvquellon.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited2-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCDYU8ZanzAQ2zXiwyNMt4sg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:09:13.814Z",
+      "twitch": null,
+      "website": "https://www.canal2quellon.cl/",
+      "category": "general"
+    },
+    {
+      "id": "canal-2-san-antonio",
+      "name": "Canal 2 San Antonio",
+      "logo": "https://graph.facebook.com/canal2tvsanantonio/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-us.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/canal2/canal2.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/canal2"
+        }
+      ],
+      "youtube": "UC5fAKnDU5IVlR854N2jBzaw",
+      "last_youtube_livestreams": [
+        "wGu3vJYBSNk"
+      ],
+      "last_checked": "2026-06-02T23:09:13.814Z",
+      "twitch": null,
+      "website": "https://cablenoticias.cl/san-antonio-en-vivo",
+      "category": "general"
+    },
+    {
+      "id": "canal-5-puerto-montt",
+      "name": "Canal 5 Pto. Montt",
+      "logo": "https://canal5.cl/wp/wp-content/uploads/2025/06/canal5-300x169.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://5ff3d9babae13.streamlock.net:443/aufymdjpjf/aufymdjpjf/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://streaming10.zglobalhost.com:2020/VideoPlayer/aufymdjpjf?autoplay=1"
+        }
+      ],
+      "youtube": "UCRXlx7U_2F8bD70rmSyHOYA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:09:13.814Z",
+      "twitch": null,
+      "website": "https://canal5.cl/",
+      "category": "general"
+    },
+    {
+      "id": "canal-9",
+      "name": "Canal 9",
+      "logo": "https://graph.facebook.com/BioBioTV/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/c9"
+        }
+      ],
+      "youtube": "UCUyXwD-J--EZlv90KHyqOUg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:09:13.814Z",
+      "twitch": null,
+      "website": "https://www.canal9.cl/en-vivo/",
+      "category": "general"
+    },
+    {
+      "id": "canal-local-quillota",
+      "name": "Canal Local Quillota",
+      "logo": "https://canallocal.cl/wp-content/uploads/2020/04/cropped-CANALLOCAL-2.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://v2.tustreaming.cl/canallocalcl/index.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://v2.tustreaming.cl/canallocalcl/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://v2.tustreaming.cl:443/canallocalcl/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://cdn.jwplayer.com/players/ECMtO2fQ-FQXJcgSP.html"
+        },
+        {
+          "type": "iframe",
+          "url": "https://v2.tustreaming.cl:2000/VideoPlayer/canallocalcl"
+        }
+      ],
+      "youtube": "UCaLyzL5I9ihrrUF4534E49g",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:09:13.814Z",
+      "twitch": null,
+      "website": "https://www.canallocal.cl",
+      "category": "general"
+    },
+    {
+      "id": "canal-pais",
+      "name": "Canal País",
+      "logo": "https://graph.facebook.com/CanalPais/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://v4.tustreaming.cl/canalpais/index.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://v4.tustreaming.cl/canalpais/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://www-canalpais-com.filesusr.com/html/bf5a30_76a4523477e61a1d7a3e27ed66fde74a.html"
+        },
+        {
+          "type": "iframe",
+          "url": "https://cdn.jwplayer.com/players/GfXjIodi-Q8RuSUtM.html"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.canalpais.com/en-vivo",
+      "category": "business"
+    },
+    {
+      "id": "canal-sur-patagonia",
+      "name": "Canal Sur Patagonia",
+      "logo": "https://www.canalsurpatagonia.cl/wp-content/uploads/2024/07/Canal-Sur-Patagonia-272x90-2-jpg.avif",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://v2.tustreaming.cl/fmarcoirirs/index.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://v2.tustreaming.cl/fmarcoirirs/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://v2.tustreaming.cl:443/fmarcoirirs/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://cdn.jwplayer.com/players/CvGZdlJl-InE6g9DY.html"
+        },
+        {
+          "type": "iframe",
+          "url": "https://v2.tustreaming.cl:2000/VideoPlayer/fmarcoirirs"
+        }
+      ],
+      "youtube": "UCjOnLoWORUVm2L8ltJNVqag",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:09:13.814Z",
+      "twitch": null,
+      "website": "https://www.canalsurpatagonia.cl/",
+      "category": "general"
+    },
+    {
+      "id": "canal-tv8-concepcion",
+      "name": "Canal TV8 Concepcion",
+      "logo": "https://graph.facebook.com/tv8concepcion/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCQw3vkrQj72yk7dIrXl7yIA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:09:13.814Z",
+      "twitch": null,
+      "website": "https://www.canaltv8.cl/",
+      "category": "general"
+    },
+    {
+      "id": "canalzonalatina",
+      "name": "Zona Latina",
+      "logo": "https://graph.facebook.com/canalzonalatina/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC1mxPedvfMZCw48brknNg3g",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:09:13.814Z",
+      "twitch": null,
+      "website": "https://zonalatinatv.com/",
+      "category": "general"
+    },
+    {
+      "id": "caracola-tv",
+      "name": "Caracola TV La Florida",
+      "logo": "https://www.caracolatv.cl/wp-content/uploads/2022/11/cropped-LOGO-CARACOLA-05-1-300x169.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCu8mNbEQrgpOJ0cjzqKpKmA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:09:37.712Z",
+      "twitch": null,
+      "website": "https://www.caracolatv.cl",
+      "category": "general"
+    },
+    {
+      "id": "carolina-tv",
+      "name": "Radio Carolina TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_Radio_Carolina_2020.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://mdstrm.com/live-stream/63a06468117f42713374addd?volume=0"
+        }
+      ],
+      "youtube": "UCmleXhXwXkhuL17RkSGAMXg",
+      "last_youtube_livestreams": [
+        "rUwXP_lkric"
+      ],
+      "last_checked": "2026-06-02T23:09:37.713Z",
+      "twitch": "radiocarolina",
+      "website": "https://www.carolina.cl/tv/",
+      "category": "music"
+    },
+    {
+      "id": "carolina2-tv",
+      "name": "Radio Carolina 2 TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_Radio_Carolina_2020.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/carolinatv2"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.carolina.cl/carolina2/",
+      "category": "music"
+    },
+    {
+      "id": "chile-channel-tv",
+      "name": "Chile Channel TV",
+      "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/dd/0d/1fdd0d87-c7de-609a-8682-40859129708f/AppIcon-BuildServer-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200ia-75.webp",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://v2.tustreaming.cl/chilechannel/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://cdn.jwplayer.com/players/OKCLvieb-LsJIV5qV.html"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://chilechanneltv.cl/",
+      "category": "outdoor"
+    },
+    {
+      "id": "chilevision",
+      "name": "Chilevisión",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Emblema_de_Chilevisi%C3%B3n.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://www.chilevision.cl/senal-online"
+        },
+        {
+          "type": "iframe",
+          "url": "https://monitortv.vercel.app/Monitores/Senal/WEB/Se%C3%B1alCHV_IFRAME"
+        }
+      ],
+      "youtube": "UC8EdTmyUaFIfZvVttJ9lgIA",
+      "last_youtube_livestreams": [
+        "z9G9NoIJ4i0"
+      ],
+      "last_checked": "2026-06-02T23:09:37.713Z",
+      "twitch": "chilevisioncl",
+      "website": "https://www.chilevision.cl/senal-online",
+      "category": "general"
+    },
+    {
+      "id": "chiloered25",
+      "name": "Chiloé Red 25",
+      "logo": "https://graph.facebook.com/chiloered25/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://v2.tustreaming.cl/chiloered/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://cdn.jwplayer.com/players/d5IqCqgo-3bWnXcWy.html"
+        }
+      ],
+      "youtube": "UC-8x6zF_ganhgMvRIgzBsMg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:09:37.713Z",
+      "twitch": null,
+      "website": "https://chiloered25.cl/",
+      "category": "general"
+    },
+    {
+      "id": "chv-deportes",
+      "name": "CHV Deportes",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://pluto.tv/latam/live-tv/638df6f8b63cf100075ccfa1",
+      "category": "sports"
+    },
+    {
+      "id": "chv-noticias",
+      "name": "CHV Noticias",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://mdstrm.com/live-stream/6491ced935a5833c47dd7f41?volume=0"
+        },
+        {
+          "type": "iframe",
+          "url": "https://www.chvnoticias.cl/senal-online/"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/chvn"
+        }
+      ],
+      "youtube": "UCRsUoZYC1ULUspipMRnMhwg",
+      "last_youtube_livestreams": [
+        "fKE8CcR0la0"
+      ],
+      "last_checked": "2026-06-02T23:09:37.713Z",
+      "twitch": "chv_noticias",
+      "website": "https://www.chvnoticias.cl/senal-online/",
+      "category": "news"
+    },
+    {
+      "id": "clicktv-chile",
+      "name": "ClickTv Chile (Coronel)",
+      "logo": "https://graph.facebook.com/clicktvchile/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://v2.tustreaming.cl/clicktv/index.m3u8"
+        }
+      ],
+      "youtube": "UCcpaZhIFkrEKJIc9Eadjydw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:09:37.713Z",
+      "twitch": "clicktvchile",
+      "website": "https://clicktvchile.cl",
+      "category": "general"
+    },
+    {
+      "id": "club-tv-santa-juana",
+      "name": "Club TV Santa Juana",
+      "logo": "https://graph.facebook.com/clubtvcanal/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://cloudpro.servidoresdestream.com:2020/VideoPlayer/8010?autoplay=1"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.clubtv.cl/",
+      "category": "general"
+    },
+    {
+      "id": "cnn-cl",
+      "name": "CNN Chile",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://jireh-4-hls-video-cl-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/cnn"
+        },
+        {
+          "type": "iframe",
+          "url": "https://www.cnnchile.com/page/en-vivo/"
+        }
+      ],
+      "youtube": "UCpOAcjJNAp0Y0fhznRrXIJQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:09:37.713Z",
+      "twitch": null,
+      "website": "https://www.cnnchile.com/page/en-vivo/",
+      "category": "news"
+    },
+    {
+      "id": "concecam",
+      "name": "ConceCam",
+      "logo": "https://yt3.googleusercontent.com/AchF_zMekNiXUURd3hHdeJvXxVmU5XSgk6GmrcjcBfbVVmWB-Q2zVpH3DnLZINUpC9xJBjhA5w=s900-c-k-c0x00ffffff-no-rj",
+      "signals": [],
+      "youtube": "UCJizf5PzUJ88hro1m-cUcSA",
+      "last_youtube_livestreams": [
+        "RhdmP5017VM"
+      ],
+      "last_checked": "2026-06-02T23:09:37.713Z",
+      "twitch": null,
+      "website": "https://www.concecam.cl/",
+      "category": "outdoor"
+    },
+    {
+      "id": "concepcion-tv",
+      "name": "Concepcion TV",
+      "logo": "https://concepciontv.cl/wp-content/uploads/2024/04/logopaginaweb-1-1024x272-1-150x40.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://stream.blserver.cl/hls/ctv/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://concepciontv.cl/en-vivo/"
+        }
+      ],
+      "youtube": "UCk6WsLjP4aQ56vebXFvDrew",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:09:37.713Z",
+      "twitch": null,
+      "website": "https://www.concepciontv.cl/",
+      "category": "general"
+    },
+    {
+      "id": "contivision",
+      "name": "Contivision",
+      "logo": "https://graph.facebook.com/TVContivision/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/cm/cm.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/cm"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://contivision.cl/",
+      "category": "general"
+    },
+    {
+      "id": "cooperativa",
+      "name": "Radio Cooperativa",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Radio_Cooperativa_Logo.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/coopetv"
+        },
+        {
+          "type": "iframe",
+          "url": "https://unlimited11-cl.dps.live/cooperativafm/aac/icecast.audio"
+        }
+      ],
+      "youtube": "UC13uZwIWmnmBJQuiTJWbVhQ",
+      "last_youtube_livestreams": [
+        "w9I5dIrsGEs"
+      ],
+      "last_checked": "2026-06-02T23:09:37.713Z",
+      "twitch": null,
+      "website": "https://programas.cooperativa.cl/showalairelibre/",
+      "category": "music"
+    },
+    {
+      "id": "copano",
+      "name": "Copano",
+      "logo": "https://graph.facebook.com/copano/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCVTL17ftpqx3lQ_IaGUNgSg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:02.095Z",
+      "twitch": null,
+      "website": "https://copano.news/",
+      "category": "news"
+    },
+    {
+      "id": "cronicas-del-sur-tv",
+      "name": "Cronicas del Sur TV",
+      "logo": "https://cronicasdelsur.cl/wp-content/uploads/2023/07/cropped-LOGO-TV-transparente-180x180.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://s1.tvdatta.com/broadcaster/canal20tv/live/player"
+        }
+      ],
+      "youtube": "UColYdUbgti8iKF8MokWVCtQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:02.095Z",
+      "twitch": null,
+      "website": "https://cronicasdelsur.cl/",
+      "category": "general"
+    },
+    {
+      "id": "dancefmchile",
+      "name": "Dance FM Chile TV",
+      "logo": "https://graph.facebook.com/dancefmchile/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://video.mediawebchile.com:9332/stream"
+        }
+      ],
+      "youtube": "UC6f6ZevbvPZUeWZCL8dX5Xg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:02.095Z",
+      "twitch": null,
+      "website": "https://www.dancefm.cl/",
+      "category": "music"
+    },
+    {
+      "id": "decimatv",
+      "name": "Décima TV (Ancud)",
+      "logo": "https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f3fda92cc107f13d88c21de/mediaLibrary/photo/91011544-ecd3-4f95-b79d-f814987d51e8-extra-large-standard-q100.webp",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited6-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCUQEODwyRzjKdN7jMJ0Cu3A",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:02.095Z",
+      "twitch": null,
+      "website": "https://www.decimatv.cl/",
+      "category": "general"
+    },
+    {
+      "id": "duna",
+      "name": "Radio Duna",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/59/Logo_Radio_Duna_2005.jpg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited2-cl-isp.dps.live/dunatv/dunatv.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/dunatv/dunatv.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/dunatv"
+        }
+      ],
+      "youtube": "UC2dUjKdv0sezxuflNK4w8Pg",
+      "last_youtube_livestreams": [
+        "IVtuke2ri14"
+      ],
+      "last_checked": "2026-06-02T23:10:02.095Z",
+      "twitch": null,
+      "website": "https://www.duna.cl/tv/",
+      "category": "music"
+    },
+    {
+      "id": "el-mostrador",
+      "name": "El Mostrador",
+      "logo": "https://graph.facebook.com/elmostrador/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCAOZvFm0xSBcom35r6-mcEA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:02.095Z",
+      "twitch": null,
+      "website": "https://www.elmostrador.cl/",
+      "category": "news"
+    },
+    {
+      "id": "energeek-fan",
+      "name": "EnerGeek Fan",
+      "logo": "https://cdn.energeek.cl/logos/EG-Fan-2025_brand.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://neotv.energeek.cl/canal?slug=energeek-fan",
+      "category": "animation"
+    },
+    {
+      "id": "energeek-radio",
+      "name": "EnerGeek Radio",
+      "logo": "https://cdn.energeek.cl/logos/EG-Radio-2025_brand.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=dEmoweBeneRGEek2025"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb"
+        }
+      ],
+      "youtube": "UCBRqdpctXAHLRQMYr14yDgw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:02.095Z",
+      "twitch": "energeekcl",
+      "website": "https://energeek.cl/radio-en-vivo/",
+      "category": "music"
+    },
+    {
+      "id": "energeek-retro",
+      "name": "EnerGeek Retro",
+      "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_brand.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=dEmoweBeneRGEek2025"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb"
+        }
+      ],
+      "youtube": "UC9_KRIpu2P0QcgWpOeqju7w",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:02.095Z",
+      "twitch": null,
+      "website": "https://energeek.cl/",
+      "category": "animation"
+    },
+    {
+      "id": "exprezion-tv",
+      "name": "Exprezion TV",
+      "logo": "https://www.exprezion.cl/assets/images/logo-de-canal-exprezion-163x163.png",
+      "signals": [],
+      "youtube": "UCFO59H-h5xUDUCjIoCuhAWA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:02.096Z",
+      "twitch": "expreziontelevision",
+      "website": "https://www.exprezion.cl/",
+      "category": "general"
+    },
+    {
+      "id": "frecuencia-7",
+      "name": "Frecuencia 7",
+      "logo": "https://www.frecuencia7tv.cl/logo-f7.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://v2.tustreaming.cl/frecuencia7/index.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://v2.tustreaming.cl:443/frecuencia7/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://v2.tustreaming.cl:2000/VideoPlayer/frecuencia7"
+        }
+      ],
+      "youtube": "UC8MPjxKZSvwT0D4s03Xacmw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:02.096Z",
+      "twitch": null,
+      "website": "https://www.frecuencia7tv.cl",
+      "category": "general"
+    },
+    {
+      "id": "frecuencia-cruzada",
+      "name": "Frecuencia Cruzada",
+      "logo": "https://graph.facebook.com/FrecuenciaCruzada/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCQNt1ccbf8WXt1QJqqXfW3g",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:22.622Z",
+      "twitch": null,
+      "website": "https://frecuenciacruzada.cl/en-vivo",
+      "category": "sports"
+    },
+    {
+      "id": "galeria-cima",
+      "name": "Galería CIMA",
+      "logo": null,
+      "signals": [],
+      "youtube": "UC4GOcOKkEefz5NamN4WyMFg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:22.622Z",
+      "twitch": null,
+      "website": "https://galeriacima.cl/",
+      "category": "outdoor"
+    },
+    {
+      "id": "girovisual",
+      "name": "Girovisual Televisión (Valparaíso)",
+      "logo": "https://www.girovisual.cl/Girovisual%20logo.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/girovisual2/girovisual2.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCWJkIrCmaM0Abf7_IbM84Dw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:22.623Z",
+      "twitch": null,
+      "website": "https://www.girovisual.cl/",
+      "category": "general"
+    },
+    {
+      "id": "holvoet-tv",
+      "name": "Holvoet TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/07/HolvoetTV.jpg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/holvoettv"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://holvoet.cl/en-vivo/",
+      "category": "general"
+    },
+    {
+      "id": "huasco-television",
+      "name": "Huasco Television",
+      "logo": "https://www.huascotelevisionstreaming.cl/images/logo_superior.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://paneltv.online:1936/8024/8024/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://paneltv.stream:19360/huasco/huasco.m3u8"
+        }
+      ],
+      "youtube": "UCSQh2XXt_T2abPHrabtS-sw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:22.623Z",
+      "twitch": null,
+      "website": "https://www.huascotelevisionstreaming.cl/",
+      "category": "general"
+    },
+    {
+      "id": "infinita",
+      "name": "Radio Infinita",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Radio_Infinita_logo_2023.jpg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://mdstrm.com/live-stream/63a066e54ed536087960b550?volume=0"
+        }
+      ],
+      "youtube": "UCqRSHnlmSRcHEnr0TjmmKow",
+      "last_youtube_livestreams": [
+        "HnpQDZese0U"
+      ],
+      "last_checked": "2026-06-02T23:10:22.623Z",
+      "twitch": null,
+      "website": "https://www.infinita.cl/home/",
+      "category": "music"
+    },
+    {
+      "id": "inter-radio-tv",
+      "name": "Inter Radio TV Frutillar",
+      "logo": "https://www.interradiotv.cl/wp-content/uploads/2024/03/Logoa-medida.jpg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.interradio1.net/",
+      "category": "general"
+    },
+    {
+      "id": "iquique-tv",
+      "name": "Iquique TV",
+      "logo": "https://graph.facebook.com/iquiquetvhd/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8"
+        }
+      ],
+      "youtube": "UC1Uqq-BMRc_nkF1xDYR7xKQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:22.623Z",
+      "twitch": null,
+      "website": "https://iquiquetv.cl/senal-online/",
+      "category": "general"
+    },
+    {
+      "id": "isb-san-bernardo",
+      "name": "Canal ISB (Iglesia San Bernardo)",
+      "logo": "https://www.canalisb.cl/imagenes/logo_isb.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/isb/isb.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/isb"
+        }
+      ],
+      "youtube": "UC82uqg1iJiRiYVIdSXFwvIg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:22.623Z",
+      "twitch": null,
+      "website": "https://www.canalisb.cl",
+      "category": "religious"
+    },
+    {
+      "id": "itv-patagonia",
+      "name": "ITV Patagonia",
+      "logo": "https://graph.facebook.com/ITVPatagonia/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/itv/itv.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/itv"
+        }
+      ],
+      "youtube": "UCrzab0S4lNqFjmv4fQArnTA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:22.623Z",
+      "twitch": null,
+      "website": "https://www.itvpatagonia.com/",
+      "category": "general"
+    },
+    {
+      "id": "kanade-tv",
+      "name": "Kanade - Televisión",
+      "logo": "https://graph.facebook.com/MyKanadeCL/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://streams.kanade.cl/webtv/kanade/mobile/playlist.m3u8?token=deM0kanADeweB"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=D3m0M3UCLWeb"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://kanade.cl/",
+      "category": "animation"
+    },
+    {
+      "id": "la-granja-tv",
+      "name": "La Granja TV",
+      "logo": "https://www.lagranja.tv/gallery_gen/a54e5683a51ffc503a0587669bceebc4_440x444.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://oracle.streaminghd.cl/8126/8126/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCdjWpcYFNxsgzdV5tldy5rA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:22.623Z",
+      "twitch": null,
+      "website": "https://www.lagranja.tv",
+      "category": "general"
+    },
+    {
+      "id": "la-granja-tv-fm",
+      "name": "laGranja FM 107.3",
+      "logo": "https://www.lagranja.tv/gallery_gen/a54e5683a51ffc503a0587669bceebc4_440x444.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://oracle.streaminghd.cl/lagranjafm/lagranjafm/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://sthd-player.cl/video/index.php?s=lagranjafm"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.lagranja.tv",
+      "category": "music"
+    },
+    {
+      "id": "la-popular-tv",
+      "name": "La Popular TV",
+      "logo": "https://www.populartv.cl/wp-content/uploads/elementor/thumbs/Logo-en-PNG-con-tipografia-polbioybcx24gunnadhprzcqp2wqxwbpofdcvojex8.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://tv.arkeo.cl/VideoPlayer/enlacetv1?autoplay=1"
+        },
+        {
+          "type": "iframe",
+          "url": "https://sonic-us.arkeo.cl:7061/stream"
+        }
+      ],
+      "youtube": "UCxXCu_jOC9QK8zwVcqwr3Zg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:22.623Z",
+      "twitch": null,
+      "website": "https://www.populartv.cl/",
+      "category": "music"
+    },
+    {
+      "id": "la-red",
+      "name": "La Red",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/10/La_Red_Logotipo_2021.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/lared"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.lared.cl/senal-online",
+      "category": "general"
+    },
+    {
+      "id": "la-serena-drone",
+      "name": "La Serena Drone",
+      "logo": "https://yt3.googleusercontent.com/Wg8gb4tBcMOTAH0P421Gv3wH1TRWuMNMJ8-M1a-aAcvCqrSBCMNQwjNI_yv3cSPYIVSrgqcmOVM=s900-c-k-c0x00ffffff-no-rj",
+      "signals": [],
+      "youtube": "UCQJzBVoVLCLe1G7tIxXDc6w",
+      "last_youtube_livestreams": [
+        "O43QtIUnu3U"
+      ],
+      "last_checked": "2026-06-02T23:10:47.530Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCQJzBVoVLCLe1G7tIxXDc6w",
+      "category": "outdoor"
+    },
+    {
+      "id": "la-tercera",
+      "name": "La Tercera",
+      "logo": "https://assets.stickpng.com/images/5c091be92c6641059597e374.png",
+      "signals": [],
+      "youtube": "UCEQ_IiWGNvyvwSF3Sd-aQFA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:47.530Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCEQ_IiWGNvyvwSF3Sd-aQFA",
+      "category": "news"
+    },
+    {
+      "id": "lametro95-9fm",
+      "name": "La MetroFM",
+      "logo": "https://lametrofm.cl/wp-content/uploads/2025/03/LOGO_2025_fm-removebg-preview1.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/metropolitanatv/livestream1/chunks.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/metropolitanatv"
+        },
+        {
+          "type": "iframe",
+          "url": "https://audio.streaminghd.cl:2000/stream/estacionmetropolitana/;stream.mp3"
+        }
+      ],
+      "youtube": "UC1NcCfxvIYT_JxCjquphGSg",
+      "last_youtube_livestreams": [
+        "SEaF_Z3cX-Q"
+      ],
+      "last_checked": "2026-06-02T23:10:47.530Z",
+      "twitch": null,
+      "website": "https://lametrofm.cl/",
+      "category": "music"
+    },
+    {
+      "id": "lanco-tv",
+      "name": "Lanco TV",
+      "logo": "https://lancotelevision.cl/wp-content/uploads/2024/01/Lanc-1536x581.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://5e3483cba9114.streamlock.net/hfvhxfwxjm/hfvhxfwxjm/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://5e3483cba9114.streamlock.net:443/hfvhxfwxjm/hfvhxfwxjm/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://streaming09.zglobalhost.com:2020/VideoPlayer/hfvhxfwxjm?autoplay=1"
+        }
+      ],
+      "youtube": "UCB928tZZYQdQukxoF1v_KyQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:47.530Z",
+      "twitch": null,
+      "website": "https://lancotelevision.cl/",
+      "category": "general"
+    },
+    {
+      "id": "ledrium",
+      "name": "Ledrium",
+      "logo": "https://graph.facebook.com/LedriumCL/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCDMqTaUZsY3ElB4xWpO8tFA",
+      "last_youtube_livestreams": [
+        "ydhKod2fv7M"
+      ],
+      "last_checked": "2026-06-02T23:10:47.530Z",
+      "twitch": null,
+      "website": "https://www.goledrium.cl/",
+      "category": "outdoor"
+    },
+    {
+      "id": "llegolahora921",
+      "name": "¡Llegó la hora!",
+      "logo": "https://graph.facebook.com/RadioAgricultura/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCIVwrJN2-qiSnECgALA3rzA",
+      "last_youtube_livestreams": [
+        "xBfl87LKV54"
+      ],
+      "last_checked": "2026-06-02T23:10:47.530Z",
+      "twitch": null,
+      "website": "https://www.radioagricultura.cl/podcast_programas/llego-la-hora/",
+      "category": "music"
+    },
+    {
+      "id": "lrp-television",
+      "name": "LRP Television",
+      "logo": "https://graph.facebook.com/LRPtelevision/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://v2.tustreaming.cl/lrp/index.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://v2.tustreaming.cl:443/lrp/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://cdn.jwplayer.com/players/BLRk0a6b-3bWnXcWy.html"
+        },
+        {
+          "type": "iframe",
+          "url": "https://v2.tustreaming.cl:2000/VideoPlayer/lrp"
+        }
+      ],
+      "youtube": "UCB4eORmK5ndgqLKKpwUkLOg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:47.531Z",
+      "twitch": null,
+      "website": "https://www.lrptelevision.com/",
+      "category": "general"
+    },
+    {
+      "id": "manupuntocl",
+      "name": "Manupuntocl - Valparaiso",
+      "logo": "https://yt3.googleusercontent.com/ytc/AIdro_n-qhDu7Zb1hVUTacpdBWa6eKtqrk3TjAK1Adl8LB7R_Q=s900-c-k-c0x00ffffff-no-rj",
+      "signals": [],
+      "youtube": "UCXaQjESu5cdF1CGH1aAA52Q",
+      "last_youtube_livestreams": [
+        "5jPpMkg5daM"
+      ],
+      "last_checked": "2026-06-02T23:10:47.531Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCXaQjESu5cdF1CGH1aAA52Q",
+      "category": "outdoor"
+    },
+    {
+      "id": "marejadasuv",
+      "name": "Marejadas UV",
+      "logo": "https://graph.facebook.com/Marejadas.uv.cl/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCMfVFofrKT5qV71nG-sDBRg",
+      "last_youtube_livestreams": [
+        "qLVfpw0Lc3g"
+      ],
+      "last_checked": "2026-06-02T23:10:47.531Z",
+      "twitch": null,
+      "website": "https://marejadas.uv.cl/",
+      "category": "outdoor"
+    },
+    {
+      "id": "marga-marga-tv",
+      "name": "Marga Marga TV",
+      "logo": "https://margamargatv.cl/wp-content/uploads/2024/12/cropped-identidad_favicon-192x192.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://v1.tustreaming.cl/margamargatv/index.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://v1.tustreaming.cl/margamargatv/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "youtube": "UCE4o5QFVshTstEs92NQ0Xig",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:10:47.531Z",
+      "twitch": null,
+      "website": "https://margamargatv.cl",
+      "category": "general"
+    },
+    {
+      "id": "mediabanco-cl",
+      "name": "Mediabanco Chile",
+      "logo": "https://www.mediabanco.com/wp-content/uploads/2021/11/senal-logo2-1.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://scl.edge.grupoz.cl/mediabanco_prueba/live/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://wowlive.grupoz.cl/mediabanco_prueba/live/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://directorcloud.grupoz.cl/storage/players/9/sheduler_d3a8114f4939915baety698ytfeernbk.html"
+        },
+        {
+          "type": "iframe",
+          "url": "https://live.grupoz.cl/b45b976a3814f9ac1b41dd6c3a1fe273"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/mediabanco"
+        },
+        {
+          "type": "iframe",
+          "url": "ttps://rudo.video/live/mediabanco2"
+        }
+      ],
+      "youtube": "UCu2f4b2pXKXJz4kYl-0b9LA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:13.721Z",
+      "twitch": null,
+      "website": "https://www.mediabanco.cl/",
+      "category": "outdoor"
+    },
+    {
+      "id": "mega-cl",
+      "name": "Mega",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/Logotipo_de_Mega_%282015-2020%29.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/mega"
+        }
+      ],
+      "youtube": "UCEpId-jtRABuZyX6D2z6FZQ",
+      "last_youtube_livestreams": [
+        "__hxCTVNqro"
+      ],
+      "last_checked": "2026-06-02T23:11:13.722Z",
+      "twitch": "megatvoficial",
+      "website": "https://www.mega.cl/",
+      "category": "general"
+    },
+    {
+      "id": "mega-tiempo",
+      "name": "MegaTiempo",
+      "logo": "https://logowik.com/content/uploads/images/mega-tiempo-new2760.logowik.com.webp",
+      "signals": [],
+      "youtube": "UCMlbrjJMsxg5KRSLVN-hbeg",
+      "last_youtube_livestreams": [
+        "XaPr0tC16Uc"
+      ],
+      "last_checked": "2026-06-02T23:11:13.722Z",
+      "twitch": null,
+      "website": "https://www.megatiempo.cl/",
+      "category": "weather"
+    },
+    {
+      "id": "megadeportescl",
+      "name": "MegaDeportes",
+      "logo": "https://graph.facebook.com/MegaDeportesCL/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCS2q6U7sWalPEgdLKx5YzQA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:13.722Z",
+      "twitch": null,
+      "website": "https://www.meganoticias.cl/deportes/",
+      "category": "sports"
+    },
+    {
+      "id": "meganoticias",
+      "name": "Meganoticias",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/mega"
+        },
+        {
+          "type": "iframe",
+          "url": "https://www.mega.cl/senal-en-vivo/"
+        }
+      ],
+      "youtube": "UCkccyEbqhhM3uKOI6Shm-4Q",
+      "last_youtube_livestreams": [
+        "luWQp71C9Q0"
+      ],
+      "last_checked": "2026-06-02T23:11:13.722Z",
+      "twitch": "meganoticiascl",
+      "website": "https://www.mega.cl/",
+      "category": "news"
+    },
+    {
+      "id": "mi-radio-tv",
+      "name": "Mi Radio TV",
+      "logo": "https://www.miradiols.cl/wp-content/uploads/2018/02/logo-ok-footer.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://tls-cl.cdnz.cl/miradio2/live/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://live.grupoz.cl/7228e98d389d9d54ca6d5ab974f2ea15"
+        }
+      ],
+      "youtube": "UCflUbt1g29kPG-H9SV5QIyw",
+      "last_youtube_livestreams": [
+        "gOMgpbPEqoc"
+      ],
+      "last_checked": "2026-06-02T23:11:13.722Z",
+      "twitch": null,
+      "website": "https://miradiotv.cl/",
+      "category": "general"
+    },
+    {
+      "id": "muni-osorno",
+      "name": "Municipalidad Osorno",
+      "logo": "https://www.municipalidadosorno.cl/img/logo_img_footer.png",
+      "signals": [],
+      "youtube": "UCD7sqegDNyZxmdnCj6xqH6g",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:13.722Z",
+      "twitch": null,
+      "website": "https://www.municipalidadosorno.cl/",
+      "category": "outdoor"
+    },
+    {
+      "id": "nctv",
+      "name": "NCTV (Centro Cristiano Internacional CCINT - San Joaquín)",
+      "logo": "https://nctv.cl/wp-content/uploads/2022/05/LOGO-NCTV-VECTOR-final.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/nctv"
+        }
+      ],
+      "youtube": "UCam3bhE1C3jPLobN-i7KD0A",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:13.722Z",
+      "twitch": null,
+      "website": "https://nctv.cl/en-vivo/",
+      "category": "religious"
+    },
+    {
+      "id": "nina-fm",
+      "name": "Nina FM",
+      "logo": "https://graph.facebook.com/ninaladiferente/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://tv1.ninatv.cl/web/stream.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://sonic-us.arkeo.cl/8236/stream/"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://ninafm.cl/",
+      "category": "music"
+    },
+    {
+      "id": "ntv",
+      "name": "NTV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Logotipo_de_NTV.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://marine2.miplay.cl/ntv/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://mdstrm.com/live-stream/5aaabe9e2c56420918184c6d?volume=0"
+        }
+      ],
+      "youtube": "UC-qGzxz4cJjbWCdYndyO1gg",
+      "last_youtube_livestreams": [
+        "_yiC7ZYkSkI"
+      ],
+      "last_checked": "2026-06-02T23:11:13.722Z",
+      "twitch": null,
+      "website": "https://www.tvn.cl/ntv",
+      "category": "culture"
+    },
+    {
+      "id": "nuble-rtv",
+      "name": "Ñuble RVT",
+      "logo": "https://graph.facebook.com/RTVNUBLE/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://tv.arkeo.cl:1936/canalrtv/canalrtv/chunklist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://tv.arkeo.cl/VideoPlayer/canalrtv?autoplay=1"
+        }
+      ],
+      "youtube": "UCX5f3-dP2vf1taBSSR62WJg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:13.722Z",
+      "twitch": null,
+      "website": "https://canalrtv.cl/",
+      "category": "general"
+    },
+    {
+      "id": "nublevision",
+      "name": "Ñublevision",
+      "logo": "https://graph.facebook.com/nublevision/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://tv.arkeo.cl/VideoPlayer/Nublevision?autoplay=1"
+        }
+      ],
+      "youtube": "UCg_qWdM9CKkEMjsGaXrU4Ug",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:34.939Z",
+      "twitch": "nublevision",
+      "website": "https://nublevision.cl/",
+      "category": "general"
+    },
+    {
+      "id": "nuevascomunicaciones",
+      "name": "Nuevas Comunicaciones",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCMvQGOyumsXP4V7dGAdIKWg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:34.940Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCMvQGOyumsXP4V7dGAdIKWg",
+      "category": "outdoor"
+    },
+    {
+      "id": "osorno-tv",
+      "name": "Osorno TV+",
+      "logo": "https://graph.facebook.com/OsornoTV/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://panel.tvstream.cl:1936/8036/8036/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCVFEFmfTjlKtnz7eloCCdug",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:34.940Z",
+      "twitch": null,
+      "website": "https://www.osornotv.cl/envivo.html",
+      "category": "general"
+    },
+    {
+      "id": "panoramica-informativa",
+      "name": "Panoramica Informativa",
+      "logo": "https://static.wixstatic.com/media/b1376e_8599f9a1a489454bb69a8b52a6d6e7bd%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/b1376e_8599f9a1a489454bb69a8b52a6d6e7bd%7Emv2.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://v2.tustreaming.cl/alingeproducciones/index.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://v2.tustreaming.cl:443/alingeproducciones/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://v2.tustreaming.cl:2000/VideoPlayer/alingeproducciones"
+        }
+      ],
+      "youtube": "UClY0gqaC6RGdNHU6hcG-GYw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:34.940Z",
+      "twitch": null,
+      "website": "https://panoramicaysen.cl/",
+      "category": "general"
+    },
+    {
+      "id": "parquemet-antilen",
+      "name": "Halcón Parquemet, Antilén",
+      "logo": null,
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://g3.ipcamlive.com/player/player.php?alias=6797ab2deab1c&autoplay=true"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://halcon.parquemet.cl/index.html",
+      "category": "outdoor"
+    },
+    {
+      "id": "parquemet-cumbre",
+      "name": "Halcón Parquemet, Cumbre",
+      "logo": null,
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://g3.ipcamlive.com/player/player.php?alias=67619ece93982&autoplay=1"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://halcon.parquemet.cl/index.html",
+      "category": "outdoor"
+    },
+    {
+      "id": "parquemet-polanco",
+      "name": "Halcón Parquemet, Polanco",
+      "logo": null,
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://g3.ipcamlive.com/player/player.php?alias=6797cf0f11c15&autoplay=true"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://halcon.parquemet.cl/index.html",
+      "category": "outdoor"
+    },
+    {
+      "id": "parquemet-terraza",
+      "name": "Halcón Parquemet, Terraza",
+      "logo": null,
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://g3.ipcamlive.com/player/player.php?alias=6761ca2edaf46&autoplay=true"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://halcon.parquemet.cl/index.html",
+      "category": "outdoor"
+    },
+    {
+      "id": "picadotv-chile",
+      "name": "PicadoTV Chile",
+      "logo": "https://graph.facebook.com/picadotv/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCpANs3C33Ay49hN2JeCV7FQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:34.940Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCpANs3C33Ay49hN2JeCV7FQ",
+      "category": "sports"
+    },
+    {
+      "id": "pichilemu-tv",
+      "name": "Pichilemu TV",
+      "logo": "https://pichilemutv.org/wp-content/uploads/2020/06/cropped-Logo-Color-Blanco-Solo-32x32.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://5ff3d9babae13.streamlock.net:443/8028/8028/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://streaming10.zglobalhost.com:2020/VideoPlayer/8028?autoplay=1"
+        }
+      ],
+      "youtube": "UCs0UTKmCEZQwsAiDcGfeTog",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:34.940Z",
+      "twitch": null,
+      "website": "https://pichilemutv.org",
+      "category": "general"
+    },
+    {
+      "id": "pinguino-tv",
+      "name": "Pingüino TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Pinguino_TV.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://elpinguino.com/reproductor/"
+        }
+      ],
+      "youtube": "UC65KUOe02xSJ_uxbTTz0dMQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:34.940Z",
+      "twitch": null,
+      "website": "https://elpinguino.com/reproductor/",
+      "category": "general"
+    },
+    {
+      "id": "poder-judicial",
+      "name": "Poder Judicial",
+      "logo": "https://graph.facebook.com/PoderJudicialdeChile/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/poderjudicial2"
+        }
+      ],
+      "youtube": "UCo0C1-ocUG9a0Yb3iO0V-xg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:34.940Z",
+      "twitch": null,
+      "website": "https://www.poderjudicialtv.cl/",
+      "category": "legislative"
+    },
+    {
+      "id": "polar-tv",
+      "name": "Polar TV",
+      "logo": "https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/658d9f90f0909def6c18fa2c/mediaLibrary/photo/0d48ec9d-a119-4787-8781-70de66845b73-extra-large-standard-q100.webp",
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://www.radiopolar.com/radio-player"
+        }
+      ],
+      "youtube": "UC-WLKC5CiAlTKCYJNsI3GMg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:34.940Z",
+      "twitch": null,
+      "website": "https://radiopolar.com/",
+      "category": "general"
+    },
+    {
+      "id": "portal-foxmix-chile",
+      "name": "Portal Foxmix Chile",
+      "logo": "https://graph.facebook.com/portalfoxmix/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.portalfoxmix.cl/tv/",
+      "category": "music"
+    },
+    {
+      "id": "pucon-tv",
+      "name": "Pucón TV",
+      "logo": "https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f4535460ac66b5dfa35c13f/mediaLibrary/photo/3639d184-7fb1-4658-8239-dc5c1ee334c1-extra-large-standard-q100.webp",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.dps.live/hls/pucontv/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited6-cl.dps.live/pucontv/pucontv.smil/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCqFkqnqS6DhFEwyD2GmqoXA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:34.940Z",
+      "twitch": null,
+      "website": "https://www.pucontv.com/",
+      "category": "general"
+    },
+    {
+      "id": "puranoticia",
+      "name": "Puranoticia TV",
+      "logo": "https://graph.facebook.com/puranoticiachile/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://pnt.janusmedia.tv/hls/pnt.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://pnt.janus.cl/playlist/stream.m3u8"
+        }
+      ],
+      "youtube": "UCBX1ufG_w9ES1FJsx2iaoLw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:55.674Z",
+      "twitch": null,
+      "website": "https://puranoticia.pnt.cl/",
+      "category": "general"
+    },
+    {
+      "id": "radio-ae",
+      "name": "Radio AE Radio DuocUC",
+      "logo": "https://www.aeradio.cl/wp-content/uploads/2024/04/AE-RADIO-2024.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://live.grupoz.cl/3e3852b5c1ea7821ab9cdfadbbe735f2"
+        }
+      ],
+      "youtube": "UCZNfM5NJgXg1khL1D2_80Xg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:55.674Z",
+      "twitch": null,
+      "website": "https://www.aeradio.cl/",
+      "category": "music"
+    },
+    {
+      "id": "radio-america-tv",
+      "name": "Radio America TV",
+      "logo": "https://radioamerica.cl/wp-content/uploads/2025/07/logo-america.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://v1.tustreaming.cl:443/americamovil/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://v1.tustreaming.cl:2000/VideoPlayer/americamovil"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://radioamerica.cl/radio-tv-online/",
+      "category": "general"
+    },
+    {
+      "id": "radio-el-conquistador",
+      "name": "Radio El Conquistador FM",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/48/Radio_El_Conquistador_91.3_FM.jpg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/elconquistadortv"
+        }
+      ],
+      "youtube": "UCiBkbU6jMFk1wRsgpCt_Rdw",
+      "last_youtube_livestreams": [
+        "Gl9A3ZlcsiU"
+      ],
+      "last_checked": "2026-06-02T23:11:55.674Z",
+      "twitch": "elconquistadortv",
+      "website": "https://www.elconquistadorfm.net/",
+      "category": "music"
+    },
+    {
+      "id": "radio-folclor-chile",
+      "name": "Radio Folclor de Chile",
+      "logo": "https://graph.facebook.com/radiofolclor.dechile/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC0Hl8kJe8Xwv8g63Q4qefQg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:55.674Z",
+      "twitch": null,
+      "website": "https://radiofolclordechile.cl/",
+      "category": "music"
+    },
+    {
+      "id": "radio-genial",
+      "name": "Radio Genial 100.5 FM",
+      "logo": "https://graph.facebook.com/RadioGenialFM/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://v1.tustreaming.cl:19360/genialtv/genialtv.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://medios.tustreaming.cl/radiogenial/"
+        }
+      ],
+      "youtube": "UCAIX5A-P4AZhcHRXqMJL_vA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:55.674Z",
+      "twitch": null,
+      "website": "https://radiogenial.cl/",
+      "category": "music"
+    },
+    {
+      "id": "radio-graneros-tv",
+      "name": "Radio Graneros TV",
+      "logo": "https://www.radiograneros.cl/imagen/logoradiograneros.jpg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://5ff3d9babae13.streamlock.net/rravdcnywy/rravdcnywy/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://5ff3d9babae13.streamlock.net:443/rravdcnywy/rravdcnywy/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://5ff3d9babae13.streamlock.net:1936/rravdcnywy/rravdcnywy/playlist.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.radiograneros.cl",
+      "category": "music"
+    },
+    {
+      "id": "radio-la-clave",
+      "name": "Radio La Clave",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/Logo_La_Clave_2019.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/laclavetv/laclavetv.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/laclavetv"
+        }
+      ],
+      "youtube": "UCKGi2oU9Eoa5dJAIE7K60gA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:55.674Z",
+      "twitch": "radiolaclave",
+      "website": "https://radiolaclave.cl/",
+      "category": "music"
+    },
+    {
+      "id": "radio-la-nuestra",
+      "name": "La nuestra",
+      "logo": "https://graph.facebook.com/LaNuestra.cl/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/ln"
+        }
+      ],
+      "youtube": "UCt1bAR9jH-EZsVhafYQ3eCA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:55.674Z",
+      "twitch": null,
+      "website": "https://www.lanuestra.cl/",
+      "category": "music"
+    },
+    {
+      "id": "radio-magallanes",
+      "name": "Radio Magallanes",
+      "logo": "https://www.radiomagallanes.cl/images/LOGORADIOMAGALLANES.png",
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://vdo.ninja/?solo&r=RadioMagallanes&v=uxD2Dui&password=123456"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.radiomagallanes.cl/",
+      "category": "general"
+    },
+    {
+      "id": "radio-nuble",
+      "name": "Radio Ñuble 89.7 FM",
+      "logo": "https://graph.facebook.com/laNuble/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://live.tvcontrolcp.com:1936/rnuble/rnuble/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://streaming.comunicacioneschile.net/9358/stream"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://radionuble.cl/v1/",
+      "category": "music"
+    },
+    {
+      "id": "radio-pauta",
+      "name": "Pauta",
+      "logo": "https://graph.facebook.com/pauta.cl/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/pautatv"
+        }
+      ],
+      "youtube": "UCiy1wN5P8nYj_oJK1vdZTRw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:55.674Z",
+      "twitch": null,
+      "website": "https://www.pauta.cl/",
+      "category": "music"
+    },
+    {
+      "id": "radio-presidente-ibanez",
+      "name": "Radio Presidente Ibañez",
+      "logo": "https://www.radiopresidenteibanez.cl/web/wp-content/uploads/2024/01/LOGO-IBANEZ_2.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://ibanez.servercl.com/hls/live.m3u8"
+        }
+      ],
+      "youtube": "UCgsdybMXQYxRphFSJgCQhiQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:55.674Z",
+      "twitch": null,
+      "website": "https://www.radiopresidenteibanez.cl/",
+      "category": "general"
+    },
+    {
+      "id": "radio-puangue-curacavi",
+      "name": "Radio Puangue Curacaví",
+      "logo": "https://radiopuanguecuracavi.cl/wp-content/uploads/2024/11/Logo.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://micanal.ovh/livestreams/242.7KDFJNBISVRZ.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://sonic.mallocohosting.cl/8036/stream"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://radiopuanguecuracavi.cl/",
+      "category": "music"
+    },
+    {
+      "id": "radio-subela",
+      "name": "Súbela Radio",
+      "logo": "https://graph.facebook.com/subelaradio/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://mdstrm.com/live-stream-playlist/6580414b99f9d36397019551.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://mdstrm.com/live-stream/6580414b99f9d36397019551?volume=0"
+        }
+      ],
+      "youtube": "UC2XAmdUgYy23fkg5nC6Spag",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:11:55.674Z",
+      "twitch": null,
+      "website": "https://www.subela.cl/",
+      "category": "music"
+    },
+    {
+      "id": "radiouchile102-5fm",
+      "name": "Radio Universidad de Chile",
+      "logo": "https://graph.facebook.com/RadioUniversidaddeChile/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://radio.uchile.cl/senal-en-vivo/"
+        },
+        {
+          "type": "iframe",
+          "url": "https://sonic-us.streaming-chile.com/8186/stream"
+        }
+      ],
+      "youtube": "UCLFjv-Saz8b2_01asg9IQ-w",
+      "last_youtube_livestreams": [
+        "SV9wA42qXb4"
+      ],
+      "last_checked": "2026-06-02T23:12:20.224Z",
+      "twitch": null,
+      "website": "https://radio.uchile.cl/",
+      "category": "music"
+    },
+    {
+      "id": "realtvchile-porlalibertad",
+      "name": "Real TV Chile",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCP924kx7aGtDlELJj1SeaZw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:12:20.224Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/@RealTVChile-PorLaLibertad",
+      "category": "general"
+    },
+    {
+      "id": "romantica-tv",
+      "name": "Radio Romántica TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Marca-radio-romantica.jpg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://mdstrm.com/live-stream/63a0674c1137d408b45d4821?volume=0"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.romantica.cl/romantica-tv/",
+      "category": "music"
+    },
+    {
+      "id": "rtc-television",
+      "name": "RTC Television",
+      "logo": "https://www.rtctelevision.cl/images/logortc.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://oracle.streaminghd.cl/rtctelevision/rtctelevision/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://directorcloud.grupoz.cl/storage/players/110/sheduler_0116aeaf98e0f060b4b24dd2f4db0074.html"
+        }
+      ],
+      "youtube": "UCHryZDPXSrNcuDIt8cNjiUA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:12:20.224Z",
+      "twitch": null,
+      "website": "https://www.rtctelevision.cl/",
+      "category": "general"
+    },
+    {
+      "id": "sanantonioimagen",
+      "name": "sanantonioimagen - San Antonio",
+      "logo": "https://yt3.googleusercontent.com/SqvDZujVnu6DQR4eoxFdT0GPUJe8-5KEYT9u2w1-aCc2FldKpTepwcpyQTiR87uRtwCkvL94=s900-c-k-c0x00ffffff-no-rj",
+      "signals": [],
+      "youtube": "UCprCdxrg_u9E9hhc-MZDk5A",
+      "last_youtube_livestreams": [
+        "Tfrt3G7YzTU"
+      ],
+      "last_checked": "2026-06-02T23:12:20.224Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCprCdxrg_u9E9hhc-MZDk5A",
+      "category": "outdoor"
+    },
+    {
+      "id": "sembrador",
+      "name": "Radio El Sembrador",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Radio_El_Sembrador.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://tv.streaming-chile.com:19360/elsembrador/elsembrador.m3u8"
+        }
+      ],
+      "youtube": "UCKkS0gNNF3QdT2_xmSpOeng",
+      "last_youtube_livestreams": [
+        "ijfppWcK8I4"
+      ],
+      "last_checked": "2026-06-02T23:12:20.224Z",
+      "twitch": null,
+      "website": "https://tv.radioelsembrador.cl/",
+      "category": "music"
+    },
+    {
+      "id": "servel-cl",
+      "name": "Servicio Electoral de Chile (Servel)",
+      "logo": "https://www.servel.cl/wp-content/uploads/elementor/thumbs/Logo-Servel_2-pz97n8j4o5tj23nw56d5wjjua63x90jaekks37yinw.png",
+      "signals": [],
+      "youtube": "UCB8s6rETjmWgXrp_BxyXqdg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:12:20.224Z",
+      "twitch": null,
+      "website": "https://www.servel.cl/",
+      "category": "legislative"
+    },
+    {
+      "id": "sextavision",
+      "name": "Sextavision",
+      "logo": "https://sextavision.cl/wp-content/uploads/2024/06/cropped-ojo-SV-32x32.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://5ff3d9babae13.streamlock.net:443/fzkqsdfray/fzkqsdfray/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://5ff3d9babae13.streamlock.net:1936/fzkqsdfray/fzkqsdfray/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://sextavision.cl/senal-en-vivo/"
+        }
+      ],
+      "youtube": "UCJ35SI8ql956Ksw5gSb8zxw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:12:20.224Z",
+      "twitch": null,
+      "website": "https://sextavision.cl",
+      "category": "general"
+    },
+    {
+      "id": "soberania-tv",
+      "name": "Soberania TV",
+      "logo": "https://www.soberaniaradio.cl/img/logo.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://live.grupoz.cl/254412fe87879564acb794b800f227be"
+        }
+      ],
+      "youtube": "UCFx0VI6qG-3jlFZ61-DqftQ",
+      "last_youtube_livestreams": [
+        "t7QagWkOxBk"
+      ],
+      "last_checked": "2026-06-02T23:12:20.224Z",
+      "twitch": null,
+      "website": "https://www.soberaniaradio.cl/",
+      "category": "general"
+    },
+    {
+      "id": "solotv",
+      "name": "SoloTV (Valparaíso)",
+      "logo": "https://stream.making.cl/logo-solotv.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://www.solotv.cl/en-vivo/"
+        }
+      ],
+      "youtube": "UChgEe4mNbNkjpN2liYQCTUQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:12:20.224Z",
+      "twitch": null,
+      "website": "https://www.solotv.cl",
+      "category": "general"
+    },
+    {
+      "id": "stgo-tv",
+      "name": "Stgo.TV",
+      "logo": "https://graph.facebook.com/stgotvchile/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://stv4.janus.cl/playlist/stream.m3u8"
+        }
+      ],
+      "youtube": "UC3sbpk-tomsqyOdiBIQR2aw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:12:20.224Z",
+      "twitch": null,
+      "website": "https://www.santiagotelevision.cl/",
+      "category": "general"
+    },
+    {
+      "id": "sur-tv",
+      "name": "Sur TV",
+      "logo": "https://www.surtv.cl/imagenes/logo.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/surtv"
+        }
+      ],
+      "youtube": "UCPHfClHsRk2iAhe-jUgTvwg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:12:44.598Z",
+      "twitch": null,
+      "website": "https://www.surtv.cl/",
+      "category": "general"
+    },
+    {
+      "id": "suyai-tv",
+      "name": "Suyai TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/LOGO_SUYAI2.jpg/320px-LOGO_SUYAI2.jpg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://signal.suyaitv.cl/live/37/playlist.m3u8?username=ZZWebSuyaiTV&password=SoloParaSitioWEBSuyaiTV"
+        },
+        {
+          "type": "iframe",
+          "url": "https://suyaitv.cl/player2/"
+        }
+      ],
+      "youtube": "UClwHWmXmv5TuEo0VJS76gdg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:12:44.598Z",
+      "twitch": null,
+      "website": "https://suyaitv.cl/",
+      "category": "general"
+    },
+    {
+      "id": "t13",
+      "name": "T13 - Teletrece",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Logotipo_de_Teletrece.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://jireh-4-hls-video-cl-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_900.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/t13"
+        },
+        {
+          "type": "iframe",
+          "url": "https://www.t13.cl/en-vivo"
+        }
+      ],
+      "youtube": "UCsRnhjcUCR78Q3Ud6OXCTNg",
+      "last_youtube_livestreams": [
+        "V1mn3KjPBqc"
+      ],
+      "last_checked": "2026-06-02T23:12:44.599Z",
+      "twitch": "t13envivo",
+      "website": "https://www.t13.cl/en-vivo",
+      "category": "news"
+    },
+    {
+      "id": "tele13radio-chile",
+      "name": "Tele13 Radio",
+      "logo": "https://graph.facebook.com/Tele13Radio/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://mdstrm.com/audio/5c915613519bce27671c4caa/live.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://mdstrm.com/live-stream/5c915613519bce27671c4caa?volume=0"
+        },
+        {
+          "type": "iframe",
+          "url": "https://tele13radio.cl/"
+        }
+      ],
+      "youtube": "UCQcmb3lvx7hZCoOXvcCvgBg",
+      "last_youtube_livestreams": [
+        "pa36WOSaJo8"
+      ],
+      "last_checked": "2026-06-02T23:12:44.599Z",
+      "twitch": null,
+      "website": "https://tele13radio.cl/",
+      "category": "music"
+    },
+    {
+      "id": "teleangol",
+      "name": "TeleAngol",
+      "logo": "https://s3-mspro.nyc3.digitaloceanspaces.com/tenant/5f4534e60ac66b5dfa35c13a/settings/logos/9c6f4044-9744-4ed5-94ee-9ae72d742367.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/teleangol/teleangol.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited6-cl.dps.live/teleangol/teleangol.smil/playlist.m3u8"
+        }
+      ],
+      "youtube": "UC8TgbJ9D0EJgRJUJYzdPpcw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:12:44.599Z",
+      "twitch": null,
+      "website": "https://www.teleangol.cl/",
+      "category": "general"
+    },
+    {
+      "id": "teleseries-tvn",
+      "name": "Teleseries y series TVN",
+      "logo": "https://i.pinimg.com/736x/73/8c/06/738c06db140ef99b6f190d9e0a1867e6.jpg",
+      "signals": [],
+      "youtube": "UCJwtKyJIfr31zI077EnQTXg",
+      "last_youtube_livestreams": [
+        "ORsqDTBcTXk"
+      ],
+      "last_checked": "2026-06-02T23:12:44.599Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCJwtKyJIfr31zI077EnQTXg",
+      "category": "entertainment"
+    },
+    {
+      "id": "temuco-television",
+      "name": "Temuco Television",
+      "logo": "https://temucotelevision.cl/web/wp-content/uploads/2019/01/logo-2.jpg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://mediacp.nnw.cl:2020/VideoPlayer/temucotelevision?autoplay=1"
+        }
+      ],
+      "youtube": "UCWju5Z19CQH3meThnn_klIQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:12:44.599Z",
+      "twitch": null,
+      "website": "https://temucotelevision.cl/",
+      "category": "general"
+    },
+    {
+      "id": "tevex-oficial",
+      "name": "Tevex Oficial",
+      "logo": "https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://v4.tustreaming.cl:443/tevexinter/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://v4.tustreaming.cl:2000/VideoPlayer/tevexinter"
+        }
+      ],
+      "youtube": "UC_ikcfLiZgPmw5P8Zre8YWg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:12:44.599Z",
+      "twitch": null,
+      "website": "https://tevex.cl",
+      "category": "general"
+    },
+    {
+      "id": "tierradragones",
+      "name": "Tierra de Dragones",
+      "logo": "https://graph.facebook.com/tierradragones/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCSrud09QWBIzPjvXlhm757A",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:12:44.599Z",
+      "twitch": "tierradragones",
+      "website": "https://tierradedragones.cl/online/",
+      "category": "sports"
+    },
+    {
+      "id": "tribunal-constitucional",
+      "name": "Tribunal Constitucional",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Logo_of_the_Constitutional_Court_of_Chile.svg",
+      "signals": [],
+      "youtube": "UCZaI-1N1oaGb-U8K2VNztjg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:12:44.599Z",
+      "twitch": null,
+      "website": "https://www2.tribunalconstitucional.cl/",
+      "category": "legislative"
+    },
+    {
+      "id": "tv-chile",
+      "name": "TV Chile",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/48/Logotipo_de_TV_Chile.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://mdstrm.com/live-stream/533adcc949386ce765657d7c?volume=0"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.tvn.cl/tvchile/envivo",
+      "category": "general"
+    },
+    {
+      "id": "tv-costa",
+      "name": "TV Costa",
+      "logo": "https://tvcosta.cl/wp-content/uploads/2022/12/TV-Costa.jpg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://tvcosta.gleeze.com/memfs/39cef946-1aac-4418-8df8-6d8ff6d0a680.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://tvcosta.gleeze.com/39cef946-1aac-4418-8df8-6d8ff6d0a680.html"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://tvcosta.cl",
+      "category": "general"
+    },
+    {
+      "id": "tv-educa-cl",
+      "name": "TV Educa Chile",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/TV_Educa_Chile_Logo.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://mdstrm.com/live-stream-playlist-v/5e74e53f1ab4eb073b19ef34.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.tvn.cl/envivo/tveducachile/",
+      "category": "kids"
+    },
+    {
+      "id": "tv-inet",
+      "name": "T-Vinet Digital",
+      "logo": "https://tvinet.cl/site/wp-content/uploads/cropped-channels4_profile-192x192.jpg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/inet2/inet2.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited6-cl.dps.live/inet2/inet2.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/inet2"
+        }
+      ],
+      "youtube": "UCQTzB6f7Vpx2k7K7zdRTJ7Q",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:08.173Z",
+      "twitch": null,
+      "website": "https://tvinet.cl/",
+      "category": "general"
+    },
+    {
+      "id": "tv-mas",
+      "name": "TV+",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://mdstrm.com/live-stream/5c0e8b19e4c87f3f2d3e6a59?volume=0"
+        }
+      ],
+      "youtube": "UCZnboDa_k5jxFCGp6jVhpUQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:08.173Z",
+      "twitch": null,
+      "website": "https://www.tvmas.tv/",
+      "category": "general"
+    },
+    {
+      "id": "tv-salud",
+      "name": "TV Salud",
+      "logo": "https://graph.facebook.com/tvsaludchile/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://panel.miplay.cl:8081/tvsalud/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://panel.miplay.cl:8081/tvsalud/embed.html"
+        }
+      ],
+      "youtube": "UCcBZJ8xYkwhi4Or0kKc7brQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:08.173Z",
+      "twitch": null,
+      "website": "https://tvsalud.cl/",
+      "category": "lifestyle"
+    },
+    {
+      "id": "tv-senado",
+      "name": "TV Senado",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/8/84/TV_Senado_Chile.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://janus-tv.senado.cl/embed.php"
+        }
+      ],
+      "youtube": "UC4GJ43VNn4AYfiYa0RBCHQg",
+      "last_youtube_livestreams": [
+        "adDDVljEHnU"
+      ],
+      "last_checked": "2026-06-02T23:13:08.173Z",
+      "twitch": null,
+      "website": "https://tv.senado.cl/",
+      "category": "legislative"
+    },
+    {
+      "id": "tv-uct-araucania",
+      "name": "TV UCT (U. Católica de Temuco)",
+      "logo": "https://tvuct.cl/wp-content/uploads/2023/08/logo-white.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/uct/uct.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/uct"
+        }
+      ],
+      "youtube": "UCdGQHFBFDJoROOVKTCMsDrA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:08.174Z",
+      "twitch": null,
+      "website": "https://www.tvuct.cl/",
+      "category": "general"
+    },
+    {
+      "id": "tv5-linares",
+      "name": "TV5 Linares",
+      "logo": "https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f47d1b0c6169d337c4d532e/mediaLibrary/photo/dfc35dae-1ef2-41dc-a0b5-79e0522be723-extra-large-standard-q100.webp",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://v1.tustreaming.cl/tv5linares/index.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://v1.tustreaming.cl/tv5linares/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "youtube": "UC4FbYNCnbzgo0Ls9naQzQwg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:08.174Z",
+      "twitch": null,
+      "website": "https://www.tv5.cl/",
+      "category": "general"
+    },
+    {
+      "id": "tvn-3",
+      "name": "TVN 3",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/TVN_3_2023.svg/320px-TVN_3_2023.svg.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://mdstrm.com/live-stream/5653641561b4eba30a7e4929?volume=0"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.tvn.cl/tvn3",
+      "category": "culture"
+    },
+    {
+      "id": "tvn-cl",
+      "name": "TVN",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://marine2.miplay.cl/tvnchile/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://www.tvn.cl/en-vivo"
+        }
+      ],
+      "youtube": "UCaVaCaiG6qRzDiJDuEGKOhQ",
+      "last_youtube_livestreams": [
+        "bHeXhmabJrc"
+      ],
+      "last_checked": "2026-06-02T23:13:08.174Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCaVaCaiG6qRzDiJDuEGKOhQ",
+      "category": "general"
+    },
+    {
+      "id": "tvo-san-vicente",
+      "name": "TVO San Vicente",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Logotipo_TVO_San_Vicente.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://5ff3d9babae13.streamlock.net:443/8014/8014/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://5ff3d9babae13.streamlock.net:1936/8014/8014/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://streaming10.zglobalhost.com:2020/VideoPlayer/8014?autoplay=1"
+        }
+      ],
+      "youtube": "UCJ27FyobM-qUaPGQQKO5JVw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:08.174Z",
+      "twitch": null,
+      "website": "https://www.tvosanvicente.cl",
+      "category": "general"
+    },
+    {
+      "id": "tvr-television-regional",
+      "name": "TVR Television Regional",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Televisi%C3%B3n_Regional_de_Chile_-_logo.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.dps.live/hls/tvr/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited2-cl-isp.dps.live/tvr/tvr.smil/tvr/livestream0/chunks.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCJTWU_1-_89NflP1XKnyuWg",
+      "last_youtube_livestreams": [
+        "zjafJMUFBNw"
+      ],
+      "last_checked": "2026-06-02T23:13:08.174Z",
+      "twitch": null,
+      "website": "https://www.tvr.cl",
+      "category": "general"
+    },
+    {
+      "id": "tvu",
+      "name": "TVU",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_tvu.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/tvu/tvu.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/tvu"
+        }
+      ],
+      "youtube": "UCaPrA09BrT5m_ggp-qXc4nA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:08.174Z",
+      "twitch": null,
+      "website": "https://www.tvu.cl/",
+      "category": "general"
+    },
+    {
+      "id": "u-de-chile-tv",
+      "name": "U de Chile TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e9/UChile_TV_logo_2020.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited2-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/uchiletv/uchiletv.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/uchiletv"
+        }
+      ],
+      "youtube": "UCL1W3e0pxL1vuO0LokW6erA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:32.603Z",
+      "twitch": null,
+      "website": "https://uchile.cl/uchiletv",
+      "category": "general"
+    },
+    {
+      "id": "u-talca-tv",
+      "name": "UTalcaTV (U. de Talca) - Campus TV",
+      "logo": "https://tv.utalca.cl/wp-content/uploads/2023/10/cropped-Isologo-UTalcaTV-3-32x32.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/campustv"
+        }
+      ],
+      "youtube": "UCIgDezAuy6jYN2Qf6WH89vg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:32.603Z",
+      "twitch": null,
+      "website": "https://tv.utalca.cl",
+      "category": "general"
+    },
+    {
+      "id": "ua-tv",
+      "name": "UA TV (U. Autonoma)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/UATV.png/320px-UATV.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited2-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/uatv"
+        }
+      ],
+      "youtube": "UCyqfgMmeBZemFIcVYlylcEQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:32.603Z",
+      "twitch": null,
+      "website": "https://uatv.cl/",
+      "category": "general"
+    },
+    {
+      "id": "uatv",
+      "name": "UATV",
+      "logo": "https://graph.facebook.com/uatvnoticias/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/uatv/uatv.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/uatv"
+        }
+      ],
+      "youtube": "UCyqfgMmeBZemFIcVYlylcEQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:32.603Z",
+      "twitch": null,
+      "website": "https://uatv.cl/uatv-en-vivo/",
+      "category": "general"
+    },
+    {
+      "id": "ucv-tv",
+      "name": "UCV TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Logotipo_de_UCV_Televisión_(2018).png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/ucvtv2"
+        }
+      ],
+      "youtube": "UCn7_t2xpkPIqOCaOwhPnDIA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:32.603Z",
+      "twitch": null,
+      "website": "https://ucvtv.cl/home.php",
+      "category": "general"
+    },
+    {
+      "id": "ucv-tv-eventos",
+      "name": "UCV TV Eventos",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/ucvtveventos"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://ucvtv.cl/home.php",
+      "category": "general"
+    },
+    {
+      "id": "ues-tv",
+      "name": "UESTV",
+      "logo": "https://www.uestv.cl//wp-content/uploads/layerslider/INICIO-TEMPORAL-COVID-19-Y-ECLIPSE-copy/logo-UESTV.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://live.grupoz.cl/dd7d5a60e9d657ea4ac4dab1064d1930"
+        }
+      ],
+      "youtube": "UC4vhg1olhPYfBr1qEJxtPjw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:32.603Z",
+      "twitch": null,
+      "website": "https://www.uestv.cl/",
+      "category": "general"
+    },
+    {
+      "id": "ufromedios",
+      "name": "UfroMedios",
+      "logo": "https://www.ufromedios.cl/wp-content/uploads/2021/02/UFROMEDIOS-VISION-LOW-VERT.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://mdstrm.com/live-stream/580a80b827de0ae2086ea6d8?volume=0"
+        },
+        {
+          "type": "iframe",
+          "url": "https://s02.azuracast.cl/radio/8190/ufro-clasica"
+        }
+      ],
+      "youtube": "UC5H9zdp-3M24xWWJunhLJmQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:32.603Z",
+      "twitch": null,
+      "website": "https://www.ufromedios.cl/programacion-ufrovision/",
+      "category": "general"
+    },
+    {
+      "id": "ulagostv",
+      "name": "ULagosTV (U. de los Lagos)",
+      "logo": "https://www.uestv.cl//wp-content/uploads/2023/12/LOGOS-CANALES-UESTV-6.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://tv.ulagos.cl/web/live.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://tv.ulagos.cl/"
+        }
+      ],
+      "youtube": "UCpjEq9lmqT-2iVQ2D9Xr7Gw",
+      "last_youtube_livestreams": [
+        "PY6FNb2G6kQ"
+      ],
+      "last_checked": "2026-06-02T23:13:32.604Z",
+      "twitch": null,
+      "website": "https://www.ulagos.cl/",
+      "category": "general"
+    },
+    {
+      "id": "umag-tv",
+      "name": "UMAG TV (U. de Magallanes)",
+      "logo": "https://static.wixstatic.com/media/2daf50_a8f34b3a9e16488ea92343158572f5e4%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/2daf50_a8f34b3a9e16488ea92343158572f5e4%7Emv2.jpg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://live.grupoz.cl/c8462f660fb66a5f21176af3179f737f"
+        }
+      ],
+      "youtube": "UCOLiwIksoxzYz4hGB_kCNyg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:32.604Z",
+      "twitch": null,
+      "website": "https://www.umagtv.cl/",
+      "category": "general"
+    },
+    {
+      "id": "umag-tv-2",
+      "name": "UMAG TV 2 (U. de Magallanes)",
+      "logo": "https://static.wixstatic.com/media/2daf50_a8f34b3a9e16488ea92343158572f5e4%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/2daf50_a8f34b3a9e16488ea92343158572f5e4%7Emv2.jpg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://www.umagtv2.grupoz.cl/"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.umagtv.cl/blank-2",
+      "category": "general"
+    },
+    {
+      "id": "unetev",
+      "name": "Unetev Talagante",
+      "logo": "https://www.unetev.cl/wp-content/uploads/2023/08/LOGO1-1.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://www.unetev.cl/senal-tv-online/"
+        }
+      ],
+      "youtube": "UCILbETG4I6NlTTGN5v1bRMg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:32.604Z",
+      "twitch": null,
+      "website": "https://www.unetev.cl",
+      "category": "general"
+    },
+    {
+      "id": "universo",
+      "name": "Radio Universo",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo_Radio_Universo.png",
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://redirector.dps.live/universo/aac/icecast.audio"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.universo.cl/",
+      "category": "music"
+    },
+    {
+      "id": "valle-nevado-cam-fourchette",
+      "name": "Valle Nevado Vista Terraza La Fourchette",
+      "logo": "https://www.vallenevado.com/wp-content/uploads/2024/01/1-2048x1152.png",
+      "signals": [],
+      "youtube": "UCeugwuttf3KGSyVuax_AzNw",
+      "last_youtube_livestreams": [
+        "UL_3gOX76A0"
+      ],
+      "last_checked": "2026-06-02T23:13:55.853Z",
+      "twitch": null,
+      "website": "https://www.vallenevado.com/es/camaras/",
+      "category": "outdoor"
+    },
+    {
+      "id": "valle-nevado-cam-gondola",
+      "name": "Valle Nevado Vista La Góndola",
+      "logo": "https://www.vallenevado.com/wp-content/uploads/2024/01/1-2048x1152.png",
+      "signals": [],
+      "youtube": "UCeugwuttf3KGSyVuax_AzNw",
+      "last_youtube_livestreams": [
+        "UL_3gOX76A0"
+      ],
+      "last_checked": "2026-06-02T23:13:55.853Z",
+      "twitch": null,
+      "website": "https://www.vallenevado.com/es/camaras/",
+      "category": "outdoor"
+    },
+    {
+      "id": "valle-nevado-cam-piscina",
+      "name": "Valle Nevado Vista Piscina",
+      "logo": "https://www.vallenevado.com/wp-content/uploads/2024/01/1-2048x1152.png",
+      "signals": [],
+      "youtube": "UCeugwuttf3KGSyVuax_AzNw",
+      "last_youtube_livestreams": [
+        "UL_3gOX76A0"
+      ],
+      "last_checked": "2026-06-02T23:13:55.853Z",
+      "twitch": null,
+      "website": "https://www.vallenevado.com/es/camaras/",
+      "category": "outdoor"
+    },
+    {
+      "id": "valle-nevado-cam-puerta-sol",
+      "name": "Valle Nevado Vista Hotel Puerta del Sol",
+      "logo": "https://www.vallenevado.com/wp-content/uploads/2024/01/1-2048x1152.png",
+      "signals": [],
+      "youtube": "UCeugwuttf3KGSyVuax_AzNw",
+      "last_youtube_livestreams": [
+        "UL_3gOX76A0"
+      ],
+      "last_checked": "2026-06-02T23:13:55.854Z",
+      "twitch": null,
+      "website": "https://www.vallenevado.com/es/camaras/",
+      "category": "outdoor"
+    },
+    {
+      "id": "veo-tv",
+      "name": "veoTV",
+      "logo": "https://www.veotv.cl/img/logo_grande.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.veotv.cl/",
+      "category": "general"
+    },
+    {
+      "id": "via-x",
+      "name": "Vía X",
+      "logo": "https://canalviax.com/wp-content/uploads/2022/12/verticallogo.png",
+      "signals": [],
+      "youtube": "UCdxumXNz0uUt_h9POWtR8pQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:55.854Z",
+      "twitch": null,
+      "website": "https://canalviax.com/",
+      "category": "music"
+    },
+    {
+      "id": "vision-plus-tv",
+      "name": "Vision Plus TV Melipilla",
+      "logo": "https://visionplustv.cl/wp-content/uploads/2024/06/VP017.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://5ff3d9babae13.streamlock.net:443/jwagpqxehu/jwagpqxehu/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://5ff3d9babae13.streamlock.net:1936/jwagpqxehu/jwagpqxehu/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCy9XC_ot6zma6frL5LuoS2Q",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:55.854Z",
+      "twitch": null,
+      "website": "https://www.visionplustv.cl",
+      "category": "general"
+    },
+    {
+      "id": "voz-sobran",
+      "name": "La Voz De Los Que Sobran",
+      "logo": "https://graph.facebook.com/delosquesobran/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/lvdlqs/lvdlqs.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/lvdlqs/lvdlqs.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/lvdlqs"
+        }
+      ],
+      "youtube": "UCEnSee5vPeNAm2EFpb_UaRw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:55.854Z",
+      "twitch": "delosquesobran",
+      "website": "https://lavozdelosquesobran.cl/",
+      "category": "general"
+    },
+    {
+      "id": "vtv",
+      "name": "VTV",
+      "logo": "https://graph.facebook.com/canalvtvcl/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/vtv"
+        }
+      ],
+      "youtube": "UCrLZOWYIynXOOGVDmQlLCwQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:55.854Z",
+      "twitch": null,
+      "website": "https://canalvtv.cl/vtv/",
+      "category": "general"
+    },
+    {
+      "id": "vtv-quillota",
+      "name": "VTV Quillota",
+      "logo": "https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f45357a0ac66b5dfa35c144/mediaLibrary/photo/6ffc1997-59e5-48d2-83a5-a1392ae981b8-extra-large-standard-q100.webp",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/vtvquillota/vtvquillota.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited1-cl-isp.dps.live/vtvquillota/vtvquillota.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/vtvquillota"
+        }
+      ],
+      "youtube": "UCrLZOWYIynXOOGVDmQlLCwQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:55.854Z",
+      "twitch": null,
+      "website": "https://www.diariovtv.cl/",
+      "category": "general"
+    },
+    {
+      "id": "wapp-tv",
+      "name": "Wapp TV",
+      "logo": "https://graph.facebook.com/wapptv.cl/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/wapptv/wapptv.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/wapptv"
+        }
+      ],
+      "youtube": "UCgylg1Pa7i56wLwn6sA74HA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:13:55.854Z",
+      "twitch": null,
+      "website": "https://www.wapptv.cl/",
+      "category": "general"
+    }
+  ]
+}

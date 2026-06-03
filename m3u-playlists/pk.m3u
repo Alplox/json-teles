@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Dunya News" tvg-logo="https://graph.facebook.com/dunyanews/picture?width=800&height=800" group-title="news", Dunya News (1) [PK]
+https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Dunya News" tvg-logo="https://graph.facebook.com/dunyanews/picture?width=800&height=800" group-title="news", Dunya News (2) [PK]
+https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8

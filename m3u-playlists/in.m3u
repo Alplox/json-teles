@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CNBC-TV18" tvg-logo="https://graph.facebook.com/cnbctv18india/picture?width=800&height=800" group-title="news", CNBC-TV18 [IN]
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8
+#EXTINF:-1 tvg-name="CNN-News18" tvg-logo="https://graph.facebook.com/cnnnews18/picture?width=800&height=800" group-title="news", CNN-News18 [IN]
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="India Today" tvg-logo="https://graph.facebook.com/IndiaToday/picture?width=800&height=800" group-title="news", India Today (1) [IN]
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 tvg-name="India Today" tvg-logo="https://graph.facebook.com/IndiaToday/picture?width=800&height=800" group-title="news", India Today (2) [IN]
+https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrchestrator.m3u8
+#EXTINF:-1 tvg-name="NDTV India" tvg-logo="https://graph.facebook.com/NDTVIndia/picture?width=800&height=800" group-title="news", NDTV India [IN]
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-name="WION" tvg-logo="https://graph.facebook.com/WIONews/picture?width=800&height=800" group-title="news", WION (1) [IN]
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-name="WION" tvg-logo="https://graph.facebook.com/WIONews/picture?width=800&height=800" group-title="news", WION (2) [IN]
+https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-name="WION" tvg-logo="https://graph.facebook.com/WIONews/picture?width=800&height=800" group-title="news", WION (3) [IN]
+https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8
+#EXTINF:-1 tvg-name="WION" tvg-logo="https://graph.facebook.com/WIONews/picture?width=800&height=800" group-title="news", WION (4) [IN]
+https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-name="WION" tvg-logo="https://graph.facebook.com/WIONews/picture?width=800&height=800" group-title="news", WION (5) [IN]
+https://d7x8z4yuq42qn.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-name="WION" tvg-logo="https://graph.facebook.com/WIONews/picture?width=800&height=800" group-title="news", WION (6) [IN]
+https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8
+#EXTINF:-1 tvg-name="WION" tvg-logo="https://graph.facebook.com/WIONews/picture?width=800&height=800" group-title="news", WION (7) [IN]
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8

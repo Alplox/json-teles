@@ -1,0 +1,206 @@
+{
+  "country": "ec",
+  "channels": [
+    {
+      "id": "café-la-posta",
+      "name": "Café la Posta",
+      "logo": "https://graph.facebook.com/LaPostaEc/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCLCCMz3exOqYc59IN0VOLlA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:15:16.071Z",
+      "twitch": null,
+      "website": "https://www.laposta.ec/",
+      "category": "news"
+    },
+    {
+      "id": "canaltvdigital",
+      "name": "Canal Tv Digital",
+      "logo": "https://graph.facebook.com/tvdigitalonline.ecu/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCzfV4_Fh7BEZxYsqe-vUjNw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:15:16.071Z",
+      "twitch": null,
+      "website": "https://canaltvdigitalonline.com/",
+      "category": "news"
+    },
+    {
+      "id": "catomedia-ucsg",
+      "name": "Catomedia UCSG",
+      "logo": "https://graph.facebook.com/catomediaucsg/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://5e2f36bc1c433.streamlock.net/lacato/lacato.stream/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://5e2f36bc1c433.streamlock.net/ucsg/entretenimiento.stream/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCH5499PHqkqKPsGEUJl5lZg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:15:38.162Z",
+      "twitch": null,
+      "website": "https://catomedia.net/",
+      "category": "news"
+    },
+    {
+      "id": "ecoteltv",
+      "name": "Ecotel TV",
+      "logo": "https://graph.facebook.com/CadenaEcotel/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://playerhd.eu/tv/ecoteltv/"
+        },
+        {
+          "type": "iframe",
+          "url": "https://player.streamseguro.com/radio/ecotelradio/"
+        }
+      ],
+      "youtube": "UCGgJIShx7nSBzuI4JeT5aew",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:15:38.163Z",
+      "twitch": null,
+      "website": "https://www.ecotel.tv/",
+      "category": "news"
+    },
+    {
+      "id": "ecuavisa",
+      "name": "Ecuavisa",
+      "logo": "https://graph.facebook.com/ecuavisa/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://jireh-6-hls-video-cl-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCRUV3nUNSc-xpBrTwQOCQQg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:15:38.163Z",
+      "twitch": null,
+      "website": "https://www.ecuavisa.com/envivo",
+      "category": "news"
+    },
+    {
+      "id": "periodicodeunaec",
+      "name": "Periódico D'Una",
+      "logo": "https://graph.facebook.com/periodicodeuna/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCT9O240oe9HhC0VSSBgrPug",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:15:38.163Z",
+      "twitch": null,
+      "website": "https://deunanoticias.com/",
+      "category": "news"
+    },
+    {
+      "id": "radiocentroec",
+      "name": "Radio Centro 101.3 FM",
+      "logo": "https://graph.facebook.com/radiocentroec/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://video1.makrodigital.com/radiocentro/radiocentro/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://makrodigital.com/makrostreaming/radiocentroguayaquil/envivo.php"
+        }
+      ],
+      "youtube": "UCA_UqlgBTc824rRCLv6J_xA",
+      "last_youtube_livestreams": [
+        "R_UgAiFhtWM"
+      ],
+      "last_checked": "2026-06-02T23:15:38.163Z",
+      "twitch": null,
+      "website": "https://radiocentro.com.ec/en-vivo/",
+      "category": "music"
+    },
+    {
+      "id": "radioelite99-7tv5",
+      "name": "Radio Elite 99.7 TV",
+      "logo": "https://graph.facebook.com/Radioelite997/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://streamingecuador.net/AudioPlayer/radioelite"
+        }
+      ],
+      "youtube": "UCaFfXFnXsMJKtsmoouxmFVQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:15:38.163Z",
+      "twitch": null,
+      "website": "https://radioelite997.com/online/",
+      "category": "music"
+    },
+    {
+      "id": "radiopichincha",
+      "name": "Radio Pichincha Multimedia",
+      "logo": "https://graph.facebook.com/PichinchaRadio/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCK0WHZbs_ZJ4r7DMuft7p-g",
+      "last_youtube_livestreams": [
+        "10WdIucX6u0"
+      ],
+      "last_checked": "2026-06-02T23:15:38.163Z",
+      "twitch": null,
+      "website": "https://www.radiopichincha.com/",
+      "category": "music"
+    },
+    {
+      "id": "radiorumbaec",
+      "name": "Radio Rumba 107.3 FM",
+      "logo": "https://graph.facebook.com/RadioRumbaEc/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://streamingecuador.net:2020/AudioPlayer/radiorumba"
+        }
+      ],
+      "youtube": "UCSucprhsPUKXMYzxnO2_zvQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:15:38.163Z",
+      "twitch": null,
+      "website": "https://radiorumba.fm/",
+      "category": "music"
+    },
+    {
+      "id": "radiosonoonda997",
+      "name": "Radio Sono Onda",
+      "logo": "https://graph.facebook.com/radiosonoonda997/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://live.obslivestream.com/sonoondatv/index.m3u8"
+        }
+      ],
+      "youtube": "UCvNwkves6FXLMpdNDwR81lg",
+      "last_youtube_livestreams": [
+        "gO9b4Mu4oCg"
+      ],
+      "last_checked": "2026-06-02T23:15:38.163Z",
+      "twitch": null,
+      "website": "https://sonoonda.com/tv-online/",
+      "category": "music"
+    },
+    {
+      "id": "sonoramatv900",
+      "name": "Sonorama TV",
+      "logo": "https://graph.facebook.com/radio.sonorama/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCGOHw6AjriiGhkJnDAhJsRA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:15:38.163Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCGOHw6AjriiGhkJnDAhJsRA",
+      "category": "music"
+    }
+  ]
+}

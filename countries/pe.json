@@ -1,0 +1,372 @@
+{
+  "country": "pe",
+  "channels": [
+    {
+      "id": "avancesocialnoticias4816",
+      "name": "Avance Social Noticias",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCo75W2AP1hnjUF4V_ovOAsg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:20:23.576Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCo75W2AP1hnjUF4V_ovOAsg",
+      "category": "news"
+    },
+    {
+      "id": "diario-el-comercio",
+      "name": "Diario El Comercio Videos",
+      "logo": "https://graph.facebook.com/elcomercio.pe/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCLtGUPjKLqa3zgdmhKCZONg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:20:23.576Z",
+      "twitch": null,
+      "website": "https://elcomercio.pe",
+      "category": "news"
+    },
+    {
+      "id": "ideeleradionhd",
+      "name": "Ideeleradio",
+      "logo": "https://graph.facebook.com/idlradio/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCqURueAPBefOz3YhpfDErmw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:20:23.577Z",
+      "twitch": null,
+      "website": "https://www.ideeleradio.pe/",
+      "category": "music"
+    },
+    {
+      "id": "la-republica",
+      "name": "La República",
+      "logo": null,
+      "signals": [],
+      "youtube": "UC-B7Xv56uNRDkj0vC3QW8Cg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:20:23.577Z",
+      "twitch": null,
+      "website": "https://larepublica.pe/",
+      "category": "news"
+    },
+    {
+      "id": "latina-noticias",
+      "name": "Latina Noticias",
+      "logo": null,
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/latina"
+        }
+      ],
+      "youtube": "UCpSJ5fGhmAME9Kx2D3ZvN3Q",
+      "last_youtube_livestreams": [
+        "AhBefTxKY-o"
+      ],
+      "last_checked": "2026-06-02T23:20:23.577Z",
+      "twitch": null,
+      "website": "https://www.latina.pe/tvenvivo",
+      "category": "news"
+    },
+    {
+      "id": "latina-noticias-peru",
+      "name": "Latina Noticias",
+      "logo": "https://www.latina.pe/_templates/desktop/includes/img/latina.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/latinanoticias"
+        }
+      ],
+      "youtube": "UC3rDtLrcgr3JS3_3JOW4BAw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:20:46.913Z",
+      "twitch": null,
+      "website": "https://www.latina.pe/",
+      "category": "news"
+    },
+    {
+      "id": "latina-peru",
+      "name": "Radio Latina",
+      "logo": "https://www.latina.pe/_templates/desktop/includes/img/latina.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/latina"
+        }
+      ],
+      "youtube": "UC3rDtLrcgr3JS3_3JOW4BAw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:20:46.914Z",
+      "twitch": null,
+      "website": "https://www.latina.pe/",
+      "category": "music"
+    },
+    {
+      "id": "n60-noticias",
+      "name": "N60 Noticias",
+      "logo": "https://graph.facebook.com/n60noticias/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCa5H2yRYfOlUH4c22uY5JsQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:20:46.914Z",
+      "twitch": null,
+      "website": "https://n60.pe/",
+      "category": "news"
+    },
+    {
+      "id": "onda-digital-tv",
+      "name": "Onda Digital TV",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://v4.tustreaming.cl:443/odtvgo/index.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": "ondadigitaltv",
+      "website": "https://ondadigitaltv.com",
+      "category": "news"
+    },
+    {
+      "id": "ovacion-tv",
+      "name": "Radio Ovación TV",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://www.ujjina.info/cdn/ovaciontv1.html"
+        }
+      ],
+      "youtube": "UCRk_9ejeHHz-7zuz5n98tKw",
+      "last_youtube_livestreams": [
+        "A_-ODO9SkHU"
+      ],
+      "last_checked": "2026-06-02T23:20:46.914Z",
+      "twitch": null,
+      "website": "https://ovacion.pe/radio",
+      "category": "music"
+    },
+    {
+      "id": "panamericana-tv",
+      "name": "Panamericana TV",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://cdnhd.iblups.com/hls/ptv5.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://geo.dailymotion.com/player/x5poh.html?video=x774s7s&autoplay=true&volume=0"
+        }
+      ],
+      "youtube": "UCngb4rxO4iUE6BrIs29WXwA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:20:46.914Z",
+      "twitch": null,
+      "website": "https://panamericana.pe/tvenvivo",
+      "category": "news"
+    },
+    {
+      "id": "pbo",
+      "name": "PBO",
+      "logo": "https://graph.facebook.com/pboperu/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCgR0st4ZLABi-LQcWNu3wnQ",
+      "last_youtube_livestreams": [
+        "v1v-SzCB1kQ"
+      ],
+      "last_checked": "2026-06-02T23:20:46.914Z",
+      "twitch": null,
+      "website": "https://pbo.pe/",
+      "category": "news"
+    },
+    {
+      "id": "radio-onda-digital",
+      "name": "Radio Onda Digital",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCAzIHVV3BvVIvddYDdtLJ3A",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:20:46.914Z",
+      "twitch": null,
+      "website": "https://www.ondadigital.pe/",
+      "category": "music"
+    },
+    {
+      "id": "radio-tropical",
+      "name": "Radio Tropical 99.1 FM",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8"
+        }
+      ],
+      "youtube": "UCvu5Hqd9mIUuzNJb9Ilm28g",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:20:46.914Z",
+      "twitch": null,
+      "website": "https://radiotropical.pe/",
+      "category": "music"
+    },
+    {
+      "id": "radio-uno",
+      "name": "Radio Uno 93.7 FM",
+      "logo": null,
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://radiouno.pe/radiolive8/index.php"
+        }
+      ],
+      "youtube": "UCK0lpuL9PQb3I5CDcu7Y7bA",
+      "last_youtube_livestreams": [
+        "PHEVhFddf9Y"
+      ],
+      "last_checked": "2026-06-02T23:20:46.914Z",
+      "twitch": null,
+      "website": "https://radiouno.pe/",
+      "category": "music"
+    },
+    {
+      "id": "rtvtotalyurimaguas8963",
+      "name": "RTV TOTAL YURIMAGUAS",
+      "logo": "https://graph.facebook.com/rtvtotal/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://innovatestream.com/tv/v2/rtv.php"
+        }
+      ],
+      "youtube": "UCVKQ8rkQt4P0YQ6YLciG3tQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:20:46.914Z",
+      "twitch": null,
+      "website": "https://rtvtotal.pe/tv-online",
+      "category": "news"
+    },
+    {
+      "id": "san-borja",
+      "name": "Radio San Borja Tv",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8"
+        }
+      ],
+      "youtube": "UCRdGjpVs7vnyDXcEs6W8hkA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:21:14.557Z",
+      "twitch": null,
+      "website": "https://radiosanborjatv.com/",
+      "category": "music"
+    },
+    {
+      "id": "tv-peru",
+      "name": "TVPerú Noticias",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://iblups.com/e_tvperu73"
+        }
+      ],
+      "youtube": "UCkZCoc42IipR1ucqJmIehsA",
+      "last_youtube_livestreams": [
+        "GfcMdb8an6k"
+      ],
+      "last_checked": "2026-06-02T23:21:14.557Z",
+      "twitch": null,
+      "website": "https://www.tvperu.gob.pe/noticias/play",
+      "category": "news"
+    },
+    {
+      "id": "tvperu",
+      "name": "TVPerú",
+      "logo": "https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8"
+        }
+      ],
+      "youtube": "UCrAb_x80PtTiN3lCkQOSFPg",
+      "last_youtube_livestreams": [
+        "NUz_1qCR_us"
+      ],
+      "last_checked": "2026-06-02T23:21:14.557Z",
+      "twitch": null,
+      "website": "https://www.tvperu.gob.pe/",
+      "category": "general"
+    },
+    {
+      "id": "tvperu-noticias",
+      "name": "TVPerú Noticias",
+      "logo": "https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8"
+        }
+      ],
+      "youtube": "UCkZCoc42IipR1ucqJmIehsA",
+      "last_youtube_livestreams": [
+        "GfcMdb8an6k"
+      ],
+      "last_checked": "2026-06-02T23:21:14.557Z",
+      "twitch": null,
+      "website": "https://www.tvperu.gob.pe/",
+      "category": "news"
+    },
+    {
+      "id": "willax",
+      "name": "Willax",
+      "logo": null,
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://geo.dailymotion.com/player/x5poh.html?video=x7x4dgx&autoplay=true&volume=0"
+        }
+      ],
+      "youtube": "UCort3mldTtMErPqprSlSfng",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:21:14.557Z",
+      "twitch": null,
+      "website": "https://willax.pe/en-vivo/",
+      "category": "news"
+    }
+  ]
+}

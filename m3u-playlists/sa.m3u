@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="AlHadath الحدث" tvg-logo="https://graph.facebook.com/AlHadath/picture?width=800&height=800" group-title="news", AlHadath الحدث (1) [SA]
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="AlHadath الحدث" tvg-logo="https://graph.facebook.com/AlHadath/picture?width=800&height=800" group-title="news", AlHadath الحدث (2) [SA]
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8

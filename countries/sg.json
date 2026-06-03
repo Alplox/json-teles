@@ -1,0 +1,19 @@
+{
+  "country": "sg",
+  "channels": [
+    {
+      "id": "cna",
+      "name": "CNA",
+      "logo": null,
+      "signals": [],
+      "youtube": "UC83jt4dlz1Gjl58fzQrrKZg",
+      "last_youtube_livestreams": [
+        "XWq5kBlakcQ"
+      ],
+      "last_checked": "2026-06-02T23:21:41.224Z",
+      "twitch": null,
+      "website": "https://www.channelnewsasia.com/",
+      "category": "news"
+    }
+  ]
+}

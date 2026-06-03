@@ -1,0 +1,514 @@
+{
+  "country": "in",
+  "channels": [
+    {
+      "id": "abn-digital-exclusives",
+      "name": "ABN Digital Exclusives",
+      "logo": "https://graph.facebook.com/somethingspecialvideos/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCMIobchb8wgycijrgc1UnZw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:16:42.167Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCMIobchb8wgycijrgc1UnZw",
+      "category": "general"
+    },
+    {
+      "id": "abn-telugu",
+      "name": "ABN Telugu",
+      "logo": "https://graph.facebook.com/abntelugutv/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC_2irx_BQR7RsBKmUV9fePQ",
+      "last_youtube_livestreams": [
+        "2vruxEWvj2Y"
+      ],
+      "last_checked": "2026-06-02T23:16:42.167Z",
+      "twitch": null,
+      "website": "https://www.andhrajyothy.com/live-tv",
+      "category": "news"
+    },
+    {
+      "id": "abp-majha",
+      "name": "ABP MAJHA",
+      "logo": "https://graph.facebook.com/abpmajha/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://cdn.abplive.com/LiveStreams/260118/abpmajha/streaming-new-nov2022.html"
+        }
+      ],
+      "youtube": "UCH7nv1A9xIrAifZJNvt7cgA",
+      "last_youtube_livestreams": [
+        "tIqdDE4EBwQ"
+      ],
+      "last_checked": "2026-06-02T23:16:42.167Z",
+      "twitch": null,
+      "website": "https://marathi.abplive.com/live-tv",
+      "category": "news"
+    },
+    {
+      "id": "cnbctv18india",
+      "name": "CNBC-TV18",
+      "logo": "https://graph.facebook.com/cnbctv18india/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8"
+        }
+      ],
+      "youtube": "UCmRbHAgG2k2vDUvb3xsEunQ",
+      "last_youtube_livestreams": [
+        "A1bTmsHfAL4"
+      ],
+      "last_checked": "2026-06-02T23:17:15.876Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCmRbHAgG2k2vDUvb3xsEunQ",
+      "category": "news"
+    },
+    {
+      "id": "cnn-news18",
+      "name": "CNN-News18",
+      "logo": "https://graph.facebook.com/cnnnews18/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8"
+        }
+      ],
+      "youtube": "UCef1-8eOpJgud7szVPlZQAQ",
+      "last_youtube_livestreams": [
+        "vsKBGQ-ax-I"
+      ],
+      "last_checked": "2026-06-02T23:17:15.876Z",
+      "twitch": null,
+      "website": "https://www.news18.com/livetv/",
+      "category": "news"
+    },
+    {
+      "id": "ddindia",
+      "name": "DD India",
+      "logo": "https://graph.facebook.com/DDIndiaLive/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCGDQNvybfDDeGTf4GtigXaw",
+      "last_youtube_livestreams": [
+        "TBlxk1kH9dM"
+      ],
+      "last_checked": "2026-06-02T23:17:15.876Z",
+      "twitch": null,
+      "website": "https://ddindia.co.in/",
+      "category": "news"
+    },
+    {
+      "id": "etnow",
+      "name": "ET NOW",
+      "logo": "https://graph.facebook.com/etnow/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCI_mwTKUhicNzFrhm33MzBQ",
+      "last_youtube_livestreams": [
+        "Y83DHPKEP_0"
+      ],
+      "last_checked": "2026-06-02T23:17:15.876Z",
+      "twitch": null,
+      "website": "https://www.etnownews.com/",
+      "category": "news"
+    },
+    {
+      "id": "good-news-today",
+      "name": "Good News Today",
+      "logo": "https://graph.facebook.com/goodnewstoday/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://feeds.intoday.in/livetv/ver-3-0/?id=livetv-gnt&autostart=1&mute=1"
+        }
+      ],
+      "youtube": "UCQC1wGbOOIoC23fRGxt4kbg",
+      "last_youtube_livestreams": [
+        "48XByVquIy4"
+      ],
+      "last_checked": "2026-06-02T23:17:15.876Z",
+      "twitch": null,
+      "website": "https://www.gnttv.com/livetv",
+      "category": "news"
+    },
+    {
+      "id": "hindustan-times",
+      "name": "Hindustan Times",
+      "logo": "https://graph.facebook.com/hindustantimes/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCm7lHFkt2yB_WzL67aruVBQ",
+      "last_youtube_livestreams": [
+        "FMonXLyBpdE"
+      ],
+      "last_checked": "2026-06-02T23:17:15.876Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCm7lHFkt2yB_WzL67aruVBQ",
+      "category": "news"
+    },
+    {
+      "id": "hmtvnewslive",
+      "name": "hmtv News",
+      "logo": "https://graph.facebook.com/hmtvnewslive/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCNZOrs1QBt8cJnv9ud96qRA",
+      "last_youtube_livestreams": [
+        "Ai-GLkqTbTE"
+      ],
+      "last_checked": "2026-06-02T23:17:15.876Z",
+      "twitch": null,
+      "website": "https://www.hmtvlive.com/",
+      "category": "news"
+    },
+    {
+      "id": "india-today",
+      "name": "India Today",
+      "logo": "https://graph.facebook.com/IndiaToday/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrchestrator.m3u8"
+        }
+      ],
+      "youtube": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "last_youtube_livestreams": [
+        "9p14bqEzpNw"
+      ],
+      "last_checked": "2026-06-02T23:17:15.876Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw",
+      "category": "news"
+    },
+    {
+      "id": "indiatv",
+      "name": "IndiaTV",
+      "logo": "https://graph.facebook.com/indiatvnews/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCttspZesZIDEwwpVIgoZtWQ",
+      "last_youtube_livestreams": [
+        "7BXHoByPXEQ"
+      ],
+      "last_checked": "2026-06-02T23:17:15.876Z",
+      "twitch": null,
+      "website": "https://www.indiatvnews.com/livetv",
+      "category": "news"
+    },
+    {
+      "id": "kairalinews",
+      "name": "Kairali News",
+      "logo": "https://graph.facebook.com/kairalinews/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCnEvxaWfVL91XIYuyQRO5QA",
+      "last_youtube_livestreams": [
+        "yiiqRHY1Bl8"
+      ],
+      "last_checked": "2026-06-02T23:17:15.876Z",
+      "twitch": null,
+      "website": "https://www.kairalinewsonline.com/live",
+      "category": "news"
+    },
+    {
+      "id": "ndtv-india",
+      "name": "NDTV India",
+      "logo": "https://graph.facebook.com/NDTVIndia/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8"
+        }
+      ],
+      "youtube": "UC9CYT9gSNLevX5ey2_6CK0Q",
+      "last_youtube_livestreams": [
+        "VdVcs1xOzMI"
+      ],
+      "last_checked": "2026-06-02T23:17:47.854Z",
+      "twitch": null,
+      "website": "https://www.ndtv.com/",
+      "category": "news"
+    },
+    {
+      "id": "news18assamnortheastlive",
+      "name": "News18 Assam/Northeast",
+      "logo": "https://graph.facebook.com/News18AssamNE/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCAjBd-r8JWfnRjfhg23nqLQ",
+      "last_youtube_livestreams": [
+        "KETxW90yhWw"
+      ],
+      "last_checked": "2026-06-02T23:17:47.854Z",
+      "twitch": null,
+      "website": "https://hindi.news18.com/livetv/",
+      "category": "news"
+    },
+    {
+      "id": "news18bangla",
+      "name": "News18 Bangla",
+      "logo": "https://graph.facebook.com/News18Bangla/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCbf0XHULBkTfv2hBjaaDw9Q",
+      "last_youtube_livestreams": [
+        "_IpTq2JVqug"
+      ],
+      "last_checked": "2026-06-02T23:17:47.854Z",
+      "twitch": null,
+      "website": "https://bengali.news18.com/live-tv/",
+      "category": "news"
+    },
+    {
+      "id": "news18biharjharkhand",
+      "name": "News18 Bihar Jharkhand",
+      "logo": "https://graph.facebook.com/News18Bihar/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC531MlZA5LUbeGwEN_zcppw",
+      "last_youtube_livestreams": [
+        "-CmSP3tldGY"
+      ],
+      "last_checked": "2026-06-02T23:17:47.854Z",
+      "twitch": null,
+      "website": "https://hindi.news18.com/news/bihar/",
+      "category": "news"
+    },
+    {
+      "id": "news18gujarati",
+      "name": "News18 Gujarati",
+      "logo": "https://graph.facebook.com/News18Gujarati/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCqfX_f4rBbPhq_KESE4saCA",
+      "last_youtube_livestreams": [
+        "AEUHeSuD5e8"
+      ],
+      "last_checked": "2026-06-02T23:17:47.854Z",
+      "twitch": null,
+      "website": "https://www.news18.com/livetv/",
+      "category": "news"
+    },
+    {
+      "id": "news18india",
+      "name": "News18 India",
+      "logo": "https://graph.facebook.com/News18India/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCPP3etACgdUWvizcES1dJ8Q",
+      "last_youtube_livestreams": [
+        "i85UvzaYO40"
+      ],
+      "last_checked": "2026-06-02T23:17:47.854Z",
+      "twitch": null,
+      "website": "https://hindi.news18.com/",
+      "category": "news"
+    },
+    {
+      "id": "news18kannada",
+      "name": "News18 Kannada",
+      "logo": "https://graph.facebook.com/News18Kannada/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCa-vioGhe2btBcZneaPonKA",
+      "last_youtube_livestreams": [
+        "k4SSQzhQJbU"
+      ],
+      "last_checked": "2026-06-02T23:17:47.854Z",
+      "twitch": null,
+      "website": "https://kannada.news18.com/live-tv/",
+      "category": "news"
+    },
+    {
+      "id": "news18kerala",
+      "name": "News18 Kerala",
+      "logo": "https://graph.facebook.com/News18Kerala/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC-mMi78WJST4N5o8_i1FoXw",
+      "last_youtube_livestreams": [
+        "WvqRrD2JaHM"
+      ],
+      "last_checked": "2026-06-02T23:17:47.854Z",
+      "twitch": null,
+      "website": "https://malayalam.news18.com/",
+      "category": "news"
+    },
+    {
+      "id": "news18lokmattv",
+      "name": "News18 Lokmat",
+      "logo": "https://graph.facebook.com/News18Lokmat/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCrcpw88HvKJ0skdsHniCJtQ",
+      "last_youtube_livestreams": [
+        "NL7m-jauBhs"
+      ],
+      "last_checked": "2026-06-02T23:17:47.854Z",
+      "twitch": null,
+      "website": "https://lokmat.news18.com/",
+      "category": "news"
+    },
+    {
+      "id": "news18mpchhattisgarh",
+      "name": "News18 MP Chhattisgarh",
+      "logo": "https://graph.facebook.com/News18MP/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCBwc2cbPpvxNCNEI2-8YrqQ",
+      "last_youtube_livestreams": [
+        "c5HV4Rd2KBM"
+      ],
+      "last_checked": "2026-06-02T23:17:47.854Z",
+      "twitch": null,
+      "website": "https://hindi.news18.com/",
+      "category": "news"
+    },
+    {
+      "id": "news18odia",
+      "name": "News18 Odia",
+      "logo": "https://graph.facebook.com/News18Odia/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCUK49UvmYWYLiB7_bZFuFZQ",
+      "last_youtube_livestreams": [
+        "SqzX7yKv6Uc"
+      ],
+      "last_checked": "2026-06-02T23:18:19.514Z",
+      "twitch": null,
+      "website": "https://odia.news18.com/odisha/",
+      "category": "news"
+    },
+    {
+      "id": "news18punjabharyanahimacha35",
+      "name": "News18 Punjab/Haryana/Himachal",
+      "logo": "https://graph.facebook.com/News18Haryana/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC-crZTQNRzZgzyighTKF0nQ",
+      "last_youtube_livestreams": [
+        "C1qzVH6D884"
+      ],
+      "last_checked": "2026-06-02T23:18:19.514Z",
+      "twitch": null,
+      "website": "https://punjab.news18.com/",
+      "category": "news"
+    },
+    {
+      "id": "news18rajasthan",
+      "name": "News18 Rajasthan",
+      "logo": "https://graph.facebook.com/News18Rajasthan/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC7FlLbNo66YsCEAPuJITiNg",
+      "last_youtube_livestreams": [
+        "nGKHsalKetE"
+      ],
+      "last_checked": "2026-06-02T23:18:19.514Z",
+      "twitch": null,
+      "website": "https://hindi.news18.com/livetv/",
+      "category": "news"
+    },
+    {
+      "id": "news18tamilnadu",
+      "name": "News18 Tamil Nadu",
+      "logo": "https://graph.facebook.com/News18TamilNadu/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCat88i6_rELqI_prwvjspRA",
+      "last_youtube_livestreams": [
+        "OQ28YvdIy0U"
+      ],
+      "last_checked": "2026-06-02T23:18:19.514Z",
+      "twitch": null,
+      "website": "https://tamil.news18.com/",
+      "category": "news"
+    },
+    {
+      "id": "news18uputtarakhand",
+      "name": "News18 UP Uttarakhand",
+      "logo": "https://graph.facebook.com/News18UP/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCafYgzpyw7aIUYOLjjADu7w",
+      "last_youtube_livestreams": [
+        "jg6eWO-WOPs"
+      ],
+      "last_checked": "2026-06-02T23:18:19.514Z",
+      "twitch": null,
+      "website": "https://hindi.news18.com/news/uttar-pradesh/",
+      "category": "news"
+    },
+    {
+      "id": "news18urdu",
+      "name": "News18 Urdu",
+      "logo": "https://graph.facebook.com/EtvUrduIndia/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC9IQhNgS43lmUdU-KdGyb0A",
+      "last_youtube_livestreams": [
+        "kYwJgRjjgJA"
+      ],
+      "last_checked": "2026-06-02T23:18:19.514Z",
+      "twitch": null,
+      "website": "https://urdu.news18.com/",
+      "category": "news"
+    },
+    {
+      "id": "reporter-live",
+      "name": "REPORTER LIVE",
+      "logo": "https://graph.facebook.com/reporterlive/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCFx1nseXKTc1Culiu3neeSQ",
+      "last_youtube_livestreams": [
+        "nObUcHKZEGY"
+      ],
+      "last_checked": "2026-06-02T23:18:19.514Z",
+      "twitch": null,
+      "website": "https://www.reporterlive.com/",
+      "category": "news"
+    },
+    {
+      "id": "tv9telugulive",
+      "name": "TV9 Telugu Live",
+      "logo": "https://graph.facebook.com/tv9telugu/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCPXTXMecYqnRKNdqdVOGSFg",
+      "last_youtube_livestreams": [
+        "3tQ_Q79dQ7o"
+      ],
+      "last_checked": "2026-06-02T23:18:19.514Z",
+      "twitch": null,
+      "website": "https://tv9telugu.com/live-tv",
+      "category": "news"
+    },
+    {
+      "id": "wion",
+      "name": "WION",
+      "logo": "https://graph.facebook.com/WIONews/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://d7x8z4yuq42qn.cloudfront.net/index_4.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8"
+        }
+      ],
+      "youtube": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "last_youtube_livestreams": [
+        "wef5hq_og_E"
+      ],
+      "last_checked": "2026-06-02T23:18:19.514Z",
+      "twitch": null,
+      "website": "https://www.wionews.com/live-tv",
+      "category": "news"
+    }
+  ]
+}

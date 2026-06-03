@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Canal Institucional TV (Colombia)" tvg-logo="https://www.canalinstitucional.tv/themes/custom/bootstrap_sass/images/logo.png" group-title="general", Canal Institucional TV (Colombia) [CO]
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Señal Colombia" tvg-logo="https://www.senalcolombia.tv/themes/custom/colombia_subtheme/img/nuevo_home/logo.svg" group-title="general", Señal Colombia [CO]
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8

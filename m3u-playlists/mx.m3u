@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="MILENIO" tvg-logo="https://graph.facebook.com/mileniodiario/picture?width=800&height=800" group-title="news", MILENIO [MX]
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 tvg-name="NMás" tvg-logo="https://graph.facebook.com/nmas.com.mx/picture?width=800&height=800" group-title="news", NMás [MX]
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+#EXTINF:-1 tvg-name="VA+ Noticias" tvg-logo="https://graph.facebook.com/RyTAgs/picture?width=800&height=800" group-title="news", VA+ Noticias [MX]
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8

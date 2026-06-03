@@ -1,0 +1,320 @@
+{
+  "country": "ve",
+  "channels": [
+    {
+      "id": "anzoategui-tv",
+      "name": "Anzoátegui TV",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCjTbJ6Obs0yWlL36lw-Tz8w",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:24:01.567Z",
+      "twitch": null,
+      "website": "https://lorini.net/anzoateguitv/",
+      "category": "general"
+    },
+    {
+      "id": "bta-tv",
+      "name": "BTA TV",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://btatv.tv/",
+      "category": "general"
+    },
+    {
+      "id": "canal-21-tachira",
+      "name": "Canal 21 Táchira",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8"
+        }
+      ],
+      "youtube": "UChatdaBWG_Un5wN4Oiw6SfQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:24:01.567Z",
+      "twitch": null,
+      "website": "https://www.canal21tachira.com/tv/",
+      "category": "general"
+    },
+    {
+      "id": "canalcultura-ve",
+      "name": "Canal Cultura Venezuela",
+      "logo": "https://graph.facebook.com/canalcultura.ve/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCMPPdsYmf-V6jukDtIfpM_A",
+      "last_youtube_livestreams": [
+        "tiUTSGZ4DGw"
+      ],
+      "last_checked": "2026-06-02T23:24:01.567Z",
+      "twitch": null,
+      "website": "https://culturavenezuela.com/emision-en-directo/",
+      "category": "culture"
+    },
+    {
+      "id": "globovision",
+      "name": "Globovisión En Vivo",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCfJtBtmhnIyfUB6RqXeImMw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:24:01.567Z",
+      "twitch": null,
+      "website": "https://www.globovision.com/",
+      "category": "news"
+    },
+    {
+      "id": "imesatnewstv",
+      "name": "Imesat News TV",
+      "logo": "https://graph.facebook.com/ImesatNewsTV1/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC1gcFVHhxnbdVqZ8gRziDkg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:24:01.567Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UC1gcFVHhxnbdVqZ8gRziDkg",
+      "category": "news"
+    },
+    {
+      "id": "la-iguana-tv",
+      "name": "La Iguana TV",
+      "logo": "https://graph.facebook.com/iguana.tv/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCCc2H9_eNnU7ucq2n7Sh3Rg",
+      "last_youtube_livestreams": [
+        "tuNkweEdyfI"
+      ],
+      "last_checked": "2026-06-02T23:24:01.567Z",
+      "twitch": "laiguanatv",
+      "website": "https://www.laiguana.tv/envivo/",
+      "category": "news"
+    },
+    {
+      "id": "mundourenvivo",
+      "name": "MundoURenVivo",
+      "logo": null,
+      "signals": [],
+      "youtube": "UC9LrWd-4NU7NJYhBvwIgFkQ",
+      "last_youtube_livestreams": [
+        "8lp675nESXs"
+      ],
+      "last_checked": "2026-06-02T23:24:01.567Z",
+      "twitch": null,
+      "website": "https://mundour.com/",
+      "category": "music"
+    },
+    {
+      "id": "ntn24",
+      "name": "NTN24",
+      "logo": "https://graph.facebook.com/ntn24/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCEJs1fTF3KszRJGxJY14VrA",
+      "last_youtube_livestreams": [
+        "Ar9EOhFIobU"
+      ],
+      "last_checked": "2026-06-02T23:24:01.567Z",
+      "twitch": null,
+      "website": "https://www.ntn24.com/en-vivo",
+      "category": "news"
+    },
+    {
+      "id": "telesur",
+      "name": "TeleSUR",
+      "logo": "https://graph.facebook.com/teleSUR/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://mblive.telesur.ultrabase.net/"
+        },
+        {
+          "type": "iframe",
+          "url": "https://geo.dailymotion.com/player/x5poh.html?video=x82ug5r&autoplay=true&volume=0"
+        }
+      ],
+      "youtube": "UCh57chOa8G811mvbqHBqxlw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:24:21.410Z",
+      "twitch": null,
+      "website": "https://www.telesurtv.net/",
+      "category": "news"
+    },
+    {
+      "id": "telesur-eng",
+      "name": "TeleSUR English",
+      "logo": "https://graph.facebook.com/telesurenglish/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://cdnenmain.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://cdnenmain.telesur.ultrabase.net/mblivev3/360p/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://mbliveec.telesur.ultrabase.net/"
+        }
+      ],
+      "youtube": "UCmuTmpLY35O3csvhyA6vrkg",
+      "last_youtube_livestreams": [
+        "3nN3vtMzxTo"
+      ],
+      "last_checked": "2026-06-02T23:24:21.410Z",
+      "twitch": null,
+      "website": "https://www.telesurenglish.net/",
+      "category": "news"
+    },
+    {
+      "id": "telesurenespanol",
+      "name": "teleSURtv",
+      "logo": "https://graph.facebook.com/teleSUR/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://mblive.telesur.ultrabase.net/"
+        }
+      ],
+      "youtube": "UCj55An2-k4Ww8nmHQFWti5Q",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:24:21.410Z",
+      "twitch": null,
+      "website": "https://www.telesurtv.net/",
+      "category": "news"
+    },
+    {
+      "id": "televentv",
+      "name": "TelevenTV",
+      "logo": "https://graph.facebook.com/TelevenTV/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://vcp2.myplaytv.com/televen/televen/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://app.televen.com/player/tv?channelId=20000841&categoryId=0&channelNumber=1"
+        }
+      ],
+      "youtube": "UCPxs1siPSF6YKGtKP_Zyvtw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:24:21.410Z",
+      "twitch": null,
+      "website": "https://televen.com/",
+      "category": "news"
+    },
+    {
+      "id": "ultimachance",
+      "name": "Lista Tv",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCw2ceOxZ4VhgRSre0ny2RcA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:24:21.410Z",
+      "twitch": "ultimachance_",
+      "website": "https://www.youtube.com/channel/UCw2ceOxZ4VhgRSre0ny2RcA",
+      "category": "music"
+    },
+    {
+      "id": "venezolana-de-television",
+      "name": "Venezolana de Televisión",
+      "logo": "https://graph.facebook.com/VTVtuCanal/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://geo.dailymotion.com/player/x5poh.html?video=k1yNOrgCd2jz9hBaDXQ&autoplay=true&volume=0"
+        }
+      ],
+      "youtube": "UC_cL7HTt3R9Esk-Tj0XoC9Q",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:24:21.410Z",
+      "twitch": null,
+      "website": "https://www.vtv.gob.ve/en-vivo/",
+      "category": "news"
+    },
+    {
+      "id": "vnradio1049fm",
+      "name": "Venezuela News Radio",
+      "logo": "https://graph.facebook.com/agenciaVenezuelaNews/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCV1P8lGXINAFEK_SGnvQtQw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:24:21.410Z",
+      "twitch": null,
+      "website": "https://venezuela-news.com/radio/",
+      "category": "music"
+    },
+    {
+      "id": "vpitvenvivo",
+      "name": "VPItv",
+      "logo": "https://graph.facebook.com/vpitv/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCVFiIRuxJ2GmJLUkHmlmj4w",
+      "last_youtube_livestreams": [
+        "gybV1CfY6dM"
+      ],
+      "last_checked": "2026-06-02T23:24:21.411Z",
+      "twitch": null,
+      "website": "https://vpitv.com/en-vivo/",
+      "category": "news"
+    },
+    {
+      "id": "vtvradiofm",
+      "name": "VTV RADIO",
+      "logo": "https://graph.facebook.com/CAMBIARAQUI/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC2_P7AV2jJ9_gYK0VS-w2rA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:24:21.411Z",
+      "twitch": null,
+      "website": "https://www.atom.bio/vtvradio_",
+      "category": "music"
+    }
+  ]
+}

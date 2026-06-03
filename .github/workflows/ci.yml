@@ -1,0 +1,51 @@
+name: CI
+
+on:
+  pull_request:
+    paths:
+      - "countries/**"
+      - "scripts/**"
+  push:
+    paths:
+      - "countries/**"
+      - "scripts/**"
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  validate:
+    name: Validate + Lint + Test
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Validate country files
+        run: npm run validate:country
+
+      - name: Build channels.json
+        run: node scripts/build-channels.js
+
+      - name: Validate channels.json
+        run: npm run validate
+
+      - name: Lint (ESLint)
+        run: npm run lint
+
+      - name: Format (Prettier)
+        run: npm run format:check
+
+      - name: Tests
+        run: npm run test

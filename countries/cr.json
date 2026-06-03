@@ -1,0 +1,24 @@
+{
+  "country": "cr",
+  "channels": [
+    {
+      "id": "multimedios-costa-rica",
+      "name": "Multimedios Costa Rica",
+      "logo": "https://graph.facebook.com/MultimediosCR/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://mdstrm.com/live-stream/5a7b1e63a8da282c34d65445?volume=0"
+        }
+      ],
+      "youtube": "UCILU2ghO8GrOeB-zo93eYdA",
+      "last_youtube_livestreams": [
+        "y9W8noy1Z5A"
+      ],
+      "last_checked": "2026-06-02T23:15:16.071Z",
+      "twitch": null,
+      "website": "https://www.telediario.cr/television",
+      "category": "news"
+    }
+  ]
+}

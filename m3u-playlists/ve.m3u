@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Anzoátegui TV" tvg-logo="" group-title="general", Anzoátegui TV [VE]
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1 tvg-name="BTA TV" tvg-logo="" group-title="general", BTA TV [VE]
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF:-1 tvg-name="Canal 21 Táchira" tvg-logo="" group-title="general", Canal 21 Táchira [VE]
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+#EXTINF:-1 tvg-name="Globovisión En Vivo" tvg-logo="" group-title="news", Globovisión En Vivo [VE]
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
+#EXTINF:-1 tvg-name="TeleSUR" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=800&height=800" group-title="news", TeleSUR (1) [VE]
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-name="TeleSUR" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=800&height=800" group-title="news", TeleSUR (2) [VE]
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-name="TeleSUR" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=800&height=800" group-title="news", TeleSUR (3) [VE]
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8
+#EXTINF:-1 tvg-name="TeleSUR English" tvg-logo="https://graph.facebook.com/telesurenglish/picture?width=800&height=800" group-title="news", TeleSUR English (1) [VE]
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 tvg-name="TeleSUR English" tvg-logo="https://graph.facebook.com/telesurenglish/picture?width=800&height=800" group-title="news", TeleSUR English (2) [VE]
+https://cdnenmain.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
+#EXTINF:-1 tvg-name="TeleSUR English" tvg-logo="https://graph.facebook.com/telesurenglish/picture?width=800&height=800" group-title="news", TeleSUR English (3) [VE]
+https://cdnenmain.telesur.ultrabase.net/mblivev3/360p/playlist.m3u8
+#EXTINF:-1 tvg-name="teleSURtv" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=800&height=800" group-title="news", teleSURtv (1) [VE]
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-name="teleSURtv" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=800&height=800" group-title="news", teleSURtv (2) [VE]
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-name="teleSURtv" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=800&height=800" group-title="news", teleSURtv (3) [VE]
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8
+#EXTINF:-1 tvg-name="TelevenTV" tvg-logo="https://graph.facebook.com/TelevenTV/picture?width=800&height=800" group-title="news", TelevenTV [VE]
+https://vcp2.myplaytv.com/televen/televen/playlist.m3u8

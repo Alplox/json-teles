@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="AlArabiya العربية" tvg-logo="https://graph.facebook.com/alarabiya/picture?width=800&height=800" group-title="news", AlArabiya العربية (1) [AE]
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="AlArabiya العربية" tvg-logo="https://graph.facebook.com/alarabiya/picture?width=800&height=800" group-title="news", AlArabiya العربية (2) [AE]
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
+#EXTINF:-1 tvg-name="AlArabiya العربية" tvg-logo="https://graph.facebook.com/alarabiya/picture?width=800&height=800" group-title="news", AlArabiya العربية (3) [AE]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8

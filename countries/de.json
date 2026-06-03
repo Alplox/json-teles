@@ -1,0 +1,80 @@
+{
+  "country": "de",
+  "channels": [
+    {
+      "id": "dw-arabic",
+      "name": "DW عربية",
+      "logo": "https://deultimominuto.net/wp-content/uploads/2022/03/DW-LOGO.jpg",
+      "signals": [],
+      "youtube": "UC30ditU5JI16o5NbFsHde_Q",
+      "last_youtube_livestreams": [
+        "AGkp2AL8e7o"
+      ],
+      "last_checked": "2026-06-02T23:15:16.071Z",
+      "twitch": null,
+      "website": "https://www.dw.com/ar",
+      "category": "news"
+    },
+    {
+      "id": "dw-news",
+      "name": "DW News",
+      "logo": "https://deultimominuto.net/wp-content/uploads/2022/03/DW-LOGO.jpg",
+      "signals": [],
+      "youtube": "UCknLrEdhRCp1aegoMqRaCZg",
+      "last_youtube_livestreams": [
+        "LuKwFajn37U"
+      ],
+      "last_checked": "2026-06-02T23:15:16.071Z",
+      "twitch": null,
+      "website": "https://www.dw.com/en",
+      "category": "news"
+    },
+    {
+      "id": "dw-news-es",
+      "name": "DW Español",
+      "logo": "https://deultimominuto.net/wp-content/uploads/2022/03/DW-LOGO.jpg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8"
+        }
+      ],
+      "youtube": "UCT4Jg8h03dD0iN3Pb5L0PMA",
+      "last_youtube_livestreams": [
+        "yZh3xsFqCt8"
+      ],
+      "last_checked": "2026-06-02T23:15:16.071Z",
+      "twitch": null,
+      "website": "https://www.dw.com/es",
+      "category": "news"
+    },
+    {
+      "id": "wearediamond",
+      "name": "We Are Diamond",
+      "logo": "https://graph.facebook.com/wearediamond1/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCrFFy9BMtlNsg2wsa4XbTPg",
+      "last_youtube_livestreams": [
+        "v-KQZ1KZcEo"
+      ],
+      "last_checked": "2026-06-02T23:15:16.071Z",
+      "twitch": null,
+      "website": "https://wearediamond.net/",
+      "category": "music"
+    },
+    {
+      "id": "welt",
+      "name": "WELT",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCZMsvbAhhRblVGXmEXW8TSA",
+      "last_youtube_livestreams": [
+        "Wb_VGbbWA9w"
+      ],
+      "last_checked": "2026-06-02T23:15:16.071Z",
+      "twitch": null,
+      "website": "https://www.welt.de/",
+      "category": "news"
+    }
+  ]
+}

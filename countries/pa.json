@@ -1,0 +1,67 @@
+{
+  "country": "pa",
+  "channels": [
+    {
+      "id": "alvaroalvarado4703",
+      "name": "Alvaro Alvarado - Noticias 180 Minutos",
+      "logo": "https://graph.facebook.com/alvaroalvaradoc/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC4RoqlERckC4gIhLEGb9Jjw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:20:23.576Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UC4RoqlERckC4gIhLEGb9Jjw",
+      "category": "news"
+    },
+    {
+      "id": "circulo-tv",
+      "name": "Círculo TV",
+      "logo": "https://graph.facebook.com/elcirculotv1/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCDPbA7nEEmzhRb5NnItyKag",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:20:23.576Z",
+      "twitch": "circulotv",
+      "website": "https://www.youtube.com/channel/UCDPbA7nEEmzhRb5NnItyKag",
+      "category": "news"
+    },
+    {
+      "id": "farotv3865",
+      "name": "FARO TV",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCH70iZotY9DHPZA_XCJbXGQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:20:23.576Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCH70iZotY9DHPZA_XCJbXGQ",
+      "category": "news"
+    },
+    {
+      "id": "telemetro13",
+      "name": "Telemetro Reporta",
+      "logo": "https://graph.facebook.com/TReporta/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCeFTJ001tE38wOXKgPvK1XQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:20:23.576Z",
+      "twitch": null,
+      "website": "https://www.telemetro.com/endirecto",
+      "category": "news"
+    },
+    {
+      "id": "telemetropa",
+      "name": "Telemetro",
+      "logo": "https://graph.facebook.com/telemetro/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCm-EJjdw2bKskUFF5YyWYog",
+      "last_youtube_livestreams": [
+        "YwnIHLFslzE"
+      ],
+      "last_checked": "2026-06-02T23:20:23.576Z",
+      "twitch": null,
+      "website": "https://www.telemetro.com/endirecto",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "country": "pk",
+  "channels": [
+    {
+      "id": "alquranhd",
+      "name": "AlQuranHD القران الكريم",
+      "logo": "https://graph.facebook.com/AlQuran4K/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCraPI8sg-eiNzUrurxhKeEQ",
+      "last_youtube_livestreams": [
+        "Gyt-OXdJX9w"
+      ],
+      "last_checked": "2026-06-02T23:21:14.557Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCraPI8sg-eiNzUrurxhKeEQ",
+      "category": "religious"
+    },
+    {
+      "id": "bolnewsofficial",
+      "name": "BOL News",
+      "logo": "https://graph.facebook.com/BOLNETWORK/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCz2yxQJZgiB_5elTzqV7FiQ",
+      "last_youtube_livestreams": [
+        "M8DGZa5xX5A"
+      ],
+      "last_checked": "2026-06-02T23:21:14.557Z",
+      "twitch": null,
+      "website": "https://www.bolnews.com/live/",
+      "category": "news"
+    },
+    {
+      "id": "city21",
+      "name": "City 21 News",
+      "logo": "https://graph.facebook.com/C21.Karachi/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCB-8E662xOk1I3-wdhTMNiw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:21:14.557Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw",
+      "category": "news"
+    },
+    {
+      "id": "dunyanewsofficial",
+      "name": "Dunya News",
+      "logo": "https://graph.facebook.com/dunyanews/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCnMBV5Iw4WqKILKue1nP6Hg",
+      "last_youtube_livestreams": [
+        "e2XVSUYh4S0"
+      ],
+      "last_checked": "2026-06-02T23:21:14.557Z",
+      "twitch": null,
+      "website": "https://dunyanews.tv/live/",
+      "category": "news"
+    },
+    {
+      "id": "samaatvnews",
+      "name": "SAMAA TV",
+      "logo": "https://graph.facebook.com/samaatvnews/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "last_youtube_livestreams": [
+        "MLDQM0QL_-4"
+      ],
+      "last_checked": "2026-06-02T23:21:14.557Z",
+      "twitch": null,
+      "website": "https://live.samaa.tv/",
+      "category": "news"
+    },
+    {
+      "id": "talonnews_hd",
+      "name": "Talon News HD",
+      "logo": "https://graph.facebook.com/TalonNewsHDOfficial/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCooaD1RPqtX2mY4yNc1PPqw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:21:41.224Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCooaD1RPqtX2mY4yNc1PPqw",
+      "category": "news"
+    }
+  ]
+}

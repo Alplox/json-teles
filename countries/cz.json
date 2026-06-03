@@ -1,0 +1,19 @@
+{
+  "country": "cz",
+  "channels": [
+    {
+      "id": "globalquake",
+      "name": "GlobalQuake",
+      "logo": "https://img1.wsimg.com/isteam/ip/b2e252f8-5387-4660-ba31-3f433af7b108/blob-8a5d034.png",
+      "signals": [],
+      "youtube": "UCZmcd4cQ2H_ELWAuUdOMgRQ",
+      "last_youtube_livestreams": [
+        "rvtygG4n6ew"
+      ],
+      "last_checked": "2026-06-02T23:15:16.071Z",
+      "twitch": "globalquake",
+      "website": "https://globalquake.net/",
+      "category": "news"
+    }
+  ]
+}

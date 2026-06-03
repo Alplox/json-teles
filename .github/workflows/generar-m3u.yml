@@ -1,4 +1,4 @@
-name: Generar M3U
+﻿name: Build & Update
 
 permissions:
   contents: write
@@ -9,8 +9,10 @@ env:
 on:
   push:
     paths:
-      - "canales.json"
-      - "scripts/convertir-a-m3u.js"
+      - "countries/**"
+      - "scripts/generate-m3u.js"
+      - "scripts/build-channels.js"
+      - "scripts/generate-readme-lists.js"
   workflow_dispatch:
 
 jobs:
@@ -18,26 +20,41 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clonar repositorio
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Instalar Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 24
+          cache: "npm"
 
-      - name: Convertir JSON a M3U
-        run: node scripts/convertir-a-m3u.js
+      - name: Install dependencies
+        run: npm ci
 
-      - name: Commit y subir cambios
+      - name: Build channels.json
+        run: node scripts/build-channels.js
+
+      - name: Generate M3U
+        run: node scripts/generate-m3u.js
+
+      - name: Update README
+        run: node scripts/generate-readme-lists.js
+
+      - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add canales.m3u
-          git diff --cached --quiet || git commit -m "Actualiza canales.m3u"
+          git add channels.json channels.m3u m3u-playlists/ README.md
 
-          # Sincronizar antes de push
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Build channels.json + Update M3U playlists + README"
           git pull --rebase origin main
-
           git push

@@ -1,0 +1,143 @@
+{
+  "country": "it",
+  "channels": [
+    {
+      "id": "vatican-news",
+      "name": "Vatican News",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+      "signals": [],
+      "youtube": "UC7E-LYc1wivk33iyt5bR5zQ",
+      "last_youtube_livestreams": [
+        "03pYP2Nmreo"
+      ],
+      "last_checked": "2026-06-02T23:18:19.514Z",
+      "twitch": null,
+      "website": "https://www.vaticannews.va/en.html",
+      "category": "religious"
+    },
+    {
+      "id": "vatican-news-aleman",
+      "name": "Vatican News Deutsch",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+      "signals": [],
+      "youtube": "UC4ndSG692MXx_zZlIKMYsdg",
+      "last_youtube_livestreams": [
+        "8ZHkzW1TeZ8"
+      ],
+      "last_checked": "2026-06-02T23:18:47.906Z",
+      "twitch": null,
+      "website": "https://www.vaticannews.va/en.html",
+      "category": "religious"
+    },
+    {
+      "id": "vatican-news-chino",
+      "name": "Vatican News 中文",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+      "signals": [],
+      "youtube": "UCRvmnuS6-wC2ZkAjh2tNK7w",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:18:47.906Z",
+      "twitch": null,
+      "website": "https://www.vaticannews.va/en.html",
+      "category": "religious"
+    },
+    {
+      "id": "vatican-news-english",
+      "name": "Vatican News English",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+      "signals": [],
+      "youtube": "UCxIsefyl9g9A5SGWA4FvGIA",
+      "last_youtube_livestreams": [
+        "EEM7a3mHMR4"
+      ],
+      "last_checked": "2026-06-02T23:18:47.906Z",
+      "twitch": null,
+      "website": "https://www.vaticannews.va/en.html",
+      "category": "religious"
+    },
+    {
+      "id": "vatican-news-español",
+      "name": "Vatican News Español",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+      "signals": [],
+      "youtube": "UCnB5vfb9FMMNTnC6-kAT3fQ",
+      "last_youtube_livestreams": [
+        "5lfWxoaPGRg"
+      ],
+      "last_checked": "2026-06-02T23:18:47.906Z",
+      "twitch": null,
+      "website": "https://www.vaticannews.va/en.html",
+      "category": "religious"
+    },
+    {
+      "id": "vatican-news-frances",
+      "name": "Vatican News Français",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+      "signals": [],
+      "youtube": "UCQxVySG5g2aC-Uz9NhpyiFg",
+      "last_youtube_livestreams": [
+        "K-zknhNgt7Y"
+      ],
+      "last_checked": "2026-06-02T23:18:47.907Z",
+      "twitch": null,
+      "website": "https://www.vaticannews.va/en.html",
+      "category": "religious"
+    },
+    {
+      "id": "vatican-news-italiano",
+      "name": "Vatican News Italiano",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+      "signals": [],
+      "youtube": "UCkwbN2a1L1H6P9rcA7FhAqg",
+      "last_youtube_livestreams": [
+        "gW-upYJcuSE"
+      ],
+      "last_checked": "2026-06-02T23:18:47.907Z",
+      "twitch": null,
+      "website": "https://www.vaticannews.va/en.html",
+      "category": "religious"
+    },
+    {
+      "id": "vatican-news-polaco",
+      "name": "Vatican News Polski",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+      "signals": [],
+      "youtube": "UCShH-YDtaUQH0Zvmg_6bKJQ",
+      "last_youtube_livestreams": [
+        "x4F6qn3VCTs"
+      ],
+      "last_checked": "2026-06-02T23:18:47.907Z",
+      "twitch": null,
+      "website": "https://www.vaticannews.va/en.html",
+      "category": "religious"
+    },
+    {
+      "id": "vatican-news-portugues",
+      "name": "Vatican News Português",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+      "signals": [],
+      "youtube": "UCGYSq4b4DXmtK4jyq6r-FYg",
+      "last_youtube_livestreams": [
+        "jv3j9hOC7dU"
+      ],
+      "last_checked": "2026-06-02T23:18:47.907Z",
+      "twitch": null,
+      "website": "https://www.vaticannews.va/en.html",
+      "category": "religious"
+    },
+    {
+      "id": "vatican-news-vietnamita",
+      "name": "Vatican News Tiếng Việt",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+      "signals": [],
+      "youtube": "UC1HuzI97H8M5bI3Wl6wKdvA",
+      "last_youtube_livestreams": [
+        "zPdcr_NKHqU"
+      ],
+      "last_checked": "2026-06-02T23:18:47.907Z",
+      "twitch": null,
+      "website": "https://www.vaticannews.va/en.html",
+      "category": "religious"
+    }
+  ]
+}

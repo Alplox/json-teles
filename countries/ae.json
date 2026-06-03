@@ -1,0 +1,32 @@
+{
+  "country": "ae",
+  "channels": [
+    {
+      "id": "alarabiya",
+      "name": "AlArabiya العربية",
+      "logo": "https://graph.facebook.com/alarabiya/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8"
+        }
+      ],
+      "youtube": "UCahpxixMCwoANAftn6IxkTg",
+      "last_youtube_livestreams": [
+        "n7eQejkXbnM"
+      ],
+      "last_checked": "2026-06-02T23:06:12.001Z",
+      "twitch": null,
+      "website": "https://www.alarabiya.net/live-stream",
+      "category": "news"
+    }
+  ]
+}

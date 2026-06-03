@@ -1,0 +1,19 @@
+{
+  "country": "tr",
+  "channels": [
+    {
+      "id": "trt-world",
+      "name": "TRT World",
+      "logo": null,
+      "signals": [],
+      "youtube": "UC7fWeaHhqgM4Ry-RMpM2YYw",
+      "last_youtube_livestreams": [
+        "eIBtiuI1eQ8"
+      ],
+      "last_checked": "2026-06-02T23:22:10.944Z",
+      "twitch": null,
+      "website": "https://www.trtworld.com/",
+      "category": "news"
+    }
+  ]
+}

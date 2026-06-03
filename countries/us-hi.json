@@ -1,0 +1,19 @@
+{
+  "country": "us-hi",
+  "channels": [
+    {
+      "id": "hawaii-livecam",
+      "name": "Aqualink Hawaii",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCTLF36lXVM7uiR-VolWHv0Q",
+      "last_youtube_livestreams": [
+        "jOp_aAXsYmE"
+      ],
+      "last_checked": "2026-06-02T23:22:10.945Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCTLF36lXVM7uiR-VolWHv0Q",
+      "category": "outdoor"
+    }
+  ]
+}

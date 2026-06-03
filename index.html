@@ -449,7 +449,7 @@
         <section aria-label="Entrada desde URL" class="deluxe-section">
           <label for="urlInput" class="deluxe-label">🌐 Pegar URL de JSON (opcional):</label>
           <input type="text" class="form-control deluxe-textarea" id="urlInput"
-            placeholder="https://raw.githubusercontent.com/.../canales.json">
+            placeholder="https://raw.githubusercontent.com/.../channels.json">
           <button class="btn btn-primary deluxe-btn mt-2 w-100" id="cargarDesdeURLBtn">Cargar desde URL</button>
         </section>
         <section aria-label="Carga desde archivo" class="deluxe-section">
@@ -484,29 +484,25 @@
 
       <section id="jsonGuide" aria-label="Guía rápida estructura JSON">
         <h2>Guía rápida de la estructura JSON</h2>
-        <p>El JSON debe tener la siguiente estructura para cada canal:</p>
+        <p>El JSON debe tener la siguiente estructura:</p>
         <pre><code>
 {
-  "noticiero-generico-id": {
-    "nombre": "noticiero genérico",
-    "logo": "https://logo.png",
-    "señales": {
-      "iframe_url": [
-        "https://...",
-        "https://..."
+  "channels": [
+    {
+      "id": "noticiero-generico",
+      "name": "Noticiero Genérico",
+      "logo": "https://logo.png",
+      "signals": [
+        { "type": "m3u8", "url": "https://....m3u8" },
+        { "type": "iframe", "url": "https://..." }
       ],
-      "m3u8_url": [
-        "https://....m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.sitio-noticiero.com/envivo/",
-    "país": "cl",
-    "categoría": "news"
-  }
+      "youtube": "UC...",
+      "twitch": "noticiero",
+      "website": "https://www.sitio-oficial.com/",
+      "country": "cl",
+      "category": "news"
+    }
+  ]
 }
 </code></pre>
       </section>
@@ -520,70 +516,59 @@
         </thead>
         <tbody>
           <tr>
-            <td><code>noticiero-generico-id</code></td>
+            <td><code>id</code></td>
             <td>string</td>
-            <td>ID único del canal, en minúsculas y con guiones.</td>
+            <td>ID único del canal (slug).</td>
           </tr>
           <tr>
-            <td><code>nombre</code></td>
+            <td><code>name</code></td>
             <td>string</td>
-            <td>Nombre del canal.</td>
+            <td>Nombre visible del canal.</td>
           </tr>
           <tr>
             <td><code>logo</code></td>
-            <td>string</td>
+            <td>string | null</td>
             <td>URL del logo (PNG, SVG, JPG...)</td>
           </tr>
           <tr>
-            <td><code>señales</code></td>
-            <td>object</td>
-            <td>URLs de las señales del canal.</td>
-          </tr>
-          <tr>
-            <td><code>iframe_url</code></td>
+            <td><code>signals</code></td>
             <td>array</td>
-            <td>Embeds o sitios con reproductores del canal.</td>
+            <td>Lista de señales del canal.</td>
           </tr>
           <tr>
-            <td><code>m3u8_url</code></td>
-            <td>array</td>
-            <td>Solo enlaces HLS terminados en <code>.m3u8</code>.</td>
-          </tr>
-          <tr>
-            <td><code>yt_id</code></td>
+            <td><code>signals[].type</code></td>
             <td>string</td>
+            <td><code>"m3u8"</code> o <code>"iframe"</code>.</td>
+          </tr>
+          <tr>
+            <td><code>signals[].url</code></td>
+            <td>string</td>
+            <td>URL de la señal.</td>
+          </tr>
+          <tr>
+            <td><code>youtube</code></td>
+            <td>string | null</td>
             <td>ID del canal de YouTube.</td>
           </tr>
           <tr>
-            <td><code>yt_embed</code></td>
-            <td>string</td>
-            <td>URL de YouTube embebida.</td>
-          </tr>
-          <tr>
-            <td><code>yt_playlist</code></td>
-            <td>string</td>
-            <td>ID de una playlist de YouTube.</td>
-          </tr>
-          <tr>
-            <td><code>twitch_id</code></td>
-            <td>string</td>
+            <td><code>twitch</code></td>
+            <td>string | null</td>
             <td>ID de canal de Twitch.</td>
           </tr>
           <tr>
-            <td><code>sitio_oficial</code></td>
-            <td>string</td>
+            <td><code>website</code></td>
+            <td>string | null</td>
             <td>Enlace al sitio oficial del canal.</td>
           </tr>
           <tr>
-            <td><code>país</code></td>
-            <td>string</td>
+            <td><code>country</code></td>
+            <td>string | null</td>
             <td>Código ISO 3166 (en minúscula).</td>
           </tr>
           <tr>
-            <td><code>categoría</code></td>
+            <td><code>category</code></td>
             <td>string</td>
-            <td>Compatible con <a href="https://iptv-org.github.io/api/categories.json" target="_blank">iptv-org</a>.
-            </td>
+            <td>Compatible con <a href="https://iptv-org.github.io/api/categories.json" target="_blank">iptv-org</a>.</td>
           </tr>
         </tbody>
       </table>
@@ -595,7 +580,7 @@
 
   <script>
     document.addEventListener('DOMContentLoaded', () => {
-      const defaultURL = "https://raw.githubusercontent.com/Alplox/json-teles/refs/heads/main/canales.json";
+      const defaultURL = "https://raw.githubusercontent.com/Alplox/json-teles/refs/heads/main/channels.json";
       const fileInput = document.getElementById('fileInput');
       const cargarPorDefectoBtn = document.getElementById('cargarPorDefectoBtn');
       const cargarDesdeURLBtn = document.getElementById('cargarDesdeURLBtn');
@@ -715,13 +700,16 @@
       }
 
       function convertir() {
-        let canales;
+        let data;
         try {
-          canales = JSON.parse(jsonInput.value);
+          data = JSON.parse(jsonInput.value);
         } catch (e) {
           alert("❌ JSON inválido");
           return;
         }
+
+        const canales = data.channels || data;
+        const isArray = Array.isArray(canales);
 
         let m3u = '#EXTM3U\n';
         let totalCanales = 0;
@@ -730,15 +718,23 @@
         let canalesDuplicados = 0;
         let nombresDuplicados = [];
 
-        for (const key in canales) {
-          const canal = canales[key];
+        const iterator = isArray ? canales : Object.entries(canales);
+
+        for (const entry of iterator) {
+          const canal = isArray ? entry : entry[1];
           totalCanales++;
 
-          const nombre = canal.nombre || key;
+          const nombre = canal.name || canal.nombre || (isArray ? canal.id : entry[0]);
           const logo = canal.logo || '';
-          const categoria = canal.categoría || 'General';
-          const pais = canal.país ? canal.país.toUpperCase() : 'INTL';
-          const urls = canal.señales?.m3u8_url || [];
+          const categoria = canal.category || canal.categoría || 'General';
+          const pais = (canal.country || canal.país) ? (canal.country || canal.país).toUpperCase() : 'INTL';
+
+          let urls = [];
+          if (canal.signals) {
+            urls = canal.signals.filter(s => s.type === 'm3u8').map(s => s.url);
+          } else if (canal.señales?.m3u8_url) {
+            urls = canal.señales.m3u8_url;
+          }
 
           if (urls.length === 0) continue;
 

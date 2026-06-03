@@ -1,0 +1,234 @@
+{
+  "country": "co",
+  "channels": [
+    {
+      "id": "buenisimaradiotv",
+      "name": "Buenisima Radio Tv",
+      "logo": "https://graph.facebook.com/buenisimaradiotv/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCk20PydKzK3giq80G4mqSeg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:14:23.390Z",
+      "twitch": "fmbuenisima",
+      "website": "https://www.youtube.com/channel/UCk20PydKzK3giq80G4mqSeg",
+      "category": "music"
+    },
+    {
+      "id": "canalinstitucional",
+      "name": "Canal Institucional TV (Colombia)",
+      "logo": "https://www.canalinstitucional.tv/themes/custom/bootstrap_sass/images/logo.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://www.canalinstitucional.tv/envivo"
+        }
+      ],
+      "youtube": "UCacTCU_5Z-5YgoKiJJHn9eQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:14:23.390Z",
+      "twitch": null,
+      "website": "https://www.canalinstitucional.tv/",
+      "category": "general"
+    },
+    {
+      "id": "cncchoco",
+      "name": "CNC CHOCÓ",
+      "logo": "https://graph.facebook.com/cncquibdo/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC1y9xnPuEvaPCqwJTFDr-8Q",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:14:23.390Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UC1y9xnPuEvaPCqwJTFDr-8Q",
+      "category": "news"
+    },
+    {
+      "id": "eatlantico",
+      "name": "EAtlantico",
+      "logo": "https://graph.facebook.com/EmisorAtlantico/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCPsO0NrAGNWX518uPPs7M9Q",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:14:23.390Z",
+      "twitch": null,
+      "website": "https://emisoraatlantico.com.co/",
+      "category": "news"
+    },
+    {
+      "id": "el-espectador",
+      "name": "El Espectador",
+      "logo": "https://graph.facebook.com/elespectadorcom/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCFYdMS-M4mRdbxPuErz1CVw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:14:23.390Z",
+      "twitch": null,
+      "website": "https://www.elespectador.com/",
+      "category": "news"
+    },
+    {
+      "id": "el-tiempo",
+      "name": "EL TIEMPO",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCe5-b0fCK3eQCpwS6MT0aNw",
+      "last_youtube_livestreams": [
+        "GPWNdZjdj_U"
+      ],
+      "last_checked": "2026-06-02T23:14:23.390Z",
+      "twitch": null,
+      "website": "https://www.eltiempo.com/",
+      "category": "news"
+    },
+    {
+      "id": "hoynoticiasagenciademedios6793",
+      "name": "HOY NOTICIAS AGENCIA DE MEDIOS",
+      "logo": "https://i0.wp.com/agenciademedioshoynoticias.com/wp-content/uploads/2020/01/agencia3.png",
+      "signals": [],
+      "youtube": "UC5L5pCozOuxg7_3CZpCZ6LA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:14:50.756Z",
+      "twitch": null,
+      "website": "https://agenciademedioshoynoticias.com/",
+      "category": "news"
+    },
+    {
+      "id": "lafmcolombia",
+      "name": "LA FM Colombia",
+      "logo": "https://graph.facebook.com/lafmcolombia/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC6GkkHjigCzoVgvtYg8UB9g",
+      "last_youtube_livestreams": [
+        "XHqRba9iS1Q"
+      ],
+      "last_checked": "2026-06-02T23:14:50.756Z",
+      "twitch": null,
+      "website": "https://www.lafm.com.co/",
+      "category": "news"
+    },
+    {
+      "id": "laqdigital5493",
+      "name": "La Q Digital",
+      "logo": "https://graph.facebook.com/laqdigital.palmira/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCNCwZcHiMq-hiKUifqVgWLQ",
+      "last_youtube_livestreams": [
+        "FjyR_Dukx1I"
+      ],
+      "last_checked": "2026-06-02T23:14:50.756Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCNCwZcHiMq-hiKUifqVgWLQ",
+      "category": "news"
+    },
+    {
+      "id": "noscogiolanoche",
+      "name": "Nos Cogió La Noche Noticias",
+      "logo": "https://graph.facebook.com/NosCogioLaNocheCosmovision/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCCPvLUrjzOd3bNBMdBryv_w",
+      "last_youtube_livestreams": [
+        "ZDwQapIbcLk"
+      ],
+      "last_checked": "2026-06-02T23:14:50.756Z",
+      "twitch": null,
+      "website": "https://www.coosmovision.com/nos-cogio-la-noche/",
+      "category": "news"
+    },
+    {
+      "id": "noticias-caracol",
+      "name": "Noticias Caracol",
+      "logo": null,
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://mdstrm.com/live-stream/632391734be92a791e2750e6?volume=0"
+        }
+      ],
+      "youtube": "UC2Xq2PK-got3Rtz9ZJ32hLQ",
+      "last_youtube_livestreams": [
+        "fmkKMFNAeuI"
+      ],
+      "last_checked": "2026-06-02T23:14:50.756Z",
+      "twitch": null,
+      "website": "https://www.noticiascaracol.com/ahora",
+      "category": "news"
+    },
+    {
+      "id": "pulzo",
+      "name": "Pulzo",
+      "logo": "https://graph.facebook.com/PULZO.COLOMBIA/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCEOTRMgfd7uXZD6goFTQP6A",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:14:50.756Z",
+      "twitch": null,
+      "website": "https://www.pulzo.com/",
+      "category": "general"
+    },
+    {
+      "id": "rcpc9",
+      "name": "RCPC",
+      "logo": null,
+      "signals": [],
+      "youtube": "UC9hP6I16d9HouHHf8Fm_9Dw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:14:50.756Z",
+      "twitch": null,
+      "website": "https://www.rcpc.co/",
+      "category": "music"
+    },
+    {
+      "id": "senalcolombia",
+      "name": "Señal Colombia",
+      "logo": "https://www.senalcolombia.tv/themes/custom/colombia_subtheme/img/nuevo_home/logo.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://www.senalcolombia.tv/senal-en-vivo"
+        }
+      ],
+      "youtube": "UCwZjVanaSg019RVQea9V1kw",
+      "last_youtube_livestreams": [
+        "3lPz2gv0uPk"
+      ],
+      "last_checked": "2026-06-02T23:14:50.756Z",
+      "twitch": null,
+      "website": "https://www.senalcolombia.tv/",
+      "category": "general"
+    },
+    {
+      "id": "teleantioquianoticiasta",
+      "name": "Teleantioquia Noticias",
+      "logo": "https://graph.facebook.com/CanalTeleantioquia/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC6bwdK-GgRTE1C4Sc9Pe3kg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:14:50.756Z",
+      "twitch": null,
+      "website": "https://www.teleantioquia.co/noticias/",
+      "category": "news"
+    },
+    {
+      "id": "tercer-canal",
+      "name": "Tercer Canal",
+      "logo": "https://graph.facebook.com/3CanalCol/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCH0qX_eG0lDi00plxvidu7g",
+      "last_youtube_livestreams": [
+        "u62f0wNhNnw"
+      ],
+      "last_checked": "2026-06-02T23:14:50.756Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCH0qX_eG0lDi00plxvidu7g",
+      "category": "news"
+    }
+  ]
+}

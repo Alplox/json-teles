@@ -1,0 +1,554 @@
+{
+  "country": "us",
+  "channels": [
+    {
+      "id": "abc-news",
+      "name": "ABC News",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
+        }
+      ],
+      "youtube": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "last_youtube_livestreams": [
+        "r8PvLB1rb58"
+      ],
+      "last_checked": "2026-06-02T23:22:10.945Z",
+      "twitch": null,
+      "website": "https://abcnews.go.com/Live",
+      "category": "news"
+    },
+    {
+      "id": "abc13houston",
+      "name": "ABC13Houston",
+      "logo": "https://graph.facebook.com/abc13Houston/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCDmNmxF3ZVMeGyvWE9tOqPQ",
+      "last_youtube_livestreams": [
+        "SDK_m1_BVJ4"
+      ],
+      "last_checked": "2026-06-02T23:22:10.945Z",
+      "twitch": null,
+      "website": "https://abc13.com/watch/live/",
+      "category": "news"
+    },
+    {
+      "id": "abc7-swfl",
+      "name": "ABC7 SWFL",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCq9e_hCv2jvgck8WowW1NXg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:22:10.945Z",
+      "twitch": null,
+      "website": "https://www.abc-7.com/",
+      "category": "news"
+    },
+    {
+      "id": "abc7chicago",
+      "name": "ABC 7 Chicago",
+      "logo": "https://graph.facebook.com/abc7chicago/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC_vFLohxs5PkAxlk7Y6jEtw",
+      "last_youtube_livestreams": [
+        "sj2cWegO1OU"
+      ],
+      "last_checked": "2026-06-02T23:22:38.935Z",
+      "twitch": null,
+      "website": "https://abc7chicago.com/watch/live/",
+      "category": "news"
+    },
+    {
+      "id": "agenda-free-tv",
+      "name": "Agenda-Free TV",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCshCsg1YVKli8yBai-wa78w",
+      "last_youtube_livestreams": [
+        "8Vv2q1RC2vQ"
+      ],
+      "last_checked": "2026-06-02T23:22:38.935Z",
+      "twitch": "agendafreetv",
+      "website": "https://twitter.com/agendafreetv",
+      "category": "news"
+    },
+    {
+      "id": "associated-press",
+      "name": "Associated Press",
+      "logo": "https://graph.facebook.com/APNews/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "last_youtube_livestreams": [
+        "5RW9eYbfgi0"
+      ],
+      "last_checked": "2026-06-02T23:22:38.935Z",
+      "twitch": null,
+      "website": "https://www.apnews.com/",
+      "category": "news"
+    },
+    {
+      "id": "axisexperiencecentersouthc7747",
+      "name": "Axis Experience Center South Central",
+      "logo": "https://graph.facebook.com/axiscommunications/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCdiPSngCBBo_6DBbj7oWNow",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:22:38.935Z",
+      "twitch": null,
+      "website": "https://www.axis.com/",
+      "category": "outdoor"
+    },
+    {
+      "id": "bloomberg-europe",
+      "name": "Bloomberg Europe",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://www.bloomberg.com/media-manifest/streams/eu.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.bloomberg.com/europe",
+      "category": "news"
+    },
+    {
+      "id": "bloomberg-quicktake",
+      "name": "Bloomberg QuickTake",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://www.bloomberg.com/media-manifest/streams/qt.m3u8"
+        }
+      ],
+      "youtube": "UChirEOpgFCupRAk5etXqPaA",
+      "last_youtube_livestreams": [
+        "DxmDPrfinXY"
+      ],
+      "last_checked": "2026-06-02T23:22:38.935Z",
+      "twitch": null,
+      "website": "https://www.bloomberg.com/Quicktake",
+      "category": "news"
+    },
+    {
+      "id": "bloomberg-us",
+      "name": "Bloomberg US",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8"
+        }
+      ],
+      "youtube": "UCIALMKvObZNtJ6AmdCLP7Lg",
+      "last_youtube_livestreams": [
+        "iEpJwprxDdk"
+      ],
+      "last_checked": "2026-06-02T23:22:38.935Z",
+      "twitch": null,
+      "website": "https://www.bloomberg.com/",
+      "category": "news"
+    },
+    {
+      "id": "blue-origin",
+      "name": "Blue Origin",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCVxTHEKKLxNjGcvVaZindlg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:22:38.935Z",
+      "twitch": null,
+      "website": "https://www.blueorigin.com/",
+      "category": "science"
+    },
+    {
+      "id": "bryant-park",
+      "name": "Bryant Park NYC",
+      "logo": null,
+      "signals": [],
+      "youtube": "UC6AlfoRUeH4B1an_R5YSSTw",
+      "last_youtube_livestreams": [
+        "JPxiYF2fSC8"
+      ],
+      "last_checked": "2026-06-02T23:22:38.935Z",
+      "twitch": null,
+      "website": "https://bryantpark.org/",
+      "category": "outdoor"
+    },
+    {
+      "id": "castro-street-cam-1",
+      "name": "Castro Street Cam 1",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCoFUleuZUyRUVDjO4JcCSTQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:22:38.935Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCoFUleuZUyRUVDjO4JcCSTQ",
+      "category": "outdoor"
+    },
+    {
+      "id": "castro-street-cam-2",
+      "name": "Castro Street Cam 2",
+      "logo": null,
+      "signals": [],
+      "youtube": "UClSdxxEoPbpZHrujhfQcdow",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:22:38.935Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UClSdxxEoPbpZHrujhfQcdow",
+      "category": "outdoor"
+    },
+    {
+      "id": "castro-street-cam-3",
+      "name": "Castro Street Cam 3",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCKxzK9FBETp6vK3wdqrUelQ",
+      "last_youtube_livestreams": [
+        "bWKut1fNwwY"
+      ],
+      "last_checked": "2026-06-02T23:23:10.980Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCKxzK9FBETp6vK3wdqrUelQ",
+      "category": "outdoor"
+    },
+    {
+      "id": "castro-street-cam-4",
+      "name": "Castro Street Cam 4",
+      "logo": null,
+      "signals": [],
+      "youtube": "UC7bQdkO4Q21ZU1Akc1kKVjA",
+      "last_youtube_livestreams": [
+        "4trencv2vBc"
+      ],
+      "last_checked": "2026-06-02T23:23:10.980Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UC7bQdkO4Q21ZU1Akc1kKVjA",
+      "category": "outdoor"
+    },
+    {
+      "id": "cbsn",
+      "name": "CBSN",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8"
+        }
+      ],
+      "youtube": "UC8p1vwvWtl6T73JiExfWs1g",
+      "last_youtube_livestreams": [
+        "5D7t8RKEJSc"
+      ],
+      "last_checked": "2026-06-02T23:23:10.980Z",
+      "twitch": null,
+      "website": "https://www.cbsnews.com/live/",
+      "category": "news"
+    },
+    {
+      "id": "cheddar",
+      "name": "Cheddar",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/2.m3u8"
+        }
+      ],
+      "youtube": "UC04KsGq3npibMCE9Td3mVDg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:23:10.980Z",
+      "twitch": null,
+      "website": "https://cheddar.com/live",
+      "category": "news"
+    },
+    {
+      "id": "cnbc",
+      "name": "CNBC",
+      "logo": "https://graph.facebook.com/CNBC/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "last_youtube_livestreams": [
+        "9NyxcX3rhQs"
+      ],
+      "last_checked": "2026-06-02T23:23:10.980Z",
+      "twitch": null,
+      "website": "https://www.cnbc.com/live-tv/",
+      "category": "news"
+    },
+    {
+      "id": "evtv",
+      "name": "EVTV MIAMI",
+      "logo": "https://graph.facebook.com/evtvmiami/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCshe7-1A5MN_ArHsG_3V41g",
+      "last_youtube_livestreams": [
+        "BqjdUsI4I9k"
+      ],
+      "last_checked": "2026-06-02T23:23:10.980Z",
+      "twitch": null,
+      "website": "https://evtv.online/noticias-de-venezuela/",
+      "category": "news"
+    },
+    {
+      "id": "ihopkc",
+      "name": "International House of Prayer",
+      "logo": "https://graph.facebook.com/ihopkc/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://storage.sardius.media/archives/-K6FGrVYzVr92SDZiDnc/events/site_68FBe1c2dE/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCqSYig9Cmx6DJ3XaUYg4vpw",
+      "last_youtube_livestreams": [
+        "0uaZ30NEHLU"
+      ],
+      "last_checked": "2026-06-02T23:23:10.980Z",
+      "twitch": null,
+      "website": "https://www.ihopkc.org/prayerroom/",
+      "category": "music"
+    },
+    {
+      "id": "livenow-from-fox",
+      "name": "LiveNOW from FOX",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCJg9wBPyKMNA5sRDnvzmkdg",
+      "last_youtube_livestreams": [
+        "_10KuegWDGk"
+      ],
+      "last_checked": "2026-06-02T23:23:10.980Z",
+      "twitch": null,
+      "website": "https://www.livenowfox.com/",
+      "category": "news"
+    },
+    {
+      "id": "lorain-portand-finance-authority",
+      "name": "Lorain Port and Finance Authority",
+      "logo": "https://lorainport.com/wp-content/uploads/2020/09/lpfa-logo-full-color-rgb-extended-300x130.jpg",
+      "signals": [],
+      "youtube": "UCMMBk7t5_yJ03OWwHdGTWOw",
+      "last_youtube_livestreams": [
+        "ghL5n8R65Vg"
+      ],
+      "last_checked": "2026-06-02T23:23:10.980Z",
+      "twitch": null,
+      "website": "https://www.lorainport.com/",
+      "category": "outdoor"
+    },
+    {
+      "id": "naciones-unidas",
+      "name": "Naciones Unidas",
+      "logo": "https://graph.facebook.com/UNWebTV/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8"
+        }
+      ],
+      "youtube": "UC5O114-PQNYkurlTg6hekZw",
+      "last_youtube_livestreams": [
+        "vYRfQo6JMxc"
+      ],
+      "last_checked": "2026-06-02T23:23:10.980Z",
+      "twitch": null,
+      "website": "https://www.un.org/",
+      "category": "general"
+    },
+    {
+      "id": "nasa",
+      "name": "NASA Live",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1280px-NASA_logo.svg.png",
+      "signals": [],
+      "youtube": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "last_youtube_livestreams": [
+        "FuuC4dpSQ1M"
+      ],
+      "last_checked": "2026-06-02T23:23:38.276Z",
+      "twitch": "nasa",
+      "website": "https://www.nasa.gov/",
+      "category": "science"
+    },
+    {
+      "id": "nbc-news",
+      "name": "NBC News",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://lnc-nbc-news-now.tubi.video/master.m3u8"
+        }
+      ],
+      "youtube": "UCeY0bbntWzzVIaj2z3QigXg",
+      "last_youtube_livestreams": [
+        "Z_7jzT1JjnM"
+      ],
+      "last_checked": "2026-06-02T23:23:38.276Z",
+      "twitch": null,
+      "website": "https://www.nbcnews.com/",
+      "category": "news"
+    },
+    {
+      "id": "newsmax",
+      "name": "Newsmax",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCx6h-dWzJ5NpAlja1YsApdg",
+      "last_youtube_livestreams": [
+        "oPtapPqfO_0"
+      ],
+      "last_checked": "2026-06-02T23:23:38.276Z",
+      "twitch": null,
+      "website": "https://www.newsmax.com/",
+      "category": "news"
+    },
+    {
+      "id": "puente-brooklyn",
+      "name": "St. George Tower",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCp1ojgNJ8mNWdMDsdcMRA2Q",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:23:38.277Z",
+      "twitch": null,
+      "website": "https://stgeorgetower.com/",
+      "category": "outdoor"
+    },
+    {
+      "id": "source-global",
+      "name": "Source Global News",
+      "logo": "https://app.sourceglobalnews.com/images/Logo-Trans.gif",
+      "signals": [],
+      "youtube": "UC98W74iwmWXnOMHq0lYeDIw",
+      "last_youtube_livestreams": [
+        "NKRsMov7s7s"
+      ],
+      "last_checked": "2026-06-02T23:23:38.277Z",
+      "twitch": null,
+      "website": "https://sourceglobalnews.com/",
+      "category": "news"
+    },
+    {
+      "id": "spacex",
+      "name": "SpaceX",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCtI0Hodo5o5dUb67FeUjDeA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:23:38.277Z",
+      "twitch": null,
+      "website": "https://www.spacex.com/",
+      "category": "science"
+    },
+    {
+      "id": "telemundo",
+      "name": "Noticias Telemundo",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCRwA1NUcUnwsly35ikGhp0A",
+      "last_youtube_livestreams": [
+        "9nrjQiLwAEE"
+      ],
+      "last_checked": "2026-06-02T23:23:38.277Z",
+      "twitch": null,
+      "website": "https://www.telemundo.com/noticias",
+      "category": "news"
+    },
+    {
+      "id": "thegameawards",
+      "name": "The Game Awards",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/The_Game_Awards_Logo_2024.svg/1200px-The_Game_Awards_Logo_2024.svg.png",
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://www.youtube.com/embed/d-BDeU3R5ic?si=UaCOnWDbRIjwRiOS"
+        },
+        {
+          "type": "iframe",
+          "url": "https://www.youtube.com/embed/uFcNRQ3FkHs?si=LOleyBD75pI-AJ6z"
+        },
+        {
+          "type": "iframe",
+          "url": "https://www.youtube.com/embed/RzwMieh9c_8?si=qjk_6B2juXHLw0QU"
+        },
+        {
+          "type": "iframe",
+          "url": "https://thegameawards.com/"
+        }
+      ],
+      "youtube": "UCqDS7KWjAPKv-7ZSlro9OiQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:23:38.277Z",
+      "twitch": "thegameawards",
+      "website": "https://thegameawards.com/",
+      "category": "entertainment"
+    },
+    {
+      "id": "times-square",
+      "name": "Times Square Live 4K",
+      "logo": null,
+      "signals": [],
+      "youtube": "UC6qrG3W8SMK0jior2olka3g",
+      "last_youtube_livestreams": [
+        "IQNldL1LNzc"
+      ],
+      "last_checked": "2026-06-02T23:23:38.277Z",
+      "twitch": null,
+      "website": "https://www.earthcam.net/",
+      "category": "outdoor"
+    },
+    {
+      "id": "usatoday",
+      "name": "USA TODAY",
+      "logo": "https://graph.facebook.com/usatoday/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCP6HGa63sBC7-KHtkme-p-g",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:23:38.277Z",
+      "twitch": null,
+      "website": "https://www.usatoday.com/",
+      "category": "news"
+    },
+    {
+      "id": "virgin-galactic",
+      "name": "Virgin Galactic",
+      "logo": null,
+      "signals": [],
+      "youtube": "UClcvOr7LV8tlJwJvkNMmnKg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:24:01.567Z",
+      "twitch": null,
+      "website": "https://www.virgingalactic.com/",
+      "category": "science"
+    },
+    {
+      "id": "wplg-local-10",
+      "name": "WPLG Local 10",
+      "logo": "https://graph.facebook.com/WPLGLocal10/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCgVZ0mrM3liHNhRYC5Mchgg",
+      "last_youtube_livestreams": [
+        "zUnTWoxZ8mY"
+      ],
+      "last_checked": "2026-06-02T23:24:01.567Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCgVZ0mrM3liHNhRYC5Mchgg",
+      "category": "news"
+    }
+  ]
+}

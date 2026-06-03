@@ -1,0 +1,24 @@
+{
+  "country": "gb-eng",
+  "channels": [
+    {
+      "id": "gbnewsonline",
+      "name": "GBNews",
+      "logo": "https://graph.facebook.com/GBNewsOnline/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8"
+        }
+      ],
+      "youtube": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "last_youtube_livestreams": [
+        "E_k1XhbNkcU"
+      ],
+      "last_checked": "2026-06-02T23:16:42.167Z",
+      "twitch": null,
+      "website": "https://www.gbnews.com/watch/live",
+      "category": "news"
+    }
+  ]
+}

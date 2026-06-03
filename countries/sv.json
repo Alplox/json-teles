@@ -1,0 +1,17 @@
+{
+  "country": "sv",
+  "channels": [
+    {
+      "id": "tcsnoticias8899",
+      "name": "TCS Noticias",
+      "logo": "https://graph.facebook.com/tcsnoticias/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCUd3i3w8AKinobDEeEmjmWA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:21:41.224Z",
+      "twitch": null,
+      "website": "https://www.esmitv.com/",
+      "category": "news"
+    }
+  ]
+}

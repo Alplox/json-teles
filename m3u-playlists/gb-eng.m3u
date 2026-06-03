@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="GBNews" tvg-logo="https://graph.facebook.com/GBNewsOnline/picture?width=800&height=800" group-title="news", GBNews [GB-ENG]
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8

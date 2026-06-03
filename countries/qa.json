@@ -1,0 +1,82 @@
+{
+  "country": "qa",
+  "channels": [
+    {
+      "id": "al-jazeera-arabe",
+      "name": "AlJazeera Arabic  قناة الجزيرة",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCfiwzLy-8yKzIbsmZTzxDgw",
+      "last_youtube_livestreams": [
+        "N8xxOD0nT1Y"
+      ],
+      "last_checked": "2026-06-02T23:21:41.224Z",
+      "twitch": null,
+      "website": "https://www.aljazeera.com/live/",
+      "category": "news"
+    },
+    {
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8"
+        }
+      ],
+      "youtube": "UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "last_youtube_livestreams": [
+        "gCNeDWCI0vo"
+      ],
+      "last_checked": "2026-06-02T23:21:41.224Z",
+      "twitch": null,
+      "website": "https://www.aljazeera.com/live/",
+      "category": "news"
+    },
+    {
+      "id": "alaraby-tv",
+      "name": "التلفزيون العربي Alaraby TV",
+      "logo": "https://graph.facebook.com/alarabytelevision/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/playlist.m3u8"
+        }
+      ],
+      "youtube": "UC65i3Fyq91uiUkIS0i5GLNQ",
+      "last_youtube_livestreams": [
+        "80avOss7Fvc"
+      ],
+      "last_checked": "2026-06-02T23:21:41.224Z",
+      "twitch": null,
+      "website": "https://www.alaraby.com/live-stream",
+      "category": "news"
+    },
+    {
+      "id": "alaraby-tv-2",
+      "name": "العربي 2 Alaraby TV 2",
+      "logo": "https://graph.facebook.com/AlarabyTV2/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCuCtlmcyOPNqdBf_FfrS7kg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:21:41.224Z",
+      "twitch": null,
+      "website": "https://www.alaraby2.com/",
+      "category": "news"
+    }
+  ]
+}

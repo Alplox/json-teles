@@ -1,0 +1,36 @@
+{
+  "country": "lb",
+  "channels": [
+    {
+      "id": "al-mayadeen-channel",
+      "name": "Al Mayadeen Channel - قناة الميادين",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCZCFHCU-2eGF7V5ciMkoPHw",
+      "last_youtube_livestreams": [
+        "p2kd5gyMtEs"
+      ],
+      "last_checked": "2026-06-02T23:19:12.550Z",
+      "twitch": null,
+      "website": "https://staging-ar.almayadeen.net/live",
+      "category": "news"
+    },
+    {
+      "id": "al-mayadeen-live",
+      "name": "AlMayadeen Live - الميادين مباشر",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCLaJbSWEyamrbyiLWCXL8AA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:19:12.550Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCLaJbSWEyamrbyiLWCXL8AA",
+      "category": "news"
+    }
+  ]
+}

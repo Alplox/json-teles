@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="HCH En Vivo" tvg-logo="" group-title="news", HCH En Vivo [HN]
+https://rpn3.bozztv.com/ssh101/ssh101/hchtvenvivo/playlist.m3u8
+#EXTINF:-1 tvg-name="METRO TV CHOLUTECA HONDURAS" tvg-logo="https://graph.facebook.com/MetrotvyRadioMetroCholuteca/picture?width=800&height=800" group-title="news", METRO TV CHOLUTECA HONDURAS [HN]
+https://s.emisoras.tv:8081/metrotv/index.m3u8

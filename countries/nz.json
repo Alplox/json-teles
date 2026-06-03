@@ -1,0 +1,19 @@
+{
+  "country": "nz",
+  "channels": [
+    {
+      "id": "inquizex",
+      "name": "InquizeX",
+      "logo": "https://graph.facebook.com/Inquizexx/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCuyLmOJb7PVCvx8zbRT9_GQ",
+      "last_youtube_livestreams": [
+        "Sa0UpjTdJT4"
+      ],
+      "last_checked": "2026-06-02T23:20:00.861Z",
+      "twitch": "inquizex",
+      "website": null,
+      "category": "news"
+    }
+  ]
+}

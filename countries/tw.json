@@ -1,0 +1,19 @@
+{
+  "country": "tw",
+  "channels": [
+    {
+      "id": "ctstw",
+      "name": "華視新聞 CH52",
+      "logo": "https://graph.facebook.com/TBSCTS/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCDCJyLpbfgeVE9iZiEam-Kg",
+      "last_youtube_livestreams": [
+        "meHTKm4XBS8"
+      ],
+      "last_checked": "2026-06-02T23:22:10.944Z",
+      "twitch": null,
+      "website": "https://news.cts.com.tw/",
+      "category": "news"
+    }
+  ]
+}

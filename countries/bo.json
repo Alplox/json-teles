@@ -1,0 +1,163 @@
+{
+  "country": "bo",
+  "channels": [
+    {
+      "id": "bolivia-al-aire-tv",
+      "name": "Bolivia Al aire TV",
+      "logo": "https://graph.facebook.com/BoliviaAlAireTV/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC2m4DRfY6YNlZnlEawQIQFw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:07:31.279Z",
+      "twitch": null,
+      "website": "https://boliviaalairetv.com/",
+      "category": "culture"
+    },
+    {
+      "id": "boliviatv72",
+      "name": "Bolivia TV 7.2",
+      "logo": "https://i.imgur.com/tKLYYys.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://5ca3e84a76d30.streamlock.net:443/boliviatv2/videoboliviatv2/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCKadCx-t_VmwzfWczlWE98w",
+      "last_youtube_livestreams": [
+        "WF4WWXzsuXs"
+      ],
+      "last_checked": "2026-06-02T23:07:31.279Z",
+      "twitch": null,
+      "website": "https://www.boliviatv.bo/",
+      "category": "general"
+    },
+    {
+      "id": "bolivision",
+      "name": "Bolivision",
+      "logo": "https://www.redbolivision.tv.bo/wp-content/uploads/2023/07/cropped-logo-2-e1690828812646-32x32.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://www.redbolivision.tv.bo/envivo-canal-5/"
+        }
+      ],
+      "youtube": "UCXxy-LshTr3NSoT7o3FBZyQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:07:31.279Z",
+      "twitch": null,
+      "website": "https://www.redbolivision.tv.bo/",
+      "category": "general"
+    },
+    {
+      "id": "gogoplaytv",
+      "name": "Gogoplaytv",
+      "logo": "https://graph.facebook.com/migogoplay/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://ssh101.com/securelive/index.php?id=mixboliviatvhd"
+        },
+        {
+          "type": "iframe",
+          "url": "https://ssh101.com/securelive/index.php?id=gogoplaysd"
+        },
+        {
+          "type": "iframe",
+          "url": "https://ssh101.com/securelive/index.php?id=gogoplay"
+        },
+        {
+          "type": "iframe",
+          "url": "https://ok.ru/videoembed/3881666289207"
+        },
+        {
+          "type": "iframe",
+          "url": "https://ok.ru/videoembed/7151290031671"
+        },
+        {
+          "type": "iframe",
+          "url": "https://ok.ru/videoembed/4428538453706"
+        },
+        {
+          "type": "iframe",
+          "url": "https://ok.ru/videoembed/7354260725450"
+        }
+      ],
+      "youtube": "UC3r9EG2f85nh9BaqmDU20VA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:08:00.521Z",
+      "twitch": "gogoplaytve",
+      "website": "https://www.gogoplaytv.com/",
+      "category": "entertainment"
+    },
+    {
+      "id": "noticias-bolivisión-al-dia",
+      "name": "Noticias Bolivisión Al Día",
+      "logo": "https://graph.facebook.com/NoticiasBolivision/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC6o5jMVN9QCv0hGAvshEPZQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:08:00.521Z",
+      "twitch": null,
+      "website": "https://www.redbolivision.tv.bo/envivo-canal-5/",
+      "category": "news"
+    },
+    {
+      "id": "red-uno",
+      "name": "Red Uno",
+      "logo": "https://graph.facebook.com/RedUnotv/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://geo.dailymotion.com/player/x5poh.html?video=x91tbcm&autoplay=true&volume=0"
+        }
+      ],
+      "youtube": "UCAQxnXoF1Fa5bIFb6VjS4ZQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:08:00.521Z",
+      "twitch": null,
+      "website": "https://www.reduno.com.bo/",
+      "category": "general"
+    },
+    {
+      "id": "rtp-bolivia",
+      "name": "RTP BOLIVIA",
+      "logo": "https://graph.facebook.com/boliviartp/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCPHPu0J-6DDxyl9Fm83Z83Q",
+      "last_youtube_livestreams": [
+        "zxj4AMGbzYo"
+      ],
+      "last_checked": "2026-06-02T23:08:00.521Z",
+      "twitch": null,
+      "website": "https://rtpbolivia.com.bo/",
+      "category": "news"
+    },
+    {
+      "id": "unitel-bolivia",
+      "name": "Unitel Bolivia",
+      "logo": "https://graph.facebook.com/unitelbolivia/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCBTuUY99I5plMaC_ZcmXIYw",
+      "last_youtube_livestreams": [
+        "1U226EvKQlo"
+      ],
+      "last_checked": "2026-06-02T23:08:00.521Z",
+      "twitch": null,
+      "website": "https://television.unitel.bo/vivo",
+      "category": "news"
+    }
+  ]
+}

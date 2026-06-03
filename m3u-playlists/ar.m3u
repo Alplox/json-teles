@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="América TV" tvg-logo="https://graph.facebook.com/AmericaTV/picture?width=800&height=800" group-title="news", América TV [AR]
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="news", Net TV (1) [AR]
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="news", Net TV (2) [AR]
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="news", Net TV (3) [AR]
+https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="news", Net TV (4) [AR]
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-name="Pop Radio 101.5" tvg-logo="https://graph.facebook.com/Popradio1015/picture?width=800&height=800" group-title="music", Pop Radio 101.5 [AR]
+https://ny2.stweb.tv/popradio/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio10" tvg-logo="https://graph.facebook.com/radio10/picture?width=800&height=800" group-title="music", Radio10 [AR]
+https://radio10.stweb.tv/radio10/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio One 103.7" tvg-logo="https://graph.facebook.com/radioone1037/picture?width=800&height=800" group-title="music", Radio One 103.7 [AR]
+https://s8.stweb.tv/one/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Todonoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TN_todo_noticias_logo.svg" group-title="news", Todonoticias [AR]
+https://live-01-01-tn.vodgc.net/TN24_2/index_TN24_2_1080.m3u8
+#EXTINF:-1 tvg-name="Televisión Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/TVP_-_Televisión_Pública_(2021).svg" group-title="news", Televisión Pública [AR]
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 tvg-name="Urbana Play 104.3 FM" tvg-logo="https://graph.facebook.com/UrbanaPlayFm/picture?width=800&height=800" group-title="music", Urbana Play 104.3 FM [AR]
+https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/60083afdba6eb40016c35954_360p/index.m3u8

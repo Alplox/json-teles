@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="DW Español" tvg-logo="https://deultimominuto.net/wp-content/uploads/2022/03/DW-LOGO.jpg" group-title="news", DW Español [DE]
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8

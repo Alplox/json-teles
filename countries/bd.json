@@ -1,0 +1,17 @@
+{
+  "country": "bd",
+  "channels": [
+    {
+      "id": "banglavisionlive",
+      "name": "BanglaVision LIVE",
+      "logo": "https://graph.facebook.com/banglavision/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCAIEufoszs1J38-pKECORRg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:07:31.279Z",
+      "twitch": null,
+      "website": "https://www.bvnews24.com/live/",
+      "category": "news"
+    }
+  ]
+}

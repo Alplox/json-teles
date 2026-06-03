@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Televisión de Galicia" tvg-logo="https://graph.facebook.com/tvgalicia/picture?width=800&height=800" group-title="news", Televisión de Galicia [ES]
+https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8

@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Catomedia UCSG" tvg-logo="https://graph.facebook.com/catomediaucsg/picture?width=800&height=800" group-title="news", Catomedia UCSG (1) [EC]
+https://5e2f36bc1c433.streamlock.net/lacato/lacato.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Catomedia UCSG" tvg-logo="https://graph.facebook.com/catomediaucsg/picture?width=800&height=800" group-title="news", Catomedia UCSG (2) [EC]
+https://5e2f36bc1c433.streamlock.net/ucsg/entretenimiento.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Ecuavisa" tvg-logo="https://graph.facebook.com/ecuavisa/picture?width=800&height=800" group-title="news", Ecuavisa (1) [EC]
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
+#EXTINF:-1 tvg-name="Ecuavisa" tvg-logo="https://graph.facebook.com/ecuavisa/picture?width=800&height=800" group-title="news", Ecuavisa (2) [EC]
+https://jireh-6-hls-video-cl-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Centro 101.3 FM" tvg-logo="https://graph.facebook.com/radiocentroec/picture?width=800&height=800" group-title="music", Radio Centro 101.3 FM [EC]
+https://video1.makrodigital.com/radiocentro/radiocentro/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Sono Onda" tvg-logo="https://graph.facebook.com/radiosonoonda997/picture?width=800&height=800" group-title="music", Radio Sono Onda [EC]
+https://live.obslivestream.com/sonoondatv/index.m3u8

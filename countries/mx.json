@@ -1,0 +1,329 @@
+{
+  "country": "mx",
+  "channels": [
+    {
+      "id": "adn40mx",
+      "name": "adn40Mx",
+      "logo": "https://graph.facebook.com/adn40mx/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC7k--FhnJzhPTrbtldMSoQQ",
+      "last_youtube_livestreams": [
+        "2SigX_VVbDc"
+      ],
+      "last_checked": "2026-06-02T23:19:12.550Z",
+      "twitch": null,
+      "website": "https://live.adn40.mx/",
+      "category": "news"
+    },
+    {
+      "id": "ahoranoticias3274",
+      "name": "Ahora Noticias",
+      "logo": "https://graph.facebook.com/AhoraNoticiasC/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCn161AaU20-UcYeDEvDJyyA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:19:12.550Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCn161AaU20-UcYeDEvDJyyA",
+      "category": "news"
+    },
+    {
+      "id": "aristegui-noticias",
+      "name": "Aristegui Noticias",
+      "logo": "https://graph.facebook.com/AristeguiOnline/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCafNntv_qTQB26AvbEQNHPw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:19:12.550Z",
+      "twitch": null,
+      "website": "https://www.aristeguinoticias.com/",
+      "category": "news"
+    },
+    {
+      "id": "aztecanoticias",
+      "name": "Azteca Noticias",
+      "logo": "https://graph.facebook.com/aztecanoticias/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCUP6qv-_EIL0hwTsJaKYnvw",
+      "last_youtube_livestreams": [
+        "0j-UwUPyJO4"
+      ],
+      "last_checked": "2026-06-02T23:19:12.550Z",
+      "twitch": null,
+      "website": "https://www.tvazteca.com/aztecanoticias/",
+      "category": "news"
+    },
+    {
+      "id": "binoticias",
+      "name": "BI NOTICIAS",
+      "logo": "https://graph.facebook.com/BINoticiasAgs/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://player.vimeo.com/video/947887635"
+        }
+      ],
+      "youtube": "UCi3NQkTEifKs_j6IuKxVOMA",
+      "last_youtube_livestreams": [
+        "fgSoVFCxl-w"
+      ],
+      "last_checked": "2026-06-02T23:19:36.373Z",
+      "twitch": null,
+      "website": "https://binoticias.com/tv-en-vivo",
+      "category": "news"
+    },
+    {
+      "id": "cpsnoticiaspuertovallarta",
+      "name": "CPS Noticias Puerto Vallarta",
+      "logo": "https://graph.facebook.com/tribunadelabahiaoficial/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC6CrPzMg2u-TRvNvb4sSu7w",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:19:36.373Z",
+      "twitch": null,
+      "website": "https://tribunadelabahia.com.mx/",
+      "category": "news"
+    },
+    {
+      "id": "dk1250am",
+      "name": "DK 1250 AM",
+      "logo": "https://graph.facebook.com/DK1250/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCMM5cxstwaWqBxwTI-qZ0MQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:19:36.373Z",
+      "twitch": null,
+      "website": "https://dk1250.mx/en-vivo-por-youtube/",
+      "category": "music"
+    },
+    {
+      "id": "fpfch",
+      "name": "Fideicomiso de Puentes Fronterizos de Chihuahua",
+      "logo": "https://graph.facebook.com/fideicomisodepuentesfronterizos/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCfulDPjKRU81YWWdtFpivEg",
+      "last_youtube_livestreams": [
+        "ZZFgkly8XyE"
+      ],
+      "last_checked": "2026-06-02T23:19:36.373Z",
+      "twitch": null,
+      "website": "https://puentesfronterizos.gob.mx/",
+      "category": "outdoor"
+    },
+    {
+      "id": "gamavisionmx",
+      "name": "Gamavisión Noticias",
+      "logo": "https://pbs.twimg.com/profile_images/1560373776109277184/17qG3Ktj_400x400.jpg",
+      "signals": [],
+      "youtube": "UCxjAywdMGltlVokq1oWTeQA",
+      "last_youtube_livestreams": [
+        "c99_VG2FZMs"
+      ],
+      "last_checked": "2026-06-02T23:19:36.374Z",
+      "twitch": null,
+      "website": "https://www.gamavision.com/",
+      "category": "news"
+    },
+    {
+      "id": "grupo-formula",
+      "name": "Grupo Fórmula",
+      "logo": "https://graph.facebook.com/RadioFormulaMX/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCzmd9Aj2wmPggWZJpLdBB8Q",
+      "last_youtube_livestreams": [
+        "TfJbO4GUIrA"
+      ],
+      "last_checked": "2026-06-02T23:19:36.374Z",
+      "twitch": null,
+      "website": "https://www.radioformula.com.mx/",
+      "category": "music"
+    },
+    {
+      "id": "imagentelevisionpuebla",
+      "name": "Imagen Televisión Puebla",
+      "logo": "https://graph.facebook.com/ImagenTVPuebla/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UChA9u7JJzC4sCqegZeEoe9w",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:19:36.374Z",
+      "twitch": null,
+      "website": "https://www.imagentv.com/en-vivo",
+      "category": "news"
+    },
+    {
+      "id": "imagentv",
+      "name": "ImagenTV",
+      "logo": "https://graph.facebook.com/ImagenTVMex/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCl5JKSQsl-_WSU1rz7_BCJA",
+      "last_youtube_livestreams": [
+        "YPnTbW2w9sc"
+      ],
+      "last_checked": "2026-06-02T23:19:36.374Z",
+      "twitch": null,
+      "website": "https://www.imagentv.com/en-vivo",
+      "category": "news"
+    },
+    {
+      "id": "jcarlos_valerio",
+      "name": "Juan Carlos Valerio",
+      "logo": "https://graph.facebook.com/JCarlosValerioNoticias/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCCETFebKrX0wIkA9lbqvoNA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:19:36.374Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCCETFebKrX0wIkA9lbqvoNA",
+      "category": "news"
+    },
+    {
+      "id": "milenio",
+      "name": "MILENIO",
+      "logo": "https://graph.facebook.com/mileniodiario/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8"
+        }
+      ],
+      "youtube": "UCFxHplbcoJK9m70c4VyTIxg",
+      "last_youtube_livestreams": [
+        "tQ941SU5UR0"
+      ],
+      "last_checked": "2026-06-02T23:19:36.374Z",
+      "twitch": null,
+      "website": "https://www.milenio.com/mileniotv",
+      "category": "news"
+    },
+    {
+      "id": "nmas",
+      "name": "NMás",
+      "logo": "https://graph.facebook.com/nmas.com.mx/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8"
+        }
+      ],
+      "youtube": "UCUsm-fannqOY02PNN67C0KA",
+      "last_youtube_livestreams": [
+        "p2AzyIEuFak"
+      ],
+      "last_checked": "2026-06-02T23:20:00.861Z",
+      "twitch": null,
+      "website": "https://www.nmas.com.mx/",
+      "category": "news"
+    },
+    {
+      "id": "oronoticiaspuebla",
+      "name": "Oro Noticias Puebla",
+      "logo": "https://graph.facebook.com/OroNoticias/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCiJ9v3AalnGScbn9VrhDF7A",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:20:00.861Z",
+      "twitch": null,
+      "website": "https://oronoticiaspuebla.com/",
+      "category": "news"
+    },
+    {
+      "id": "telediarioMX",
+      "name": "TelediarioMx",
+      "logo": "https://graph.facebook.com/TelediarioMx/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCKuAmo9OGf8kw2jrPWCpHdA",
+      "last_youtube_livestreams": [
+        "52ViCo49rs4"
+      ],
+      "last_checked": "2026-06-02T23:20:00.861Z",
+      "twitch": null,
+      "website": "https://www.telediario.mx/television",
+      "category": "news"
+    },
+    {
+      "id": "televisa-puebla",
+      "name": "Televisa Puebla",
+      "logo": "https://graph.facebook.com/TelevisaPuebla/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC-HNztluSQSffhIWJTL-LUw",
+      "last_youtube_livestreams": [
+        "9r8FF4dqJkI"
+      ],
+      "last_checked": "2026-06-02T23:20:00.861Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UC-HNztluSQSffhIWJTL-LUw",
+      "category": "general"
+    },
+    {
+      "id": "televisa-sonora-oficial",
+      "name": "Televisa Sonora Oficial",
+      "logo": "https://graph.facebook.com/TelevisaSON/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UCyzWMHGS7bs0sot6KZk5EZg",
+      "last_youtube_livestreams": [
+        "J7vYSgsNTho"
+      ],
+      "last_checked": "2026-06-02T23:20:00.861Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCyzWMHGS7bs0sot6KZk5EZg",
+      "category": "general"
+    },
+    {
+      "id": "televisaguascalients",
+      "name": "Televisa Aguascalientes Oficial",
+      "logo": "https://graph.facebook.com/Nu9veAgs/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC5ZtV3bu3bjSuOLoA6oCFIg",
+      "last_youtube_livestreams": [
+        "kvzNUE5BuSA"
+      ],
+      "last_checked": "2026-06-02T23:20:00.861Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg",
+      "category": "news"
+    },
+    {
+      "id": "televisamonterreytv",
+      "name": "Televisa Monterrey",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/5/55/Channel_4.1.png",
+      "signals": [],
+      "youtube": "UCGDJLLphnP0zQQaE3kgo5Wg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:20:00.861Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg",
+      "category": "news"
+    },
+    {
+      "id": "televisaveracruzoficial",
+      "name": "Televisa Veracruz Oficial",
+      "logo": "https://graph.facebook.com/televertv/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC5EnLdE7ASjYzWt7wvT-QSg",
+      "last_youtube_livestreams": [
+        "iCL8BVQS4pM"
+      ],
+      "last_checked": "2026-06-02T23:20:00.861Z",
+      "twitch": null,
+      "website": "https://telever.tv/",
+      "category": "news"
+    },
+    {
+      "id": "vamasnoticiasags26",
+      "name": "VA+ Noticias",
+      "logo": "https://graph.facebook.com/RyTAgs/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCHGuWaXCZMoRn8QV9pimEsw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:20:00.861Z",
+      "twitch": null,
+      "website": "https://ryta.com.mx/envivo/",
+      "category": "news"
+    }
+  ]
+}

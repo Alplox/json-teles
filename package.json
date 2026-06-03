@@ -1,0 +1,34 @@
+{
+  "name": "json-teles",
+  "version": "2.0.0",
+  "description": "IPTV channel directory with automatic M3U generation",
+  "type": "commonjs",
+  "scripts": {
+    "split": "node scripts/split-by-country.js",
+    "build": "node scripts/build-channels.js",
+    "convert": "node scripts/generate-m3u.js",
+    "generate-readme": "node scripts/generate-readme-lists.js",
+    "validate": "node scripts/validate-json.js",
+    "validate:country": "node scripts/validate-country.js --all",
+    "lint": "eslint scripts/",
+    "lint:fix": "eslint scripts/ --fix",
+    "format": "prettier --write scripts/**/*.js",
+    "format:check": "prettier --check scripts/**/*.js",
+    "test": "node scripts/test-conversion.js",
+    "ci": "npm run validate && npm run validate:country && npm run lint && npm run format:check && npm run test",
+    "watch": "node scripts/watch.js",
+    "check-youtube": "node scripts/check-youtube-livestreams.js",
+    "check-youtube:dry": "node scripts/check-youtube-livestreams.js --dry-run",
+    "check-youtube:force": "node scripts/check-youtube-livestreams.js --force",
+    "reorder": "node scripts/reorder-country-fields.js"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "eslint": "^9.15.0",
+    "prettier": "^3.4.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}

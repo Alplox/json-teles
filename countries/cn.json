@@ -1,0 +1,66 @@
+{
+  "country": "cn",
+  "channels": [
+    {
+      "id": "cgtn",
+      "name": "CGTN",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://live.cgtn.com/1000/prog_index.m3u8"
+        }
+      ],
+      "youtube": "UCgrNz-aDmcr2uuto8_DL2jg",
+      "last_youtube_livestreams": [
+        "LJgXwC-AKu8"
+      ],
+      "last_checked": "2026-06-02T23:14:23.390Z",
+      "twitch": null,
+      "website": "https://www.cgtn.com/",
+      "category": "news"
+    },
+    {
+      "id": "chinatvnews",
+      "name": "中視新聞 HD直播頻道",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCmH4q-YjeazayYCVHHkGAMA",
+      "last_youtube_livestreams": [
+        "TCnaIE_SAtM"
+      ],
+      "last_checked": "2026-06-02T23:14:23.390Z",
+      "twitch": null,
+      "website": "https://www.ctv.com.tw/",
+      "category": "news"
+    },
+    {
+      "id": "ftvnews53",
+      "name": "民視新聞網 Formosa TV News network",
+      "logo": "https://graph.facebook.com/ftvnews53/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC2VmWn8dAqkzlQqvy02E1PA",
+      "last_youtube_livestreams": [
+        "ylYJSBUgaMA"
+      ],
+      "last_checked": "2026-06-02T23:14:23.390Z",
+      "twitch": null,
+      "website": "https://www.ftvnews.com.tw/live/live-channel/",
+      "category": "news"
+    },
+    {
+      "id": "set-inews",
+      "name": "三立iNEWS",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCoNYj9OFHZn3ACmmeRCPwbA",
+      "last_youtube_livestreams": [
+        "pF507BLtbqU"
+      ],
+      "last_checked": "2026-06-02T23:14:23.390Z",
+      "twitch": null,
+      "website": "https://live.setn.com/",
+      "category": "news"
+    }
+  ]
+}
