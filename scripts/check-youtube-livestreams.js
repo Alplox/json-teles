@@ -2,6 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const { execFile } = require("child_process");
 const util = require("util");
+const https = require("https");
 
 const execFileAsync = util.promisify(execFile);
 
@@ -160,6 +161,73 @@ async function checkYouTubeYtDlp(channelId) {
 }
 
 /**
+ * Checks for active livestream via native HTTPS request to bypass bot checks.
+ * @param {string} channelId - YouTube channel ID.
+ * @returns {Promise<string[]>} Array of videoIds if live, empty array otherwise.
+ */
+function checkYouTubeHtml(channelId) {
+  return new Promise((resolve, reject) => {
+    const url = `https://www.youtube.com/channel/${channelId}/live`;
+    const options = {
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept-Language": "en-US,en;q=0.9",
+      },
+      timeout: 10000,
+    };
+
+    https
+      .get(url, options, (res) => {
+        if (res.statusCode !== 200) {
+          reject(new Error(`HTTP status ${res.statusCode}`));
+          return;
+        }
+
+        let data = "";
+        res.on("data", (chunk) => {
+          data += chunk;
+        });
+        res.on("end", () => {
+          if (data.includes("captcha") || data.includes("confirm you're not a bot")) {
+            reject(new Error("Bot check detected in HTML"));
+            return;
+          }
+
+          const canonical = data.match(/<link rel="canonical" href="([^"]+)"/)?.[1];
+          const isLive = data.includes('"isLive":true');
+
+          if (isLive && canonical && canonical.includes("watch?v=")) {
+            const v = canonical.match(/v=([^&]+)/)?.[1];
+            if (v) {
+              resolve([v]);
+              return;
+            }
+          }
+          resolve([]);
+        });
+      })
+      .on("error", (err) => {
+        reject(err);
+      });
+  });
+}
+
+/**
+ * Checks for active livestream via native HTTPS first, falling back to yt-dlp.
+ * @param {string} channelId - YouTube channel ID.
+ * @returns {Promise<string[]>} Array of videoIds if live, empty array otherwise.
+ */
+async function checkYouTubeLive(channelId) {
+  try {
+    return await checkYouTubeHtml(channelId);
+  } catch (err) {
+    // Fallback to yt-dlp if native fetch failed
+    return checkYouTubeYtDlp(channelId);
+  }
+}
+
+/**
  * Determines if a channel should be skipped based on last check time.
  * @param {Object} channel - Channel object.
  * @returns {boolean} True if channel should be skipped.
@@ -246,7 +314,7 @@ function sleep(ms) {
     // Check all channels in parallel (true async via execFile)
     const results = await Promise.all(
       batch.map(async ({ channel }) => {
-        const videoIds = await checkYouTubeYtDlp(channel.youtube);
+        const videoIds = await checkYouTubeLive(channel.youtube);
         return { channel, videoIds };
       }),
     );

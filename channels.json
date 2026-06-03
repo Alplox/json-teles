@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "generated": "2026-06-03T08:02:50.714Z",
+  "generated": "2026-06-03T08:17:20.688Z",
   "total": 529,
   "channels": [
     {
@@ -307,7 +307,7 @@
       "last_youtube_livestreams": [
         "j-_p0naHbxE"
       ],
-      "last_checked": "2026-06-03T08:02:13.735Z",
+      "last_checked": "2026-06-03T08:17:06.983Z",
       "twitch": "24horas_tvn",
       "website": "https://www.24horas.cl/envivo/",
       "country": "cl",
@@ -876,7 +876,7 @@
       "signals": [],
       "youtube": "UCR30r2JHz2eqQlutmPzWfhw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T07:59:18.405Z",
+      "last_checked": "2026-06-03T08:17:20.631Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCR30r2JHz2eqQlutmPzWfhw",
       "country": null,
