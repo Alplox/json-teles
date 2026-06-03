@@ -112,13 +112,7 @@ async function checkYouTubeYtDlp(channelId) {
       const url = `https://www.youtube.com/channel/${channelId}/live`;
       const { stdout, stderr } = await execFileAsync(
         "yt-dlp",
-        [
-          "--flat-playlist",
-          "--print",
-          "%(id)s|%(live_status)s",
-          "--no-warnings",
-          url,
-        ],
+        ["--flat-playlist", "--print", "%(id)s|%(live_status)s", "--no-warnings", url],
         { timeout: YTDLP_TIMEOUT_MS },
       );
 
@@ -149,7 +143,11 @@ async function checkYouTubeYtDlp(channelId) {
       }
 
       if (err.code !== "ETIME") {
-        console.error(`  [yt-dlp] ${channelId}: ${err.message.split("\n")[0]}`);
+        const errorDesc =
+          err.stderr && err.stderr.trim()
+            ? err.stderr.trim().split("\n")[0]
+            : err.message.split("\n")[0];
+        console.error(`  [yt-dlp] ${channelId}: ${errorDesc}`);
       }
       if (attempt < MAX_RETRIES) {
         await sleep(RETRY_DELAY_MS + Math.random() * 1000);
