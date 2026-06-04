@@ -8,9 +8,9 @@
       "signals": [],
       "youtube": "UCBtpKi29d2LQTYJWTKPHAvg",
       "last_youtube_livestreams": [
-        "gty-X8aWmaI"
+        "sn6xvahpwx4"
       ],
-      "last_checked": "2026-06-03T08:34:19.825Z",
+      "last_checked": "2026-06-04T02:28:14.745Z",
       "twitch": null,
       "website": "https://www.bradojornal.com/",
       "category": "music"
@@ -22,9 +22,9 @@
       "signals": [],
       "youtube": "UCRC3upGcj_decdPi7JXT7Bg",
       "last_youtube_livestreams": [
-        "NcpKjvzsv8g"
+        "IHhbt8aNrgo"
       ],
-      "last_checked": "2026-06-03T08:34:19.825Z",
+      "last_checked": "2026-06-04T02:28:14.745Z",
       "twitch": null,
       "website": "https://gauchazh.clicrbs.com.br/",
       "category": "news"
@@ -38,7 +38,7 @@
       "last_youtube_livestreams": [
         "Bnd-O7I-2hc"
       ],
-      "last_checked": "2026-06-03T08:34:19.826Z",
+      "last_checked": "2026-06-04T02:28:14.745Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw",
       "category": "news"
@@ -49,8 +49,10 @@
       "logo": "https://graph.facebook.com/redebrasiloficial/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCubxEhRi56_V4_eTzzcFwkA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:43:25.633Z",
+      "last_youtube_livestreams": [
+        "YUEV2EBe8eg"
+      ],
+      "last_checked": "2026-06-04T02:08:08.402Z",
       "twitch": null,
       "website": "https://tv.redebrasiloficial.com.br/",
       "category": "news"
@@ -61,8 +63,10 @@
       "logo": "https://graph.facebook.com/brasil247/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCRuy5PigeeBuecKnwqhM4yg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:43:25.633Z",
+      "last_youtube_livestreams": [
+        "JeSEYtEgeUI"
+      ],
+      "last_checked": "2026-06-04T02:08:08.402Z",
       "twitch": null,
       "website": "https://www.brasil247.com/",
       "category": "news"
@@ -74,7 +78,7 @@
       "signals": [],
       "youtube": "UCJ4uxK_mo6gNoqk9cyvgWkw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:43:25.633Z",
+      "last_checked": "2026-06-04T02:08:08.402Z",
       "twitch": null,
       "website": "https://tvcorreio.com.br/",
       "category": "news"
@@ -85,8 +89,10 @@
       "logo": "https://graph.facebook.com/forumrevista/picture?width=800&height=800",
       "signals": [],
       "youtube": "UC3sMBA3BdnsKSVI0WB9yVWQ",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:43:25.633Z",
+      "last_youtube_livestreams": [
+        "d05Gb_yExpo"
+      ],
+      "last_checked": "2026-06-04T02:08:08.402Z",
       "twitch": null,
       "website": "https://revistaforum.com.br/",
       "category": "news"

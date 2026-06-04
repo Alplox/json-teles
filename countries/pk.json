@@ -8,9 +8,9 @@
       "signals": [],
       "youtube": "UCraPI8sg-eiNzUrurxhKeEQ",
       "last_youtube_livestreams": [
-        "Gyt-OXdJX9w"
+        "P9CE8W0wqB0"
       ],
-      "last_checked": "2026-06-03T08:41:19.845Z",
+      "last_checked": "2026-06-04T02:35:36.145Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCraPI8sg-eiNzUrurxhKeEQ",
       "category": "religious"
@@ -24,7 +24,7 @@
       "last_youtube_livestreams": [
         "M8DGZa5xX5A"
       ],
-      "last_checked": "2026-06-03T08:41:19.845Z",
+      "last_checked": "2026-06-04T02:02:02.995Z",
       "twitch": null,
       "website": "https://www.bolnews.com/live/",
       "category": "news"
@@ -35,10 +35,8 @@
       "logo": "https://graph.facebook.com/C21.Karachi/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCB-8E662xOk1I3-wdhTMNiw",
-      "last_youtube_livestreams": [
-        "yNWyn_lxJY4"
-      ],
-      "last_checked": "2026-06-03T08:41:19.845Z",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-04T02:02:02.995Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw",
       "category": "news"
@@ -58,8 +56,10 @@
         }
       ],
       "youtube": "UCnMBV5Iw4WqKILKue1nP6Hg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:45:48.022Z",
+      "last_youtube_livestreams": [
+        "e2XVSUYh4S0"
+      ],
+      "last_checked": "2026-06-04T02:02:02.995Z",
       "twitch": null,
       "website": "https://dunyanews.tv/live/",
       "category": "news"

@@ -2,21 +2,6 @@
   "country": "cl",
   "channels": [
     {
-      "id": "13-canal-pruebas",
-      "name": "Canal 13 (Señal de Pruebas)",
-      "logo": null,
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://jireh-9-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13live/13live.smil/13live/livestream1/chunks.m3u8"
-        }
-      ],
-      "youtube": null,
-      "twitch": null,
-      "website": "https://www.13.cl/",
-      "category": "general"
-    },
-    {
       "id": "13-cultura",
       "name": "13 Cultura",
       "logo": "https://graph.facebook.com/canal13c/picture?width=800&height=800",
@@ -57,29 +42,6 @@
       "twitch": null,
       "website": "https://www.13.cl/",
       "category": "sports"
-    },
-    {
-      "id": "13-entretencion",
-      "name": "13 Entretención",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4f/13entretencion.svg",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://dai.google.com/linear/hls/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8"
-        },
-        {
-          "type": "iframe",
-          "url": "https://rudo.video/live/13e"
-        }
-      ],
-      "youtube": null,
-      "twitch": null,
-      "website": "https://www.13.cl/",
-      "category": "entertainment"
     },
     {
       "id": "13-festival",
@@ -124,25 +86,6 @@
       "category": "sports"
     },
     {
-      "id": "13-humor",
-      "name": "13 Humor",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/e/ea/13humor.svg",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8"
-        },
-        {
-          "type": "iframe",
-          "url": "https://rudo.video/live/13humor"
-        }
-      ],
-      "youtube": null,
-      "twitch": null,
-      "website": "https://www.13.cl/",
-      "category": "entertainment"
-    },
-    {
       "id": "13-kids",
       "name": "13 Kids",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9b/13humor.svg",
@@ -183,21 +126,6 @@
       "twitch": null,
       "website": "https://www.13.cl/",
       "category": "entertainment"
-    },
-    {
-      "id": "13-prime",
-      "name": "13 Prime",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b6/13prime.svg",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8"
-        }
-      ],
-      "youtube": null,
-      "twitch": null,
-      "website": "https://www.13.cl/",
-      "category": "lifestyle"
     },
     {
       "id": "13-realities",
@@ -265,15 +193,15 @@
       ],
       "youtube": "UCTXNz3gjAypWp3EhlIATEJQ",
       "last_youtube_livestreams": [
-        "j-_p0naHbxE"
+        "ZBYb2yOaAl4"
       ],
-      "last_checked": "2026-06-03T08:34:36.410Z",
+      "last_checked": "2026-06-04T02:28:32.497Z",
       "twitch": "24horas_tvn",
       "website": "https://www.24horas.cl/envivo/",
       "category": "news"
     },
     {
-      "id": "adn",
+      "id": "radio-adn",
       "name": "Radio ADN",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c2/ADN_Radio_Chile.svg",
       "signals": [
@@ -282,25 +210,19 @@
           "url": "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8"
         },
         {
-          "type": "m3u8",
-          "url": "https://jireh-2-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8"
-        },
-        {
           "type": "iframe",
           "url": "https://rudo.video/live/adntv"
         }
       ],
       "youtube": "UCczkrFICr0xEgDsk51zZojA",
-      "last_youtube_livestreams": [
-        "H7gXxrOtldI"
-      ],
-      "last_checked": "2026-06-03T08:34:36.410Z",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-04T02:28:32.497Z",
       "twitch": null,
       "website": "https://www.adnradio.cl/noticias/videos/",
       "category": "music"
     },
     {
-      "id": "agriculturatv",
+      "id": "agricultura-tv",
       "name": "AGRICULTURA TV",
       "logo": "https://graph.facebook.com/RadioAgricultura/picture?width=800&height=800",
       "signals": [
@@ -327,7 +249,7 @@
       ],
       "youtube": "UCBkkqRIsRTbio4W7MwAZiEw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:34:36.410Z",
+      "last_checked": "2026-06-04T02:28:32.497Z",
       "twitch": null,
       "website": "https://www.radioagricultura.cl/en-vivo-3/",
       "category": "music"
@@ -340,6 +262,22 @@
         {
           "type": "m3u8",
           "url": "https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://vs20.live.opencaster.com/alternativatv_859ab4a0/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://radiolabrarfm.cl/alternativa/tv.php"
+        },
+        {
+          "type": "iframe",
+          "url": "https://new.opencaster.com/player/embed?user=ALTERNATIVATV"
         }
       ],
       "youtube": null,
@@ -499,7 +437,7 @@
       "category": "sports"
     },
     {
-      "id": "bbtv",
+      "id": "radio-bbtv",
       "name": "Radio Biobio TV",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Biobio_TV_logo.jpg",
       "signals": [
@@ -574,7 +512,7 @@
       "category": "legislative"
     },
     {
-      "id": "canal-1-ñuble",
+      "id": "canal-1-nuble",
       "name": "Canal 1 Ñuble",
       "logo": "https://images.squarespace-cdn.com/content/v1/670e696722c95f04171e0924/c9b5d2ac-2f70-40e1-beed-78d39108f657/_Canal+Uno_.png",
       "signals": [
@@ -1119,15 +1057,7 @@
       "signals": [
         {
           "type": "m3u8",
-          "url": "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://jireh-4-hls-video-cl-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8"
+          "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8"
         },
         {
           "type": "iframe",
@@ -1659,6 +1589,20 @@
       "twitch": null,
       "website": "https://www.itvpatagonia.com/",
       "category": "general"
+    },
+    {
+      "id": "jm-reviewer-5700",
+      "name": "jm-reviewer-5700 (Monitor sísmico)",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCzXbfbZ3HHSnYKS-roQByPA",
+      "last_youtube_livestreams": [
+        "RTC5oJLw11s"
+      ],
+      "last_checked": "2026-06-04T02:11:46.792Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCzXbfbZ3HHSnYKS-roQByPA",
+      "category": "outdoor"
     },
     {
       "id": "kanade-tv",
@@ -2866,6 +2810,20 @@
       "category": "outdoor"
     },
     {
+      "id": "santiagocamquake",
+      "name": "SantiagoCamQuake (Monitor sísmico)",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCb9_sOwAiakvxWEKDqe0r3g",
+      "last_youtube_livestreams": [
+        "bgmR3W4eXic"
+      ],
+      "last_checked": "2026-06-04T02:14:53.487Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCb9_sOwAiakvxWEKDqe0r3g",
+      "category": "outdoor"
+    },
+    {
       "id": "sembrador",
       "name": "Radio El Sembrador",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Radio_El_Sembrador.png",
@@ -3894,6 +3852,20 @@
       "twitch": null,
       "website": "https://canalviax.com/",
       "category": "music"
+    },
+    {
+      "id": "videos-online-chile",
+      "name": "Videos Online Chile (Los Andes, Colina)",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCkAERiBpuFM5OB2GYgLnHEA",
+      "last_youtube_livestreams": [
+        "EmqBVH7f0sc"
+      ],
+      "last_checked": "2026-06-04T02:24:11.829Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCkAERiBpuFM5OB2GYgLnHEA",
+      "category": "outdoor"
     },
     {
       "id": "vision-plus-tv",

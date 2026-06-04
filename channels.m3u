@@ -43,34 +43,24 @@ https://livetv-fa.tubi.video/cbc2/master.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-name="TVGE (Ginea Ecuatorial)" tvg-logo="https://pbs.twimg.com/profile_images/1382981938231775232/-lv9ymLe_400x400.jpg" group-title="general", TVGE (Ginea Ecuatorial) [CF]
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 13 (Señal de Pruebas)" tvg-logo="" group-title="general", Canal 13 (Señal de Pruebas) [CL]
-https://jireh-9-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13live/13live.smil/13live/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-name="13 Cultura" tvg-logo="https://graph.facebook.com/canal13c/picture?width=800&height=800" group-title="culture", 13 Cultura (1) [CL]
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-name="13 Cultura" tvg-logo="https://graph.facebook.com/canal13c/picture?width=800&height=800" group-title="culture", 13 Cultura (2) [CL]
 https://dai.google.com/linear/hls/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-name="13 Deportes" tvg-logo="https://s.t13.cl/sites/default/files/t13/componentes/field-componente-logo/deportes13_1.png" group-title="sports", 13 Deportes [CL]
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
-#EXTINF:-1 tvg-name="13 Entretención" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/13entretencion.svg" group-title="entertainment", 13 Entretención (1) [CL]
-https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-#EXTINF:-1 tvg-name="13 Entretención" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/13entretencion.svg" group-title="entertainment", 13 Entretención (2) [CL]
-https://dai.google.com/linear/hls/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 #EXTINF:-1 tvg-name="13 Festival" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/13festival.svg" group-title="music", 13 Festival (1) [CL]
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 tvg-name="13 Festival" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/13festival.svg" group-title="music", 13 Festival (2) [CL]
 https://dai.google.com/linear/hls/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 tvg-name="13 FutGO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/FutGo.svg" group-title="sports", 13 FutGO [CL]
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8
-#EXTINF:-1 tvg-name="13 Humor" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/13humor.svg" group-title="entertainment", 13 Humor [CL]
-https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:-1 tvg-name="13 Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/13humor.svg" group-title="kids", 13 Kids [CL]
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:-1 tvg-name="13 Pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/13pop.svg" group-title="entertainment", 13 Pop (1) [CL]
 https://origin.dpsgo.com/ssai/event/WKlE4m31TOijQS05TZmhqw/master.m3u8
 #EXTINF:-1 tvg-name="13 Pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/13pop.svg" group-title="entertainment", 13 Pop (2) [CL]
 https://dai.google.com/linear/hls/event/WKlE4m31TOijQS05TZmhqw/master.m3u8
-#EXTINF:-1 tvg-name="13 Prime" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/13prime.svg" group-title="lifestyle", 13 Prime [CL]
-https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 #EXTINF:-1 tvg-name="13 Realities" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/13realities.svg" group-title="entertainment", 13 Realities (1) [CL]
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-name="13 Realities" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/13realities.svg" group-title="entertainment", 13 Realities (2) [CL]
@@ -81,16 +71,18 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 https://dai.google.com/linear/hls/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-name="24 horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="news", 24 horas [CL]
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
-#EXTINF:-1 tvg-name="Radio ADN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/ADN_Radio_Chile.svg" group-title="music", Radio ADN (1) [CL]
+#EXTINF:-1 tvg-name="Radio ADN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/ADN_Radio_Chile.svg" group-title="music", Radio ADN [CL]
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio ADN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/ADN_Radio_Chile.svg" group-title="music", Radio ADN (2) [CL]
-https://jireh-2-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="AGRICULTURA TV" tvg-logo="https://graph.facebook.com/RadioAgricultura/picture?width=800&height=800" group-title="music", AGRICULTURA TV (1) [CL]
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="AGRICULTURA TV" tvg-logo="https://graph.facebook.com/RadioAgricultura/picture?width=800&height=800" group-title="music", AGRICULTURA TV (2) [CL]
 https://unlimited2-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Alternativa FM (Huasco)" tvg-logo="https://i0.wp.com/alternativatv.cl/wp-content/uploads/2022/11/cropped-Logo-Red-Alternativa.png" group-title="music", Radio Alternativa FM (Huasco) [CL]
+#EXTINF:-1 tvg-name="Radio Alternativa FM (Huasco)" tvg-logo="https://i0.wp.com/alternativatv.cl/wp-content/uploads/2022/11/cropped-Logo-Red-Alternativa.png" group-title="music", Radio Alternativa FM (Huasco) (1) [CL]
 https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Alternativa FM (Huasco)" tvg-logo="https://i0.wp.com/alternativatv.cl/wp-content/uploads/2022/11/cropped-Logo-Red-Alternativa.png" group-title="music", Radio Alternativa FM (Huasco) (2) [CL]
+https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Alternativa FM (Huasco)" tvg-logo="https://i0.wp.com/alternativatv.cl/wp-content/uploads/2022/11/cropped-Logo-Red-Alternativa.png" group-title="music", Radio Alternativa FM (Huasco) (3) [CL]
+https://vs20.live.opencaster.com/alternativatv_859ab4a0/index.m3u8
 #EXTINF:-1 tvg-name="America TV" tvg-logo="https://radioamerica.cl/wp-content/uploads/2025/07/logo-america.png" group-title="general", America TV [CL]
 https://v2.tustreaming.cl/radioamericatv/index.m3u8
 #EXTINF:-1 tvg-name="Antofagasta TV" tvg-logo="https://graph.facebook.com/AntofagastaTelevision/picture?width=800&height=800" group-title="general", Antofagasta TV (1) [CL]
@@ -199,12 +191,8 @@ https://v2.tustreaming.cl/clicktv/playlist.m3u8
 https://v2.tustreaming.cl/clicktv/index.m3u8
 #EXTINF:-1 tvg-name="Club TV Santa Juana" tvg-logo="https://graph.facebook.com/clubtvcanal/picture?width=800&height=800" group-title="general", Club TV Santa Juana [CL]
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
-#EXTINF:-1 tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="news", CNN Chile (1) [CL]
-https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="news", CNN Chile (2) [CL]
-https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="news", CNN Chile (3) [CL]
-https://jireh-4-hls-video-cl-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="news", CNN Chile [CL]
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Concepcion TV" tvg-logo="https://concepciontv.cl/wp-content/uploads/2024/04/logopaginaweb-1-1024x272-1-150x40.png" group-title="general", Concepcion TV [CL]
 https://stream.blserver.cl/hls/ctv/index.m3u8
 #EXTINF:-1 tvg-name="Contivision" tvg-logo="https://graph.facebook.com/TVContivision/picture?width=800&height=800" group-title="general", Contivision (1) [CL]

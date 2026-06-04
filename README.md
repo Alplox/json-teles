@@ -185,7 +185,7 @@ Total channels available. M3U version may contain fewer channels.
 (click to expand)
 
 <!-- START:CHANNEL_COUNT -->
-Total: 528 channels from 42 countries
+Total: 527 channels from 42 countries
 
 <!-- END:CHANNEL_COUNT -->
 
@@ -328,20 +328,15 @@ Total: 528 channels from 42 countries
 
 ### 🌍 Chile
 
-- [Canal 13 (Señal de Pruebas)](https://www.13.cl/) (general)
 - [13 Cultura](https://www.13.cl/c) (culture)
 - [13 Deportes](https://www.13.cl/) (sports)
-- [13 Entretención](https://www.13.cl/) (entertainment)
 - [13 Festival](https://www.13.cl/) (music)
 - [13 FutGO](https://www.13.cl/) (sports)
-- [13 Humor](https://www.13.cl/) (entertainment)
 - [13 Kids](https://www.13.cl/) (kids)
 - [13 Pop](https://www.13.cl/) (entertainment)
-- [13 Prime](https://www.13.cl/) (lifestyle)
 - [13 Realities](https://www.13.cl/) (entertainment)
 - [13 Teleseries](https://www.13.cl/) (entertainment)
 - [24 horas](https://www.24horas.cl/envivo/) (news)
-- [Radio ADN](https://www.adnradio.cl/noticias/videos/) (music)
 - [AGRICULTURA TV](https://www.radioagricultura.cl/en-vivo-3/) (music)
 - [Radio Alternativa FM (Huasco)](https://www.alternativafm.cl/p/alternativa-tv.html) (music)
 - [America TV](https://radioamerica.cl/) (general)
@@ -351,7 +346,6 @@ Total: 528 channels from 42 countries
 - [Atacama TV](https://atacamatelevision.com/) (general)
 - [Aysen TV](https://www.aysen.tv/) (general)
 - [Balong - MDTPnet](https://www.youtube.com/channel/UCEZEW2z22WBkUB2Fcs8Gq3A) (sports)
-- [Radio Biobio TV](https://www.biobiochile.cl/biobiotv/) (music)
 - [Buin Somos Todos](https://www.buin.cl/) (general)
 - [Cámara Diputados](https://www.cdtv.cl/) (legislative)
 - [Canal 1 Ñuble](https://www.canal1.cl/) (general)
@@ -403,6 +397,7 @@ Total: 528 channels from 42 countries
 - [Iquique TV](https://iquiquetv.cl/senal-online/) (general)
 - [Canal ISB (Iglesia San Bernardo)](https://www.canalisb.cl) (religious)
 - [ITV Patagonia](https://www.itvpatagonia.com/) (general)
+- [jm-reviewer-5700 (Monitor sísmico)](https://www.youtube.com/channel/UCzXbfbZ3HHSnYKS-roQByPA) (outdoor)
 - [Kanade - Televisión](https://kanade.cl/) (animation)
 - [La Granja TV](https://www.lagranja.tv) (general)
 - [laGranja FM 107.3](https://www.lagranja.tv) (music)
@@ -445,8 +440,10 @@ Total: 528 channels from 42 countries
 - [Portal Foxmix Chile](https://www.portalfoxmix.cl/tv/) (music)
 - [Pucón TV](https://www.pucontv.com/) (general)
 - [Puranoticia TV](https://puranoticia.pnt.cl/) (general)
+- [Radio ADN](https://www.adnradio.cl/noticias/videos/) (music)
 - [Radio AE Radio DuocUC](https://www.aeradio.cl/) (music)
 - [Radio America TV](https://radioamerica.cl/radio-tv-online/) (general)
+- [Radio Biobio TV](https://www.biobiochile.cl/biobiotv/) (music)
 - [Radio El Conquistador FM](https://www.elconquistadorfm.net/) (music)
 - [Radio Folclor de Chile](https://radiofolclordechile.cl/) (music)
 - [Radio Genial 100.5 FM](https://radiogenial.cl/) (music)
@@ -464,6 +461,7 @@ Total: 528 channels from 42 countries
 - [Radio Romántica TV](https://www.romantica.cl/romantica-tv/) (music)
 - [RTC Television](https://www.rtctelevision.cl/) (general)
 - [sanantonioimagen - San Antonio](https://www.youtube.com/channel/UCprCdxrg_u9E9hhc-MZDk5A) (outdoor)
+- [SantiagoCamQuake (Monitor sísmico)](https://www.youtube.com/channel/UCb9_sOwAiakvxWEKDqe0r3g) (outdoor)
 - [Radio El Sembrador](https://tv.radioelsembrador.cl/) (music)
 - [Servicio Electoral de Chile (Servel)](https://www.servel.cl/) (legislative)
 - [Sextavision](https://sextavision.cl) (general)
@@ -513,6 +511,7 @@ Total: 528 channels from 42 countries
 - [Valle Nevado Vista Hotel Puerta del Sol](https://www.vallenevado.com/es/camaras/) (outdoor)
 - [veoTV](https://www.veotv.cl/) (general)
 - [Vía X](https://canalviax.com/) (music)
+- [Videos Online Chile (Los Andes, Colina)](https://www.youtube.com/channel/UCkAERiBpuFM5OB2GYgLnHEA) (outdoor)
 - [Vision Plus TV Melipilla](https://www.visionplustv.cl) (general)
 - [La Voz De Los Que Sobran](https://lavozdelosquesobran.cl/) (general)
 - [VTV](https://canalvtv.cl/vtv/) (general)
@@ -891,8 +890,6 @@ Total: 528 channels from 42 countries
 
 ### 📂 Entertainment
 
-- [13 Entretención](https://www.13.cl/) (Chile)
-- [13 Humor](https://www.13.cl/) (Chile)
 - [13 Pop](https://www.13.cl/) (Chile)
 - [13 Realities](https://www.13.cl/) (Chile)
 - [13 Teleseries](https://www.13.cl/) (Chile)
@@ -903,7 +900,6 @@ Total: 528 channels from 42 countries
 
 ### 📂 General
 
-- [Canal 13 (Señal de Pruebas)](https://www.13.cl/) (Chile)
 - [ABC-TV (Paraguay)](https://www.abc.com.py/) (Paraguay)
 - [ABN Digital Exclusives](https://www.youtube.com/channel/UCMIobchb8wgycijrgc1UnZw) (India)
 - [America TV](https://radioamerica.cl/) (Chile)
@@ -1040,18 +1036,15 @@ Total: 528 channels from 42 countries
 
 ### 📂 Lifestyle
 
-- [13 Prime](https://www.13.cl/) (Chile)
 - [TV Salud](https://tvsalud.cl/) (Chile)
 
 ### 📂 Music
 
 - [13 Festival](https://www.13.cl/) (Chile)
 - [AcidJazz](https://www.youtube.com/channel/UC8cRYBn-z6y1EOUeMdJ0VHA) (Unknown Country)
-- [Radio ADN](https://www.adnradio.cl/noticias/videos/) (Chile)
 - [AGRICULTURA TV](https://www.radioagricultura.cl/en-vivo-3/) (Chile)
 - [Radio Alternativa FM (Huasco)](https://www.alternativafm.cl/p/alternativa-tv.html) (Chile)
 - [Amor Musica](https://www.youtube.com/channel/UCR30r2JHz2eqQlutmPzWfhw) (Unknown Country)
-- [Radio Biobio TV](https://www.biobiochile.cl/biobiotv/) (Chile)
 - [Best of Mix - Radios en Vivo](https://www.youtube.com/channel/UCSx0CKSPK_jUE2REJtgHIPA) (Unknown Country)
 - [BGM Totoro Studio](https://www.youtube.com/channel/UCdg_xadHqcIT40t-rgwuSZg) (Unknown Country)
 - [BRADO](https://www.bradojornal.com/) (Brasil)
@@ -1096,7 +1089,9 @@ Total: 528 channels from 42 countries
 - [Pop Radio 101.5](https://www.radiopop.fm/) (Argentina)
 - [Portal Foxmix Chile](https://www.portalfoxmix.cl/tv/) (Chile)
 - [Pure Sleeping Vibes](https://www.youtube.com/channel/UCa6DBGeztqfXOwcpUnk0Ccg) (Unknown Country)
+- [Radio ADN](https://www.adnradio.cl/noticias/videos/) (Chile)
 - [Radio AE Radio DuocUC](https://www.aeradio.cl/) (Chile)
+- [Radio Biobio TV](https://www.biobiochile.cl/biobiotv/) (Chile)
 - [Radio El Conquistador FM](https://www.elconquistadorfm.net/) (Chile)
 - [Radio Folclor de Chile](https://radiofolclordechile.cl/) (Chile)
 - [Radio Futurock FM](https://www.youtube.com/channel/UCgn6r0aGRBnEQm02tE_jzbw) (Argentina)
@@ -1373,6 +1368,7 @@ Total: 528 channels from 42 countries
 - [Fideicomiso de Puentes Fronterizos de Chihuahua](https://puentesfronterizos.gob.mx/) (México)
 - [Galería CIMA](https://galeriacima.cl/) (Chile)
 - [Aqualink Hawaii](https://www.youtube.com/channel/UCTLF36lXVM7uiR-VolWHv0Q) (Hawái)
+- [jm-reviewer-5700 (Monitor sísmico)](https://www.youtube.com/channel/UCzXbfbZ3HHSnYKS-roQByPA) (Chile)
 - [La Serena Drone](https://www.youtube.com/channel/UCQJzBVoVLCLe1G7tIxXDc6w) (Chile)
 - [Ledrium](https://www.goledrium.cl/) (Chile)
 - [Lorain Port and Finance Authority](https://www.lorainport.com/) (Estados Unidos)
@@ -1391,12 +1387,14 @@ Total: 528 channels from 42 countries
 - [SISE Argentina](https://siseargentina.com/camaras-en-vivo/) (Argentina)
 - [Aoba traffics](https://www.youtube.com/channel/UCynDLZ-YJnrMLSQvwYi-bUA) (Japón)
 - [sanantonioimagen - San Antonio](https://www.youtube.com/channel/UCprCdxrg_u9E9hhc-MZDk5A) (Chile)
+- [SantiagoCamQuake (Monitor sísmico)](https://www.youtube.com/channel/UCb9_sOwAiakvxWEKDqe0r3g) (Chile)
 - [Times Square Live 4K](https://www.earthcam.net/) (Estados Unidos)
 - [Ushuaia Live](https://www.youtube.com/channel/UC6NTD1HmdaZMbe9K5qADOvw) (Argentina)
 - [Valle Nevado Vista Terraza La Fourchette](https://www.vallenevado.com/es/camaras/) (Chile)
 - [Valle Nevado Vista La Góndola](https://www.vallenevado.com/es/camaras/) (Chile)
 - [Valle Nevado Vista Piscina](https://www.vallenevado.com/es/camaras/) (Chile)
 - [Valle Nevado Vista Hotel Puerta del Sol](https://www.vallenevado.com/es/camaras/) (Chile)
+- [Videos Online Chile (Los Andes, Colina)](https://www.youtube.com/channel/UCkAERiBpuFM5OB2GYgLnHEA) (Chile)
 
 ### 📂 Relax
 

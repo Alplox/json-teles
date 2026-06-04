@@ -10,7 +10,7 @@
       "last_youtube_livestreams": [
         "AGkp2AL8e7o"
       ],
-      "last_checked": "2026-06-03T08:38:11.910Z",
+      "last_checked": "2026-06-04T02:32:28.499Z",
       "twitch": null,
       "website": "https://www.dw.com/ar",
       "category": "news"
@@ -24,7 +24,7 @@
       "last_youtube_livestreams": [
         "LuKwFajn37U"
       ],
-      "last_checked": "2026-06-03T08:38:11.910Z",
+      "last_checked": "2026-06-04T02:32:28.499Z",
       "twitch": null,
       "website": "https://www.dw.com/en",
       "category": "news"
@@ -40,8 +40,10 @@
         }
       ],
       "youtube": "UCT4Jg8h03dD0iN3Pb5L0PMA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:44:48.980Z",
+      "last_youtube_livestreams": [
+        "yZh3xsFqCt8"
+      ],
+      "last_checked": "2026-06-04T02:32:28.499Z",
       "twitch": null,
       "website": "https://www.dw.com/es",
       "category": "news"
@@ -52,8 +54,10 @@
       "logo": "https://graph.facebook.com/wearediamond1/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCrFFy9BMtlNsg2wsa4XbTPg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:44:48.980Z",
+      "last_youtube_livestreams": [
+        "v-KQZ1KZcEo"
+      ],
+      "last_checked": "2026-06-04T02:32:28.500Z",
       "twitch": null,
       "website": "https://wearediamond.net/",
       "category": "music"

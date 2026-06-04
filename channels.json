@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "generated": "2026-06-03T09:02:15.890Z",
-  "total": 528,
+  "generated": "2026-06-04T02:58:56.474Z",
+  "total": 527,
   "channels": [
     {
       "id": "1000noticias",
@@ -9,30 +9,12 @@
       "logo": "https://graph.facebook.com/1000noticiaspy/picture?width=800&height=800",
       "signals": [],
       "youtube": "UC7US6YiqeUQ3CWOgFsplSfg",
-      "last_youtube_livestreams": [
-        "08JHUIsfbN8"
-      ],
-      "last_checked": "2026-06-03T08:41:26.176Z",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-04T02:35:47.254Z",
       "twitch": null,
       "website": "https://1000noticias.com.py/",
       "country": "py",
       "category": "news"
-    },
-    {
-      "id": "13-canal-pruebas",
-      "name": "Canal 13 (Señal de Pruebas)",
-      "logo": null,
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://jireh-9-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13live/13live.smil/13live/livestream1/chunks.m3u8"
-        }
-      ],
-      "youtube": null,
-      "twitch": null,
-      "website": "https://www.13.cl/",
-      "country": "cl",
-      "category": "general"
     },
     {
       "id": "13-cultura",
@@ -79,30 +61,6 @@
       "category": "sports"
     },
     {
-      "id": "13-entretencion",
-      "name": "13 Entretención",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4f/13entretencion.svg",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://dai.google.com/linear/hls/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8"
-        },
-        {
-          "type": "iframe",
-          "url": "https://rudo.video/live/13e"
-        }
-      ],
-      "youtube": null,
-      "twitch": null,
-      "website": "https://www.13.cl/",
-      "country": "cl",
-      "category": "entertainment"
-    },
-    {
       "id": "13-festival",
       "name": "13 Festival",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/6/6e/13festival.svg",
@@ -147,26 +105,6 @@
       "category": "sports"
     },
     {
-      "id": "13-humor",
-      "name": "13 Humor",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/e/ea/13humor.svg",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8"
-        },
-        {
-          "type": "iframe",
-          "url": "https://rudo.video/live/13humor"
-        }
-      ],
-      "youtube": null,
-      "twitch": null,
-      "website": "https://www.13.cl/",
-      "country": "cl",
-      "category": "entertainment"
-    },
-    {
       "id": "13-kids",
       "name": "13 Kids",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9b/13humor.svg",
@@ -209,22 +147,6 @@
       "website": "https://www.13.cl/",
       "country": "cl",
       "category": "entertainment"
-    },
-    {
-      "id": "13-prime",
-      "name": "13 Prime",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b6/13prime.svg",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8"
-        }
-      ],
-      "youtube": null,
-      "twitch": null,
-      "website": "https://www.13.cl/",
-      "country": "cl",
-      "category": "lifestyle"
     },
     {
       "id": "13-realities",
@@ -283,7 +205,7 @@
       "last_youtube_livestreams": [
         "j6GE3Tham_o"
       ],
-      "last_checked": "2026-06-03T08:41:44.501Z",
+      "last_checked": "2026-06-04T02:36:06.088Z",
       "twitch": null,
       "website": "https://24tv.ua/online/",
       "country": "ua",
@@ -309,9 +231,9 @@
       ],
       "youtube": "UCTXNz3gjAypWp3EhlIATEJQ",
       "last_youtube_livestreams": [
-        "j-_p0naHbxE"
+        "ZBYb2yOaAl4"
       ],
-      "last_checked": "2026-06-03T08:34:36.410Z",
+      "last_checked": "2026-06-04T02:28:32.497Z",
       "twitch": "24horas_tvn",
       "website": "https://www.24horas.cl/envivo/",
       "country": "cl",
@@ -326,7 +248,7 @@
       "last_youtube_livestreams": [
         "ArKbAx1K-2U"
       ],
-      "last_checked": "2026-06-03T08:33:23.260Z",
+      "last_checked": "2026-06-04T02:27:12.149Z",
       "twitch": "a24noticias",
       "website": "https://www.a24.com/vivo",
       "country": "ar",
@@ -344,9 +266,9 @@
       ],
       "youtube": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "last_youtube_livestreams": [
-        "iipR5yUp36o"
+        "yGYg_S9Zky4"
       ],
-      "last_checked": "2026-06-03T08:41:51.151Z",
+      "last_checked": "2026-06-04T02:36:06.089Z",
       "twitch": null,
       "website": "https://abcnews.go.com/Live",
       "country": "us",
@@ -366,7 +288,7 @@
       "last_youtube_livestreams": [
         "vOTiJkg1voo"
       ],
-      "last_checked": "2026-06-03T08:34:04.037Z",
+      "last_checked": "2026-06-04T02:27:57.499Z",
       "twitch": null,
       "website": "https://www.abc.net.au/news/",
       "country": "au",
@@ -381,7 +303,7 @@
       "last_youtube_livestreams": [
         "SDK_m1_BVJ4"
       ],
-      "last_checked": "2026-06-03T08:41:51.151Z",
+      "last_checked": "2026-06-04T02:02:29.807Z",
       "twitch": null,
       "website": "https://abc13.com/watch/live/",
       "country": "us",
@@ -394,7 +316,7 @@
       "signals": [],
       "youtube": "UCq9e_hCv2jvgck8WowW1NXg",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:41:51.151Z",
+      "last_checked": "2026-06-04T02:02:29.808Z",
       "twitch": null,
       "website": "https://www.abc-7.com/",
       "country": "us",
@@ -406,8 +328,10 @@
       "logo": "https://graph.facebook.com/abc7chicago/picture?width=800&height=800",
       "signals": [],
       "youtube": "UC_vFLohxs5PkAxlk7Y6jEtw",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:45:56.564Z",
+      "last_youtube_livestreams": [
+        "sj2cWegO1OU"
+      ],
+      "last_checked": "2026-06-04T02:02:29.808Z",
       "twitch": null,
       "website": "https://abc7chicago.com/watch/live/",
       "country": "us",
@@ -428,8 +352,10 @@
         }
       ],
       "youtube": "UCEklbFbPoMaV1ciEb-0mAxg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:45:52.254Z",
+      "last_youtube_livestreams": [
+        "rwhjjUpJhBY"
+      ],
+      "last_checked": "2026-06-04T02:35:47.254Z",
       "twitch": "abc_py",
       "website": "https://www.abc.com.py/",
       "country": "py",
@@ -442,7 +368,7 @@
       "signals": [],
       "youtube": "UCMIobchb8wgycijrgc1UnZw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:39:01.805Z",
+      "last_checked": "2026-06-04T02:33:20.568Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCMIobchb8wgycijrgc1UnZw",
       "country": "in",
@@ -454,8 +380,10 @@
       "logo": "https://graph.facebook.com/abntelugutv/picture?width=800&height=800",
       "signals": [],
       "youtube": "UC_2irx_BQR7RsBKmUV9fePQ",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:45:03.515Z",
+      "last_youtube_livestreams": [
+        "ojzwUDRxkKI"
+      ],
+      "last_checked": "2026-06-04T02:33:20.568Z",
       "twitch": null,
       "website": "https://www.andhrajyothy.com/live-tv",
       "country": "in",
@@ -472,8 +400,10 @@
         }
       ],
       "youtube": "UCH7nv1A9xIrAifZJNvt7cgA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:45:03.515Z",
+      "last_youtube_livestreams": [
+        "sw4aykb9QQk"
+      ],
+      "last_checked": "2026-06-04T02:33:20.568Z",
       "twitch": null,
       "website": "https://marathi.abplive.com/live-tv",
       "country": "in",
@@ -486,38 +416,10 @@
       "signals": [],
       "youtube": "UC8cRYBn-z6y1EOUeMdJ0VHA",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:43:01.641Z",
+      "last_checked": "2026-06-04T02:37:15.860Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UC8cRYBn-z6y1EOUeMdJ0VHA",
       "country": null,
-      "category": "music"
-    },
-    {
-      "id": "adn",
-      "name": "Radio ADN",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c2/ADN_Radio_Chile.svg",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://jireh-2-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8"
-        },
-        {
-          "type": "iframe",
-          "url": "https://rudo.video/live/adntv"
-        }
-      ],
-      "youtube": "UCczkrFICr0xEgDsk51zZojA",
-      "last_youtube_livestreams": [
-        "H7gXxrOtldI"
-      ],
-      "last_checked": "2026-06-03T08:34:36.410Z",
-      "twitch": null,
-      "website": "https://www.adnradio.cl/noticias/videos/",
-      "country": "cl",
       "category": "music"
     },
     {
@@ -529,7 +431,7 @@
       "last_youtube_livestreams": [
         "d6sRTSG4rgs"
       ],
-      "last_checked": "2026-06-03T08:40:15.009Z",
+      "last_checked": "2026-06-04T02:34:29.065Z",
       "twitch": null,
       "website": "https://live.adn40.mx/",
       "country": "mx",
@@ -544,7 +446,7 @@
       "last_youtube_livestreams": [
         "LAI8dHL9bVM"
       ],
-      "last_checked": "2026-06-03T08:43:01.642Z",
+      "last_checked": "2026-06-04T02:03:42.109Z",
       "twitch": null,
       "website": "https://afar.tv/",
       "country": null,
@@ -559,7 +461,7 @@
       "last_youtube_livestreams": [
         "NQjabLGdP5g"
       ],
-      "last_checked": "2026-06-03T08:34:30.335Z",
+      "last_checked": "2026-06-04T02:28:26.339Z",
       "twitch": null,
       "website": "https://www.africanews.com/live/",
       "country": "cf",
@@ -579,7 +481,7 @@
       "category": "news"
     },
     {
-      "id": "agriculturatv",
+      "id": "agricultura-tv",
       "name": "AGRICULTURA TV",
       "logo": "https://graph.facebook.com/RadioAgricultura/picture?width=800&height=800",
       "signals": [
@@ -606,7 +508,7 @@
       ],
       "youtube": "UCBkkqRIsRTbio4W7MwAZiEw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:34:36.410Z",
+      "last_checked": "2026-06-04T02:28:32.497Z",
       "twitch": null,
       "website": "https://www.radioagricultura.cl/en-vivo-3/",
       "country": "cl",
@@ -618,10 +520,8 @@
       "logo": "https://graph.facebook.com/AhoraNoticiasC/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCn161AaU20-UcYeDEvDJyyA",
-      "last_youtube_livestreams": [
-        "hAM96rrKDeA"
-      ],
-      "last_checked": "2026-06-03T08:40:15.009Z",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-04T02:34:29.065Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCn161AaU20-UcYeDEvDJyyA",
       "country": "mx",
@@ -636,7 +536,7 @@
       "last_youtube_livestreams": [
         "N8xxOD0nT1Y"
       ],
-      "last_checked": "2026-06-03T08:41:32.020Z",
+      "last_checked": "2026-06-04T02:35:47.255Z",
       "twitch": null,
       "website": "https://www.aljazeera.com/live/",
       "country": "qa",
@@ -656,7 +556,7 @@
       "last_youtube_livestreams": [
         "gCNeDWCI0vo"
       ],
-      "last_checked": "2026-06-03T08:41:32.020Z",
+      "last_checked": "2026-06-04T02:02:13.425Z",
       "twitch": null,
       "website": "https://www.aljazeera.com/live/",
       "country": "qa",
@@ -669,9 +569,9 @@
       "signals": [],
       "youtube": "UCZCFHCU-2eGF7V5ciMkoPHw",
       "last_youtube_livestreams": [
-        "p2kd5gyMtEs"
+        "NugEgWuS2n4"
       ],
-      "last_checked": "2026-06-03T08:40:09.194Z",
+      "last_checked": "2026-06-04T02:34:29.065Z",
       "twitch": null,
       "website": "https://staging-ar.almayadeen.net/live",
       "country": "lb",
@@ -689,7 +589,7 @@
       ],
       "youtube": "UCLaJbSWEyamrbyiLWCXL8AA",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:40:09.194Z",
+      "last_checked": "2026-06-04T02:34:29.065Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCLaJbSWEyamrbyiLWCXL8AA",
       "country": "lb",
@@ -717,7 +617,7 @@
       "last_youtube_livestreams": [
         "n7eQejkXbnM"
       ],
-      "last_checked": "2026-06-03T08:33:23.259Z",
+      "last_checked": "2026-06-04T02:27:12.148Z",
       "twitch": null,
       "website": "https://www.alarabiya.net/live-stream",
       "country": "ae",
@@ -741,7 +641,7 @@
       "last_youtube_livestreams": [
         "80avOss7Fvc"
       ],
-      "last_checked": "2026-06-03T08:41:32.020Z",
+      "last_checked": "2026-06-04T02:02:13.426Z",
       "twitch": null,
       "website": "https://www.alaraby.com/live-stream",
       "country": "qa",
@@ -763,7 +663,7 @@
       ],
       "youtube": "UCuCtlmcyOPNqdBf_FfrS7kg",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:45:52.254Z",
+      "last_checked": "2026-06-04T02:02:13.426Z",
       "twitch": null,
       "website": "https://www.alaraby2.com/",
       "country": "qa",
@@ -787,7 +687,7 @@
       "last_youtube_livestreams": [
         "0STUpSryLWY"
       ],
-      "last_checked": "2026-06-03T08:41:37.918Z",
+      "last_checked": "2026-06-04T02:35:52.649Z",
       "twitch": null,
       "website": "https://www.alhadath.net/live-stream",
       "country": "sa",
@@ -800,9 +700,9 @@
       "signals": [],
       "youtube": "UCraPI8sg-eiNzUrurxhKeEQ",
       "last_youtube_livestreams": [
-        "Gyt-OXdJX9w"
+        "P9CE8W0wqB0"
       ],
-      "last_checked": "2026-06-03T08:41:19.845Z",
+      "last_checked": "2026-06-04T02:35:36.145Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCraPI8sg-eiNzUrurxhKeEQ",
       "country": "pk",
@@ -816,6 +716,22 @@
         {
           "type": "m3u8",
           "url": "https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://vs20.live.opencaster.com/alternativatv_859ab4a0/index.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://radiolabrarfm.cl/alternativa/tv.php"
+        },
+        {
+          "type": "iframe",
+          "url": "https://new.opencaster.com/player/embed?user=ALTERNATIVATV"
         }
       ],
       "youtube": null,
@@ -831,7 +747,7 @@
       "signals": [],
       "youtube": "UC4RoqlERckC4gIhLEGb9Jjw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:40:46.226Z",
+      "last_checked": "2026-06-04T02:35:03.831Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UC4RoqlERckC4gIhLEGb9Jjw",
       "country": "pa",
@@ -846,7 +762,7 @@
       "last_youtube_livestreams": [
         "O6uaw8TV19U"
       ],
-      "last_checked": "2026-06-03T08:43:01.642Z",
+      "last_checked": "2026-06-04T02:03:42.109Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCkirg3K9o212uh5BEt100NQ",
       "country": null,
@@ -866,7 +782,7 @@
       "last_youtube_livestreams": [
         "zcWXboTnous"
       ],
-      "last_checked": "2026-06-03T08:33:23.260Z",
+      "last_checked": "2026-06-04T02:27:12.149Z",
       "twitch": null,
       "website": "https://www.americatv.com.ar/vivo",
       "country": "ar",
@@ -914,7 +830,7 @@
       "signals": [],
       "youtube": "UCR30r2JHz2eqQlutmPzWfhw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:17:20.631Z",
+      "last_checked": "2026-06-04T02:03:42.109Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCR30r2JHz2eqQlutmPzWfhw",
       "country": null,
@@ -927,9 +843,9 @@
       "signals": [],
       "youtube": "UCGCZAYq5Xxojl_tSXcVJhiQ",
       "last_youtube_livestreams": [
-        "EzA-ba1Qjt4"
+        "NYCPqUNhRJo"
       ],
-      "last_checked": "2026-06-03T08:40:04.258Z",
+      "last_checked": "2026-06-04T02:34:16.364Z",
       "twitch": null,
       "website": "https://news.tv-asahi.co.jp/",
       "country": "jp",
@@ -973,7 +889,7 @@
       ],
       "youtube": "UCjTbJ6Obs0yWlL36lw-Tz8w",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:42:40.511Z",
+      "last_checked": "2026-06-04T02:36:55.555Z",
       "twitch": null,
       "website": "https://lorini.net/anzoateguitv/",
       "country": "ve",
@@ -1072,7 +988,7 @@
       "signals": [],
       "youtube": "UCo75W2AP1hnjUF4V_ovOAsg",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:40:51.738Z",
+      "last_checked": "2026-06-04T02:35:08.606Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCo75W2AP1hnjUF4V_ovOAsg",
       "country": "pe",
@@ -1152,7 +1068,7 @@
       "signals": [],
       "youtube": "UCAIEufoszs1J38-pKECORRg",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:34:08.420Z",
+      "last_checked": "2026-06-04T02:28:03.268Z",
       "twitch": null,
       "website": "https://www.bvnews24.com/live/",
       "country": "bd",
@@ -1172,7 +1088,7 @@
       "last_youtube_livestreams": [
         "3O5GfErItwA"
       ],
-      "last_checked": "2026-06-03T08:38:56.472Z",
+      "last_checked": "2026-06-04T02:33:14.079Z",
       "twitch": null,
       "website": "https://www.bbc.com/",
       "country": "gb",
@@ -1213,44 +1129,14 @@
         }
       ],
       "youtube": "UCelk6aHijZq-GJBBB9YpReA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:45:03.515Z",
+      "last_youtube_livestreams": [
+        "O1pGmVtj2Y8"
+      ],
+      "last_checked": "2026-06-04T02:33:14.079Z",
       "twitch": null,
       "website": "https://www.bbc.com/arabic",
       "country": "gb",
       "category": "news"
-    },
-    {
-      "id": "bbtv",
-      "name": "Radio Biobio TV",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Biobio_TV_logo.jpg",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://pantera1-100gb-cl-movistar.dps.live/bbclccp/bbclccp.smil/playlist.m3u8"
-        },
-        {
-          "type": "iframe",
-          "url": "https://rudo.video/live/bbtv"
-        },
-        {
-          "type": "iframe",
-          "url": "https://rudo.video/live/bbclccp"
-        }
-      ],
-      "youtube": "UCuvM3c8rmdApmk-g22shZ7w",
-      "last_youtube_livestreams": [
-        "Yev0fk7EL3Q"
-      ],
-      "last_checked": "2026-06-02T23:08:48.847Z",
-      "twitch": null,
-      "website": "https://www.biobiochile.cl/biobiotv/",
-      "country": "cl",
-      "category": "music"
     },
     {
       "id": "best-of-mix",
@@ -1413,7 +1299,7 @@
       "signals": [],
       "youtube": "UC2m4DRfY6YNlZnlEawQIQFw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:34:08.420Z",
+      "last_checked": "2026-06-04T02:28:03.268Z",
       "twitch": null,
       "website": "https://boliviaalairetv.com/",
       "country": "bo",
@@ -1435,7 +1321,7 @@
       ],
       "youtube": "UCKadCx-t_VmwzfWczlWE98w",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:34:08.420Z",
+      "last_checked": "2026-06-04T02:28:03.268Z",
       "twitch": null,
       "website": "https://www.boliviatv.bo/",
       "country": "bo",
@@ -1457,7 +1343,7 @@
       ],
       "youtube": "UCXxy-LshTr3NSoT7o3FBZyQ",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:34:08.420Z",
+      "last_checked": "2026-06-04T02:28:03.268Z",
       "twitch": null,
       "website": "https://www.redbolivision.tv.bo/",
       "country": "bo",
@@ -1472,7 +1358,7 @@
       "last_youtube_livestreams": [
         "M8DGZa5xX5A"
       ],
-      "last_checked": "2026-06-03T08:41:19.845Z",
+      "last_checked": "2026-06-04T02:02:02.995Z",
       "twitch": null,
       "website": "https://www.bolnews.com/live/",
       "country": "pk",
@@ -1485,9 +1371,9 @@
       "signals": [],
       "youtube": "UCBtpKi29d2LQTYJWTKPHAvg",
       "last_youtube_livestreams": [
-        "gty-X8aWmaI"
+        "sn6xvahpwx4"
       ],
-      "last_checked": "2026-06-03T08:34:19.825Z",
+      "last_checked": "2026-06-04T02:28:14.745Z",
       "twitch": null,
       "website": "https://www.bradojornal.com/",
       "country": "br",
@@ -1500,7 +1386,7 @@
       "signals": [],
       "youtube": "UC_49ElhhVd1BO7MsdBPm77Q",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:33:23.260Z",
+      "last_checked": "2026-06-04T02:27:12.149Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UC_49ElhhVd1BO7MsdBPm77Q",
       "country": "ar",
@@ -1544,9 +1430,9 @@
       "signals": [],
       "youtube": "UCk20PydKzK3giq80G4mqSeg",
       "last_youtube_livestreams": [
-        "LFg7WvR3OZA"
+        "1gDd8cFsS0A"
       ],
-      "last_checked": "2026-06-03T08:37:51.885Z",
+      "last_checked": "2026-06-04T02:31:58.491Z",
       "twitch": "fmbuenisima",
       "website": "https://www.youtube.com/channel/UCk20PydKzK3giq80G4mqSeg",
       "country": "co",
@@ -1583,7 +1469,7 @@
       "last_youtube_livestreams": [
         "VWhQ6xspnSc"
       ],
-      "last_checked": "2026-06-02T23:06:12.002Z",
+      "last_checked": "2026-06-04T02:07:13.875Z",
       "twitch": null,
       "website": "https://www.c5n.com/vivo",
       "country": "ar",
@@ -1598,7 +1484,7 @@
       "last_youtube_livestreams": [
         "99JIUNCOqWM"
       ],
-      "last_checked": "2026-06-02T23:06:12.002Z",
+      "last_checked": "2026-06-04T02:07:13.876Z",
       "twitch": null,
       "website": "https://www.cadena3.com/",
       "country": "ar",
@@ -1611,7 +1497,7 @@
       "signals": [],
       "youtube": "UCLCCMz3exOqYc59IN0VOLlA",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:38:21.721Z",
+      "last_checked": "2026-06-04T02:32:34.100Z",
       "twitch": null,
       "website": "https://www.laposta.ec/",
       "country": "ec",
@@ -1678,14 +1564,14 @@
       "last_youtube_livestreams": [
         "2vDowXZy9cc"
       ],
-      "last_checked": "2026-06-03T08:38:39.312Z",
+      "last_checked": "2026-06-04T02:32:52.522Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UC30mmDZa-tMpIS-cIXoErsA",
       "country": "es",
       "category": "outdoor"
     },
     {
-      "id": "canal-1-ñuble",
+      "id": "canal-1-nuble",
       "name": "Canal 1 Ñuble",
       "logo": "https://images.squarespace-cdn.com/content/v1/670e696722c95f04171e0924/c9b5d2ac-2f70-40e1-beed-78d39108f657/_Canal+Uno_.png",
       "signals": [
@@ -1858,7 +1744,7 @@
       ],
       "youtube": "UChatdaBWG_Un5wN4Oiw6SfQ",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:42:40.511Z",
+      "last_checked": "2026-06-04T02:36:55.555Z",
       "twitch": null,
       "website": "https://www.canal21tachira.com/tv/",
       "country": "ve",
@@ -1871,9 +1757,9 @@
       "signals": [],
       "youtube": "UCrpMfcQNog595v5gAS-oUsQ",
       "last_youtube_livestreams": [
-        "q-Ae-pATbIU"
+        "-Q2B6s-S2ow"
       ],
-      "last_checked": "2026-06-02T23:06:12.002Z",
+      "last_checked": "2026-06-04T02:07:13.876Z",
       "twitch": null,
       "website": "https://www.canal26.com/canal26-en-vivo",
       "country": "ar",
@@ -2075,9 +1961,9 @@
       ],
       "youtube": "UCacTCU_5Z-5YgoKiJJHn9eQ",
       "last_youtube_livestreams": [
-        "meRH405HWN8"
+        "oVTbbguH5bc"
       ],
-      "last_checked": "2026-06-03T08:37:51.885Z",
+      "last_checked": "2026-06-04T02:31:58.491Z",
       "twitch": null,
       "website": "https://www.canalinstitucional.tv/",
       "country": "co",
@@ -2090,7 +1976,7 @@
       "signals": [],
       "youtube": "UCzfV4_Fh7BEZxYsqe-vUjNw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:38:21.721Z",
+      "last_checked": "2026-06-04T02:32:34.100Z",
       "twitch": null,
       "website": "https://canaltvdigitalonline.com/",
       "country": "ec",
@@ -2134,7 +2020,7 @@
       "signals": [],
       "youtube": "UCVHQZIlc766KbxpKQK1on6Q",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:06:12.003Z",
+      "last_checked": "2026-06-04T02:07:13.876Z",
       "twitch": null,
       "website": "https://www.carburando.com/",
       "country": "ar",
@@ -2289,7 +2175,7 @@
       "last_youtube_livestreams": [
         "5vfaDsMhCF4"
       ],
-      "last_checked": "2026-06-03T08:34:30.335Z",
+      "last_checked": "2026-06-04T02:28:26.338Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCuFFtHWoLl5fauMMD5Ww2jA",
       "country": "ca",
@@ -2329,7 +2215,7 @@
       "last_youtube_livestreams": [
         "LJgXwC-AKu8"
       ],
-      "last_checked": "2026-06-03T08:37:46.219Z",
+      "last_checked": "2026-06-04T02:31:52.749Z",
       "twitch": null,
       "website": "https://www.cgtn.com/",
       "country": "cn",
@@ -2344,7 +2230,7 @@
       "last_youtube_livestreams": [
         "d4zDorDl5UE"
       ],
-      "last_checked": "2026-06-03T08:34:30.335Z",
+      "last_checked": "2026-06-04T02:28:26.339Z",
       "twitch": null,
       "website": "https://www.channelstv.com/live",
       "country": "cf",
@@ -2492,7 +2378,7 @@
       "last_youtube_livestreams": [
         "TCnaIE_SAtM"
       ],
-      "last_checked": "2026-06-03T08:37:46.219Z",
+      "last_checked": "2026-06-04T02:31:52.749Z",
       "twitch": null,
       "website": "https://www.ctv.com.tw/",
       "country": "cn",
@@ -2553,7 +2439,7 @@
       "signals": [],
       "youtube": "UCDPbA7nEEmzhRb5NnItyKag",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:40:46.226Z",
+      "last_checked": "2026-06-04T02:35:03.831Z",
       "twitch": "circulotv",
       "website": "https://www.youtube.com/channel/UCDPbA7nEEmzhRb5NnItyKag",
       "country": "pa",
@@ -2565,10 +2451,8 @@
       "logo": "https://graph.facebook.com/C21.Karachi/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCB-8E662xOk1I3-wdhTMNiw",
-      "last_youtube_livestreams": [
-        "yNWyn_lxJY4"
-      ],
-      "last_checked": "2026-06-03T08:41:19.845Z",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-04T02:02:02.995Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw",
       "country": "pk",
@@ -2625,7 +2509,7 @@
       "last_youtube_livestreams": [
         "XWq5kBlakcQ"
       ],
-      "last_checked": "2026-06-03T08:41:37.918Z",
+      "last_checked": "2026-06-04T02:35:59.151Z",
       "twitch": null,
       "website": "https://www.channelnewsasia.com/",
       "country": "sg",
@@ -2686,15 +2570,7 @@
       "signals": [
         {
           "type": "m3u8",
-          "url": "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://jireh-4-hls-video-cl-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8"
+          "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8"
         },
         {
           "type": "iframe",
@@ -2742,7 +2618,7 @@
       "last_youtube_livestreams": [
         "Qr61waJ6AZg"
       ],
-      "last_checked": "2026-06-03T08:38:39.312Z",
+      "last_checked": "2026-06-04T02:32:52.522Z",
       "twitch": null,
       "website": "https://cnnespanol.cnn.com/",
       "country": "es",
@@ -2889,7 +2765,7 @@
       "last_youtube_livestreams": [
         "JC7f3EUDaqw"
       ],
-      "last_checked": "2026-06-02T23:06:12.003Z",
+      "last_checked": "2026-06-04T02:09:00.472Z",
       "twitch": null,
       "website": "https://www.cronica.com.ar/cronica-en-vivo/",
       "country": "ar",
@@ -2926,7 +2802,7 @@
       "last_youtube_livestreams": [
         "meHTKm4XBS8"
       ],
-      "last_checked": "2026-06-03T08:41:44.501Z",
+      "last_checked": "2026-06-04T02:35:59.151Z",
       "twitch": null,
       "website": "https://news.cts.com.tw/",
       "country": "tw",
@@ -2941,7 +2817,7 @@
       "last_youtube_livestreams": [
         "RVvYQghFCXk"
       ],
-      "last_checked": "2026-06-03T08:40:09.194Z",
+      "last_checked": "2026-06-04T02:34:22.580Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCQKQTgZJo3PlxA-9V1Z51XA",
       "country": "kr",
@@ -3043,9 +2919,9 @@
       "signals": [],
       "youtube": "UCLtGUPjKLqa3zgdmhKCZONg",
       "last_youtube_livestreams": [
-        "5iFHd29WTj0"
+        "YgVllRdDJPI"
       ],
-      "last_checked": "2026-06-03T08:40:51.738Z",
+      "last_checked": "2026-06-04T02:01:34.934Z",
       "twitch": null,
       "website": "https://elcomercio.pe",
       "country": "pe",
@@ -3084,7 +2960,7 @@
       "signals": [],
       "youtube": "UC4dWvSKVWJ36tJyhjDQCCaQ",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:06:12.003Z",
+      "last_checked": "2026-06-04T02:09:24.404Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UC4dWvSKVWJ36tJyhjDQCCaQ",
       "country": "ar",
@@ -3148,8 +3024,10 @@
         }
       ],
       "youtube": "UCnMBV5Iw4WqKILKue1nP6Hg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:45:48.022Z",
+      "last_youtube_livestreams": [
+        "e2XVSUYh4S0"
+      ],
+      "last_checked": "2026-06-04T02:02:02.995Z",
       "twitch": null,
       "website": "https://dunyanews.tv/live/",
       "country": "pk",
@@ -3164,7 +3042,7 @@
       "last_youtube_livestreams": [
         "AGkp2AL8e7o"
       ],
-      "last_checked": "2026-06-03T08:38:11.910Z",
+      "last_checked": "2026-06-04T02:32:28.499Z",
       "twitch": null,
       "website": "https://www.dw.com/ar",
       "country": "de",
@@ -3179,7 +3057,7 @@
       "last_youtube_livestreams": [
         "LuKwFajn37U"
       ],
-      "last_checked": "2026-06-03T08:38:11.910Z",
+      "last_checked": "2026-06-04T02:32:28.499Z",
       "twitch": null,
       "website": "https://www.dw.com/en",
       "country": "de",
@@ -3196,8 +3074,10 @@
         }
       ],
       "youtube": "UCT4Jg8h03dD0iN3Pb5L0PMA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:44:48.980Z",
+      "last_youtube_livestreams": [
+        "yZh3xsFqCt8"
+      ],
+      "last_checked": "2026-06-04T02:32:28.499Z",
       "twitch": null,
       "website": "https://www.dw.com/es",
       "country": "de",
@@ -3268,10 +3148,8 @@
       "logo": "https://graph.facebook.com/ElDestapeWeb/picture?width=800&height=800",
       "signals": [],
       "youtube": "UC5wAqJ9NF0fpGH9dVf3h6HA",
-      "last_youtube_livestreams": [
-        "k1eyjC3Htk4"
-      ],
-      "last_checked": "2026-06-02T23:06:35.217Z",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-04T02:09:24.405Z",
       "twitch": "eldestaperadio",
       "website": "https://www.eldestapeweb.com/",
       "country": "ar",
@@ -3286,7 +3164,7 @@
       "last_youtube_livestreams": [
         "nndzeKDSjuc"
       ],
-      "last_checked": "2026-06-02T23:06:35.218Z",
+      "last_checked": "2026-06-04T02:09:24.405Z",
       "twitch": null,
       "website": "https://eldoce.tv/vivo/",
       "country": "ar",
@@ -3327,7 +3205,7 @@
       "last_youtube_livestreams": [
         "erYP3EDTWV0"
       ],
-      "last_checked": "2026-06-02T23:06:35.218Z",
+      "last_checked": "2026-06-04T02:09:24.406Z",
       "twitch": null,
       "website": "https://www.ellitoral.com/",
       "country": "ar",
@@ -3474,7 +3352,7 @@
       "last_youtube_livestreams": [
         "pykpO5kQJ98"
       ],
-      "last_checked": "2026-06-03T08:38:45.582Z",
+      "last_checked": "2026-06-04T02:33:03.377Z",
       "twitch": null,
       "website": "https://www.euronews.com/",
       "country": "fr",
@@ -3491,8 +3369,10 @@
         }
       ],
       "youtube": "UCyoGb3SMlTlB8CLGVH4c8Rw",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:44:57.923Z",
+      "last_youtube_livestreams": [
+        "O9mOtdZ-nSk"
+      ],
+      "last_checked": "2026-06-04T02:33:03.377Z",
       "twitch": null,
       "website": "https://es.euronews.com/",
       "country": "fr",
@@ -3504,8 +3384,10 @@
       "logo": null,
       "signals": [],
       "youtube": "UC4Ct8gIf9f0n4mdyGsFiZRA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:44:57.923Z",
+      "last_youtube_livestreams": [
+        "jAn7L2Kt32U"
+      ],
+      "last_checked": "2026-06-04T02:33:03.377Z",
       "twitch": null,
       "website": "https://hu.euronews.com/",
       "country": "fr",
@@ -3767,9 +3649,9 @@
       ],
       "youtube": "UC0vn8ISa4LKMunLbzaXLnOQ",
       "last_youtube_livestreams": [
-        "L-waqVRpGyw"
+        "QliL4CGc7iY"
       ],
-      "last_checked": "2026-06-03T08:38:56.472Z",
+      "last_checked": "2026-06-04T02:33:14.079Z",
       "twitch": null,
       "website": "https://www.gbnews.com/watch/live",
       "country": "gb-eng",
@@ -3835,7 +3717,7 @@
       "last_youtube_livestreams": [
         "rvtygG4n6ew"
       ],
-      "last_checked": "2026-06-03T08:38:11.910Z",
+      "last_checked": "2026-06-04T02:32:22.330Z",
       "twitch": "globalquake",
       "website": "https://globalquake.net/",
       "country": "cz",
@@ -3899,7 +3781,7 @@
       ],
       "youtube": "UC3r9EG2f85nh9BaqmDU20VA",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:43:21.252Z",
+      "last_checked": "2026-06-04T02:07:56.276Z",
       "twitch": "gogoplaytve",
       "website": "https://www.gogoplaytv.com/",
       "country": "bo",
@@ -3947,9 +3829,9 @@
       "signals": [],
       "youtube": "UCRC3upGcj_decdPi7JXT7Bg",
       "last_youtube_livestreams": [
-        "NcpKjvzsv8g"
+        "IHhbt8aNrgo"
       ],
-      "last_checked": "2026-06-03T08:34:19.825Z",
+      "last_checked": "2026-06-04T02:28:14.745Z",
       "twitch": null,
       "website": "https://gauchazh.clicrbs.com.br/",
       "country": "br",
@@ -3964,7 +3846,7 @@
       "last_youtube_livestreams": [
         "jOp_aAXsYmE"
       ],
-      "last_checked": "2026-06-03T08:41:51.151Z",
+      "last_checked": "2026-06-04T02:36:06.088Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCTLF36lXVM7uiR-VolWHv0Q",
       "country": "us-hi",
@@ -3985,8 +3867,10 @@
         }
       ],
       "youtube": "UCIs6fmAXOI1K2jgkoBdWveg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:39:01.805Z",
+      "last_youtube_livestreams": [
+        "nKC3egcQQVY"
+      ],
+      "last_checked": "2026-06-04T02:33:14.079Z",
       "twitch": null,
       "website": "https://hch.tv/live/",
       "country": "hn",
@@ -4068,7 +3952,7 @@
       "last_youtube_livestreams": [
         "tvgbZZYS4Nk"
       ],
-      "last_checked": "2026-06-03T08:40:04.258Z",
+      "last_checked": "2026-06-04T02:00:46.654Z",
       "twitch": null,
       "website": "https://www.htb.co.jp/news/",
       "country": "jp",
@@ -4103,7 +3987,7 @@
       "signals": [],
       "youtube": "UCqURueAPBefOz3YhpfDErmw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:40:51.739Z",
+      "last_checked": "2026-06-04T02:01:34.934Z",
       "twitch": null,
       "website": "https://www.ideeleradio.pe/",
       "country": "pe",
@@ -4257,7 +4141,7 @@
       "last_youtube_livestreams": [
         "Sa0UpjTdJT4"
       ],
-      "last_checked": "2026-06-03T08:40:41.039Z",
+      "last_checked": "2026-06-04T02:35:03.831Z",
       "twitch": "inquizex",
       "website": null,
       "country": "nz",
@@ -4399,6 +4283,21 @@
       "website": "https://www.youtube.com/channel/UCCETFebKrX0wIkA9lbqvoNA",
       "country": "mx",
       "category": "news"
+    },
+    {
+      "id": "jm-reviewer-5700",
+      "name": "jm-reviewer-5700 (Monitor sísmico)",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCzXbfbZ3HHSnYKS-roQByPA",
+      "last_youtube_livestreams": [
+        "RTC5oJLw11s"
+      ],
+      "last_checked": "2026-06-04T02:11:46.792Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCzXbfbZ3HHSnYKS-roQByPA",
+      "country": "cl",
+      "category": "outdoor"
     },
     {
       "id": "kairalinews",
@@ -4581,8 +4480,10 @@
       "logo": null,
       "signals": [],
       "youtube": "UC-B7Xv56uNRDkj0vC3QW8Cg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:45:39.734Z",
+      "last_youtube_livestreams": [
+        "t1I0jJ_OUHc"
+      ],
+      "last_checked": "2026-06-04T02:01:34.934Z",
       "twitch": null,
       "website": "https://larepublica.pe/",
       "country": "pe",
@@ -5129,8 +5030,10 @@
         }
       ],
       "youtube": "UCblZy4UUsMlqv4gSCNslpWw",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:39:01.805Z",
+      "last_youtube_livestreams": [
+        "eyO9YbQuYVo"
+      ],
+      "last_checked": "2026-06-04T01:59:40.810Z",
       "twitch": null,
       "website": "https://www.lametrohn.com/",
       "country": "hn",
@@ -5194,7 +5097,7 @@
       "last_youtube_livestreams": [
         "y9W8noy1Z5A"
       ],
-      "last_checked": "2026-06-03T08:38:11.909Z",
+      "last_checked": "2026-06-04T02:32:22.330Z",
       "twitch": null,
       "website": "https://www.telediario.cr/television",
       "country": "cr",
@@ -5265,8 +5168,10 @@
       "logo": null,
       "signals": [],
       "youtube": "UC9X6gGKDv2yhMoofoeS7-Gg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:43:30.319Z",
+      "last_youtube_livestreams": [
+        "ME0dPuBtzug"
+      ],
+      "last_checked": "2026-06-04T02:08:13.277Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UC9X6gGKDv2yhMoofoeS7-Gg",
       "country": "cf",
@@ -5645,7 +5550,7 @@
       "last_youtube_livestreams": [
         "f0lYkdA-Gtw"
       ],
-      "last_checked": "2026-06-03T08:40:04.258Z",
+      "last_checked": "2026-06-04T02:00:46.654Z",
       "twitch": null,
       "website": "https://www3.nhk.or.jp/nhkworld/en/live/",
       "country": "jp",
@@ -6417,6 +6322,28 @@
       "category": "music"
     },
     {
+      "id": "radio-adn",
+      "name": "Radio ADN",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c2/ADN_Radio_Chile.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/adntv"
+        }
+      ],
+      "youtube": "UCczkrFICr0xEgDsk51zZojA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-04T02:28:32.497Z",
+      "twitch": null,
+      "website": "https://www.adnradio.cl/noticias/videos/",
+      "country": "cl",
+      "category": "music"
+    },
+    {
       "id": "radio-ae",
       "name": "Radio AE Radio DuocUC",
       "logo": "https://www.aeradio.cl/wp-content/uploads/2024/04/AE-RADIO-2024.png",
@@ -6457,6 +6384,38 @@
       "website": "https://radioamerica.cl/radio-tv-online/",
       "country": "cl",
       "category": "general"
+    },
+    {
+      "id": "radio-bbtv",
+      "name": "Radio Biobio TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Biobio_TV_logo.jpg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/bbclccp/bbclccp.smil/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/bbtv"
+        },
+        {
+          "type": "iframe",
+          "url": "https://rudo.video/live/bbclccp"
+        }
+      ],
+      "youtube": "UCuvM3c8rmdApmk-g22shZ7w",
+      "last_youtube_livestreams": [
+        "Yev0fk7EL3Q"
+      ],
+      "last_checked": "2026-06-02T23:08:48.847Z",
+      "twitch": null,
+      "website": "https://www.biobiochile.cl/biobiotv/",
+      "country": "cl",
+      "category": "music"
     },
     {
       "id": "radio-el-conquistador",
@@ -7000,7 +6959,7 @@
       "signals": [],
       "youtube": "UCynDLZ-YJnrMLSQvwYi-bUA",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:19:12.550Z",
+      "last_checked": "2026-06-04T02:00:46.654Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCynDLZ-YJnrMLSQvwYi-bUA",
       "country": "jp",
@@ -7056,7 +7015,7 @@
       "last_youtube_livestreams": [
         "Bnd-O7I-2hc"
       ],
-      "last_checked": "2026-06-03T08:34:19.826Z",
+      "last_checked": "2026-06-04T02:28:14.745Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw",
       "country": "br",
@@ -7086,8 +7045,10 @@
       "logo": "https://graph.facebook.com/redebrasiloficial/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCubxEhRi56_V4_eTzzcFwkA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:43:25.633Z",
+      "last_youtube_livestreams": [
+        "YUEV2EBe8eg"
+      ],
+      "last_checked": "2026-06-04T02:08:08.402Z",
       "twitch": null,
       "website": "https://tv.redebrasiloficial.com.br/",
       "country": "br",
@@ -7298,6 +7259,21 @@
       "category": "outdoor"
     },
     {
+      "id": "santiagocamquake",
+      "name": "SantiagoCamQuake (Monitor sísmico)",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCb9_sOwAiakvxWEKDqe0r3g",
+      "last_youtube_livestreams": [
+        "bgmR3W4eXic"
+      ],
+      "last_checked": "2026-06-04T02:14:53.487Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCb9_sOwAiakvxWEKDqe0r3g",
+      "country": "cl",
+      "category": "outdoor"
+    },
+    {
       "id": "sembrador",
       "name": "Radio El Sembrador",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Radio_El_Sembrador.png",
@@ -7445,7 +7421,7 @@
       "last_youtube_livestreams": [
         "uOntga5OQrs"
       ],
-      "last_checked": "2026-06-03T08:41:44.501Z",
+      "last_checked": "2026-06-04T02:36:06.088Z",
       "twitch": null,
       "website": "https://suspilne.media/",
       "country": "ua",
@@ -7660,7 +7636,7 @@
       "last_youtube_livestreams": [
         "fPqN0CI62F0"
       ],
-      "last_checked": "2026-06-03T08:41:37.918Z",
+      "last_checked": "2026-06-04T02:35:59.151Z",
       "twitch": null,
       "website": "https://www.esmitv.com/",
       "country": "sv",
@@ -8268,9 +8244,9 @@
       "signals": [],
       "youtube": "UC7fWeaHhqgM4Ry-RMpM2YYw",
       "last_youtube_livestreams": [
-        "eIBtiuI1eQ8"
+        "oNUi_iXNPeo"
       ],
-      "last_checked": "2026-06-03T08:41:44.500Z",
+      "last_checked": "2026-06-04T02:35:59.151Z",
       "twitch": null,
       "website": "https://www.trtworld.com/",
       "country": "tr",
@@ -8282,8 +8258,10 @@
       "logo": "https://graph.facebook.com/brasil247/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCRuy5PigeeBuecKnwqhM4yg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:43:25.633Z",
+      "last_youtube_livestreams": [
+        "JeSEYtEgeUI"
+      ],
+      "last_checked": "2026-06-04T02:08:08.402Z",
       "twitch": null,
       "website": "https://www.brasil247.com/",
       "country": "br",
@@ -8316,7 +8294,7 @@
       "signals": [],
       "youtube": "UCJ4uxK_mo6gNoqk9cyvgWkw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:43:25.633Z",
+      "last_checked": "2026-06-04T02:08:08.402Z",
       "twitch": null,
       "website": "https://tvcorreio.com.br/",
       "country": "br",
@@ -8364,8 +8342,10 @@
       "logo": "https://graph.facebook.com/forumrevista/picture?width=800&height=800",
       "signals": [],
       "youtube": "UC3sMBA3BdnsKSVI0WB9yVWQ",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:43:25.633Z",
+      "last_youtube_livestreams": [
+        "d05Gb_yExpo"
+      ],
+      "last_checked": "2026-06-04T02:08:08.402Z",
       "twitch": null,
       "website": "https://revistaforum.com.br/",
       "country": "br",
@@ -9060,7 +9040,7 @@
       "signals": [],
       "youtube": "UCcL-6daOBkp8E_sCJLxCXLg",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:38:17.210Z",
+      "last_checked": "2026-06-04T02:32:34.100Z",
       "twitch": null,
       "website": "https://unanuevamanana.com/",
       "country": "do",
@@ -9271,9 +9251,9 @@
       "signals": [],
       "youtube": "UC7E-LYc1wivk33iyt5bR5zQ",
       "last_youtube_livestreams": [
-        "42IhnYhb15A"
+        "03pYP2Nmreo"
       ],
-      "last_checked": "2026-06-03T08:39:46.098Z",
+      "last_checked": "2026-06-04T02:34:06.066Z",
       "twitch": null,
       "website": "https://www.vaticannews.va/en.html",
       "country": "it",
@@ -9288,7 +9268,7 @@
       "last_youtube_livestreams": [
         "8ZHkzW1TeZ8"
       ],
-      "last_checked": "2026-06-02T23:18:47.906Z",
+      "last_checked": "2026-06-04T02:34:06.066Z",
       "twitch": null,
       "website": "https://www.vaticannews.va/en.html",
       "country": "it",
@@ -9301,7 +9281,7 @@
       "signals": [],
       "youtube": "UCRvmnuS6-wC2ZkAjh2tNK7w",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:18:47.906Z",
+      "last_checked": "2026-06-04T02:34:06.066Z",
       "twitch": null,
       "website": "https://www.vaticannews.va/en.html",
       "country": "it",
@@ -9458,6 +9438,21 @@
       "website": "https://canalviax.com/",
       "country": "cl",
       "category": "music"
+    },
+    {
+      "id": "videos-online-chile",
+      "name": "Videos Online Chile (Los Andes, Colina)",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCkAERiBpuFM5OB2GYgLnHEA",
+      "last_youtube_livestreams": [
+        "EmqBVH7f0sc"
+      ],
+      "last_checked": "2026-06-04T02:24:11.829Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCkAERiBpuFM5OB2GYgLnHEA",
+      "country": "cl",
+      "category": "outdoor"
     },
     {
       "id": "virgin-galactic",
@@ -9653,8 +9648,10 @@
       "logo": "https://graph.facebook.com/wearediamond1/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCrFFy9BMtlNsg2wsa4XbTPg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:44:48.980Z",
+      "last_youtube_livestreams": [
+        "v-KQZ1KZcEo"
+      ],
+      "last_checked": "2026-06-04T02:32:28.500Z",
       "twitch": null,
       "website": "https://wearediamond.net/",
       "country": "de",
