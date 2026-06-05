@@ -193,9 +193,9 @@
       ],
       "youtube": "UCTXNz3gjAypWp3EhlIATEJQ",
       "last_youtube_livestreams": [
-        "ZBYb2yOaAl4"
+        "xE_ap6IQRRc"
       ],
-      "last_checked": "2026-06-04T02:28:32.497Z",
+      "last_checked": "2026-06-05T19:46:45.734Z",
       "twitch": "24horas_tvn",
       "website": "https://www.24horas.cl/envivo/",
       "category": "news"
@@ -216,7 +216,7 @@
       ],
       "youtube": "UCczkrFICr0xEgDsk51zZojA",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-04T02:28:32.497Z",
+      "last_checked": "2026-06-05T19:46:45.734Z",
       "twitch": null,
       "website": "https://www.adnradio.cl/noticias/videos/",
       "category": "music"
@@ -248,8 +248,10 @@
         }
       ],
       "youtube": "UCBkkqRIsRTbio4W7MwAZiEw",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-04T02:28:32.497Z",
+      "last_youtube_livestreams": [
+        "16FWJrhlMEI"
+      ],
+      "last_checked": "2026-06-05T19:46:45.734Z",
       "twitch": null,
       "website": "https://www.radioagricultura.cl/en-vivo-3/",
       "category": "music"
@@ -2207,7 +2209,7 @@
           "url": "https://v2.tustreaming.cl:2000/VideoPlayer/alingeproducciones"
         }
       ],
-      "youtube": "UClY0gqaC6RGdNHU6hcG-GYw",
+      "youtube": "UC3dG9mBHtxmAqhsznCRPCsA",
       "last_youtube_livestreams": [],
       "last_checked": "2026-06-02T23:11:34.940Z",
       "twitch": null,
@@ -3080,9 +3082,11 @@
       "signals": [],
       "youtube": "UCJwtKyJIfr31zI077EnQTXg",
       "last_youtube_livestreams": [
-        "ORsqDTBcTXk"
+        "ORsqDTBcTXk",
+        "OBXlRTqn56o",
+        "3iRiMhMC2GY"
       ],
-      "last_checked": "2026-06-02T23:12:44.599Z",
+      "last_checked": "2026-06-05T19:43:33.378Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCJwtKyJIfr31zI077EnQTXg",
       "category": "entertainment"

@@ -7,8 +7,10 @@
       "logo": "https://graph.facebook.com/1000noticiaspy/picture?width=800&height=800",
       "signals": [],
       "youtube": "UC7US6YiqeUQ3CWOgFsplSfg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-04T02:35:47.254Z",
+      "last_youtube_livestreams": [
+        "QiwafFeD7kY"
+      ],
+      "last_checked": "2026-06-05T19:55:43.649Z",
       "twitch": null,
       "website": "https://1000noticias.com.py/",
       "category": "news"
@@ -29,9 +31,9 @@
       ],
       "youtube": "UCEklbFbPoMaV1ciEb-0mAxg",
       "last_youtube_livestreams": [
-        "rwhjjUpJhBY"
+        "W7r-T8t1Mq0"
       ],
-      "last_checked": "2026-06-04T02:35:47.254Z",
+      "last_checked": "2026-06-05T19:55:43.649Z",
       "twitch": "abc_py",
       "website": "https://www.abc.com.py/",
       "category": "general"

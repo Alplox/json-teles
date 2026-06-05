@@ -630,11 +630,11 @@ https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m
 #EXTINF:-1 tvg-name="Panamericana TV" tvg-logo="" group-title="news", Panamericana TV [PE]
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-name="Radio Onda Digital" tvg-logo="" group-title="music", Radio Onda Digital [PE]
-https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+https://tv.ondadigital.pe/ondadigital/video.m3u8
 #EXTINF:-1 tvg-name="Radio Tropical 99.1 FM" tvg-logo="" group-title="music", Radio Tropical 99.1 FM [PE]
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-#EXTINF:-1 tvg-name="RTV TOTAL YURIMAGUAS" tvg-logo="https://graph.facebook.com/rtvtotal/picture?width=800&height=800" group-title="news", RTV TOTAL YURIMAGUAS [PE]
-https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+#EXTINF:-1 tvg-name="RTV TOTAL" tvg-logo="https://graph.facebook.com/rtvtotalyurimaguas/picture?width=800&height=800" group-title="news", RTV TOTAL [PE]
+https://live.obslivestream.com/rtvtotal/index.m3u8
 #EXTINF:-1 tvg-name="Radio San Borja Tv" tvg-logo="" group-title="music", Radio San Borja Tv (1) [PE]
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio San Borja Tv" tvg-logo="" group-title="music", Radio San Borja Tv (2) [PE]
@@ -695,23 +695,7 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
 #EXTINF:-1 tvg-name="Globovisión En Vivo" tvg-logo="" group-title="news", Globovisión En Vivo [VE]
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
-#EXTINF:-1 tvg-name="TeleSUR" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=800&height=800" group-title="news", TeleSUR (1) [VE]
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-name="TeleSUR" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=800&height=800" group-title="news", TeleSUR (2) [VE]
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 tvg-name="TeleSUR" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=800&height=800" group-title="news", TeleSUR (3) [VE]
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8
-#EXTINF:-1 tvg-name="TeleSUR English" tvg-logo="https://graph.facebook.com/telesurenglish/picture?width=800&height=800" group-title="news", TeleSUR English (1) [VE]
-https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 tvg-name="TeleSUR English" tvg-logo="https://graph.facebook.com/telesurenglish/picture?width=800&height=800" group-title="news", TeleSUR English (2) [VE]
-https://cdnenmain.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
-#EXTINF:-1 tvg-name="TeleSUR English" tvg-logo="https://graph.facebook.com/telesurenglish/picture?width=800&height=800" group-title="news", TeleSUR English (3) [VE]
-https://cdnenmain.telesur.ultrabase.net/mblivev3/360p/playlist.m3u8
-#EXTINF:-1 tvg-name="teleSURtv" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=800&height=800" group-title="news", teleSURtv (1) [VE]
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-name="teleSURtv" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=800&height=800" group-title="news", teleSURtv (2) [VE]
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 tvg-name="teleSURtv" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=800&height=800" group-title="news", teleSURtv (3) [VE]
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8
+#EXTINF:-1 tvg-name="teleSURtv" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=800&height=800" group-title="news", teleSURtv [VE]
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-name="TelevenTV" tvg-logo="https://graph.facebook.com/TelevenTV/picture?width=800&height=800" group-title="news", TelevenTV [VE]
 https://vcp2.myplaytv.com/televen/televen/playlist.m3u8

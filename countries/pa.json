@@ -8,7 +8,7 @@
       "signals": [],
       "youtube": "UC4RoqlERckC4gIhLEGb9Jjw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-04T02:35:03.831Z",
+      "last_checked": "2026-06-05T19:54:41.947Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UC4RoqlERckC4gIhLEGb9Jjw",
       "category": "news"
@@ -20,7 +20,7 @@
       "signals": [],
       "youtube": "UCDPbA7nEEmzhRb5NnItyKag",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-04T02:35:03.831Z",
+      "last_checked": "2026-06-05T19:54:41.947Z",
       "twitch": "circulotv",
       "website": "https://www.youtube.com/channel/UCDPbA7nEEmzhRb5NnItyKag",
       "category": "news"
@@ -31,8 +31,10 @@
       "logo": null,
       "signals": [],
       "youtube": "UCH70iZotY9DHPZA_XCJbXGQ",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:40:46.226Z",
+      "last_youtube_livestreams": [
+        "EEqT3dBGk4M"
+      ],
+      "last_checked": "2026-06-05T19:54:41.947Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCH70iZotY9DHPZA_XCJbXGQ",
       "category": "news"

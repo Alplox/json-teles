@@ -10,7 +10,7 @@
       "last_youtube_livestreams": [
         "d6sRTSG4rgs"
       ],
-      "last_checked": "2026-06-04T02:34:29.065Z",
+      "last_checked": "2026-06-05T19:53:52.253Z",
       "twitch": null,
       "website": "https://live.adn40.mx/",
       "category": "news"
@@ -21,8 +21,10 @@
       "logo": "https://graph.facebook.com/AhoraNoticiasC/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCn161AaU20-UcYeDEvDJyyA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-04T02:34:29.065Z",
+      "last_youtube_livestreams": [
+        "kNrz-isoJAE"
+      ],
+      "last_checked": "2026-06-05T19:53:52.253Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCn161AaU20-UcYeDEvDJyyA",
       "category": "news"
@@ -34,7 +36,7 @@
       "signals": [],
       "youtube": "UCafNntv_qTQB26AvbEQNHPw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:40:15.009Z",
+      "last_checked": "2026-06-05T19:53:52.253Z",
       "twitch": null,
       "website": "https://www.aristeguinoticias.com/",
       "category": "news"
@@ -219,8 +221,10 @@
       "name": "Oro Noticias Puebla",
       "logo": "https://graph.facebook.com/OroNoticias/picture?width=800&height=800",
       "signals": [],
-      "youtube": "UCiJ9v3AalnGScbn9VrhDF7A",
-      "last_youtube_livestreams": [],
+      "youtube": "UCOjChVvnG_Ux5jNVcvgDazQ",
+      "last_youtube_livestreams": [
+        "as0RbWr6SDU"
+      ],
       "last_checked": "2026-06-02T23:20:00.861Z",
       "twitch": null,
       "website": "https://oronoticiaspuebla.com/",
@@ -318,11 +322,11 @@
           "url": "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8"
         }
       ],
-      "youtube": "UCHGuWaXCZMoRn8QV9pimEsw",
+      "youtube": "UC0D6OEoyyKIhNaJmqHj9FBA",
       "last_youtube_livestreams": [],
       "last_checked": "2026-06-02T23:20:00.861Z",
       "twitch": null,
-      "website": "https://ryta.com.mx/envivo/",
+      "website": "https://ryta.com.mx/",
       "category": "news"
     }
   ]

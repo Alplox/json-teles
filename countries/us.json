@@ -13,9 +13,10 @@
       ],
       "youtube": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "last_youtube_livestreams": [
-        "yGYg_S9Zky4"
+        "fv-gLPFw8KI",
+        "iipR5yUp36o"
       ],
-      "last_checked": "2026-06-04T02:36:06.089Z",
+      "last_checked": "2026-06-05T19:56:01.241Z",
       "twitch": null,
       "website": "https://abcnews.go.com/Live",
       "category": "news"
@@ -27,23 +28,15 @@
       "signals": [],
       "youtube": "UCDmNmxF3ZVMeGyvWE9tOqPQ",
       "last_youtube_livestreams": [
-        "SDK_m1_BVJ4"
+        "SDK_m1_BVJ4",
+        "UqrwUKSkMEE",
+        "HkHhXsWci7Q",
+        "8uCTDszkENs",
+        "wUQc3RoLAPs"
       ],
-      "last_checked": "2026-06-04T02:02:29.807Z",
+      "last_checked": "2026-06-05T19:56:01.241Z",
       "twitch": null,
       "website": "https://abc13.com/watch/live/",
-      "category": "news"
-    },
-    {
-      "id": "abc7-swfl",
-      "name": "ABC7 SWFL",
-      "logo": null,
-      "signals": [],
-      "youtube": "UCq9e_hCv2jvgck8WowW1NXg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-04T02:02:29.808Z",
-      "twitch": null,
-      "website": "https://www.abc-7.com/",
       "category": "news"
     },
     {

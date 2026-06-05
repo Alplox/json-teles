@@ -8,7 +8,7 @@
       "signals": [],
       "youtube": "UCLCCMz3exOqYc59IN0VOLlA",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-04T02:32:34.100Z",
+      "last_checked": "2026-06-05T19:51:49.061Z",
       "twitch": null,
       "website": "https://www.laposta.ec/",
       "category": "news"
@@ -20,7 +20,7 @@
       "signals": [],
       "youtube": "UCzfV4_Fh7BEZxYsqe-vUjNw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-04T02:32:34.100Z",
+      "last_checked": "2026-06-05T19:51:49.061Z",
       "twitch": null,
       "website": "https://canaltvdigitalonline.com/",
       "category": "news"
@@ -41,7 +41,7 @@
       ],
       "youtube": "UCH5499PHqkqKPsGEUJl5lZg",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:38:21.721Z",
+      "last_checked": "2026-06-05T19:51:49.061Z",
       "twitch": null,
       "website": "https://catomedia.net/",
       "category": "news"
@@ -91,7 +91,7 @@
       "category": "news"
     },
     {
-      "id": "periodicodeunaec",
+      "id": "periodico-deunaec",
       "name": "Periódico D'Una",
       "logo": "https://graph.facebook.com/periodicodeuna/picture?width=800&height=800",
       "signals": [],
@@ -103,7 +103,7 @@
       "category": "news"
     },
     {
-      "id": "radiocentroec",
+      "id": "radio-centroec",
       "name": "Radio Centro 101.3 FM",
       "logo": "https://graph.facebook.com/radiocentroec/picture?width=800&height=800",
       "signals": [
@@ -126,7 +126,7 @@
       "category": "music"
     },
     {
-      "id": "radioelite99-7tv5",
+      "id": "radio-elite99-7tv5",
       "name": "Radio Elite 99.7 TV",
       "logo": "https://graph.facebook.com/Radioelite997/picture?width=800&height=800",
       "signals": [
@@ -143,7 +143,7 @@
       "category": "music"
     },
     {
-      "id": "radiopichincha",
+      "id": "radio-pichincha",
       "name": "Radio Pichincha Multimedia",
       "logo": "https://graph.facebook.com/PichinchaRadio/picture?width=800&height=800",
       "signals": [],
@@ -157,7 +157,7 @@
       "category": "music"
     },
     {
-      "id": "radiorumbaec",
+      "id": "radio-rumbaec",
       "name": "Radio Rumba 107.3 FM",
       "logo": "https://graph.facebook.com/RadioRumbaEc/picture?width=800&height=800",
       "signals": [
@@ -174,7 +174,7 @@
       "category": "music"
     },
     {
-      "id": "radiosonoonda997",
+      "id": "radio-sono-onda-997",
       "name": "Radio Sono Onda",
       "logo": "https://graph.facebook.com/radiosonoonda997/picture?width=800&height=800",
       "signals": [
@@ -193,15 +193,20 @@
       "category": "music"
     },
     {
-      "id": "sonoramatv900",
-      "name": "Sonorama TV",
+      "id": "radio-sonorama",
+      "name": "Radio Sonorama",
       "logo": "https://graph.facebook.com/radio.sonorama/picture?width=800&height=800",
-      "signals": [],
-      "youtube": "UCGOHw6AjriiGhkJnDAhJsRA",
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://radio.kapchosting.com/8080/stream"
+        }
+      ],
+      "youtube": "UCGDK5KWl0eH_tq8eaZYqIPA",
       "last_youtube_livestreams": [],
       "last_checked": "2026-06-02T23:15:38.163Z",
       "twitch": null,
-      "website": "https://www.youtube.com/channel/UCGOHw6AjriiGhkJnDAhJsRA",
+      "website": "https://sonorama.com.ec/",
       "category": "music"
     }
   ]

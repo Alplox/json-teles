@@ -105,17 +105,21 @@ function parseLiveIds(output) {
  * Uses --print live_status to detect only "is_live" streams.
  * Retries once on empty results to guard against transient blocks.
  * @param {string} channelId - YouTube channel ID.
+ * @param {boolean} [legacy] - Use legacy /live URL (single stream) instead of channel URL.
  * @returns {Promise<string[]>} Array of videoIds if live, empty array otherwise.
  */
-async function checkYouTubeYtDlp(channelId) {
+async function checkYouTubeYtDlp(channelId, legacy = false) {
+  const url = legacy
+    ? `https://www.youtube.com/channel/${channelId}/live`
+    : `https://www.youtube.com/channel/${channelId}/streams`;
+
   for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
     try {
-      const url = `https://www.youtube.com/channel/${channelId}/live`;
-      const { stdout, stderr } = await execFileAsync(
-        "yt-dlp",
-        ["--flat-playlist", "--print", "%(id)s|%(live_status)s", "--no-warnings", url],
-        { timeout: YTDLP_TIMEOUT_MS },
-      );
+      const args = ["--flat-playlist", "--print", "%(id)s|%(live_status)s", "--no-warnings"];
+      if (!legacy) args.push("--playlist-end", "10");
+      args.push(url);
+
+      const { stdout, stderr } = await execFileAsync("yt-dlp", args, { timeout: YTDLP_TIMEOUT_MS });
 
       if (stderr && stderr.trim()) {
         console.warn(`  [yt-dlp] ${channelId}: ${stderr.trim().split("\n")[0]}`);
@@ -247,18 +251,140 @@ async function checkYouTubeHtml(channelId) {
 }
 
 /**
- * Checks for active livestream via native HTTPS first, falling back to yt-dlp.
+ * Extracts and parses ytInitialData from YouTube page HTML.
+ * @param {string} html - Page HTML.
+ * @returns {Object|null} Parsed ytInitialData or null.
+ */
+function extractYtInitialData(html) {
+  const marker = "ytInitialData = ";
+  const startIdx = html.indexOf(marker);
+  if (startIdx === -1) return null;
+
+  const start = html.indexOf("{", startIdx);
+  if (start === -1) return null;
+
+  let depth = 0;
+  let inString = false;
+
+  for (let i = start; i < html.length; i++) {
+    const ch = html[i];
+    if (ch === "\\" && inString) {
+      i++;
+      continue;
+    }
+    if (ch === '"') {
+      inString = !inString;
+      continue;
+    }
+    if (inString) continue;
+    if (ch === "{") depth++;
+    if (ch === "}") depth--;
+    if (depth === 0) {
+      try {
+        return JSON.parse(html.substring(start, i + 1));
+      } catch {
+        return null;
+      }
+    }
+  }
+  return null;
+}
+
+/**
+ * Recursively walks ytInitialData to find all lockupViewModel entries
+ * with a LIVE thumbnail badge (language-independent, uses badgeStyle enum).
+ * @param {Object} obj - ytInitialData object.
+ * @returns {string[]} Array of live video IDs (deduplicated).
+ */
+function findLiveVideoIds(obj) {
+  const results = [];
+
+  function walk(value) {
+    if (!value || typeof value !== "object") return;
+    if (Array.isArray(value)) {
+      for (const item of value) walk(item);
+      return;
+    }
+
+    // lockupViewModel with contentId = video entry
+    if (value.contentId && value.contentType === "LOCKUP_CONTENT_TYPE_VIDEO") {
+      if (hasLiveBadge(value)) results.push(value.contentId);
+      return;
+    }
+
+    for (const v of Object.values(value)) walk(v);
+  }
+
+  function hasLiveBadge(obj) {
+    function search(o) {
+      if (!o || typeof o !== "object") return false;
+      if (Array.isArray(o)) return o.some(search);
+      if (o.thumbnailBadgeViewModel?.badgeStyle === "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE") {
+        return true;
+      }
+      return Object.values(o).some(search);
+    }
+    return search(obj);
+  }
+
+  walk(obj);
+  return [...new Set(results)];
+}
+
+/**
+ * Checks for active livestreams via /streams tab HTML parsing.
+ * Extracts ytInitialData and finds all lockupViewModel entries with LIVE badge.
+ * @param {string} channelId - YouTube channel ID.
+ * @returns {Promise<string[]>} Array of live video IDs.
+ */
+async function checkYouTubeHtmlStreams(channelId) {
+  const url = `https://www.youtube.com/channel/${channelId}/streams`;
+  const data = await fetchUrlHtml(url);
+
+  if (
+    data.includes("confirm you're not a bot") ||
+    data.includes("confirm you\u2019re not a bot") ||
+    data.includes("g-recaptcha") ||
+    data.includes("robot check")
+  ) {
+    throw new Error("Bot check detected in HTML");
+  }
+
+  const ytInitialData = extractYtInitialData(data);
+  if (!ytInitialData) {
+    throw new Error("Could not extract ytInitialData from /streams page");
+  }
+
+  return findLiveVideoIds(ytInitialData);
+}
+
+/**
+ * Checks for active livestreams via cascading methods:
+ * 1. /streams tab HTML parsing (multi-stream)
+ * 2. /live HTML check (single-stream, fast fallback)
+ * 3. yt-dlp on /live URL (ultimate fallback)
  * @param {string} channelId - YouTube channel ID.
  * @returns {Promise<string[]>} Array of videoIds if live, empty array otherwise.
  */
 async function checkYouTubeLive(channelId) {
+  // Method 1: Parse /streams tab for multiple live videos
   try {
-    return await checkYouTubeHtml(channelId);
+    const ids = await checkYouTubeHtmlStreams(channelId);
+    if (ids.length > 0) return ids;
   } catch (err) {
-    console.warn(`  [HTML-check] ${channelId} failed: ${err.message}`);
-    // Fallback to yt-dlp if native fetch failed
-    return checkYouTubeYtDlp(channelId);
+    console.warn(`  [streams-html] ${channelId}: ${err.message}`);
   }
+
+  // Method 2: Fast single-stream check on /live
+  try {
+    const ids = await checkYouTubeHtml(channelId);
+    if (ids.length > 0) return ids;
+  } catch (err) {
+    console.warn(`  [live-html] ${channelId}: ${err.message}`);
+  }
+
+  // Method 3: yt-dlp fallback on /live
+  return checkYouTubeYtDlp(channelId, true);
 }
 
 /**

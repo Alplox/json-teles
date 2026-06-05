@@ -13,7 +13,7 @@
       ],
       "youtube": "UCjTbJ6Obs0yWlL36lw-Tz8w",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-04T02:36:55.555Z",
+      "last_checked": "2026-06-05T19:57:06.119Z",
       "twitch": null,
       "website": "https://lorini.net/anzoateguitv/",
       "category": "general"
@@ -45,7 +45,7 @@
       ],
       "youtube": "UChatdaBWG_Un5wN4Oiw6SfQ",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-04T02:36:55.555Z",
+      "last_checked": "2026-06-05T19:57:06.119Z",
       "twitch": null,
       "website": "https://www.canal21tachira.com/tv/",
       "category": "general"
@@ -57,9 +57,9 @@
       "signals": [],
       "youtube": "UCMPPdsYmf-V6jukDtIfpM_A",
       "last_youtube_livestreams": [
-        "tiUTSGZ4DGw"
+        "AJF58mmRr6M"
       ],
-      "last_checked": "2026-06-03T08:42:40.511Z",
+      "last_checked": "2026-06-05T19:57:06.119Z",
       "twitch": null,
       "website": "https://culturavenezuela.com/emision-en-directo/",
       "category": "culture"
@@ -74,23 +74,13 @@
           "url": "https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8"
         }
       ],
-      "youtube": "UCfJtBtmhnIyfUB6RqXeImMw",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T08:42:40.511Z",
+      "youtube": "UC0nGYg5JpX7tIeQw_-DQTLw",
+      "last_youtube_livestreams": [
+        "-cQ--QYXpEQ"
+      ],
+      "last_checked": "2026-06-05T19:57:06.119Z",
       "twitch": null,
       "website": "https://www.globovision.com/",
-      "category": "news"
-    },
-    {
-      "id": "imesatnewstv",
-      "name": "Imesat News TV",
-      "logo": "https://graph.facebook.com/ImesatNewsTV1/picture?width=800&height=800",
-      "signals": [],
-      "youtube": "UC1gcFVHhxnbdVqZ8gRziDkg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:46:16.439Z",
-      "twitch": null,
-      "website": "https://www.youtube.com/channel/UC1gcFVHhxnbdVqZ8gRziDkg",
       "category": "news"
     },
     {
@@ -130,55 +120,10 @@
       "category": "news"
     },
     {
-      "id": "telesur",
-      "name": "TeleSUR",
-      "logo": "https://graph.facebook.com/teleSUR/picture?width=800&height=800",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8"
-        },
-        {
-          "type": "iframe",
-          "url": "https://mblive.telesur.ultrabase.net/"
-        },
-        {
-          "type": "iframe",
-          "url": "https://geo.dailymotion.com/player/x5poh.html?video=x82ug5r&autoplay=true&volume=0"
-        }
-      ],
-      "youtube": "UCh57chOa8G811mvbqHBqxlw",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:46:16.439Z",
-      "twitch": null,
-      "website": "https://www.telesurtv.net/",
-      "category": "news"
-    },
-    {
       "id": "telesur-eng",
       "name": "TeleSUR English",
       "logo": "https://graph.facebook.com/telesurenglish/picture?width=800&height=800",
       "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://cdnenmain.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://cdnenmain.telesur.ultrabase.net/mblivev3/360p/playlist.m3u8"
-        },
         {
           "type": "iframe",
           "url": "https://mbliveec.telesur.ultrabase.net/"
@@ -197,25 +142,19 @@
       "logo": "https://graph.facebook.com/teleSUR/picture?width=800&height=800",
       "signals": [
         {
-          "type": "m3u8",
-          "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8"
-        },
-        {
           "type": "iframe",
           "url": "https://mblive.telesur.ultrabase.net/"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
         }
       ],
-      "youtube": "UCj55An2-k4Ww8nmHQFWti5Q",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:24:21.410Z",
+      "youtube": "UCZSdNK_ZmMQcLTz-obKr-Dw",
+      "last_youtube_livestreams": [
+        "OiV3tZGxNYc"
+      ],
+      "last_checked": "2026-06-05T19:57:06.119Z",
       "twitch": null,
       "website": "https://www.telesurtv.net/",
       "category": "news"
@@ -263,11 +202,13 @@
           "url": "https://geo.dailymotion.com/player/x5poh.html?video=k1yNOrgCd2jz9hBaDXQ&autoplay=true&volume=0"
         }
       ],
-      "youtube": "UC_cL7HTt3R9Esk-Tj0XoC9Q",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:24:21.410Z",
+      "youtube": "UC_8sCVycu3FXidPNoZwOHqA",
+      "last_youtube_livestreams": [
+        "mpU7DGs0R2o"
+      ],
+      "last_checked": "2026-06-05T21:07:52.229Z",
       "twitch": null,
-      "website": "https://www.vtv.gob.ve/en-vivo/",
+      "website": "https://vtv.com.ve/",
       "category": "news"
     },
     {
@@ -297,13 +238,15 @@
       "category": "news"
     },
     {
-      "id": "vtvradiofm",
-      "name": "VTV RADIO",
-      "logo": "https://graph.facebook.com/CAMBIARAQUI/picture?width=800&height=800",
+      "id": "ve-radio-vtv-995-fm",
+      "name": "VTV RADIO 99.5 FM",
+      "logo": null,
       "signals": [],
-      "youtube": "UC2_P7AV2jJ9_gYK0VS-w2rA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:24:21.411Z",
+      "youtube": "UC1G8aY_rZb3n2bk5X_aPdCQ",
+      "last_youtube_livestreams": [
+        "xf1HbrCzYRc"
+      ],
+      "last_checked": "2026-06-05T21:10:06.793Z",
       "twitch": null,
       "website": "https://www.atom.bio/vtvradio_",
       "category": "music"

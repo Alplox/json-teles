@@ -8,7 +8,7 @@
       "signals": [],
       "youtube": "UCo75W2AP1hnjUF4V_ovOAsg",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-04T02:35:08.606Z",
+      "last_checked": "2026-06-05T19:54:49.574Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCo75W2AP1hnjUF4V_ovOAsg",
       "category": "news"
@@ -19,10 +19,8 @@
       "logo": "https://graph.facebook.com/elcomercio.pe/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCLtGUPjKLqa3zgdmhKCZONg",
-      "last_youtube_livestreams": [
-        "YgVllRdDJPI"
-      ],
-      "last_checked": "2026-06-04T02:01:34.934Z",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-05T19:54:49.574Z",
       "twitch": null,
       "website": "https://elcomercio.pe",
       "category": "news"
@@ -204,10 +202,10 @@
       "signals": [
         {
           "type": "m3u8",
-          "url": "https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8"
+          "url": "https://tv.ondadigital.pe/ondadigital/video.m3u8"
         }
       ],
-      "youtube": "UCAzIHVV3BvVIvddYDdtLJ3A",
+      "youtube": "UCXXxRHhOXI6xFu8kDwV5UnQ",
       "last_youtube_livestreams": [],
       "last_checked": "2026-06-02T23:20:46.914Z",
       "twitch": null,
@@ -220,11 +218,15 @@
       "logo": null,
       "signals": [
         {
+          "type": "iframe",
+          "url": "https://videoserver.tmcreativos.com:2020/VideoPlayer/raditropical?autoplay=1"
+        },
+        {
           "type": "m3u8",
           "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8"
         }
       ],
-      "youtube": "UCvu5Hqd9mIUuzNJb9Ilm28g",
+      "youtube": "UC1WrIYwcdMJrpWRCAx7DTsA",
       "last_youtube_livestreams": [],
       "last_checked": "2026-06-02T23:20:46.914Z",
       "twitch": null,
@@ -251,24 +253,20 @@
       "category": "music"
     },
     {
-      "id": "rtvtotalyurimaguas8963",
-      "name": "RTV TOTAL YURIMAGUAS",
-      "logo": "https://graph.facebook.com/rtvtotal/picture?width=800&height=800",
+      "id": "pe-rtv-total",
+      "name": "RTV TOTAL",
+      "logo": "https://graph.facebook.com/rtvtotalyurimaguas/picture?width=800&height=800",
       "signals": [
         {
           "type": "m3u8",
-          "url": "https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8"
-        },
-        {
-          "type": "iframe",
-          "url": "https://innovatestream.com/tv/v2/rtv.php"
+          "url": "https://live.obslivestream.com/rtvtotal/index.m3u8"
         }
       ],
-      "youtube": "UCVKQ8rkQt4P0YQ6YLciG3tQ",
+      "youtube": "UCHB6XEoEc7i7Wzst1yLFJXQ",
       "last_youtube_livestreams": [],
       "last_checked": "2026-06-02T23:20:46.914Z",
       "twitch": null,
-      "website": "https://rtvtotal.pe/tv-online",
+      "website": "https://rtvtotal.com.pe/#tvenvivo",
       "category": "news"
     },
     {

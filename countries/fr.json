@@ -10,7 +10,7 @@
       "last_youtube_livestreams": [
         "pykpO5kQJ98"
       ],
-      "last_checked": "2026-06-04T02:33:03.377Z",
+      "last_checked": "2026-06-05T19:52:27.381Z",
       "twitch": null,
       "website": "https://www.euronews.com/",
       "category": "news"
@@ -29,7 +29,7 @@
       "last_youtube_livestreams": [
         "O9mOtdZ-nSk"
       ],
-      "last_checked": "2026-06-04T02:33:03.377Z",
+      "last_checked": "2026-06-05T19:52:27.381Z",
       "twitch": null,
       "website": "https://es.euronews.com/",
       "category": "news"
@@ -43,7 +43,7 @@
       "last_youtube_livestreams": [
         "jAn7L2Kt32U"
       ],
-      "last_checked": "2026-06-04T02:33:03.377Z",
+      "last_checked": "2026-06-05T19:52:27.381Z",
       "twitch": null,
       "website": "https://hu.euronews.com/",
       "category": "news"
@@ -54,8 +54,10 @@
       "logo": null,
       "signals": [],
       "youtube": "UCFzJjgVicCtFxJ5B0P_ei8A",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:44:57.923Z",
+      "last_youtube_livestreams": [
+        "lwYzwdBiaho"
+      ],
+      "last_checked": "2026-06-05T19:52:27.382Z",
       "twitch": null,
       "website": "https://ru.euronews.com/",
       "category": "news"

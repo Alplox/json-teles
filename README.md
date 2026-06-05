@@ -178,6 +178,12 @@ npm run check-youtube:force # Force check (ignore skip threshold)
 2. Follow the country file format above
 3. Run `npm run build` to compile
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/chart?repos=Alplox/json-teles&type=date&legend=top-left)](https://www.star-history.com/?repos=Alplox%2Fjson-teles&type=date&legend=top-left)
+
+[![Visits Badge](https://badges.strrl.dev/visits/Alplox/json-teles)](https://badges.strrl.dev)
+
 ## Available Channels
 
 Total channels available. M3U version may contain fewer channels.
@@ -185,7 +191,7 @@ Total channels available. M3U version may contain fewer channels.
 (click to expand)
 
 <!-- START:CHANNEL_COUNT -->
-Total: 527 channels from 42 countries
+Total: 522 channels from 42 countries
 
 <!-- END:CHANNEL_COUNT -->
 
@@ -234,7 +240,6 @@ Total: 527 channels from 42 countries
 - [rare phonk](https://www.youtube.com/channel/UC8d8GkPcfQGa8lWAnqhElWg) (music)
 - [Relax Chillout Deep](https://www.youtube.com/channel/UCm001e4lKtX7SULWHx6EdzA) (music)
 - [Robocar POLI TV](https://www.youtube.com/channel/UCr-rCvgg21KqfrnGopaQeGw) (animation)
-- [Romantica Musica](https://www.youtube.com/channel/UC8HEkuYR6IJGMhZ8YqNFB3g) (music)
 - [Shaun the Sheep Official](https://www.youtube.com/channel/UCS7H8U-n5mINVJjJsaRtGHg) (animation)
 - [Sonido de fuego relajante](https://www.youtube.com/channel/UCMlIZGBeueCZBUmEP-PddJg) (music)
 - [Steezyasfuck](https://www.stzzzy.com/) (music)
@@ -268,7 +273,6 @@ Total: 527 channels from 42 countries
 - [LA NACION](https://www.lanacion.com.ar/) (news)
 - [Net TV](https://www.canalnet.tv/page/senal-en-vivo) (news)
 - [Nur Para Todos](https://nurparatodos.com.ar/) (news)
-- [FourSeasons BuenosAires](https://www.youtube.com/channel/UCCkRwmztPEvut3gpsgmCmzw) (outdoor)
 - [Oficina del Presidente Arg](https://www.youtube.com/channel/UCSfMW32JeKVaYwgvUy5D3fw) (legislative)
 - [Pop Radio 101.5](https://www.radiopop.fm/) (music)
 - [SISE Argentina](https://siseargentina.com/camaras-en-vivo/) (outdoor)
@@ -577,7 +581,7 @@ Total: 527 channels from 42 countries
 - [Radio Pichincha Multimedia](https://www.radiopichincha.com/) (music)
 - [Radio Rumba 107.3 FM](https://radiorumba.fm/) (music)
 - [Radio Sono Onda](https://sonoonda.com/tv-online/) (music)
-- [Sonorama TV](https://www.youtube.com/channel/UCGOHw6AjriiGhkJnDAhJsRA) (music)
+- [Radio Sonorama](https://sonorama.com.ec/) (music)
 
 ### 🌍 España
 
@@ -701,7 +705,7 @@ Total: 527 channels from 42 countries
 - [Televisa Aguascalientes Oficial](https://www.youtube.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg) (news)
 - [Televisa Monterrey](https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg) (news)
 - [Televisa Veracruz Oficial](https://telever.tv/) (news)
-- [VA+ Noticias](https://ryta.com.mx/envivo/) (news)
+- [VA+ Noticias](https://ryta.com.mx/) (news)
 
 ### 🌍 Nueva Zelanda
 
@@ -729,10 +733,10 @@ Total: 527 channels from 42 countries
 - [Radio Ovación TV](https://ovacion.pe/radio) (music)
 - [Panamericana TV](https://panamericana.pe/tvenvivo) (news)
 - [PBO](https://pbo.pe/) (news)
+- [RTV TOTAL](https://rtvtotal.com.pe/#tvenvivo) (news)
 - [Radio Onda Digital](https://www.ondadigital.pe/) (music)
 - [Radio Tropical 99.1 FM](https://radiotropical.pe/) (music)
 - [Radio Uno 93.7 FM](https://radiouno.pe/) (music)
-- [RTV TOTAL YURIMAGUAS](https://rtvtotal.pe/tv-online) (news)
 - [Radio San Borja Tv](https://radiosanborjatv.com/) (music)
 - [TVPerú Noticias](https://www.tvperu.gob.pe/noticias/play) (news)
 - [TVPerú](https://www.tvperu.gob.pe/) (general)
@@ -789,7 +793,6 @@ Total: 527 channels from 42 countries
 
 - [ABC News](https://abcnews.go.com/Live) (news)
 - [ABC13Houston](https://abc13.com/watch/live/) (news)
-- [ABC7 SWFL](https://www.abc-7.com/) (news)
 - [ABC 7 Chicago](https://abc7chicago.com/watch/live/) (news)
 - [Agenda-Free TV](https://twitter.com/agendafreetv) (news)
 - [Associated Press](https://www.apnews.com/) (news)
@@ -835,19 +838,17 @@ Total: 527 channels from 42 countries
 - [Canal 21 Táchira](https://www.canal21tachira.com/tv/) (general)
 - [Canal Cultura Venezuela](https://culturavenezuela.com/emision-en-directo/) (culture)
 - [Globovisión En Vivo](https://www.globovision.com/) (news)
-- [Imesat News TV](https://www.youtube.com/channel/UC1gcFVHhxnbdVqZ8gRziDkg) (news)
 - [La Iguana TV](https://www.laiguana.tv/envivo/) (news)
 - [MundoURenVivo](https://mundour.com/) (music)
 - [NTN24](https://www.ntn24.com/en-vivo) (news)
-- [TeleSUR](https://www.telesurtv.net/) (news)
 - [TeleSUR English](https://www.telesurenglish.net/) (news)
 - [teleSURtv](https://www.telesurtv.net/) (news)
 - [TelevenTV](https://televen.com/) (news)
 - [Lista Tv](https://www.youtube.com/channel/UCw2ceOxZ4VhgRSre0ny2RcA) (music)
-- [Venezolana de Televisión](https://www.vtv.gob.ve/en-vivo/) (news)
+- [VTV RADIO 99.5 FM](https://www.atom.bio/vtvradio_) (music)
+- [Venezolana de Televisión](https://vtv.com.ve/) (news)
 - [Venezuela News Radio](https://venezuela-news.com/radio/) (music)
 - [VPItv](https://vpitv.com/en-vivo/) (news)
-- [VTV RADIO](https://www.atom.bio/vtvradio_) (music)
 
 <!-- END:BY_COUNTRY -->
 
@@ -1092,7 +1093,9 @@ Total: 527 channels from 42 countries
 - [Radio ADN](https://www.adnradio.cl/noticias/videos/) (Chile)
 - [Radio AE Radio DuocUC](https://www.aeradio.cl/) (Chile)
 - [Radio Biobio TV](https://www.biobiochile.cl/biobiotv/) (Chile)
+- [Radio Centro 101.3 FM](https://radiocentro.com.ec/en-vivo/) (Ecuador)
 - [Radio El Conquistador FM](https://www.elconquistadorfm.net/) (Chile)
+- [Radio Elite 99.7 TV](https://radioelite997.com/online/) (Ecuador)
 - [Radio Folclor de Chile](https://radiofolclordechile.cl/) (Chile)
 - [Radio Futurock FM](https://www.youtube.com/channel/UCgn6r0aGRBnEQm02tE_jzbw) (Argentina)
 - [Radio Genial 100.5 FM](https://radiogenial.cl/) (Chile)
@@ -1105,27 +1108,24 @@ Total: 527 channels from 42 countries
 - [Radio Ñuble 89.7 FM](https://radionuble.cl/v1/) (Chile)
 - [Radio Onda Digital](https://www.ondadigital.pe/) (Perú)
 - [Pauta](https://www.pauta.cl/) (Chile)
+- [Radio Pichincha Multimedia](https://www.radiopichincha.com/) (Ecuador)
 - [Radio Puangue Curacaví](https://radiopuanguecuracavi.cl/) (Chile)
+- [Radio Rumba 107.3 FM](https://radiorumba.fm/) (Ecuador)
+- [Radio Sono Onda](https://sonoonda.com/tv-online/) (Ecuador)
+- [Radio Sonorama](https://sonorama.com.ec/) (Ecuador)
 - [Súbela Radio](https://www.subela.cl/) (Chile)
 - [Radio Tropical 99.1 FM](https://radiotropical.pe/) (Perú)
 - [Radio Uno 93.7 FM](https://radiouno.pe/) (Perú)
 - [Radio10](https://www.radio10.com.ar/) (Argentina)
-- [Radio Centro 101.3 FM](https://radiocentro.com.ec/en-vivo/) (Ecuador)
-- [Radio Elite 99.7 TV](https://radioelite997.com/online/) (Ecuador)
 - [Radio One 103.7](https://www.radioone1037.fm/) (Argentina)
-- [Radio Pichincha Multimedia](https://www.radiopichincha.com/) (Ecuador)
-- [Radio Rumba 107.3 FM](https://radiorumba.fm/) (Ecuador)
-- [Radio Sono Onda](https://sonoonda.com/tv-online/) (Ecuador)
 - [Radio Universidad de Chile](https://radio.uchile.cl/) (Chile)
 - [rare phonk](https://www.youtube.com/channel/UC8d8GkPcfQGa8lWAnqhElWg) (Unknown Country)
 - [RCPC](https://www.rcpc.co/) (Colombia)
 - [Relax Chillout Deep](https://www.youtube.com/channel/UCm001e4lKtX7SULWHx6EdzA) (Unknown Country)
-- [Romantica Musica](https://www.youtube.com/channel/UC8HEkuYR6IJGMhZ8YqNFB3g) (Unknown Country)
 - [Radio Romántica TV](https://www.romantica.cl/romantica-tv/) (Chile)
 - [Radio San Borja Tv](https://radiosanborjatv.com/) (Perú)
 - [Radio El Sembrador](https://tv.radioelsembrador.cl/) (Chile)
 - [Sonido de fuego relajante](https://www.youtube.com/channel/UCMlIZGBeueCZBUmEP-PddJg) (Unknown Country)
-- [Sonorama TV](https://www.youtube.com/channel/UCGOHw6AjriiGhkJnDAhJsRA) (Ecuador)
 - [Steezyasfuck](https://www.stzzzy.com/) (Unknown Country)
 - [Tele13 Radio](https://tele13radio.cl/) (Chile)
 - [the bootleg boy 2](https://www.youtube.com/channel/UCwkTfp14Sj7o6q9_8ADJpnA) (Unknown Country)
@@ -1135,9 +1135,9 @@ Total: 527 channels from 42 countries
 - [Lista Tv](https://www.youtube.com/channel/UCw2ceOxZ4VhgRSre0ny2RcA) (Venezuela)
 - [Radio Universo](https://www.universo.cl/) (Chile)
 - [Urbana Play 104.3 FM](https://urbanaplayfm.com/) (Argentina)
+- [VTV RADIO 99.5 FM](https://www.atom.bio/vtvradio_) (Venezuela)
 - [Vía X](https://canalviax.com/) (Chile)
 - [Venezuela News Radio](https://venezuela-news.com/radio/) (Venezuela)
-- [VTV RADIO](https://www.atom.bio/vtvradio_) (Venezuela)
 - [We Are Diamond](https://wearediamond.net/) (Alemania)
 
 ### 📂 News
@@ -1149,7 +1149,6 @@ Total: 527 channels from 42 countries
 - [ABC News](https://abcnews.go.com/Live) (Estados Unidos)
 - [ABC News AU](https://www.abc.net.au/news/) (Australia)
 - [ABC13Houston](https://abc13.com/watch/live/) (Estados Unidos)
-- [ABC7 SWFL](https://www.abc-7.com/) (Estados Unidos)
 - [ABC 7 Chicago](https://abc7chicago.com/watch/live/) (Estados Unidos)
 - [ABN Telugu](https://www.andhrajyothy.com/live-tv) (India)
 - [ABP MAJHA](https://marathi.abplive.com/live-tv) (India)
@@ -1247,7 +1246,6 @@ Total: 527 channels from 42 countries
 - [HTB北海道ニュース](https://www.htb.co.jp/news/) (Japón)
 - [Imagen Televisión Puebla](https://www.imagentv.com/en-vivo) (México)
 - [ImagenTV](https://www.imagentv.com/en-vivo) (México)
-- [Imesat News TV](https://www.youtube.com/channel/UC1gcFVHhxnbdVqZ8gRziDkg) (Venezuela)
 - [India Today](https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw) (India)
 - [IndiaTV](https://www.indiatvnews.com/livetv) (India)
 - [InquizeX](null) (Nueva Zelanda)
@@ -1300,13 +1298,13 @@ Total: 527 channels from 42 countries
 - [Oro Noticias Puebla](https://oronoticiaspuebla.com/) (México)
 - [Panamericana TV](https://panamericana.pe/tvenvivo) (Perú)
 - [PBO](https://pbo.pe/) (Perú)
+- [RTV TOTAL](https://rtvtotal.com.pe/#tvenvivo) (Perú)
 - [Periódico D'Una](https://deunanoticias.com/) (Ecuador)
 - [Record News](https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw) (Brasil)
 - [REDE BRASIL OFICIAL](https://tv.redebrasiloficial.com.br/) (Brasil)
 - [REPORTER LIVE](https://www.reporterlive.com/) (India)
 - [RTP BOLIVIA](https://rtpbolivia.com.bo/) (Bolivia)
 - [RTVE Noticias](https://www.rtve.es/noticias) (España)
-- [RTV TOTAL YURIMAGUAS](https://rtvtotal.pe/tv-online) (Perú)
 - [SAMAA TV](https://live.samaa.tv/) (Pakistán)
 - [三立iNEWS](https://live.setn.com/) (China)
 - [Суспільне Новини](https://suspilne.media/) (Ucrania)
@@ -1319,7 +1317,6 @@ Total: 527 channels from 42 countries
 - [Telefe Noticias](https://noticias.mitelefe.com/vivo) (Argentina)
 - [Telemetro Reporta](https://www.telemetro.com/endirecto) (Panamá)
 - [Noticias Telemundo](https://www.telemundo.com/noticias) (Estados Unidos)
-- [TeleSUR](https://www.telesurtv.net/) (Venezuela)
 - [TeleSUR English](https://www.telesurenglish.net/) (Venezuela)
 - [teleSURtv](https://www.telesurtv.net/) (Venezuela)
 - [TelevenTV](https://televen.com/) (Venezuela)
@@ -1341,8 +1338,8 @@ Total: 527 channels from 42 countries
 - [Unitel Bolivia](https://television.unitel.bo/vivo) (Bolivia)
 - [UOL](https://www.uol.com.br/) (Brasil)
 - [USA TODAY](https://www.usatoday.com/) (Estados Unidos)
-- [VA+ Noticias](https://ryta.com.mx/envivo/) (México)
-- [Venezolana de Televisión](https://www.vtv.gob.ve/en-vivo/) (Venezuela)
+- [VA+ Noticias](https://ryta.com.mx/) (México)
+- [Venezolana de Televisión](https://vtv.com.ve/) (Venezuela)
 - [VPItv](https://vpitv.com/en-vivo/) (Venezuela)
 - [WELT](https://www.welt.de/) (Alemania)
 - [Willax](https://willax.pe/en-vivo/) (Perú)
@@ -1378,7 +1375,6 @@ Total: 527 channels from 42 countries
 - [Municipalidad Osorno](https://www.municipalidadosorno.cl/) (Chile)
 - [NamibiaCam](https://www.youtube.com/channel/UC9X6gGKDv2yhMoofoeS7-Gg) (República Centroafricana)
 - [Nuevas Comunicaciones](https://www.youtube.com/channel/UCMvQGOyumsXP4V7dGAdIKWg) (Chile)
-- [FourSeasons BuenosAires](https://www.youtube.com/channel/UCCkRwmztPEvut3gpsgmCmzw) (Argentina)
 - [Halcón Parquemet, Antilén](https://halcon.parquemet.cl/index.html) (Chile)
 - [Halcón Parquemet, Cumbre](https://halcon.parquemet.cl/index.html) (Chile)
 - [Halcón Parquemet, Polanco](https://halcon.parquemet.cl/index.html) (Chile)

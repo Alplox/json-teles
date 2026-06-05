@@ -10,7 +10,7 @@
       "last_youtube_livestreams": [
         "ArKbAx1K-2U"
       ],
-      "last_checked": "2026-06-04T02:27:12.149Z",
+      "last_checked": "2026-06-05T19:45:11.150Z",
       "twitch": "a24noticias",
       "website": "https://www.a24.com/vivo",
       "category": "news"
@@ -29,7 +29,7 @@
       "last_youtube_livestreams": [
         "zcWXboTnous"
       ],
-      "last_checked": "2026-06-04T02:27:12.149Z",
+      "last_checked": "2026-06-05T19:45:11.150Z",
       "twitch": null,
       "website": "https://www.americatv.com.ar/vivo",
       "category": "news"
@@ -41,7 +41,7 @@
       "signals": [],
       "youtube": "UC_49ElhhVd1BO7MsdBPm77Q",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-04T02:27:12.149Z",
+      "last_checked": "2026-06-05T19:45:11.150Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UC_49ElhhVd1BO7MsdBPm77Q",
       "category": "general"
@@ -214,7 +214,7 @@
     {
       "id": "ip-noticias-en-vivo",
       "name": "IP Noticias",
-      "logo": "https://graph.facebook.com/CAMBIARAQUI/picture?width=800&height=800",
+      "logo": null,
       "signals": [],
       "youtube": "UC1bBjOZieJWHbsFA0LwjjJA",
       "last_youtube_livestreams": [
@@ -288,18 +288,6 @@
       "twitch": "nurparatodosdigital",
       "website": "https://nurparatodos.com.ar/",
       "category": "news"
-    },
-    {
-      "id": "obelisco",
-      "name": "FourSeasons BuenosAires",
-      "logo": null,
-      "signals": [],
-      "youtube": "UCCkRwmztPEvut3gpsgmCmzw",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:07:02.738Z",
-      "twitch": null,
-      "website": "https://www.youtube.com/channel/UCCkRwmztPEvut3gpsgmCmzw",
-      "category": "outdoor"
     },
     {
       "id": "ofi-presi-arg",
