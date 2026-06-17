@@ -7,8 +7,10 @@
       "logo": null,
       "signals": [],
       "youtube": "UC8cRYBn-z6y1EOUeMdJ0VHA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-05T19:57:49.572Z",
+      "last_youtube_livestreams": [
+        "OCXNfjyCaIo"
+      ],
+      "last_checked": "2026-06-17T02:08:48.343Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UC8cRYBn-z6y1EOUeMdJ0VHA",
       "category": "music"

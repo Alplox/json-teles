@@ -8,7 +8,7 @@
       "signals": [],
       "youtube": "UCo75W2AP1hnjUF4V_ovOAsg",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-05T19:54:49.574Z",
+      "last_checked": "2026-06-17T02:06:23.712Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCo75W2AP1hnjUF4V_ovOAsg",
       "category": "news"
@@ -19,8 +19,10 @@
       "logo": "https://graph.facebook.com/elcomercio.pe/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCLtGUPjKLqa3zgdmhKCZONg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-05T19:54:49.574Z",
+      "last_youtube_livestreams": [
+        "8TtlCKNw_DM"
+      ],
+      "last_checked": "2026-06-17T02:06:23.713Z",
       "twitch": null,
       "website": "https://elcomercio.pe",
       "category": "news"
