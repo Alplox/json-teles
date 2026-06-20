@@ -13,7 +13,7 @@
       ],
       "youtube": "UCjTbJ6Obs0yWlL36lw-Tz8w",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-17T02:08:25.222Z",
+      "last_checked": "2026-06-20T01:29:49.819Z",
       "twitch": null,
       "website": "https://lorini.net/anzoateguitv/",
       "category": "general"
@@ -45,7 +45,7 @@
       ],
       "youtube": "UChatdaBWG_Un5wN4Oiw6SfQ",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-17T02:08:25.223Z",
+      "last_checked": "2026-06-20T01:29:49.819Z",
       "twitch": null,
       "website": "https://www.canal21tachira.com/tv/",
       "category": "general"
@@ -56,8 +56,10 @@
       "logo": "https://graph.facebook.com/canalcultura.ve/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCMPPdsYmf-V6jukDtIfpM_A",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-17T02:08:25.223Z",
+      "last_youtube_livestreams": [
+        "d84z6atkWkg"
+      ],
+      "last_checked": "2026-06-20T01:29:49.819Z",
       "twitch": null,
       "website": "https://culturavenezuela.com/emision-en-directo/",
       "category": "culture"
@@ -74,9 +76,9 @@
       ],
       "youtube": "UC0nGYg5JpX7tIeQw_-DQTLw",
       "last_youtube_livestreams": [
-        "R7wwpbgUSlY"
+        "QxgBzI8MG08"
       ],
-      "last_checked": "2026-06-17T02:08:25.223Z",
+      "last_checked": "2026-06-20T01:29:49.819Z",
       "twitch": null,
       "website": "https://www.globovision.com/",
       "category": "news"

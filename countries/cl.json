@@ -193,10 +193,10 @@
       ],
       "youtube": "UCTXNz3gjAypWp3EhlIATEJQ",
       "last_youtube_livestreams": [
-        "JbJeYrxUY8o",
+        "j9Epbe5gk2M",
         "CGJZYtM7T7s"
       ],
-      "last_checked": "2026-06-17T01:58:41.993Z",
+      "last_checked": "2026-06-20T01:19:56.078Z",
       "twitch": "24horas_tvn",
       "website": "https://www.24horas.cl/envivo/",
       "category": "news"
@@ -216,8 +216,10 @@
         }
       ],
       "youtube": "UCczkrFICr0xEgDsk51zZojA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-17T01:58:41.993Z",
+      "last_youtube_livestreams": [
+        "d0ghqDEBMz4"
+      ],
+      "last_checked": "2026-06-20T01:19:56.078Z",
       "twitch": null,
       "website": "https://www.adnradio.cl/noticias/videos/",
       "category": "music"
@@ -250,7 +252,7 @@
       ],
       "youtube": "UCBkkqRIsRTbio4W7MwAZiEw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-17T01:58:41.993Z",
+      "last_checked": "2026-06-20T01:19:56.078Z",
       "twitch": null,
       "website": "https://www.radioagricultura.cl/en-vivo-3/",
       "category": "music"
@@ -304,7 +306,7 @@
       "last_youtube_livestreams": [
         "E68KyCyIahE"
       ],
-      "last_checked": "2026-06-17T01:58:41.993Z",
+      "last_checked": "2026-06-20T01:19:56.078Z",
       "twitch": null,
       "website": "https://radioamerica.cl/",
       "category": "general"
