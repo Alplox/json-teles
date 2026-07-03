@@ -7,19 +7,15 @@
       "logo": null,
       "signals": [
         {
-          "type": "m3u8",
-          "url": "https://rpn3.bozztv.com/ssh101/ssh101/hchtvenvivo/playlist.m3u8"
-        },
-        {
           "type": "iframe",
           "url": "https://geo.dailymotion.com/player/x5poh.html?video=x81za5c&autoplay=true&volume=0"
         }
       ],
       "youtube": "UCIs6fmAXOI1K2jgkoBdWveg",
       "last_youtube_livestreams": [
-        "hYGmAOLmgdE"
+        "ATB6iYCWlsU"
       ],
-      "last_checked": "2026-06-26T23:09:43.219Z",
+      "last_checked": "2026-07-03T04:00:59.041Z",
       "twitch": null,
       "website": "https://hch.tv/live/",
       "category": "news"
@@ -48,9 +44,9 @@
       ],
       "youtube": "UCblZy4UUsMlqv4gSCNslpWw",
       "last_youtube_livestreams": [
-        "WAUivOX-4yA"
+        "Va_bqcuvTJc"
       ],
-      "last_checked": "2026-06-26T23:09:43.219Z",
+      "last_checked": "2026-07-03T04:00:59.041Z",
       "twitch": null,
       "website": "https://www.lametrohn.com/",
       "category": "news"

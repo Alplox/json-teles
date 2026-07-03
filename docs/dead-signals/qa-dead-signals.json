@@ -1,0 +1,40 @@
+{
+  "country": "qa",
+  "channels": [
+    {
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8"
+        }
+      ],
+      "youtube": "UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "last_youtube_livestreams": [
+        "gCNeDWCI0vo"
+      ],
+      "last_checked": "2026-07-03T04:03:48.302Z",
+      "website": "https://www.aljazeera.com/live/",
+      "category": "news"
+    },
+    {
+      "id": "alaraby-tv",
+      "name": "التلفزيون العربي Alaraby TV",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/playlist.m3u8"
+        }
+      ],
+      "logo": "https://graph.facebook.com/alarabytelevision/picture?width=800&height=800",
+      "youtube": "UC65i3Fyq91uiUkIS0i5GLNQ",
+      "last_youtube_livestreams": [
+        "80avOss7Fvc"
+      ],
+      "last_checked": "2026-06-04T02:02:13.426Z",
+      "website": "https://www.alaraby.com/live-stream",
+      "category": "news"
+    }
+  ]
+}

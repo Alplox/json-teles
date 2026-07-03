@@ -1,0 +1,71 @@
+{
+  "country": "bo",
+  "channels": [
+    {
+      "id": "bolivision",
+      "name": "Bolivision",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8"
+        }
+      ],
+      "logo": "https://www.redbolivision.tv.bo/wp-content/uploads/2023/07/cropped-logo-2-e1690828812646-32x32.png",
+      "youtube": "UCXxy-LshTr3NSoT7o3FBZyQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-07-03T03:54:42.934Z",
+      "website": "https://www.redbolivision.tv.bo/",
+      "category": "general"
+    },
+    {
+      "id": "boliviatv72",
+      "name": "Bolivia TV 7.2",
+      "logo": "https://i.imgur.com/tKLYYys.png",
+      "signals": [],
+      "youtube": "UCKadCx-t_VmwzfWczlWE98w",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-07-03T03:54:42.934Z",
+      "twitch": null,
+      "website": "https://www.boliviatv.bo/",
+      "country": "bo",
+      "category": "general"
+    },
+    {
+      "id": "gogoplaytv",
+      "name": "Gogoplaytv",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8"
+        }
+      ],
+      "logo": "https://graph.facebook.com/migogoplay/picture?width=800&height=800",
+      "youtube": "UC3r9EG2f85nh9BaqmDU20VA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-07-03T03:54:42.934Z",
+      "twitch": "gogoplaytve",
+      "website": "https://www.gogoplaytv.com/",
+      "category": "entertainment"
+    },
+    {
+      "id": "boliviatv72",
+      "name": "Bolivia TV 7.2",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://5ca3e84a76d30.streamlock.net:443/boliviatv2/videoboliviatv2/playlist.m3u8"
+        }
+      ],
+      "logo": "https://i.imgur.com/tKLYYys.png",
+      "youtube": "UCKadCx-t_VmwzfWczlWE98w",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-07-03T03:54:42.934Z",
+      "website": "https://www.boliviatv.bo/",
+      "category": "general"
+    }
+  ]
+}

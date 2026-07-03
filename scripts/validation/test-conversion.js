@@ -8,7 +8,7 @@ const { execSync } = require("child_process");
  * validates output, then restores the original.
  */
 
-const ROOT = path.join(__dirname, "..");
+const ROOT = path.join(__dirname, "../..");
 const COUNTRIES_DIR = path.join(ROOT, "countries");
 const BACKUP_DIR = path.join(ROOT, "_backup_countries");
 const PLAYLISTS_DIR = path.join(ROOT, "m3u-playlists");
@@ -91,7 +91,7 @@ try {
   }
 
   // Run conversion
-  execSync("node scripts/generate-m3u.js", { cwd: ROOT });
+  execSync("node scripts/core/generate-m3u.js", { cwd: ROOT });
 
   // Read generated M3U
   const m3u = fs.readFileSync(path.join(ROOT, "channels.m3u"), "utf-8");
@@ -173,8 +173,8 @@ try {
 
   // Re-run build and conversion to restore files
   try {
-    execSync("node scripts/build-channels.js", { cwd: ROOT, stdio: "ignore" });
-    execSync("node scripts/generate-m3u.js", { cwd: ROOT });
+    execSync("node scripts/core/build-channels.js", { cwd: ROOT, stdio: "ignore" });
+    execSync("node scripts/core/generate-m3u.js", { cwd: ROOT });
   } catch {
     // Ignore errors during cleanup
   }

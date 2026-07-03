@@ -5,17 +5,12 @@
       "id": "cbc-news",
       "name": "CBC News",
       "logo": "https://i.imgur.com/SjTdhvJ.png",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://livetv-fa.tubi.video/cbc2/master.m3u8"
-        }
-      ],
+      "signals": [],
       "youtube": "UCuFFtHWoLl5fauMMD5Ww2jA",
       "last_youtube_livestreams": [
         "5vfaDsMhCF4"
       ],
-      "last_checked": "2026-06-26T23:03:30.840Z",
+      "last_checked": "2026-07-03T03:55:07.291Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCuFFtHWoLl5fauMMD5Ww2jA",
       "category": "news"
@@ -24,12 +19,7 @@
       "id": "global-news",
       "name": "Global News",
       "logo": null,
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
-        }
-      ],
+      "signals": [],
       "youtube": null,
       "twitch": null,
       "website": "https://globalnews.ca/live/national/",

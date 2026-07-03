@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CNBC-TV18" tvg-logo="https://graph.facebook.com/cnbctv18india/picture?width=800&height=800" group-title="news", CNBC-TV18 [IN]
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8
 #EXTINF:-1 tvg-name="CNN-News18" tvg-logo="https://graph.facebook.com/cnnnews18/picture?width=800&height=800" group-title="news", CNN-News18 [IN]
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-name="India Today" tvg-logo="https://graph.facebook.com/IndiaToday/picture?width=800&height=800" group-title="news", India Today (1) [IN]

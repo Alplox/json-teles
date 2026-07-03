@@ -8,15 +8,13 @@
       "signals": [],
       "youtube": "UCGCZAYq5Xxojl_tSXcVJhiQ",
       "last_youtube_livestreams": [
-        "HDzRxXqcflE",
-        "Eq1WSQBSjGk",
-        "D3cPShH4hN8",
-        "r_NEhcvK0t0",
+        "HGrs226B1fs",
+        "Nw163L2NsfY",
         "WRfOLF9plnU",
         "hdzWW6L6rzk",
         "8H3nRCFVR6Y"
       ],
-      "last_checked": "2026-06-26T23:10:51.963Z",
+      "last_checked": "2026-07-03T04:02:02.950Z",
       "twitch": null,
       "website": "https://news.tv-asahi.co.jp/",
       "category": "news"
@@ -28,9 +26,10 @@
       "signals": [],
       "youtube": "UCSWOnDD1KIriGmyQ7SgNA4A",
       "last_youtube_livestreams": [
+        "OzVhgWYEu6k",
         "tvgbZZYS4Nk"
       ],
-      "last_checked": "2026-06-26T23:10:51.963Z",
+      "last_checked": "2026-07-03T04:02:02.950Z",
       "twitch": null,
       "website": "https://www.htb.co.jp/news/",
       "category": "news"
@@ -39,16 +38,7 @@
       "id": "nhk-world",
       "name": "NHK World",
       "logo": null,
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8"
-        }
-      ],
+      "signals": [],
       "youtube": "UCSPEjw8F2nQDtmUKPFNF7_A",
       "last_youtube_livestreams": [
         "f0lYkdA-Gtw"

@@ -1,0 +1,133 @@
+{
+  "country": "pe",
+  "channels": [
+    {
+      "id": "radio-onda-digital",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8"
+        }
+      ],
+      "name": "Radio Onda Digital",
+      "youtube": "UCXXxRHhOXI6xFu8kDwV5UnQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:20:46.914Z",
+      "website": "https://www.ondadigital.pe/",
+      "category": "music"
+    },
+    {
+      "id": "pe-rtv-total-tv",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://innovatestream.com/tv/v2/rtv.php"
+        }
+      ]
+    },
+    {
+      "id": "onda-digital-tv",
+      "name": "Onda Digital TV",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://v4.tustreaming.cl:443/odtvgo/index.m3u8"
+        }
+      ],
+      "twitch": "ondadigitaltv",
+      "website": "https://ondadigitaltv.com",
+      "category": "news"
+    },
+    {
+      "id": "panamericana-tv",
+      "name": "Panamericana TV",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://cdnhd.iblups.com/hls/ptv5.m3u8"
+        }
+      ],
+      "youtube": "UCngb4rxO4iUE6BrIs29WXwA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:20:46.914Z",
+      "website": "https://panamericana.pe/tvenvivo",
+      "category": "news"
+    },
+    {
+      "id": "tv-peru",
+      "name": "TVPerú Noticias",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8"
+        }
+      ],
+      "youtube": "UCkZCoc42IipR1ucqJmIehsA",
+      "last_youtube_livestreams": [
+        "GfcMdb8an6k"
+      ],
+      "last_checked": "2026-06-02T23:21:14.557Z",
+      "website": "https://www.tvperu.gob.pe/noticias/play",
+      "category": "news"
+    },
+    {
+      "id": "san-borja",
+      "name": "Radio San Borja Tv",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8"
+        }
+      ],
+      "youtube": "UCRdGjpVs7vnyDXcEs6W8hkA",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:21:14.557Z",
+      "website": "https://radiosanborjatv.com/",
+      "category": "music"
+    },
+    {
+      "id": "tvperu",
+      "name": "TVPerú",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8"
+        }
+      ],
+      "logo": "https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png",
+      "youtube": "UCrAb_x80PtTiN3lCkQOSFPg",
+      "last_youtube_livestreams": [
+        "NUz_1qCR_us"
+      ],
+      "last_checked": "2026-06-02T23:21:14.557Z",
+      "website": "https://www.tvperu.gob.pe/",
+      "category": "general"
+    },
+    {
+      "id": "tvperu-noticias",
+      "name": "TVPerú Noticias",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8"
+        }
+      ],
+      "logo": "https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png",
+      "youtube": "UCkZCoc42IipR1ucqJmIehsA",
+      "last_youtube_livestreams": [
+        "GfcMdb8an6k"
+      ],
+      "last_checked": "2026-06-02T23:21:14.557Z",
+      "website": "https://www.tvperu.gob.pe/",
+      "category": "news"
+    }
+  ]
+}

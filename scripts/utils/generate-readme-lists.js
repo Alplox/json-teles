@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 const { channels } = JSON.parse(
-  fs.readFileSync(path.join(__dirname, "..", "channels.json"), "utf-8"),
+  fs.readFileSync(path.join(__dirname, "../..", "channels.json"), "utf-8"),
 );
 
 /**
@@ -429,7 +429,7 @@ function replaceBlock(readme, tag, content) {
 (async () => {
   const countryCodes = await getCountryCodes();
 
-  const readmePath = path.join(__dirname, "..", "README.md");
+  const readmePath = path.join(__dirname, "../..", "README.md");
   let readme = fs.readFileSync(readmePath, "utf-8");
 
   const totalChannels = channels.length;

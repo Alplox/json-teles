@@ -13,7 +13,7 @@
       ],
       "youtube": "UCjTbJ6Obs0yWlL36lw-Tz8w",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-26T23:14:09.420Z",
+      "last_checked": "2026-07-03T04:05:03.456Z",
       "twitch": null,
       "website": "https://lorini.net/anzoateguitv/",
       "category": "general"
@@ -45,7 +45,7 @@
       ],
       "youtube": "UChatdaBWG_Un5wN4Oiw6SfQ",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-26T23:14:09.420Z",
+      "last_checked": "2026-07-03T04:05:03.456Z",
       "twitch": null,
       "website": "https://www.canal21tachira.com/tv/",
       "category": "general"
@@ -56,10 +56,8 @@
       "logo": "https://graph.facebook.com/canalcultura.ve/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCMPPdsYmf-V6jukDtIfpM_A",
-      "last_youtube_livestreams": [
-        "mZFnAgE66lk"
-      ],
-      "last_checked": "2026-06-26T23:14:09.420Z",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-07-03T04:05:03.456Z",
       "twitch": null,
       "website": "https://culturavenezuela.com/emision-en-directo/",
       "category": "culture"
@@ -68,17 +66,12 @@
       "id": "globovision",
       "name": "Globovisión En Vivo",
       "logo": null,
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8"
-        }
-      ],
+      "signals": [],
       "youtube": "UC0nGYg5JpX7tIeQw_-DQTLw",
       "last_youtube_livestreams": [
-        "QxgBzI8MG08"
+        "hqJQtnigPPo"
       ],
-      "last_checked": "2026-06-26T23:14:09.420Z",
+      "last_checked": "2026-07-03T04:05:03.456Z",
       "twitch": null,
       "website": "https://www.globovision.com/",
       "category": "news"
@@ -164,10 +157,6 @@
       "name": "TelevenTV",
       "logo": "https://graph.facebook.com/TelevenTV/picture?width=800&height=800",
       "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://vcp2.myplaytv.com/televen/televen/playlist.m3u8"
-        },
         {
           "type": "iframe",
           "url": "https://app.televen.com/player/tv?channelId=20000841&categoryId=0&channelNumber=1"

@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="" group-title="news", Al Jazeera English [QA]
-https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-#EXTINF:-1 tvg-name="التلفزيون العربي Alaraby TV" tvg-logo="https://graph.facebook.com/alarabytelevision/picture?width=800&height=800" group-title="news", التلفزيون العربي Alaraby TV (1) [QA]
+#EXTINF:-1 tvg-name="التلفزيون العربي Alaraby TV" tvg-logo="https://graph.facebook.com/alarabytelevision/picture?width=800&height=800" group-title="news", التلفزيون العربي Alaraby TV [QA]
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
-#EXTINF:-1 tvg-name="التلفزيون العربي Alaraby TV" tvg-logo="https://graph.facebook.com/alarabytelevision/picture?width=800&height=800" group-title="news", التلفزيون العربي Alaraby TV (2) [QA]
-https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/playlist.m3u8
 #EXTINF:-1 tvg-name="العربي 2 Alaraby TV 2" tvg-logo="https://graph.facebook.com/AlarabyTV2/picture?width=800&height=800" group-title="news", العربي 2 Alaraby TV 2 (1) [QA]
 https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="العربي 2 Alaraby TV 2" tvg-logo="https://graph.facebook.com/AlarabyTV2/picture?width=800&height=800" group-title="news", العربي 2 Alaraby TV 2 (2) [QA]

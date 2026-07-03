@@ -10,7 +10,7 @@
       "last_youtube_livestreams": [
         "pykpO5kQJ98"
       ],
-      "last_checked": "2026-06-26T23:09:31.662Z",
+      "last_checked": "2026-07-03T04:00:47.592Z",
       "twitch": null,
       "website": "https://www.euronews.com/",
       "category": "news"
@@ -19,17 +19,12 @@
       "id": "euronews-esp",
       "name": "euronews (Español)",
       "logo": null,
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://euronews-euronews-spanish-2-us.tcl.wurl.tv/playlist.m3u8"
-        }
-      ],
+      "signals": [],
       "youtube": "UCyoGb3SMlTlB8CLGVH4c8Rw",
       "last_youtube_livestreams": [
         "O9mOtdZ-nSk"
       ],
-      "last_checked": "2026-06-26T23:09:31.662Z",
+      "last_checked": "2026-07-03T04:00:47.593Z",
       "twitch": null,
       "website": "https://es.euronews.com/",
       "category": "news"
@@ -43,7 +38,7 @@
       "last_youtube_livestreams": [
         "jAn7L2Kt32U"
       ],
-      "last_checked": "2026-06-26T23:09:31.662Z",
+      "last_checked": "2026-07-03T04:00:47.593Z",
       "twitch": null,
       "website": "https://hu.euronews.com/",
       "category": "news"
@@ -57,7 +52,7 @@
       "last_youtube_livestreams": [
         "lwYzwdBiaho"
       ],
-      "last_checked": "2026-06-26T23:09:31.662Z",
+      "last_checked": "2026-07-03T04:00:47.593Z",
       "twitch": null,
       "website": "https://ru.euronews.com/",
       "category": "news"

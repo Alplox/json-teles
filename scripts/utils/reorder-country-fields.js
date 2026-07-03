@@ -8,7 +8,7 @@ const path = require("path");
  *   node scripts/reorder-country-fields.js
  */
 
-const COUNTRIES_DIR = path.join(__dirname, "..", "countries");
+const COUNTRIES_DIR = path.join(__dirname, "../..", "countries");
 
 const CHANNEL_FIELDS = [
   "id",

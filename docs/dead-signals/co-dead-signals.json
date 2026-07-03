@@ -1,0 +1,39 @@
+{
+  "country": "co",
+  "channels": [
+    {
+      "id": "canalinstitucional",
+      "name": "Canal Institucional TV (Colombia)",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8"
+        }
+      ],
+      "logo": "https://www.canalinstitucional.tv/themes/custom/bootstrap_sass/images/logo.png",
+      "youtube": "UCacTCU_5Z-5YgoKiJJHn9eQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-07-03T03:59:31.496Z",
+      "website": "https://www.canalinstitucional.tv/",
+      "category": "general"
+    },
+    {
+      "id": "senalcolombia",
+      "name": "Señal Colombia",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8"
+        }
+      ],
+      "logo": "https://www.senalcolombia.tv/themes/custom/colombia_subtheme/img/nuevo_home/logo.svg",
+      "youtube": "UCwZjVanaSg019RVQea9V1kw",
+      "last_youtube_livestreams": [
+        "3lPz2gv0uPk"
+      ],
+      "last_checked": "2026-06-02T23:14:50.756Z",
+      "website": "https://www.senalcolombia.tv/",
+      "category": "general"
+    }
+  ]
+}

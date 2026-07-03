@@ -11,8 +11,8 @@ const path = require("path");
  * inherited from the parent object. The build script adds it back when compiling.
  */
 
-const INPUT = path.join(__dirname, "..", "channels.json");
-const OUTPUT_DIR = path.join(__dirname, "..", "countries");
+const INPUT = path.join(__dirname, "../..", "channels.json");
+const OUTPUT_DIR = path.join(__dirname, "../..", "countries");
 
 if (!fs.existsSync(INPUT)) {
   console.error("Error: channels.json not found");

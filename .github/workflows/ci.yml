@@ -36,7 +36,7 @@ jobs:
         run: npm run validate:country
 
       - name: Build channels.json
-        run: node scripts/build-channels.js
+        run: node scripts/core/build-channels.js
 
       - name: Validate channels.json
         run: npm run validate

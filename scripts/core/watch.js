@@ -9,7 +9,7 @@ const { execSync } = require("child_process");
  * Press Ctrl+C to stop.
  */
 
-const COUNTRIES_DIR = path.join(__dirname, "..", "countries");
+const COUNTRIES_DIR = path.join(__dirname, "../..", "countries");
 const BUILD_SCRIPT = path.join(__dirname, "build-channels.js");
 
 let isBuilding = false;
@@ -21,7 +21,7 @@ function build() {
 
   const start = Date.now();
   try {
-    execSync(`node "${BUILD_SCRIPT}"`, { stdio: "inherit", cwd: path.join(__dirname, "..") });
+    execSync(`node "${BUILD_SCRIPT}"`, { stdio: "inherit", cwd: path.join(__dirname, "../..") });
     const elapsed = Date.now() - start;
     console.log(`[${new Date().toLocaleTimeString()}] Rebuilt in ${elapsed}ms`);
   } catch (err) {
@@ -53,10 +53,4 @@ fs.watch(COUNTRIES_DIR, { recursive: false }, (eventType, filename) => {
     console.log(`[${new Date().toLocaleTimeString()}] Change detected: ${filename}`);
     debouncedBuild();
   }
-});
-
-// Handle graceful shutdown
-process.on("SIGINT", () => {
-  console.log("\nStopping watcher...");
-  process.exit(0);
 });

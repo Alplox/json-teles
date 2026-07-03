@@ -13,46 +13,11 @@ const path = require("path");
  * - Auto-validation of output
  */
 
-const COUNTRIES_DIR = path.join(__dirname, "..", "countries");
-const OUTPUT = path.join(__dirname, "..", "channels.json");
-const PACKAGE_JSON = path.join(__dirname, "..", "package.json");
-const VALIDATE_SCRIPT = path.join(__dirname, "validate-json.js");
+const COUNTRIES_DIR = path.join(__dirname, "../..", "countries");
+const OUTPUT = path.join(__dirname, "../..", "channels.json");
+const PACKAGE_JSON = path.join(__dirname, "../..", "package.json");
 
-// Field order for consistent output
-const CHANNEL_FIELDS = [
-  "id",
-  "name",
-  "logo",
-  "signals",
-  "youtube",
-  "last_youtube_livestreams",
-  "last_checked",
-  "twitch",
-  "website",
-  "country",
-  "category",
-];
-
-/**
- * Orders channel object fields in a consistent order.
- * @param {Object} ch - Channel object.
- * @returns {Object} Ordered channel object.
- */
-function orderChannelFields(ch) {
-  const ordered = {};
-  for (const field of CHANNEL_FIELDS) {
-    if (ch[field] !== undefined) {
-      ordered[field] = ch[field];
-    }
-  }
-  // Add any remaining fields not in the predefined order
-  for (const key of Object.keys(ch)) {
-    if (!Object.prototype.hasOwnProperty.call(ordered, key)) {
-      ordered[key] = ch[key];
-    }
-  }
-  return ordered;
-}
+const { orderChannelFields } = require("../utils/cli-args");
 
 if (!fs.existsSync(COUNTRIES_DIR)) {
   console.error("Error: countries/ directory not found");
@@ -125,14 +90,4 @@ fs.writeFileSync(OUTPUT, `${JSON.stringify(output, null, 2)}\n`);
 const total = allChannels.length;
 const countries = Object.keys(stats).length;
 console.log(`Build: ${total} channels from ${countries} countries → channels.json`);
-
-// Auto-validate output
-console.log("\nValidating output...");
-const { execSync } = require("child_process");
-try {
-  execSync(`node "${VALIDATE_SCRIPT}"`, { stdio: "inherit", cwd: path.join(__dirname, "..") });
-  console.log("Build completed successfully.");
-} catch {
-  console.error("Build completed but validation failed!");
-  process.exit(1);
-}
+console.log("Build completed successfully.");

@@ -1,0 +1,31 @@
+{
+  "country": "in",
+  "channels": [
+    {
+      "id": "cnbctv18india",
+      "name": "CNBC-TV18",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8"
+        }
+      ],
+      "logo": "https://graph.facebook.com/cnbctv18india/picture?width=800&height=800",
+      "youtube": "UCmRbHAgG2k2vDUvb3xsEunQ",
+      "last_youtube_livestreams": [
+        "vObXEcu01Gw",
+        "ErZXYqtJMak",
+        "RVtI4RVtBcs",
+        "7Lq_2Us1Hj0",
+        "EXMujNhFXko",
+        "ISWEQE0fnDo",
+        "nA6geRGw9tY",
+        "A2JBODj1vio",
+        "1_Ih0JYmkjI"
+      ],
+      "last_checked": "2026-07-03T04:01:05.786Z",
+      "website": "https://www.youtube.com/channel/UCmRbHAgG2k2vDUvb3xsEunQ",
+      "category": "news"
+    }
+  ]
+}

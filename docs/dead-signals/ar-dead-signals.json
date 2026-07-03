@@ -1,0 +1,109 @@
+{
+  "country": "ar",
+  "channels": [
+    {
+      "id": "obelisco",
+      "name": "FourSeasons BuenosAires",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCCkRwmztPEvut3gpsgmCmzw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:07:02.738Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UCCkRwmztPEvut3gpsgmCmzw",
+      "category": "outdoor"
+    },
+    {
+      "id": "pop-radio-101-5",
+      "name": "Pop Radio 101.5",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://ny2.stweb.tv/popradio/live/playlist.m3u8"
+        }
+      ],
+      "logo": "https://graph.facebook.com/Popradio1015/picture?width=800&height=800",
+      "youtube": "UCtc_WjDRwCrZSEq2WEwD7XQ",
+      "last_youtube_livestreams": [
+        "-zlLe72QkZM"
+      ],
+      "last_checked": "2026-06-02T23:07:02.738Z",
+      "website": "https://www.radiopop.fm/",
+      "category": "music"
+    },
+    {
+      "id": "radioone1037",
+      "name": "Radio One 103.7",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://s8.stweb.tv/one/live/playlist.m3u8"
+        }
+      ],
+      "logo": "https://graph.facebook.com/radioone1037/picture?width=800&height=800",
+      "youtube": "UC8XExQXrgutNTcwfACp1Miw",
+      "last_youtube_livestreams": [
+        "QOsjlcTTC1s"
+      ],
+      "last_checked": "2026-06-02T23:07:02.739Z",
+      "website": "https://www.radioone1037.fm/",
+      "category": "music"
+    },
+    {
+      "id": "todonoticias",
+      "name": "Todonoticias",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://live-01-01-tn.vodgc.net/TN24_2/index_TN24_2_1080.m3u8"
+        }
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/TN_todo_noticias_logo.svg",
+      "youtube": "UCj6PcyLvpnIRT_2W_mwa9Aw",
+      "last_youtube_livestreams": [
+        "cb12KmMMDJA"
+      ],
+      "last_checked": "2026-06-02T23:07:31.279Z",
+      "twitch": "todonoticias",
+      "website": "https://tn.com.ar/envivo/24hs/",
+      "category": "news"
+    },
+    {
+      "id": "tv-publica-arg",
+      "name": "Televisión Pública",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8"
+        }
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/TVP_-_Televisión_Pública_(2021).svg",
+      "youtube": "UCs231K71Bnu5295_x0MB5Pg",
+      "last_youtube_livestreams": [
+        "GNnn_NSzjD0"
+      ],
+      "last_checked": "2026-06-02T23:07:31.279Z",
+      "website": "https://www.tvpublica.com.ar/",
+      "category": "news"
+    },
+    {
+      "id": "urbana-play-fm",
+      "name": "Urbana Play 104.3 FM",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/60083afdba6eb40016c35954_360p/index.m3u8"
+        }
+      ],
+      "logo": "https://graph.facebook.com/UrbanaPlayFm/picture?width=800&height=800",
+      "youtube": "UCC1kfsMJko54AqxtcFECt-A",
+      "last_youtube_livestreams": [
+        "6G1m-NFjqoE"
+      ],
+      "last_checked": "2026-06-02T23:07:31.279Z",
+      "twitch": "urbanaplayfm",
+      "website": "https://urbanaplayfm.com/",
+      "category": "music"
+    }
+  ]
+}

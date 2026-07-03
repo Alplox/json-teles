@@ -1,9 +1,9 @@
 const fs = require("fs");
 const path = require("path");
 
-const COUNTRIES_DIR = path.join(__dirname, "..", "countries");
-const OUTPUT_DIR = path.join(__dirname, "..");
-const PLAYLISTS_DIR = path.join(__dirname, "..", "m3u-playlists");
+const COUNTRIES_DIR = path.join(__dirname, "../..", "countries");
+const OUTPUT_DIR = path.join(__dirname, "../..");
+const PLAYLISTS_DIR = path.join(__dirname, "../..", "m3u-playlists");
 
 if (!fs.existsSync(COUNTRIES_DIR)) {
   console.error("Error: countries/ directory not found");

@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="NHK World" tvg-logo="" group-title="news", NHK World (1) [JP]
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-name="NHK World" tvg-logo="" group-title="news", NHK World (2) [JP]
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8

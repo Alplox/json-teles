@@ -1,0 +1,22 @@
+{
+  "country": "fr",
+  "channels": [
+    {
+      "id": "euronews-esp",
+      "name": "euronews (Español)",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://euronews-euronews-spanish-2-us.tcl.wurl.tv/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCyoGb3SMlTlB8CLGVH4c8Rw",
+      "last_youtube_livestreams": [
+        "O9mOtdZ-nSk"
+      ],
+      "last_checked": "2026-07-03T04:00:47.593Z",
+      "website": "https://es.euronews.com/",
+      "category": "news"
+    }
+  ]
+}

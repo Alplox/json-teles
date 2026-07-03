@@ -1,0 +1,26 @@
+{
+  "country": "jp",
+  "channels": [
+    {
+      "id": "nhk-world",
+      "name": "NHK World",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCSPEjw8F2nQDtmUKPFNF7_A",
+      "last_youtube_livestreams": [
+        "f0lYkdA-Gtw"
+      ],
+      "last_checked": "2026-06-04T02:00:46.654Z",
+      "website": "https://www3.nhk.or.jp/nhkworld/en/live/",
+      "category": "news"
+    }
+  ]
+}

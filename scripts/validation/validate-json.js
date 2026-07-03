@@ -14,7 +14,7 @@ const signalSchema = {
   type: "object",
   required: ["type", "url"],
   properties: {
-    type: { type: "string", enum: ["m3u8", "iframe"] },
+    type: { type: "string", enum: ["m3u8", "iframe", "audio"] },
     url: { type: "string", minLength: 1 },
   },
   additionalProperties: false,

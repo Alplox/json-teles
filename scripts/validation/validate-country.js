@@ -14,7 +14,7 @@ const signalSchema = {
   type: "object",
   required: ["type", "url"],
   properties: {
-    type: { type: "string", enum: ["m3u8", "iframe"] },
+    type: { type: "string", enum: ["m3u8", "iframe", "audio"] },
     url: { type: "string", minLength: 1 },
   },
   additionalProperties: false,
@@ -107,7 +107,7 @@ function validateFile(filePath) {
 }
 
 const arg = process.argv[2];
-const countriesDir = path.join(__dirname, "..", "countries");
+const countriesDir = path.join(__dirname, "../..", "countries");
 
 if (arg === "--all") {
   const files = fs.readdirSync(countriesDir).filter((f) => f.endsWith(".json"));

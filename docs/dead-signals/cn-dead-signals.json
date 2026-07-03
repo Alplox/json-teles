@@ -1,0 +1,24 @@
+{
+  "country": "cn",
+  "channels": [
+    {
+      "id": "cgtn",
+      "name": "CGTN",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://live.cgtn.com/1000/prog_index.m3u8"
+        }
+      ],
+      "youtube": "UCgrNz-aDmcr2uuto8_DL2jg",
+      "last_youtube_livestreams": [
+        "8HBQq8nN0u4",
+        "LJgXwC-AKu8",
+        "BOy2xDU1LC8"
+      ],
+      "last_checked": "2026-07-03T03:59:23.773Z",
+      "website": "https://www.cgtn.com/",
+      "category": "news"
+    }
+  ]
+}

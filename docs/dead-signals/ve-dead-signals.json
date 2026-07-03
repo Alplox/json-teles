@@ -1,0 +1,133 @@
+{
+  "country": "ve",
+  "channels": [
+    {
+      "id": "globovision",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8"
+        }
+      ],
+      "name": "Globovisión En Vivo",
+      "youtube": "UC0nGYg5JpX7tIeQw_-DQTLw",
+      "last_youtube_livestreams": [
+        "hqJQtnigPPo"
+      ],
+      "last_checked": "2026-07-03T04:05:03.456Z",
+      "website": "https://www.globovision.com/",
+      "category": "news"
+    },
+    {
+      "id": "imesatnewstv",
+      "name": "Imesat News TV",
+      "logo": "https://graph.facebook.com/ImesatNewsTV1/picture?width=800&height=800",
+      "signals": [],
+      "youtube": "UC1gcFVHhxnbdVqZ8gRziDkg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-03T06:46:16.439Z",
+      "twitch": null,
+      "website": "https://www.youtube.com/channel/UC1gcFVHhxnbdVqZ8gRziDkg",
+      "category": "news"
+    },
+    {
+      "id": "telesurenespanol",
+      "name": "teleSURtv",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8"
+        }
+      ],
+      "logo": "https://graph.facebook.com/teleSUR/picture?width=800&height=800",
+      "youtube": "UCZSdNK_ZmMQcLTz-obKr-Dw",
+      "last_youtube_livestreams": [
+        "OiV3tZGxNYc"
+      ],
+      "last_checked": "2026-06-05T19:57:06.119Z",
+      "website": "https://www.telesurtv.net/",
+      "category": "news"
+    },
+    {
+      "id": "telesur",
+      "name": "TeleSUR",
+      "logo": "https://graph.facebook.com/teleSUR/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8"
+        },
+        {
+          "type": "iframe",
+          "url": "https://mblive.telesur.ultrabase.net/"
+        },
+        {
+          "type": "iframe",
+          "url": "https://geo.dailymotion.com/player/x5poh.html?video=x82ug5r&autoplay=true&volume=0"
+        }
+      ],
+      "youtube": "UCh57chOa8G811mvbqHBqxlw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-03T06:46:16.439Z",
+      "twitch": null,
+      "website": "https://www.telesurtv.net/",
+      "category": "news"
+    },
+    {
+      "id": "telesur-eng",
+      "name": "TeleSUR English",
+      "logo": "https://graph.facebook.com/telesurenglish/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://cdnenmain.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://cdnenmain.telesur.ultrabase.net/mblivev3/360p/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCmuTmpLY35O3csvhyA6vrkg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-03T06:46:16.439Z",
+      "website": "https://www.telesurenglish.net/",
+      "category": "news"
+    },
+    {
+      "id": "televentv",
+      "name": "TelevenTV",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://vcp2.myplaytv.com/televen/televen/playlist.m3u8"
+        }
+      ],
+      "logo": "https://graph.facebook.com/TelevenTV/picture?width=800&height=800",
+      "youtube": "UCPxs1siPSF6YKGtKP_Zyvtw",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:24:21.410Z",
+      "website": "https://televen.com/",
+      "category": "news"
+    }
+  ]
+}

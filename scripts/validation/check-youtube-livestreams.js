@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const { execFile } = require("child_process");
 const util = require("util");
-const https = require("https");
+const { parseArgs, applyIndexFilters, orderChannelFields } = require("../utils/cli-args.js");
 
 const execFileAsync = util.promisify(execFile);
 
@@ -16,11 +16,11 @@ const execFileAsync = util.promisify(execFile);
  * - Retry logic for transient failures
  *
  * Usage:
- *   node scripts/check-youtube-livestreams.js [--dry-run] [--force] [--channel ID]
+ *   node scripts/check-youtube-livestreams.js [--dry-run] [--force] [--channel ID] [--from N] [--to N] [--limit N]
  */
 
-const COUNTRIES_DIR = path.join(__dirname, "..", "countries");
-const BUILD_SCRIPT = path.join(__dirname, "build-channels.js");
+const COUNTRIES_DIR = path.join(__dirname, "../..", "countries");
+const BUILD_SCRIPT = path.join(__dirname, "..", "core", "build-channels.js");
 
 // Configuration
 const CONCURRENCY = 4;
@@ -31,52 +31,14 @@ const YTDLP_TIMEOUT_MS = 15000;
 const RETRY_DELAY_MS = 3000;
 const MAX_RETRIES = 1;
 
-// Field order for consistent output
-const CHANNEL_FIELDS = [
-  "id",
-  "name",
-  "logo",
-  "signals",
-  "youtube",
-  "last_youtube_livestreams",
-  "last_checked",
-  "twitch",
-  "website",
-  "country",
-  "category",
-];
-
-/**
- * Orders channel object fields in a consistent order.
- * @param {Object} ch - Channel object.
- * @returns {Object} Ordered channel object.
- */
-function orderChannelFields(ch) {
-  const ordered = {};
-  for (const field of CHANNEL_FIELDS) {
-    if (ch[field] !== undefined) {
-      ordered[field] = ch[field];
-    }
-  }
-  for (const key of Object.keys(ch)) {
-    if (!Object.prototype.hasOwnProperty.call(ordered, key)) {
-      ordered[key] = ch[key];
-    }
-  }
-  return ordered;
-}
-
-// Parse arguments
-const args = process.argv.slice(2);
-const DRY_RUN = args.includes("--dry-run");
-const FORCE = args.includes("--force");
-const SINGLE_CHANNEL = args.includes("--channel")
-  ? args[args.indexOf("--channel") + 1] ||
-    (() => {
-      console.error("Error: --channel requires a value");
-      process.exit(1);
-    })()
-  : null;
+const cliArgs = parseArgs(process.argv.slice(2), [
+  { name: "channel", type: "string" },
+  { name: "limit", type: "number" },
+  { name: "from", type: "number" },
+  { name: "to", type: "number" },
+  { name: "dry-run", type: "boolean" },
+  { name: "force", type: "boolean" },
+]);
 
 /**
  * Parses yt-dlp output for live video IDs.
@@ -100,24 +62,20 @@ function parseLiveIds(output) {
   return liveIds;
 }
 
-/**
- * Checks for active livestream via yt-dlp (async, non-blocking).
- * Uses --print live_status to detect only "is_live" streams.
- * Retries once on empty results to guard against transient blocks.
- * @param {string} channelId - YouTube channel ID.
- * @param {boolean} [legacy] - Use legacy /live URL (single stream) instead of channel URL.
- * @returns {Promise<string[]>} Array of videoIds if live, empty array otherwise.
- */
-async function checkYouTubeYtDlp(channelId, legacy = false) {
-  const url = legacy
-    ? `https://www.youtube.com/channel/${channelId}/live`
-    : `https://www.youtube.com/channel/${channelId}/streams`;
+async function checkYouTubeYtDlp(channelId) {
+  const url = `https://www.youtube.com/channel/${channelId}/streams`;
 
   for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
     try {
-      const args = ["--flat-playlist", "--print", "%(id)s|%(live_status)s", "--no-warnings"];
-      if (!legacy) args.push("--playlist-end", "10");
-      args.push(url);
+      const args = [
+        "--flat-playlist",
+        "--print",
+        "%(id)s|%(live_status)s",
+        "--no-warnings",
+        "--playlist-end",
+        "10",
+        url,
+      ];
 
       const { stdout, stderr } = await execFileAsync("yt-dlp", args, { timeout: YTDLP_TIMEOUT_MS });
 
@@ -164,90 +122,27 @@ async function checkYouTubeYtDlp(channelId, legacy = false) {
   return [];
 }
 
-/**
- * Helper to fetch HTML content from a URL, following redirects up to a limit.
- * Includes a consent cookie to bypass Google's consent page redirects.
- * @param {string} targetUrl - URL to fetch.
- * @param {number} [redirectCount=0] - Current redirect count.
- * @returns {Promise<string>} HTML response body.
- */
-function fetchUrlHtml(targetUrl, redirectCount = 0) {
-  return new Promise((resolve, reject) => {
-    if (redirectCount > 3) {
-      reject(new Error("Too many redirects"));
-      return;
-    }
-
-    const options = {
-      headers: {
-        "User-Agent":
-          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Accept-Language": "en-US,en;q=0.9",
-        Cookie: "CONSENT=YES+cb.20230530-04-p0.en+FX+904",
-      },
-      timeout: 10000,
-    };
-
-    https
-      .get(targetUrl, options, (res) => {
-        if ([301, 302, 303, 307, 308].includes(res.statusCode)) {
-          let redirectUrl = res.headers.location;
-          if (redirectUrl) {
-            if (redirectUrl.startsWith("/")) {
-              redirectUrl = `https://www.youtube.com${redirectUrl}`;
-            }
-            resolve(fetchUrlHtml(redirectUrl, redirectCount + 1));
-            return;
-          }
-        }
-
-        if (res.statusCode !== 200) {
-          reject(new Error(`HTTP status ${res.statusCode}`));
-          return;
-        }
-
-        let data = "";
-        res.on("data", (chunk) => {
-          data += chunk;
-        });
-        res.on("end", () => {
-          resolve(data);
-        });
-      })
-      .on("error", (err) => {
-        reject(err);
-      });
+async function fetchUrlHtml(targetUrl, redirectCount = 0) {
+  if (redirectCount > 3) throw new Error("Too many redirects");
+  const res = await fetch(targetUrl, {
+    signal: AbortSignal.timeout(10000),
+    headers: {
+      "User-Agent":
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Accept-Language": "en-US,en;q=0.9",
+      Cookie: "CONSENT=YES+cb.20230530-04-p0.en+FX+904",
+    },
   });
-}
-
-/**
- * Checks for active livestream via native HTTPS request to bypass bot checks.
- * @param {string} channelId - YouTube channel ID.
- * @returns {Promise<string[]>} Array of videoIds if live, empty array otherwise.
- */
-async function checkYouTubeHtml(channelId) {
-  const url = `https://www.youtube.com/channel/${channelId}/live`;
-  const data = await fetchUrlHtml(url);
-
-  if (
-    data.includes("confirm you're not a bot") ||
-    data.includes("confirm you’re not a bot") ||
-    data.includes("g-recaptcha") ||
-    data.includes("robot check")
-  ) {
-    throw new Error("Bot check detected in HTML");
+  if ([301, 302, 303, 307, 308].includes(res.status)) {
+    const loc = res.headers.get("location");
+    if (loc)
+      return fetchUrlHtml(
+        loc.startsWith("/") ? `https://www.youtube.com${loc}` : loc,
+        redirectCount + 1,
+      );
   }
-
-  const canonical = data.match(/<link rel="canonical" href="([^"]+)"/)?.[1];
-  const isLive = data.includes('"isLive":true');
-
-  if (isLive && canonical && canonical.includes("watch?v=")) {
-    const v = canonical.match(/v=([^&]+)/)?.[1];
-    if (v) {
-      return [v];
-    }
-  }
-  return [];
+  if (!res.ok) throw new Error(`HTTP status ${res.status}`);
+  return res.text();
 }
 
 /**
@@ -331,77 +226,56 @@ function findLiveVideoIds(obj) {
   return [...new Set(results)];
 }
 
-/**
- * Checks for active livestreams via /streams tab HTML parsing.
- * Extracts ytInitialData and finds all lockupViewModel entries with LIVE badge.
- * @param {string} channelId - YouTube channel ID.
- * @returns {Promise<string[]>} Array of live video IDs.
- */
-async function checkYouTubeHtmlStreams(channelId) {
-  const url = `https://www.youtube.com/channel/${channelId}/streams`;
-  const data = await fetchUrlHtml(url);
-
-  if (
-    data.includes("confirm you're not a bot") ||
-    data.includes("confirm you\u2019re not a bot") ||
-    data.includes("g-recaptcha") ||
-    data.includes("robot check")
-  ) {
-    throw new Error("Bot check detected in HTML");
-  }
-
-  const ytInitialData = extractYtInitialData(data);
-  if (!ytInitialData) {
-    throw new Error("Could not extract ytInitialData from /streams page");
-  }
-
-  return findLiveVideoIds(ytInitialData);
+function isBotPage(html) {
+  return (
+    html.includes("confirm you're not a bot") ||
+    html.includes("confirm you\u2019re not a bot") ||
+    html.includes("g-recaptcha") ||
+    html.includes("robot check")
+  );
 }
 
-/**
- * Checks for active livestreams via cascading methods:
- * 1. /streams tab HTML parsing (multi-stream)
- * 2. /live HTML check (single-stream, fast fallback)
- * 3. yt-dlp on /live URL (ultimate fallback)
- * @param {string} channelId - YouTube channel ID.
- * @returns {Promise<string[]>} Array of videoIds if live, empty array otherwise.
- */
 async function checkYouTubeLive(channelId) {
   // Method 1: Parse /streams tab for multiple live videos
   try {
-    const ids = await checkYouTubeHtmlStreams(channelId);
-    if (ids.length > 0) return ids;
+    const html = await fetchUrlHtml(`https://www.youtube.com/channel/${channelId}/streams`);
+    if (!isBotPage(html)) {
+      const ytData = extractYtInitialData(html);
+      if (ytData) {
+        const ids = findLiveVideoIds(ytData);
+        if (ids.length > 0) return ids;
+      }
+    }
   } catch (err) {
     console.warn(`  [streams-html] ${channelId}: ${err.message}`);
   }
 
   // Method 2: Fast single-stream check on /live
   try {
-    const ids = await checkYouTubeHtml(channelId);
-    if (ids.length > 0) return ids;
+    const html = await fetchUrlHtml(`https://www.youtube.com/channel/${channelId}/live`);
+    if (!isBotPage(html)) {
+      const canonical = html.match(/<link rel="canonical" href="([^"]+)"/)?.[1];
+      if (html.includes('"isLive":true') && canonical?.includes("watch?v=")) {
+        const v = canonical.match(/v=([^&]+)/)?.[1];
+        if (v) return [v];
+      }
+    }
   } catch (err) {
     console.warn(`  [live-html] ${channelId}: ${err.message}`);
   }
 
-  // Method 3: yt-dlp fallback on /live
-  return checkYouTubeYtDlp(channelId, true);
+  // Method 3: yt-dlp fallback
+  return checkYouTubeYtDlp(channelId);
 }
 
-/**
- * Determines if a channel should be skipped based on last check time.
- * @param {Object} channel - Channel object.
- * @returns {boolean} True if channel should be skipped.
- */
 function shouldSkip(channel) {
-  if (FORCE) return false;
+  if (cliArgs.force) return false;
   if (!channel.last_checked) return false;
-
-  const lastChecked = new Date(channel.last_checked).getTime();
-  const now = Date.now();
   const isPriority = (channel.last_youtube_livestreams || []).length > 0;
-  const threshold = isPriority ? PRIORITY_SKIP_MS : SKIP_THRESHOLD_MS;
-
-  return now - lastChecked < threshold;
+  return (
+    Date.now() - new Date(channel.last_checked).getTime() <
+    (isPriority ? PRIORITY_SKIP_MS : SKIP_THRESHOLD_MS)
+  );
 }
 
 /**
@@ -446,17 +320,19 @@ function sleep(ms) {
 
     for (const channel of data.channels) {
       if (!channel.youtube) continue;
-      if (SINGLE_CHANNEL && channel.id !== SINGLE_CHANNEL) continue;
+      if (cliArgs.channel && channel.id !== cliArgs.channel) continue;
 
       channelsToCheck.push({ file, channel });
     }
   }
 
-  // Apply skip logic
-  const channelsSkipping = channelsToCheck.filter(({ channel }) => shouldSkip(channel));
-  const channelsActive = channelsToCheck.filter(({ channel }) => !shouldSkip(channel));
+  const filteredChannels = applyIndexFilters(channelsToCheck, cliArgs);
 
-  if (!DRY_RUN) {
+  // Apply skip logic
+  const channelsSkipping = filteredChannels.filter(({ channel }) => shouldSkip(channel));
+  const channelsActive = filteredChannels.filter(({ channel }) => !shouldSkip(channel));
+
+  if (!cliArgs.dryRun) {
     console.log(
       `Channels to check: ${channelsActive.length} (skipping ${channelsSkipping.length} recently checked)`,
     );
@@ -495,7 +371,7 @@ function sleep(ms) {
         totalCleared++;
       }
 
-      if (!DRY_RUN) {
+      if (!cliArgs.dryRun) {
         const prefix = `  [${totalChecked}/${channelsActive.length}]`;
         if (videoIds.length > 0) {
           console.log(`${prefix} ${channel.id}: LIVE (${videoIds.length} stream(s))`);
@@ -508,7 +384,7 @@ function sleep(ms) {
     }
 
     // Write updated files (from in-memory data)
-    if (!DRY_RUN) {
+    if (!cliArgs.dryRun) {
       const modifiedFiles = new Set(batch.map(({ file }) => file));
       for (const file of modifiedFiles) {
         const filePath = path.join(COUNTRIES_DIR, file);
@@ -532,11 +408,11 @@ function sleep(ms) {
   console.log(`  Live:    ${totalLive} streams detected`);
   console.log(`  Cleared: ${totalCleared} streams ended`);
 
-  if (DRY_RUN) {
+  if (cliArgs.dryRun) {
     console.log("\n[DRY RUN] No files were modified");
   } else if (totalChecked > 0) {
     console.log("\nRebuilding channels.json...");
     const { execSync } = require("child_process");
-    execSync(`node "${BUILD_SCRIPT}"`, { stdio: "inherit", cwd: path.join(__dirname, "..") });
+    execSync(`node "${BUILD_SCRIPT}"`, { stdio: "inherit", cwd: path.join(__dirname, "../..") });
   }
 })();

@@ -1,0 +1,87 @@
+{
+  "country": "us",
+  "channels": [
+    {
+      "id": "abc7-swfl",
+      "name": "ABC7 SWFL",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCq9e_hCv2jvgck8WowW1NXg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-04T02:02:29.808Z",
+      "twitch": null,
+      "website": "https://www.abc-7.com/",
+      "category": "news"
+    },
+    {
+      "id": "cheddar",
+      "name": "Cheddar",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/2.m3u8"
+        }
+      ],
+      "youtube": "UC04KsGq3npibMCE9Td3mVDg",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-06-02T23:23:10.980Z",
+      "website": "https://cheddar.com/live",
+      "category": "news"
+    },
+    {
+      "id": "cbsn",
+      "name": "CBSN",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8"
+        }
+      ],
+      "youtube": "UC8p1vwvWtl6T73JiExfWs1g",
+      "last_youtube_livestreams": [
+        "5D7t8RKEJSc"
+      ],
+      "last_checked": "2026-06-02T23:23:10.980Z",
+      "website": "https://www.cbsnews.com/live/",
+      "category": "news"
+    },
+    {
+      "id": "abc-news",
+      "name": "ABC News",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
+        }
+      ],
+      "youtube": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "last_youtube_livestreams": [
+        "iipR5yUp36o"
+      ],
+      "last_checked": "2026-07-03T04:04:05.649Z",
+      "website": "https://abcnews.go.com/Live",
+      "category": "news"
+    },
+    {
+      "id": "nbc-news",
+      "name": "NBC News",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://lnc-nbc-news-now.tubi.video/master.m3u8"
+        }
+      ],
+      "youtube": "UCeY0bbntWzzVIaj2z3QigXg",
+      "last_youtube_livestreams": [
+        "Z_7jzT1JjnM"
+      ],
+      "last_checked": "2026-06-02T23:23:38.276Z",
+      "website": "https://www.nbcnews.com/",
+      "category": "news"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+    "country": "_unknown",
+    "channels": [
+        {
+            "id": "romantica-musica",
+            "name": "Romantica Musica",
+            "logo": null,
+            "signals": [],
+            "youtube": "UC8HEkuYR6IJGMhZ8YqNFB3g",
+            "last_youtube_livestreams": [],
+            "last_checked": "2026-06-02T23:26:03.566Z",
+            "twitch": null,
+            "website": "https://www.youtube.com/channel/UC8HEkuYR6IJGMhZ8YqNFB3g",
+            "category": "music"
+        }
+    ]
+}

@@ -5,18 +5,12 @@
       "id": "abc-news",
       "name": "ABC News",
       "logo": null,
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
-        }
-      ],
+      "signals": [],
       "youtube": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "last_youtube_livestreams": [
-        "e8NVGcY0l9Q",
         "iipR5yUp36o"
       ],
-      "last_checked": "2026-06-26T23:13:07.027Z",
+      "last_checked": "2026-07-03T04:04:05.649Z",
       "twitch": null,
       "website": "https://abcnews.go.com/Live",
       "category": "news"
@@ -34,7 +28,7 @@
         "8uCTDszkENs",
         "wUQc3RoLAPs"
       ],
-      "last_checked": "2026-06-26T23:13:07.027Z",
+      "last_checked": "2026-07-03T04:04:05.649Z",
       "twitch": null,
       "website": "https://abc13.com/watch/live/",
       "category": "news"
@@ -226,12 +220,7 @@
       "id": "cbsn",
       "name": "CBSN",
       "logo": null,
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8"
-        }
-      ],
+      "signals": [],
       "youtube": "UC8p1vwvWtl6T73JiExfWs1g",
       "last_youtube_livestreams": [
         "5D7t8RKEJSc"
@@ -245,12 +234,7 @@
       "id": "cheddar",
       "name": "Cheddar",
       "logo": null,
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/2.m3u8"
-        }
-      ],
+      "signals": [],
       "youtube": "UC04KsGq3npibMCE9Td3mVDg",
       "last_youtube_livestreams": [],
       "last_checked": "2026-06-02T23:23:10.980Z",
@@ -375,16 +359,7 @@
       "id": "nbc-news",
       "name": "NBC News",
       "logo": null,
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://lnc-nbc-news-now.tubi.video/master.m3u8"
-        }
-      ],
+      "signals": [],
       "youtube": "UCeY0bbntWzzVIaj2z3QigXg",
       "last_youtube_livestreams": [
         "Z_7jzT1JjnM"

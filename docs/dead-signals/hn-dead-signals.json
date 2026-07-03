@@ -1,0 +1,22 @@
+{
+  "country": "hn",
+  "channels": [
+    {
+      "id": "hch-vivo",
+      "name": "HCH En Vivo",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://rpn3.bozztv.com/ssh101/ssh101/hchtvenvivo/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCIs6fmAXOI1K2jgkoBdWveg",
+      "last_youtube_livestreams": [
+        "ATB6iYCWlsU"
+      ],
+      "last_checked": "2026-07-03T04:00:59.041Z",
+      "website": "https://hch.tv/live/",
+      "category": "news"
+    }
+  ]
+}

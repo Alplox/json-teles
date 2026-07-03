@@ -1,23 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="" group-title="news", ABC News [US]
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-name="Bloomberg Europe" tvg-logo="" group-title="news", Bloomberg Europe [US]
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-name="Bloomberg QuickTake" tvg-logo="" group-title="news", Bloomberg QuickTake [US]
 https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:-1 tvg-name="Bloomberg US" tvg-logo="" group-title="news", Bloomberg US [US]
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-#EXTINF:-1 tvg-name="CBSN" tvg-logo="" group-title="news", CBSN [US]
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
-#EXTINF:-1 tvg-name="Cheddar" tvg-logo="" group-title="news", Cheddar [US]
-https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/2.m3u8
 #EXTINF:-1 tvg-name="International House of Prayer" tvg-logo="https://graph.facebook.com/ihopkc/picture?width=800&height=800" group-title="music", International House of Prayer [US]
 https://storage.sardius.media/archives/-K6FGrVYzVr92SDZiDnc/events/site_68FBe1c2dE/playlist.m3u8
 #EXTINF:-1 tvg-name="LiveNOW from FOX" tvg-logo="" group-title="news", LiveNOW from FOX [US]
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Naciones Unidas" tvg-logo="https://graph.facebook.com/UNWebTV/picture?width=800&height=800" group-title="general", Naciones Unidas [US]
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-name="NBC News" tvg-logo="" group-title="news", NBC News (1) [US]
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-#EXTINF:-1 tvg-name="NBC News" tvg-logo="" group-title="news", NBC News (2) [US]
-https://lnc-nbc-news-now.tubi.video/master.m3u8

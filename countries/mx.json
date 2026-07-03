@@ -8,10 +8,10 @@
       "signals": [],
       "youtube": "UC7k--FhnJzhPTrbtldMSoQQ",
       "last_youtube_livestreams": [
-        "C8Wn8m_tU-Q",
+        "cc_JkUsP7Zo",
         "d6sRTSG4rgs"
       ],
-      "last_checked": "2026-06-26T23:11:05.863Z",
+      "last_checked": "2026-07-03T04:02:17.459Z",
       "twitch": null,
       "website": "https://live.adn40.mx/",
       "category": "news"
@@ -22,10 +22,8 @@
       "logo": "https://graph.facebook.com/AhoraNoticiasC/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCn161AaU20-UcYeDEvDJyyA",
-      "last_youtube_livestreams": [
-        "fqhpJdi-aoo"
-      ],
-      "last_checked": "2026-06-26T23:11:05.863Z",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-07-03T04:02:17.459Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCn161AaU20-UcYeDEvDJyyA",
       "category": "news"
@@ -37,7 +35,7 @@
       "signals": [],
       "youtube": "UCafNntv_qTQB26AvbEQNHPw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-26T23:11:05.863Z",
+      "last_checked": "2026-07-03T04:02:17.459Z",
       "twitch": null,
       "website": "https://www.aristeguinoticias.com/",
       "category": "news"
@@ -202,12 +200,7 @@
       "id": "nmas",
       "name": "NMás",
       "logo": "https://graph.facebook.com/nmas.com.mx/picture?width=800&height=800",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8"
-        }
-      ],
+      "signals": [],
       "youtube": "UCUsm-fannqOY02PNN67C0KA",
       "last_youtube_livestreams": [
         "p2AzyIEuFak"

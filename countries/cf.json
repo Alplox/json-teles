@@ -10,7 +10,7 @@
       "last_youtube_livestreams": [
         "NQjabLGdP5g"
       ],
-      "last_checked": "2026-06-26T23:03:30.840Z",
+      "last_checked": "2026-07-03T03:55:07.292Z",
       "twitch": null,
       "website": "https://www.africanews.com/live/",
       "category": "news"
@@ -25,7 +25,7 @@
         "d4zDorDl5UE",
         "W8nThq62Vb4"
       ],
-      "last_checked": "2026-06-26T23:03:30.840Z",
+      "last_checked": "2026-07-03T03:55:07.292Z",
       "twitch": null,
       "website": "https://www.channelstv.com/live",
       "category": "news"
@@ -41,7 +41,7 @@
         "AeMUdOPFcXI",
         "ydYDqZQpim8"
       ],
-      "last_checked": "2026-06-26T23:03:30.840Z",
+      "last_checked": "2026-07-03T03:55:07.292Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UC9X6gGKDv2yhMoofoeS7-Gg",
       "category": "outdoor"
@@ -51,10 +51,6 @@
       "name": "TVGE (Ginea Ecuatorial)",
       "logo": "https://pbs.twimg.com/profile_images/1382981938231775232/-lv9ymLe_400x400.jpg",
       "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8"
-        },
         {
           "type": "iframe",
           "url": "https://tvgelive.gq/live.php"
