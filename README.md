@@ -191,7 +191,7 @@ Total channels available. M3U version may contain fewer channels.
 (click to expand)
 
 <!-- START:CHANNEL_COUNT -->
-Total: 522 channels from 42 countries
+Total: 526 channels from 42 countries
 
 <!-- END:CHANNEL_COUNT -->
 
@@ -267,6 +267,7 @@ Total: 522 channels from 42 countries
 - [eldoce](https://eldoce.tv/vivo/) (news)
 - [El Litoral](https://www.ellitoral.com/) (news)
 - [El Siete TV](https://www.elsietetv.com.ar/) (general)
+- [FM Vida](https://fmvida.com.ar) (music)
 - [FMVale975](https://radiovale.fm/) (music)
 - [GELATINA](https://www.youtube.com/channel/UCWSfXECGo1qK_H7SXRaUSMg) (entertainment)
 - [IP Noticias](https://ipnoticias.ar/) (news)
@@ -334,10 +335,13 @@ Total: 522 channels from 42 countries
 
 - [13 Cultura](https://www.13.cl/c) (culture)
 - [13 Deportes](https://www.13.cl/) (sports)
+- [13 Entretención](https://www.13.cl/) (entertainment)
 - [13 Festival](https://www.13.cl/) (music)
 - [13 FutGO](https://www.13.cl/) (sports)
+- [13 Humor](https://www.13.cl/) (entertainment)
 - [13 Kids](https://www.13.cl/) (kids)
 - [13 Pop](https://www.13.cl/) (entertainment)
+- [13 Prime](https://www.13.cl/) (entertainment)
 - [13 Realities](https://www.13.cl/) (entertainment)
 - [13 Teleseries](https://www.13.cl/) (entertainment)
 - [24 horas](https://www.24horas.cl/envivo/) (news)
@@ -891,7 +895,10 @@ Total: 522 channels from 42 countries
 
 ### 📂 Entertainment
 
+- [13 Entretención](https://www.13.cl/) (Chile)
+- [13 Humor](https://www.13.cl/) (Chile)
 - [13 Pop](https://www.13.cl/) (Chile)
+- [13 Prime](https://www.13.cl/) (Chile)
 - [13 Realities](https://www.13.cl/) (Chile)
 - [13 Teleseries](https://www.13.cl/) (Chile)
 - [GELATINA](https://www.youtube.com/channel/UCWSfXECGo1qK_H7SXRaUSMg) (Argentina)
@@ -1065,6 +1072,7 @@ Total: 522 channels from 42 countries
 - [Doom Radio](https://dcealopez.es/rip-tear-radio/) (Unknown Country)
 - [Radio Duna](https://www.duna.cl/tv/) (Chile)
 - [EnerGeek Radio](https://energeek.cl/radio-en-vivo/) (Chile)
+- [FM Vida](https://fmvida.com.ar) (Argentina)
 - [FMVale975](https://radiovale.fm/) (Argentina)
 - [frequenzy](https://www.youtube.com/channel/UClRJcsRS9YETAAj0nG_pX6g) (Unknown Country)
 - [Grupo Fórmula](https://www.radioformula.com.mx/) (México)
