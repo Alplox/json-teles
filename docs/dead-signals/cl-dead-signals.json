@@ -23,6 +23,14 @@
         {
           "type": "iframe",
           "url": "https://rudo.video/live/13e"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://dai.google.com/linear/hls/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8"
         }
       ],
       "youtube": null,
@@ -38,6 +46,10 @@
         {
           "type": "iframe",
           "url": "https://rudo.video/live/13humor"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8"
         }
       ],
       "youtube": null,
@@ -206,15 +218,7 @@
       "signals": [
         {
           "type": "m3u8",
-          "url": "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8"
-        },
-        {
-          "type": "m3u8",
           "url": "https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://unlimited1-cl-isp.dps.live/cm/cm.smil/playlist.m3u8"
         }
       ],
       "logo": "https://graph.facebook.com/TVContivision/picture?width=800&height=800",
@@ -428,19 +432,7 @@
       "signals": [
         {
           "type": "m3u8",
-          "url": "https://redirector.dps.live/hls/pucontv/playlist.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8"
-        },
-        {
-          "type": "m3u8",
           "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://unlimited6-cl.dps.live/pucontv/pucontv.smil/playlist.m3u8"
         }
       ],
       "logo": "https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f4535460ac66b5dfa35c13f/mediaLibrary/photo/3639d184-7fb1-4658-8239-dc5c1ee334c1-extra-large-standard-q100.webp",
@@ -499,19 +491,6 @@
       "last_checked": "2026-06-02T23:11:55.674Z",
       "website": "https://radiogenial.cl/",
       "category": "music"
-    },
-    {
-      "id": "radio-america-tv",
-      "name": "Radio America TV",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://v1.tustreaming.cl:443/americamovil/index.m3u8"
-        }
-      ],
-      "logo": "https://radioamerica.cl/wp-content/uploads/2025/07/logo-america.png",
-      "website": "https://radioamerica.cl/radio-tv-online/",
-      "category": "general"
     },
     {
       "id": "radio-nuble",
@@ -802,6 +781,222 @@
       "last_checked": "2026-06-02T23:13:32.604Z",
       "website": "https://www.unetev.cl",
       "category": "general"
+    },
+    {
+      "id": "13-festival",
+      "name": "13 Festival",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/6/6e/13festival.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://dai.google.com/linear/hls/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/",
+      "category": "music",
+      "last_checked": "2026-07-10T04:54:12.354Z"
+    },
+    {
+      "id": "13-pop",
+      "name": "13 Pop",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/5/5c/13pop.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/WKlE4m31TOijQS05TZmhqw/master.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://dai.google.com/linear/hls/event/WKlE4m31TOijQS05TZmhqw/master.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/",
+      "category": "entertainment",
+      "last_checked": "2026-07-10T04:54:12.497Z"
+    },
+    {
+      "id": "13-kids",
+      "name": "13 Kids",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9b/13humor.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/",
+      "category": "kids",
+      "last_checked": "2026-07-10T04:54:12.627Z"
+    },
+    {
+      "id": "13-futgo",
+      "name": "13 FutGO",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4a/FutGo.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/",
+      "category": "sports",
+      "last_checked": "2026-07-10T04:54:12.637Z"
+    },
+    {
+      "id": "13-deportes",
+      "name": "13 Deportes",
+      "logo": "https://s.t13.cl/sites/default/files/t13/componentes/field-componente-logo/deportes13_1.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/",
+      "category": "sports",
+      "last_checked": "2026-07-10T04:54:12.766Z"
+    },
+    {
+      "id": "13-cultura",
+      "name": "13 Cultura",
+      "logo": "https://graph.facebook.com/canal13c/picture?width=800&height=800",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://dai.google.com/linear/hls/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/c",
+      "category": "culture",
+      "last_checked": "2026-07-10T04:54:13.298Z"
+    },
+    {
+      "id": "13-realities",
+      "name": "13 Realities",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/2/29/13realities.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://dai.google.com/linear/hls/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/",
+      "category": "entertainment",
+      "last_checked": "2026-07-10T04:54:15.848Z"
+    },
+    {
+      "id": "13-teleseries",
+      "name": "13 Teleseries",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f1/13teleseries.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://dai.google.com/linear/hls/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/",
+      "category": "entertainment",
+      "last_checked": "2026-07-10T04:54:16.794Z"
+    },
+    {
+      "id": "canal-13-internacional",
+      "name": "Canal 13 Internacional",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/8/88/13_Internacional_2025.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.dps.live/hls/13intav/playlist.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/en-vivo",
+      "category": "general",
+      "last_checked": "2026-07-10T04:54:21.018Z"
+    },
+    {
+      "id": "canal-13",
+      "name": "Canal 13",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Emblema_del_Canal_13_Chile.svg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://redirector.dps.live/hls/13cl/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCd4D3LfXC_9MY2zSv_3gMgw",
+      "last_youtube_livestreams": [
+        "seTxqEzzCtA"
+      ],
+      "last_checked": "2026-07-10T04:54:21.043Z",
+      "twitch": null,
+      "website": "https://www.13.cl/en-vivo",
+      "category": "general"
+    },
+    {
+      "id": "temuco-television",
+      "name": "Temuco Television",
+      "logo": "https://temucotelevision.cl/web/wp-content/uploads/2019/01/logo-2.jpg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8"
+        }
+      ],
+      "youtube": "UCWju5Z19CQH3meThnn_klIQ",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-07-10T04:54:33.821Z",
+      "twitch": null,
+      "website": "https://temucotelevision.cl/",
+      "category": "general"
+    },
+    {
+      "id": "13-prime",
+      "name": "13 Prime",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b6/13prime.svg/revision/latest?cb=20221228234932&path-prefix=es",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8"
+        }
+      ],
+      "youtube": null,
+      "twitch": null,
+      "website": "https://www.13.cl/",
+      "category": "entertainment",
+      "last_checked": "2026-07-10T04:54:37.102Z"
     }
   ]
 }

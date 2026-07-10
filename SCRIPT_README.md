@@ -25,18 +25,18 @@ Este proyecto usa scripts Node.js para construir, validar y mantener el director
 |                                                   | `npm run check-youtube -- --from <N>`        | Procesa desde el índice N (0-based)                                                        |
 |                                                   | `npm run check-youtube -- --to <N>`          | Procesa hasta el índice N (inclusive)                                                      |
 |                                                   | `npm run check-youtube -- --limit <N>`       | Máximo de canales a revisar                                                                |
-| `scripts/validation/check-m3u8-signals.js` | `npm run check-m3u8` | Verifica si las señales M3U8 responden con HLS válido. No modifica archivos |
-| | `npm run check-m3u8 -- --update` | Mueve las señales muertas a `docs/dead-signals/<country>-dead-signals.json` |
-| | `npm run check-m3u8 -- --update --automatic` | Modo no interactivo (no pregunta) |
-| | `npm run check-m3u8 -- --restore` | Revierte: revisa `dead-signals/` y restaura señales que volvieron a funcionar |
-| | `npm run check-m3u8:restore` | Atajo para `--restore --update --automatic` |
-| | `npm run check-m3u8 -- --dry-run` | Vista previa sin modificar archivos |
-| | `npm run check-m3u8 -- --country <cc>` | Valida solo un país (ej: `--country cl`) |
-| | `npm run check-m3u8 -- --id <channel-id>` | Valida solo un canal específico |
-| | `npm run check-m3u8 -- --from <N>` | Procesa desde el índice N (0-based) |
-| | `npm run check-m3u8 -- --to <N>` | Procesa hasta el índice N (inclusive) |
-| | `npm run check-m3u8 -- --limit <N>` | Máximo de canales a revisar |
-| | `npm run check-m3u8 -- --verbose` | Muestra resultado de cada señal individual |
+| `scripts/validation/check-m3u8-signals.js`        | `npm run check-m3u8`                         | Verifica si las señales M3U8 responden con HLS válido. No modifica archivos                |
+|                                                   | `npm run check-m3u8 -- --update`             | Mueve las señales muertas a `docs/dead-signals/<country>-dead-signals.json`                |
+|                                                   | `npm run check-m3u8 -- --update --automatic` | Modo no interactivo (no pregunta)                                                          |
+|                                                   | `npm run check-m3u8 -- --restore`            | Revierte: revisa `dead-signals/` y restaura señales que volvieron a funcionar              |
+|                                                   | `npm run check-m3u8:restore`                 | Atajo para `--restore --update --automatic`                                                |
+|                                                   | `npm run check-m3u8 -- --dry-run`            | Vista previa sin modificar archivos                                                        |
+|                                                   | `npm run check-m3u8 -- --country <cc>`       | Valida solo un país (ej: `--country cl`)                                                   |
+|                                                   | `npm run check-m3u8 -- --id <channel-id>`    | Valida solo un canal específico                                                            |
+|                                                   | `npm run check-m3u8 -- --from <N>`           | Procesa desde el índice N (0-based)                                                        |
+|                                                   | `npm run check-m3u8 -- --to <N>`             | Procesa hasta el índice N (inclusive)                                                      |
+|                                                   | `npm run check-m3u8 -- --limit <N>`          | Máximo de canales a revisar                                                                |
+|                                                   | `npm run check-m3u8 -- --verbose`            | Muestra resultado de cada señal individual                                                 |
 | `scripts/validation/test-conversion.js`           | `npm run test`                               | Tests de conversión JSON→M3U                                                               |
 
 ### Scripts utilitarios (utils/)

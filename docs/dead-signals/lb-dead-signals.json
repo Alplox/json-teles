@@ -1,20 +1,4 @@
 {
   "country": "lb",
-  "channels": [
-    {
-      "id": "al-mayadeen-live",
-      "name": "AlMayadeen Live - الميادين مباشر",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8"
-        }
-      ],
-      "youtube": "UCLaJbSWEyamrbyiLWCXL8AA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-04T02:34:29.065Z",
-      "website": "https://www.youtube.com/channel/UCLaJbSWEyamrbyiLWCXL8AA",
-      "category": "news"
-    }
-  ]
+  "channels": []
 }

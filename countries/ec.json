@@ -7,8 +7,10 @@
       "logo": "https://graph.facebook.com/LaPostaEc/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCLCCMz3exOqYc59IN0VOLlA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-07-03T04:00:13.877Z",
+      "last_youtube_livestreams": [
+        "Q7VxbsvQRus"
+      ],
+      "last_checked": "2026-07-10T04:41:39.581Z",
       "twitch": null,
       "website": "https://www.laposta.ec/",
       "category": "news"
@@ -20,7 +22,7 @@
       "signals": [],
       "youtube": "UCzfV4_Fh7BEZxYsqe-vUjNw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-07-03T04:00:13.877Z",
+      "last_checked": "2026-07-10T04:41:39.581Z",
       "twitch": null,
       "website": "https://canaltvdigitalonline.com/",
       "category": "news"
@@ -76,7 +78,7 @@
       ],
       "youtube": "UCRUV3nUNSc-xpBrTwQOCQQg",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:15:38.163Z",
+      "last_checked": "2026-07-10T04:54:38.490Z",
       "twitch": null,
       "website": "https://www.ecuavisa.com/envivo",
       "category": "news"
@@ -174,7 +176,7 @@
       "last_youtube_livestreams": [
         "gO9b4Mu4oCg"
       ],
-      "last_checked": "2026-06-02T23:15:38.163Z",
+      "last_checked": "2026-07-10T04:54:37.649Z",
       "twitch": null,
       "website": "https://sonoonda.com/tv-online/",
       "category": "music"

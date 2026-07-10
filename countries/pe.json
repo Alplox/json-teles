@@ -8,7 +8,7 @@
       "signals": [],
       "youtube": "UCo75W2AP1hnjUF4V_ovOAsg",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-07-03T04:03:02.416Z",
+      "last_checked": "2026-07-10T04:45:47.762Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCo75W2AP1hnjUF4V_ovOAsg",
       "category": "news"
@@ -86,7 +86,7 @@
       ],
       "youtube": "UC3rDtLrcgr3JS3_3JOW4BAw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:20:46.913Z",
+      "last_checked": "2026-07-10T04:54:42.286Z",
       "twitch": null,
       "website": "https://www.latina.pe/",
       "category": "news"
@@ -107,7 +107,7 @@
       ],
       "youtube": "UC3rDtLrcgr3JS3_3JOW4BAw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:20:46.914Z",
+      "last_checked": "2026-07-10T04:54:42.496Z",
       "twitch": null,
       "website": "https://www.latina.pe/",
       "category": "music"
@@ -152,7 +152,7 @@
       "last_youtube_livestreams": [
         "A_-ODO9SkHU"
       ],
-      "last_checked": "2026-06-02T23:20:46.914Z",
+      "last_checked": "2026-07-10T04:54:42.645Z",
       "twitch": null,
       "website": "https://ovacion.pe/radio",
       "category": "music"
@@ -192,15 +192,10 @@
       "id": "radio-onda-digital",
       "name": "Radio Onda Digital",
       "logo": null,
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://tv.ondadigital.pe/ondadigital/video.m3u8"
-        }
-      ],
+      "signals": [],
       "youtube": "UCXXxRHhOXI6xFu8kDwV5UnQ",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:20:46.914Z",
+      "last_checked": "2026-07-10T04:54:45.780Z",
       "twitch": null,
       "website": "https://www.ondadigital.pe/",
       "category": "music"
@@ -221,7 +216,7 @@
       ],
       "youtube": "UC1WrIYwcdMJrpWRCAx7DTsA",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:20:46.914Z",
+      "last_checked": "2026-07-10T04:54:43.006Z",
       "twitch": null,
       "website": "https://radiotropical.pe/",
       "category": "music"
@@ -257,7 +252,7 @@
       ],
       "youtube": "UCHB6XEoEc7i7Wzst1yLFJXQ",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:20:46.914Z",
+      "last_checked": "2026-07-10T04:54:46.240Z",
       "twitch": null,
       "website": "https://rtvtotal.com.pe/#tvenvivo",
       "category": "news"

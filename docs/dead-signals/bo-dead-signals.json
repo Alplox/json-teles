@@ -18,19 +18,6 @@
       "category": "general"
     },
     {
-      "id": "boliviatv72",
-      "name": "Bolivia TV 7.2",
-      "logo": "https://i.imgur.com/tKLYYys.png",
-      "signals": [],
-      "youtube": "UCKadCx-t_VmwzfWczlWE98w",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-07-03T03:54:42.934Z",
-      "twitch": null,
-      "website": "https://www.boliviatv.bo/",
-      "country": "bo",
-      "category": "general"
-    },
-    {
       "id": "gogoplaytv",
       "name": "Gogoplaytv",
       "signals": [
