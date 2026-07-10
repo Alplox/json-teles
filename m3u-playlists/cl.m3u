@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="13 Cultura" tvg-logo="https://graph.facebook.com/canal13c/picture?width=800&height=800" group-title="culture", 13 Cultura (1) [CL]
-https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-name="13 Cultura" tvg-logo="https://graph.facebook.com/canal13c/picture?width=800&height=800" group-title="culture", 13 Cultura (2) [CL]
-https://dai.google.com/linear/hls/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-name="13 Deportes" tvg-logo="https://s.t13.cl/sites/default/files/t13/componentes/field-componente-logo/deportes13_1.png" group-title="sports", 13 Deportes [CL]
-https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
-#EXTINF:-1 tvg-name="13 Festival" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/13festival.svg" group-title="music", 13 Festival (1) [CL]
-https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1 tvg-name="13 Festival" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/13festival.svg" group-title="music", 13 Festival (2) [CL]
-https://dai.google.com/linear/hls/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1 tvg-name="13 FutGO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/FutGo.svg" group-title="sports", 13 FutGO [CL]
-https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8
-#EXTINF:-1 tvg-name="13 Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/13humor.svg" group-title="kids", 13 Kids [CL]
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:-1 tvg-name="13 Pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/13pop.svg" group-title="entertainment", 13 Pop (1) [CL]
-https://origin.dpsgo.com/ssai/event/WKlE4m31TOijQS05TZmhqw/master.m3u8
-#EXTINF:-1 tvg-name="13 Pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/13pop.svg" group-title="entertainment", 13 Pop (2) [CL]
-https://dai.google.com/linear/hls/event/WKlE4m31TOijQS05TZmhqw/master.m3u8
-#EXTINF:-1 tvg-name="13 Realities" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/13realities.svg" group-title="entertainment", 13 Realities (1) [CL]
-https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:-1 tvg-name="13 Realities" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/13realities.svg" group-title="entertainment", 13 Realities (2) [CL]
-https://dai.google.com/linear/hls/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:-1 tvg-name="13 Teleseries" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/13teleseries.svg" group-title="entertainment", 13 Teleseries (1) [CL]
-https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-name="13 Teleseries" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/13teleseries.svg" group-title="entertainment", 13 Teleseries (2) [CL]
-https://dai.google.com/linear/hls/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-name="24 horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="news", 24 horas [CL]
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
 #EXTINF:-1 tvg-name="Radio ADN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/ADN_Radio_Chile.svg" group-title="music", Radio ADN [CL]
@@ -63,12 +37,8 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 11 Aysen" tvg-logo="" group-title="general", Canal 11 Aysen [CL]
 https://v2.tustreaming.cl/canal11aysen/index.m3u8
-#EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Emblema_del_Canal_13_Chile.svg" group-title="general", Canal 13 (1) [CL]
-https://redirector.dps.live/hls/13cl/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Emblema_del_Canal_13_Chile.svg" group-title="general", Canal 13 (2) [CL]
+#EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Emblema_del_Canal_13_Chile.svg" group-title="general", Canal 13 [CL]
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13popup/13popup.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 13 Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/13_Internacional_2025.svg" group-title="general", Canal 13 Internacional [CL]
-https://redirector.dps.live/hls/13intav/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 2 Quellón" tvg-logo="https://graph.facebook.com/canal2quellon/picture?width=800&height=800" group-title="general", Canal 2 Quellón (1) [CL]
 https://unlimited2-cl-isp.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-name="Canal 2 Quellón" tvg-logo="https://graph.facebook.com/canal2quellon/picture?width=800&height=800" group-title="general", Canal 2 Quellón (2) [CL]
@@ -133,6 +103,12 @@ https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Concepcion TV" tvg-logo="https://concepciontv.cl/wp-content/uploads/2024/04/logopaginaweb-1-1024x272-1-150x40.png" group-title="general", Concepcion TV [CL]
 https://stream.blserver.cl/hls/ctv/index.m3u8
+#EXTINF:-1 tvg-name="Contivision" tvg-logo="https://graph.facebook.com/TVContivision/picture?width=800&height=800" group-title="general", Contivision (1) [CL]
+https://unlimited1-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Contivision" tvg-logo="https://graph.facebook.com/TVContivision/picture?width=800&height=800" group-title="general", Contivision (2) [CL]
+https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Contivision" tvg-logo="https://graph.facebook.com/TVContivision/picture?width=800&height=800" group-title="general", Contivision (3) [CL]
+https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Cooperativa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Radio_Cooperativa_Logo.svg" group-title="music", Radio Cooperativa [CL]
 https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Cronicas del Sur TV" tvg-logo="https://cronicasdelsur.cl/wp-content/uploads/2023/07/cropped-LOGO-TV-transparente-180x180.png" group-title="general", Cronicas del Sur TV [CL]
@@ -231,12 +207,22 @@ https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Portal Foxmix Chile" tvg-logo="https://graph.facebook.com/portalfoxmix/picture?width=800&height=800" group-title="music", Portal Foxmix Chile [CL]
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 tvg-name="Pucón TV" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f4535460ac66b5dfa35c13f/mediaLibrary/photo/3639d184-7fb1-4658-8239-dc5c1ee334c1-extra-large-standard-q100.webp" group-title="general", Pucón TV (1) [CL]
+https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Pucón TV" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f4535460ac66b5dfa35c13f/mediaLibrary/photo/3639d184-7fb1-4658-8239-dc5c1ee334c1-extra-large-standard-q100.webp" group-title="general", Pucón TV (2) [CL]
+https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Pucón TV" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f4535460ac66b5dfa35c13f/mediaLibrary/photo/3639d184-7fb1-4658-8239-dc5c1ee334c1-extra-large-standard-q100.webp" group-title="general", Pucón TV (3) [CL]
+https://unlimited6-cl.dps.live/pucontv/pucontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Pucón TV" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f4535460ac66b5dfa35c13f/mediaLibrary/photo/3639d184-7fb1-4658-8239-dc5c1ee334c1-extra-large-standard-q100.webp" group-title="general", Pucón TV (4) [CL]
+https://redirector.dps.live/hls/pucontv/playlist.m3u8
 #EXTINF:-1 tvg-name="Puranoticia TV" tvg-logo="https://graph.facebook.com/puranoticiachile/picture?width=800&height=800" group-title="general", Puranoticia TV (1) [CL]
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-name="Puranoticia TV" tvg-logo="https://graph.facebook.com/puranoticiachile/picture?width=800&height=800" group-title="general", Puranoticia TV (2) [CL]
 https://pnt.janus.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-name="Radio AE Radio DuocUC" tvg-logo="https://www.aeradio.cl/wp-content/uploads/2024/04/AE-RADIO-2024.png" group-title="music", Radio AE Radio DuocUC [CL]
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio America TV" tvg-logo="https://radioamerica.cl/wp-content/uploads/2025/07/logo-america.png" group-title="general", Radio America TV [CL]
+https://v1.tustreaming.cl:443/americamovil/index.m3u8
 #EXTINF:-1 tvg-name="Radio El Conquistador FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Radio_El_Conquistador_91.3_FM.jpg" group-title="music", Radio El Conquistador FM (1) [CL]
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio El Conquistador FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Radio_El_Conquistador_91.3_FM.jpg" group-title="music", Radio El Conquistador FM (2) [CL]
@@ -285,8 +271,6 @@ https://unlimited1-cl-isp.dps.live/teleangol/teleangol.smil/playlist.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TeleAngol" tvg-logo="https://s3-mspro.nyc3.digitaloceanspaces.com/tenant/5f4534e60ac66b5dfa35c13a/settings/logos/9c6f4044-9744-4ed5-94ee-9ae72d742367.png" group-title="general", TeleAngol (3) [CL]
 https://unlimited6-cl.dps.live/teleangol/teleangol.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Temuco Television" tvg-logo="https://temucotelevision.cl/web/wp-content/uploads/2019/01/logo-2.jpg" group-title="general", Temuco Television [CL]
-https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8
 #EXTINF:-1 tvg-name="Tevex Oficial" tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg" group-title="general", Tevex Oficial [CL]
 https://v4.tustreaming.cl:443/tevexinter/index.m3u8
 #EXTINF:-1 tvg-name="TV Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Logotipo_de_TV_Chile.svg" group-title="general", TV Chile [CL]
@@ -379,11 +363,3 @@ https://pantera1-100gb-cl-movistar.dps.live/vtvquillota/vtvquillota.smil/playlis
 https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV Quillota" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f45357a0ac66b5dfa35c144/mediaLibrary/photo/6ffc1997-59e5-48d2-83a5-a1392ae981b8-extra-large-standard-q100.webp" group-title="general", VTV Quillota (3) [CL]
 https://unlimited1-cl-isp.dps.live/vtvquillota/vtvquillota.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="13 Entretención" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/13entretencion.svg/revision/latest?cb=20221228235322&path-prefix=es" group-title="entertainment", 13 Entretención (1) [CL]
-https://dai.google.com/linear/hls/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-#EXTINF:-1 tvg-name="13 Entretención" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/13entretencion.svg/revision/latest?cb=20221228235322&path-prefix=es" group-title="entertainment", 13 Entretención (2) [CL]
-https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-#EXTINF:-1 tvg-name="13 Prime" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/13prime.svg/revision/latest?cb=20221228234932&path-prefix=es" group-title="entertainment", 13 Prime [CL]
-https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
-#EXTINF:-1 tvg-name="13 Humor" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/13humor.svg/revision/latest?cb=20230902025105&path-prefix=es" group-title="entertainment", 13 Humor [CL]
-https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
