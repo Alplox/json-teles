@@ -191,7 +191,7 @@ Total channels available. M3U version may contain fewer channels.
 (click to expand)
 
 <!-- START:CHANNEL_COUNT -->
-Total: 526 channels from 42 countries
+Total: 525 channels from 42 countries
 
 <!-- END:CHANNEL_COUNT -->
 
@@ -300,7 +300,6 @@ Total: 526 channels from 42 countries
 ### 🌍 Bolivia
 
 - [Bolivia Al aire TV](https://boliviaalairetv.com/) (culture)
-- [Bolivia TV 7.2](https://www.boliviatv.bo/) (general)
 - [Bolivision](https://www.redbolivision.tv.bo/) (general)
 - [Gogoplaytv](https://www.gogoplaytv.com/) (entertainment)
 - [Noticias Bolivisión Al Día](https://www.redbolivision.tv.bo/envivo-canal-5/) (news)
@@ -917,7 +916,6 @@ Total: 526 channels from 42 countries
 - [Arica TV](https://arica.tv/) (Chile)
 - [Atacama TV](https://atacamatelevision.com/) (Chile)
 - [Aysen TV](https://www.aysen.tv/) (Chile)
-- [Bolivia TV 7.2](https://www.boliviatv.bo/) (Bolivia)
 - [Bolivision](https://www.redbolivision.tv.bo/) (Bolivia)
 - [BREAK POINT](https://www.youtube.com/channel/UC_49ElhhVd1BO7MsdBPm77Q) (Argentina)
 - [BTA TV](https://btatv.tv/) (Venezuela)
