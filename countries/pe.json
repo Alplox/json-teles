@@ -8,7 +8,7 @@
       "signals": [],
       "youtube": "UCo75W2AP1hnjUF4V_ovOAsg",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-07-10T04:45:47.762Z",
+      "last_checked": "2026-07-17T17:58:33.195Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCo75W2AP1hnjUF4V_ovOAsg",
       "category": "news"
@@ -192,7 +192,12 @@
       "id": "radio-onda-digital",
       "name": "Radio Onda Digital",
       "logo": null,
-      "signals": [],
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://tv.ondadigital.pe/ondadigital/video.m3u8"
+        }
+      ],
       "youtube": "UCXXxRHhOXI6xFu8kDwV5UnQ",
       "last_youtube_livestreams": [],
       "last_checked": "2026-07-10T04:54:45.780Z",

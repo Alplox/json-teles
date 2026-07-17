@@ -8,9 +8,9 @@ https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274
 #EXTINF:-1 tvg-name="AGRICULTURA TV" tvg-logo="https://graph.facebook.com/RadioAgricultura/picture?width=800&height=800" group-title="music", AGRICULTURA TV (2) [CL]
 https://unlimited2-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Alternativa FM (Huasco)" tvg-logo="https://i0.wp.com/alternativatv.cl/wp-content/uploads/2022/11/cropped-Logo-Red-Alternativa.png" group-title="music", Radio Alternativa FM (Huasco) (1) [CL]
-https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Alternativa FM (Huasco)" tvg-logo="https://i0.wp.com/alternativatv.cl/wp-content/uploads/2022/11/cropped-Logo-Red-Alternativa.png" group-title="music", Radio Alternativa FM (Huasco) (2) [CL]
 https://vs20.live.opencaster.com/alternativatv_859ab4a0/index.m3u8
+#EXTINF:-1 tvg-name="Radio Alternativa FM (Huasco)" tvg-logo="https://i0.wp.com/alternativatv.cl/wp-content/uploads/2022/11/cropped-Logo-Red-Alternativa.png" group-title="music", Radio Alternativa FM (Huasco) (2) [CL]
+https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
 #EXTINF:-1 tvg-name="America TV" tvg-logo="https://radioamerica.cl/wp-content/uploads/2025/07/logo-america.png" group-title="general", America TV [CL]
 https://v2.tustreaming.cl/radioamericatv/index.m3u8
 #EXTINF:-1 tvg-name="Antofagasta TV" tvg-logo="https://graph.facebook.com/AntofagastaTelevision/picture?width=800&height=800" group-title="general", Antofagasta TV (1) [CL]
@@ -99,8 +99,10 @@ https://v2.tustreaming.cl/clicktv/playlist.m3u8
 https://v2.tustreaming.cl/clicktv/index.m3u8
 #EXTINF:-1 tvg-name="Club TV Santa Juana" tvg-logo="https://graph.facebook.com/clubtvcanal/picture?width=800&height=800" group-title="general", Club TV Santa Juana [CL]
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
-#EXTINF:-1 tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="news", CNN Chile [CL]
+#EXTINF:-1 tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="news", CNN Chile (1) [CL]
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="news", CNN Chile (2) [CL]
+https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-name="Concepcion TV" tvg-logo="https://concepciontv.cl/wp-content/uploads/2024/04/logopaginaweb-1-1024x272-1-150x40.png" group-title="general", Concepcion TV [CL]
 https://stream.blserver.cl/hls/ctv/index.m3u8
 #EXTINF:-1 tvg-name="Contivision" tvg-logo="https://graph.facebook.com/TVContivision/picture?width=800&height=800" group-title="general", Contivision (1) [CL]
@@ -108,6 +110,8 @@ https://unlimited1-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Contivision" tvg-logo="https://graph.facebook.com/TVContivision/picture?width=800&height=800" group-title="general", Contivision (2) [CL]
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Contivision" tvg-logo="https://graph.facebook.com/TVContivision/picture?width=800&height=800" group-title="general", Contivision (3) [CL]
+https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Contivision" tvg-logo="https://graph.facebook.com/TVContivision/picture?width=800&height=800" group-title="general", Contivision (4) [CL]
 https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Cooperativa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Radio_Cooperativa_Logo.svg" group-title="music", Radio Cooperativa [CL]
 https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
@@ -215,6 +219,8 @@ https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
 https://unlimited6-cl.dps.live/pucontv/pucontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Pucón TV" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f4535460ac66b5dfa35c13f/mediaLibrary/photo/3639d184-7fb1-4658-8239-dc5c1ee334c1-extra-large-standard-q100.webp" group-title="general", Pucón TV (4) [CL]
 https://redirector.dps.live/hls/pucontv/playlist.m3u8
+#EXTINF:-1 tvg-name="Pucón TV" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f4535460ac66b5dfa35c13f/mediaLibrary/photo/3639d184-7fb1-4658-8239-dc5c1ee334c1-extra-large-standard-q100.webp" group-title="general", Pucón TV (5) [CL]
+https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Puranoticia TV" tvg-logo="https://graph.facebook.com/puranoticiachile/picture?width=800&height=800" group-title="general", Puranoticia TV (1) [CL]
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-name="Puranoticia TV" tvg-logo="https://graph.facebook.com/puranoticiachile/picture?width=800&height=800" group-title="general", Puranoticia TV (2) [CL]
@@ -271,6 +277,8 @@ https://unlimited1-cl-isp.dps.live/teleangol/teleangol.smil/playlist.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TeleAngol" tvg-logo="https://s3-mspro.nyc3.digitaloceanspaces.com/tenant/5f4534e60ac66b5dfa35c13a/settings/logos/9c6f4044-9744-4ed5-94ee-9ae72d742367.png" group-title="general", TeleAngol (3) [CL]
 https://unlimited6-cl.dps.live/teleangol/teleangol.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Temuco Television" tvg-logo="https://temucotelevision.cl/web/wp-content/uploads/2019/01/logo-2.jpg" group-title="general", Temuco Television [CL]
+https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8
 #EXTINF:-1 tvg-name="Tevex Oficial" tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg" group-title="general", Tevex Oficial [CL]
 https://v4.tustreaming.cl:443/tevexinter/index.m3u8
 #EXTINF:-1 tvg-name="TV Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Logotipo_de_TV_Chile.svg" group-title="general", TV Chile [CL]

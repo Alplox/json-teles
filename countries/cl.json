@@ -149,10 +149,11 @@
       ],
       "youtube": "UCTXNz3gjAypWp3EhlIATEJQ",
       "last_youtube_livestreams": [
-        "yjmVJKkX_ic",
-        "YavYN1F08v8"
+        "2OH6xS7HQts",
+        "0X67LsiiBpY",
+        "4wb_xjoZau8"
       ],
-      "last_checked": "2026-07-10T04:54:13.538Z",
+      "last_checked": "2026-07-17T18:41:30.323Z",
       "twitch": "24horas_tvn",
       "website": "https://www.24horas.cl/envivo/",
       "category": "news"
@@ -173,9 +174,9 @@
       ],
       "youtube": "UCczkrFICr0xEgDsk51zZojA",
       "last_youtube_livestreams": [
-        "ZpaHwdhs9AA"
+        "d0o8BoP-dac"
       ],
-      "last_checked": "2026-07-10T04:54:14.038Z",
+      "last_checked": "2026-07-17T18:41:30.835Z",
       "twitch": null,
       "website": "https://www.adnradio.cl/noticias/videos/",
       "category": "music"
@@ -207,8 +208,10 @@
         }
       ],
       "youtube": "UCBkkqRIsRTbio4W7MwAZiEw",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-07-10T04:54:13.985Z",
+      "last_youtube_livestreams": [
+        "-D4BBBpnxyI"
+      ],
+      "last_checked": "2026-07-17T18:41:30.820Z",
       "twitch": null,
       "website": "https://www.radioagricultura.cl/en-vivo-3/",
       "category": "music"
@@ -220,11 +223,11 @@
       "signals": [
         {
           "type": "m3u8",
-          "url": "https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8"
+          "url": "https://vs20.live.opencaster.com/alternativatv_859ab4a0/index.m3u8"
         },
         {
           "type": "m3u8",
-          "url": "https://vs20.live.opencaster.com/alternativatv_859ab4a0/index.m3u8"
+          "url": "https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8"
         },
         {
           "type": "iframe",
@@ -236,7 +239,7 @@
         }
       ],
       "youtube": null,
-      "last_checked": "2026-07-10T04:54:14.430Z",
+      "last_checked": "2026-07-17T18:41:33.180Z",
       "twitch": null,
       "website": "https://www.alternativafm.cl/p/alternativa-tv.html",
       "category": "music"
@@ -259,7 +262,7 @@
       "last_youtube_livestreams": [
         "E68KyCyIahE"
       ],
-      "last_checked": "2026-07-10T04:54:13.403Z",
+      "last_checked": "2026-07-17T18:41:30.109Z",
       "twitch": null,
       "website": "https://radioamerica.cl/",
       "category": "general"
@@ -292,7 +295,7 @@
       ],
       "youtube": "UCPPF9v9ISzU_wp8ao2SBfpg",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-07-10T04:54:13.677Z",
+      "last_checked": "2026-07-17T18:41:30.163Z",
       "twitch": null,
       "website": "https://www.antofagasta.tv/",
       "category": "general"
@@ -986,6 +989,10 @@
         {
           "type": "iframe",
           "url": "https://www.cnnchile.com/page/en-vivo/"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR"
         }
       ],
       "youtube": "UCpOAcjJNAp0Y0fhznRrXIJQ",
@@ -1046,6 +1053,10 @@
         {
           "type": "m3u8",
           "url": "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8"
         },
         {
           "type": "m3u8",
@@ -2248,6 +2259,10 @@
         {
           "type": "m3u8",
           "url": "https://redirector.dps.live/hls/pucontv/playlist.m3u8"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8"
         }
       ],
       "youtube": "UCqFkqnqS6DhFEwyD2GmqoXA",
@@ -2905,6 +2920,10 @@
         {
           "type": "iframe",
           "url": "https://mediacp.nnw.cl:2020/VideoPlayer/temucotelevision?autoplay=1"
+        },
+        {
+          "type": "m3u8",
+          "url": "https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8"
         }
       ],
       "youtube": "UCWju5Z19CQH3meThnn_klIQ",

@@ -257,99 +257,105 @@ async function checkAndMoveSignals() {
     await Promise.all(
       batch.map(({ filePath, country, data, channel, m3u8Signals }) =>
         (async () => {
-          const signalResults = await Promise.all(
-            m3u8Signals.map((s) => checkSignal(s.url, s.index)),
-          );
-          const deadIndices = new Set();
+          try {
+            const signalResults = await Promise.all(
+              m3u8Signals.map((s) => checkSignal(s.url, s.index)),
+            );
+            const deadIndices = new Set();
 
-          let okCount = 0,
-            deadCount = 0,
-            errCount = 0;
-          for (const r of signalResults) {
-            if (r.ok) {
-              results.ok++;
-              okCount++;
-              if (args.verbose) {
-                const shortUrl =
-                  m3u8Signals.find((s) => s.index === r.signalIndex)?.url?.slice(0, 80) || "";
-                console.log(
-                  `  [${signalLabel(r)}] ${channel.id} signal[${r.signalIndex}]: ${shortUrl}`,
-                );
-              }
-            } else if (r.error === "not valid HLS (missing #EXTM3U)") {
-              results.dead++;
-              deadCount++;
-              deadIndices.add(r.signalIndex);
-              if (args.verbose) {
-                const shortUrl =
-                  m3u8Signals.find((s) => s.index === r.signalIndex)?.url?.slice(0, 80) || "";
-                console.log(
-                  `  [${signalLabel(r)}] ${channel.id} signal[${r.signalIndex}]: ${shortUrl}`,
-                );
-              }
-            } else {
-              results.errors++;
-              errCount++;
-              deadIndices.add(r.signalIndex);
-              if (args.verbose) {
-                const shortUrl =
-                  m3u8Signals.find((s) => s.index === r.signalIndex)?.url?.slice(0, 80) || "";
-                console.log(
-                  `  [${signalLabel(r)}] ${channel.id} signal[${r.signalIndex}]: ${shortUrl} (${r.error})`,
-                );
+            let okCount = 0,
+              deadCount = 0,
+              errCount = 0;
+            for (const r of signalResults) {
+              if (r.ok) {
+                results.ok++;
+                okCount++;
+                if (args.verbose) {
+                  const shortUrl =
+                    m3u8Signals.find((s) => s.index === r.signalIndex)?.url?.slice(0, 80) || "";
+                  console.log(
+                    `  [${signalLabel(r)}] ${channel.id} signal[${r.signalIndex}]: ${shortUrl}`,
+                  );
+                }
+              } else if (r.error === "not valid HLS (missing #EXTM3U)") {
+                results.dead++;
+                deadCount++;
+                deadIndices.add(r.signalIndex);
+                if (args.verbose) {
+                  const shortUrl =
+                    m3u8Signals.find((s) => s.index === r.signalIndex)?.url?.slice(0, 80) || "";
+                  console.log(
+                    `  [${signalLabel(r)}] ${channel.id} signal[${r.signalIndex}]: ${shortUrl}`,
+                  );
+                }
+              } else {
+                results.errors++;
+                errCount++;
+                deadIndices.add(r.signalIndex);
+                if (args.verbose) {
+                  const shortUrl =
+                    m3u8Signals.find((s) => s.index === r.signalIndex)?.url?.slice(0, 80) || "";
+                  console.log(
+                    `  [${signalLabel(r)}] ${channel.id} signal[${r.signalIndex}]: ${shortUrl} (${r.error})`,
+                  );
+                }
               }
             }
-          }
 
-          const labelParts = [];
-          if (okCount) labelParts.push(`${okCount} OK`);
-          if (deadCount) labelParts.push(`${deadCount} DEAD`);
-          if (errCount) labelParts.push(`${errCount} ERR`);
-          checkedCount++;
-          console.log(`[${checkedCount}/${total}] ${channel.id}: ${labelParts.join(", ")}`);
+            const labelParts = [];
+            if (okCount) labelParts.push(`${okCount} OK`);
+            if (deadCount) labelParts.push(`${deadCount} DEAD`);
+            if (errCount) labelParts.push(`${errCount} ERR`);
+            checkedCount++;
+            console.log(`[${checkedCount}/${total}] ${channel.id}: ${labelParts.join(", ")}`);
 
-          channel.last_checked = new Date().toISOString();
-          modifiedData.set(filePath, data);
+            channel.last_checked = new Date().toISOString();
+            modifiedData.set(filePath, data);
 
-          if (deadIndices.size === 0) return;
+            if (deadIndices.size === 0) return;
 
-          // Build list of dead signal objects (in reverse index order to splice safely)
-          const deadSignals = m3u8Signals.filter((s) => deadIndices.has(s.index));
+            // Build list of dead signal objects (in reverse index order to splice safely)
+            const deadSignals = m3u8Signals.filter((s) => deadIndices.has(s.index));
 
-          if (!args.update || args.dryRun) {
+            if (!args.update || args.dryRun) {
+              for (const s of deadSignals) {
+                const shortUrl = s.url.slice(0, 80);
+                console.log(`  → Would remove dead signal from ${channel.id}: ${shortUrl}`);
+              }
+              return;
+            }
+
+            // Remove dead signals from channel (reverse order to preserve indices)
+            const sortedDead = [...deadIndices].sort((a, b) => b - a);
+            for (const idx of sortedDead) {
+              channel.signals.splice(idx, 1);
+            }
+
+            // Add to dead-signals file
+            if (!deadSignalsByCountry[country]) {
+              deadSignalsByCountry[country] = loadDeadSignals(country);
+            }
+            const dsData = deadSignalsByCountry[country];
+            let dsChannel = getDeadSignalsChannel(dsData, channel.id);
+            if (!dsChannel) {
+              dsChannel = { ...channel, signals: [] };
+              dsData.channels.push(dsChannel);
+            }
+            for (const s of deadSignals) {
+              const exists = dsChannel.signals.some((ds) => ds.url === s.url && ds.type === s.type);
+              if (!exists) {
+                dsChannel.signals.push({ type: s.type, url: s.url });
+              }
+            }
+
             for (const s of deadSignals) {
               const shortUrl = s.url.slice(0, 80);
-              console.log(`  → Would remove dead signal from ${channel.id}: ${shortUrl}`);
+              console.log(`  [MOVED] ${channel.id} → ${country}-dead-signals.json: ${shortUrl}`);
             }
-            return;
-          }
-
-          // Remove dead signals from channel (reverse order to preserve indices)
-          const sortedDead = [...deadIndices].sort((a, b) => b - a);
-          for (const idx of sortedDead) {
-            channel.signals.splice(idx, 1);
-          }
-
-          // Add to dead-signals file
-          if (!deadSignalsByCountry[country]) {
-            deadSignalsByCountry[country] = loadDeadSignals(country);
-          }
-          const dsData = deadSignalsByCountry[country];
-          let dsChannel = getDeadSignalsChannel(dsData, channel.id);
-          if (!dsChannel) {
-            dsChannel = { ...channel, signals: [] };
-            dsData.channels.push(dsChannel);
-          }
-          for (const s of deadSignals) {
-            const exists = dsChannel.signals.some((ds) => ds.url === s.url && ds.type === s.type);
-            if (!exists) {
-              dsChannel.signals.push({ type: s.type, url: s.url });
-            }
-          }
-
-          for (const s of deadSignals) {
-            const shortUrl = s.url.slice(0, 80);
-            console.log(`  [MOVED] ${channel.id} → ${country}-dead-signals.json: ${shortUrl}`);
+          } catch (err) {
+            checkedCount++;
+            results.errors++;
+            console.log(`[${checkedCount}/${total}] ${channel.id}: CRASHED — ${err.message}`);
           }
         })(),
       ),
@@ -453,53 +459,61 @@ async function checkAndRestoreSignals() {
     await Promise.all(
       batch.map(({ country, file, data, channel, signal }) =>
         (async () => {
-          const r = await checkSignal(signal.url, signal.index);
+          try {
+            const r = await checkSignal(signal.url, signal.index);
 
-          checkedCount++;
-          if (!r.ok) {
-            results.stillDead++;
-            if (args.verbose) {
-              const shortUrl = signal.url.slice(0, 80);
-              console.log(`  [${signalLabel(r)}] ${channel.id}: ${shortUrl} (${r.error})`);
+            checkedCount++;
+            if (!r.ok) {
+              results.stillDead++;
+              if (args.verbose) {
+                const shortUrl = signal.url.slice(0, 80);
+                console.log(`  [${signalLabel(r)}] ${channel.id}: ${shortUrl} (${r.error})`);
+              }
+              console.log(`[${checkedCount}/${total}] ${channel.id}: DEAD`);
+              return;
             }
-            console.log(`[${checkedCount}/${total}] ${channel.id}: DEAD`);
-            return;
+
+            results.restored++;
+            const shortUrl = signal.url.slice(0, 80);
+            console.log(
+              `[${checkedCount}/${total}] ${channel.id}: [${signalLabel(r)}] ${shortUrl}`,
+            );
+
+            if (!args.update || args.dryRun) {
+              console.log(`  → Would restore signal to ${country}.json`);
+              return;
+            }
+
+            // Remove signal from dead-signals channel
+            channel.signals.splice(signal.index, 1);
+
+            // Add signal to country file
+            let countryData = loadCountry(country);
+            if (!countryData) {
+              console.log(`  → Creating ${country}.json`);
+              countryData = {
+                data: { country, channels: [] },
+                filePath: path.join(COUNTRIES_DIR, `${country}.json`),
+              };
+            }
+            let cc = getCountryChannel(countryData.data, channel.id);
+            if (!cc) {
+              cc = { ...channel, signals: [] };
+              countryData.data.channels.push(cc);
+            }
+            cc.signals.push({ type: "m3u8", url: signal.url });
+            saveCountry(countryData.filePath, countryData.data);
+            modifiedCountries.add(country);
+
+            // Save dead-signals file (remove empty channels, then save)
+            data.channels = data.channels.filter((c) => (c.signals || []).length > 0);
+            saveDeadSignals(country, data);
+            modifiedDeadFiles.add(file);
+          } catch (err) {
+            checkedCount++;
+            results.stillDead++;
+            console.log(`[${checkedCount}/${total}] ${channel.id}: CRASHED — ${err.message}`);
           }
-
-          results.restored++;
-          const shortUrl = signal.url.slice(0, 80);
-          console.log(`[${checkedCount}/${total}] ${channel.id}: [${signalLabel(r)}] ${shortUrl}`);
-
-          if (!args.update || args.dryRun) {
-            console.log(`  → Would restore signal to ${country}.json`);
-            return;
-          }
-
-          // Remove signal from dead-signals channel
-          channel.signals.splice(signal.index, 1);
-
-          // Add signal to country file
-          let countryData = loadCountry(country);
-          if (!countryData) {
-            console.log(`  → Creating ${country}.json`);
-            countryData = {
-              data: { country, channels: [] },
-              filePath: path.join(COUNTRIES_DIR, `${country}.json`),
-            };
-          }
-          let cc = getCountryChannel(countryData.data, channel.id);
-          if (!cc) {
-            cc = { ...channel, signals: [] };
-            countryData.data.channels.push(cc);
-          }
-          cc.signals.push({ type: "m3u8", url: signal.url });
-          saveCountry(countryData.filePath, countryData.data);
-          modifiedCountries.add(country);
-
-          // Save dead-signals file (remove empty channels, then save)
-          data.channels = data.channels.filter((c) => (c.signals || []).length > 0);
-          saveDeadSignals(country, data);
-          modifiedDeadFiles.add(file);
         })(),
       ),
     );

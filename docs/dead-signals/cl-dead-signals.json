@@ -83,10 +83,6 @@
         },
         {
           "type": "m3u8",
-          "url": "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR"
-        },
-        {
-          "type": "m3u8",
           "url": "https://jireh-4-hls-video-cl-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8"
         }
       ],
@@ -211,19 +207,6 @@
       ],
       "website": "https://pluto.tv/latam/live-tv/638df6f8b63cf100075ccfa1",
       "category": "sports"
-    },
-    {
-      "id": "contivision",
-      "name": "Contivision",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8"
-        }
-      ],
-      "logo": "https://graph.facebook.com/TVContivision/picture?width=800&height=800",
-      "website": "https://contivision.cl/",
-      "category": "general"
     },
     {
       "id": "huasco-television",
@@ -424,22 +407,6 @@
       "last_checked": "2026-06-02T23:11:34.939Z",
       "twitch": "nublevision",
       "website": "https://nublevision.cl/",
-      "category": "general"
-    },
-    {
-      "id": "pucon-tv",
-      "name": "Pucón TV",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8"
-        }
-      ],
-      "logo": "https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f4535460ac66b5dfa35c13f/mediaLibrary/photo/3639d184-7fb1-4658-8239-dc5c1ee334c1-extra-large-standard-q100.webp",
-      "youtube": "UCqFkqnqS6DhFEwyD2GmqoXA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:11:34.940Z",
-      "website": "https://www.pucontv.com/",
       "category": "general"
     },
     {
@@ -963,23 +930,6 @@
       "last_checked": "2026-07-10T04:54:21.043Z",
       "twitch": null,
       "website": "https://www.13.cl/en-vivo",
-      "category": "general"
-    },
-    {
-      "id": "temuco-television",
-      "name": "Temuco Television",
-      "logo": "https://temucotelevision.cl/web/wp-content/uploads/2019/01/logo-2.jpg",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8"
-        }
-      ],
-      "youtube": "UCWju5Z19CQH3meThnn_klIQ",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-07-10T04:54:33.821Z",
-      "twitch": null,
-      "website": "https://temucotelevision.cl/",
       "category": "general"
     },
     {
