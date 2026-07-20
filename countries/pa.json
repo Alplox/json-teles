@@ -8,7 +8,7 @@
       "signals": [],
       "youtube": "UC4RoqlERckC4gIhLEGb9Jjw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-07-17T17:58:21.806Z",
+      "last_checked": "2026-07-20T21:48:49.986Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UC4RoqlERckC4gIhLEGb9Jjw",
       "category": "news"
@@ -19,8 +19,10 @@
       "logo": "https://graph.facebook.com/elcirculotv1/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCDPbA7nEEmzhRb5NnItyKag",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-07-17T17:58:21.806Z",
+      "last_youtube_livestreams": [
+        "FAR22-T-EEM"
+      ],
+      "last_checked": "2026-07-20T21:48:49.986Z",
       "twitch": "circulotv",
       "website": "https://www.youtube.com/channel/UCDPbA7nEEmzhRb5NnItyKag",
       "category": "news"
@@ -32,7 +34,7 @@
       "signals": [],
       "youtube": "UCH70iZotY9DHPZA_XCJbXGQ",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-07-03T04:02:55.334Z",
+      "last_checked": "2026-07-20T21:48:49.986Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCH70iZotY9DHPZA_XCJbXGQ",
       "category": "news"
@@ -46,7 +48,7 @@
       "last_youtube_livestreams": [
         "Jvz-kdLEmfE"
       ],
-      "last_checked": "2026-06-03T08:40:46.227Z",
+      "last_checked": "2026-07-20T21:48:58.956Z",
       "twitch": null,
       "website": "https://www.telemetro.com/endirecto",
       "category": "news"
@@ -57,8 +59,10 @@
       "logo": "https://graph.facebook.com/telemetro/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCm-EJjdw2bKskUFF5YyWYog",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:45:39.734Z",
+      "last_youtube_livestreams": [
+        "gfg8I6jG6n8"
+      ],
+      "last_checked": "2026-07-20T21:48:58.956Z",
       "twitch": null,
       "website": "https://www.telemetro.com/endirecto",
       "category": "general"

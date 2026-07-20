@@ -8,7 +8,7 @@
       "signals": [],
       "youtube": "UC2m4DRfY6YNlZnlEawQIQFw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-07-17T17:45:13.520Z",
+      "last_checked": "2026-07-20T21:45:59.851Z",
       "twitch": null,
       "website": "https://boliviaalairetv.com/",
       "category": "culture"
@@ -25,7 +25,7 @@
       ],
       "youtube": "UCXxy-LshTr3NSoT7o3FBZyQ",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-07-17T17:45:13.520Z",
+      "last_checked": "2026-07-20T21:45:59.851Z",
       "twitch": null,
       "website": "https://www.redbolivision.tv.bo/",
       "category": "general"
@@ -66,7 +66,7 @@
       ],
       "youtube": "UC3r9EG2f85nh9BaqmDU20VA",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-07-03T03:54:42.934Z",
+      "last_checked": "2026-07-20T21:45:59.851Z",
       "twitch": "gogoplaytve",
       "website": "https://www.gogoplaytv.com/",
       "category": "entertainment"
@@ -78,7 +78,7 @@
       "signals": [],
       "youtube": "UC6o5jMVN9QCv0hGAvshEPZQ",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:43:21.252Z",
+      "last_checked": "2026-07-20T21:45:59.851Z",
       "twitch": null,
       "website": "https://www.redbolivision.tv.bo/envivo-canal-5/",
       "category": "news"
@@ -94,8 +94,10 @@
         }
       ],
       "youtube": "UCAQxnXoF1Fa5bIFb6VjS4ZQ",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:08:00.521Z",
+      "last_youtube_livestreams": [
+        "4PLLLrsTV3M"
+      ],
+      "last_checked": "2026-07-20T21:45:59.851Z",
       "twitch": null,
       "website": "https://www.reduno.com.bo/",
       "category": "general"
@@ -106,10 +108,8 @@
       "logo": "https://graph.facebook.com/boliviartp/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCPHPu0J-6DDxyl9Fm83Z83Q",
-      "last_youtube_livestreams": [
-        "zxj4AMGbzYo"
-      ],
-      "last_checked": "2026-06-02T23:08:00.521Z",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-07-20T21:45:59.851Z",
       "twitch": null,
       "website": "https://rtpbolivia.com.bo/",
       "category": "news"
@@ -121,9 +121,9 @@
       "signals": [],
       "youtube": "UCBTuUY99I5plMaC_ZcmXIYw",
       "last_youtube_livestreams": [
-        "1U226EvKQlo"
+        "tgCG0jSMwUQ"
       ],
-      "last_checked": "2026-06-02T23:08:00.521Z",
+      "last_checked": "2026-07-20T21:45:59.851Z",
       "twitch": null,
       "website": "https://television.unitel.bo/vivo",
       "category": "news"

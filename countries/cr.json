@@ -12,8 +12,10 @@
         }
       ],
       "youtube": "UCILU2ghO8GrOeB-zo93eYdA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-07-17T17:54:01.793Z",
+      "last_youtube_livestreams": [
+        "gWjZ1z84ihQ"
+      ],
+      "last_checked": "2026-07-20T21:47:51.611Z",
       "twitch": null,
       "website": "https://www.telediario.cr/television",
       "category": "news"

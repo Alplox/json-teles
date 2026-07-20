@@ -13,7 +13,7 @@
       ],
       "youtube": "UCjTbJ6Obs0yWlL36lw-Tz8w",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-07-17T18:01:43.093Z",
+      "last_checked": "2026-07-20T21:49:35.695Z",
       "twitch": null,
       "website": "https://lorini.net/anzoateguitv/",
       "category": "general"
@@ -46,7 +46,7 @@
       ],
       "youtube": "UChatdaBWG_Un5wN4Oiw6SfQ",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-07-17T18:01:43.093Z",
+      "last_checked": "2026-07-20T21:49:35.695Z",
       "twitch": null,
       "website": "https://www.canal21tachira.com/tv/",
       "category": "general"
@@ -58,7 +58,7 @@
       "signals": [],
       "youtube": "UCMPPdsYmf-V6jukDtIfpM_A",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-07-17T18:01:43.093Z",
+      "last_checked": "2026-07-20T21:49:35.695Z",
       "twitch": null,
       "website": "https://culturavenezuela.com/emision-en-directo/",
       "category": "culture"
@@ -70,9 +70,9 @@
       "signals": [],
       "youtube": "UC0nGYg5JpX7tIeQw_-DQTLw",
       "last_youtube_livestreams": [
-        "hqJQtnigPPo"
+        "mGHJ0vGimJo"
       ],
-      "last_checked": "2026-07-03T04:05:03.456Z",
+      "last_checked": "2026-07-20T21:49:35.695Z",
       "twitch": null,
       "website": "https://www.globovision.com/",
       "category": "news"
@@ -83,8 +83,10 @@
       "logo": "https://graph.facebook.com/iguana.tv/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCCc2H9_eNnU7ucq2n7Sh3Rg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:46:16.439Z",
+      "last_youtube_livestreams": [
+        "iEeLtA4K1GE"
+      ],
+      "last_checked": "2026-07-20T21:49:45.478Z",
       "twitch": "laiguanatv",
       "website": "https://www.laiguana.tv/envivo/",
       "category": "news"
@@ -95,8 +97,13 @@
       "logo": null,
       "signals": [],
       "youtube": "UC9LrWd-4NU7NJYhBvwIgFkQ",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:46:16.439Z",
+      "last_youtube_livestreams": [
+        "UiAO819PAQk",
+        "8rmVvbJiEvo",
+        "dMtORdUK804",
+        "XODoF4jAhCE"
+      ],
+      "last_checked": "2026-07-20T21:49:45.478Z",
       "twitch": null,
       "website": "https://mundour.com/",
       "category": "music"
@@ -107,8 +114,10 @@
       "logo": "https://graph.facebook.com/ntn24/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCEJs1fTF3KszRJGxJY14VrA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:46:16.439Z",
+      "last_youtube_livestreams": [
+        "kHcuZsMTckM"
+      ],
+      "last_checked": "2026-07-20T21:49:45.478Z",
       "twitch": null,
       "website": "https://www.ntn24.com/en-vivo",
       "category": "news"
@@ -124,8 +133,10 @@
         }
       ],
       "youtube": "UCmuTmpLY35O3csvhyA6vrkg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-03T06:46:16.439Z",
+      "last_youtube_livestreams": [
+        "HtxSj3i1AO8"
+      ],
+      "last_checked": "2026-07-20T21:49:45.478Z",
       "twitch": null,
       "website": "https://www.telesurenglish.net/",
       "category": "news"
@@ -148,7 +159,7 @@
       "last_youtube_livestreams": [
         "OiV3tZGxNYc"
       ],
-      "last_checked": "2026-07-10T04:54:48.167Z",
+      "last_checked": "2026-07-20T21:49:45.478Z",
       "twitch": null,
       "website": "https://www.telesurtv.net/",
       "category": "news"
@@ -165,7 +176,7 @@
       ],
       "youtube": "UCPxs1siPSF6YKGtKP_Zyvtw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:24:21.410Z",
+      "last_checked": "2026-07-20T21:49:45.478Z",
       "twitch": null,
       "website": "https://televen.com/",
       "category": "news"
@@ -177,7 +188,7 @@
       "signals": [],
       "youtube": "UCw2ceOxZ4VhgRSre0ny2RcA",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:24:21.410Z",
+      "last_checked": "2026-07-20T21:49:45.478Z",
       "twitch": "ultimachance_",
       "website": "https://www.youtube.com/channel/UCw2ceOxZ4VhgRSre0ny2RcA",
       "category": "music"
@@ -194,9 +205,9 @@
       ],
       "youtube": "UC_8sCVycu3FXidPNoZwOHqA",
       "last_youtube_livestreams": [
-        "mpU7DGs0R2o"
+        "_KCMKhOAQuo"
       ],
-      "last_checked": "2026-06-05T21:07:52.229Z",
+      "last_checked": "2026-07-20T21:49:45.478Z",
       "twitch": null,
       "website": "https://vtv.com.ve/",
       "category": "news"
@@ -208,7 +219,7 @@
       "signals": [],
       "youtube": "UCV1P8lGXINAFEK_SGnvQtQw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:24:21.410Z",
+      "last_checked": "2026-07-20T21:49:45.478Z",
       "twitch": null,
       "website": "https://venezuela-news.com/radio/",
       "category": "music"
@@ -220,9 +231,9 @@
       "signals": [],
       "youtube": "UCVFiIRuxJ2GmJLUkHmlmj4w",
       "last_youtube_livestreams": [
-        "gybV1CfY6dM"
+        "W_Gu2hDdRZo"
       ],
-      "last_checked": "2026-06-02T23:24:21.411Z",
+      "last_checked": "2026-07-20T21:49:45.478Z",
       "twitch": null,
       "website": "https://vpitv.com/en-vivo/",
       "category": "news"
@@ -233,10 +244,8 @@
       "logo": null,
       "signals": [],
       "youtube": "UC1G8aY_rZb3n2bk5X_aPdCQ",
-      "last_youtube_livestreams": [
-        "xf1HbrCzYRc"
-      ],
-      "last_checked": "2026-06-05T21:10:06.793Z",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-07-20T21:49:45.478Z",
       "twitch": null,
       "website": "https://www.atom.bio/vtvradio_",
       "category": "music"

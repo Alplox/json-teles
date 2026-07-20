@@ -17,5 +17,9 @@ desktop.ini
 *.tmp
 *.log
 
+# Bot files (local only)
+check-youtube-bot.ps1
+start-bot.vbs
+
 # Test backups
 _backup_countries/

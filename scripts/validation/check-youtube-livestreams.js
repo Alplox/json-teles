@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const { execFile } = require("child_process");
 const util = require("util");
-const { parseArgs, applyIndexFilters, orderChannelFields } = require("../utils/cli-args.js");
+const { parseArgs, applyIndexFilters } = require("../utils/cli-args.js");
 
 const execFileAsync = util.promisify(execFile);
 
@@ -23,8 +23,8 @@ const COUNTRIES_DIR = path.join(__dirname, "../..", "countries");
 const BUILD_SCRIPT = path.join(__dirname, "..", "core", "build-channels.js");
 
 // Configuration
-const CONCURRENCY = 4;
-const BATCH_DELAY_MS = 4000;
+const CONCURRENCY = 16;
+const BATCH_DELAY_MS = 500;
 const SKIP_THRESHOLD_MS = 30 * 60 * 1000; // 30 min for normal channels
 const PRIORITY_SKIP_MS = 15 * 60 * 1000; // 15 min for channels that were live
 const YTDLP_TIMEOUT_MS = 15000;
@@ -389,8 +389,6 @@ function sleep(ms) {
       for (const file of modifiedFiles) {
         const filePath = path.join(COUNTRIES_DIR, file);
         const data = countryData.get(file);
-        // Reorder channel fields for consistent output
-        data.channels = data.channels.map(orderChannelFields);
         fs.writeFileSync(filePath, `${JSON.stringify(data, null, 2)}\n`);
       }
     }
@@ -410,9 +408,11 @@ function sleep(ms) {
 
   if (cliArgs.dryRun) {
     console.log("\n[DRY RUN] No files were modified");
-  } else if (totalChecked > 0) {
+  } else if (totalChecked > 0 && (totalLive > 0 || totalCleared > 0)) {
     console.log("\nRebuilding channels.json...");
     const { execSync } = require("child_process");
     execSync(`node "${BUILD_SCRIPT}"`, { stdio: "inherit", cwd: path.join(__dirname, "../..") });
+  } else if (totalChecked > 0) {
+    console.log("\nNo livestream changes — skipping rebuild.");
   }
 })();
