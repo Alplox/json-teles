@@ -191,7 +191,7 @@ Total channels available. M3U version may contain fewer channels.
 (click to expand)
 
 <!-- START:CHANNEL_COUNT -->
-Total: 525 channels from 42 countries
+Total: 532 channels from 42 countries
 
 <!-- END:CHANNEL_COUNT -->
 
@@ -334,16 +334,14 @@ Total: 525 channels from 42 countries
 
 - [13 Cultura](https://www.13.cl/c) (culture)
 - [13 Deportes](https://www.13.cl/) (sports)
-- [13 Entretención](https://www.13.cl/) (entertainment)
 - [13 Festival](https://www.13.cl/) (music)
 - [13 FutGO](https://www.13.cl/) (sports)
-- [13 Humor](https://www.13.cl/) (entertainment)
 - [13 Kids](https://www.13.cl/) (kids)
 - [13 Pop](https://www.13.cl/) (entertainment)
-- [13 Prime](https://www.13.cl/) (entertainment)
 - [13 Realities](https://www.13.cl/) (entertainment)
 - [13 Teleseries](https://www.13.cl/) (entertainment)
 - [24 horas](https://www.24horas.cl/envivo/) (news)
+- [24 Horas Valparaíso](https://www.youtube.com/@24HorasTVNChile-RedValpara%C3%ADso) (news)
 - [AGRICULTURA TV](https://www.radioagricultura.cl/en-vivo-3/) (music)
 - [Radio Alternativa FM (Huasco)](https://www.alternativafm.cl/p/alternativa-tv.html) (music)
 - [America TV](https://radioamerica.cl/) (general)
@@ -363,6 +361,7 @@ Total: 525 channels from 42 countries
 - [Canal 2 San Antonio](https://cablenoticias.cl/san-antonio-en-vivo) (general)
 - [Canal 5 Pto. Montt](https://canal5.cl/) (general)
 - [Canal 9](https://www.canal9.cl/en-vivo/) (general)
+- [Canal Deportivo de Hualqui](https://www.youtube.com/@canaldeportivodehualqui4582/) (sports)
 - [Canal Local Quillota](https://www.canallocal.cl) (general)
 - [Canal País](https://www.canalpais.com/en-vivo) (business)
 - [Canal Sur Patagonia](https://www.canalsurpatagonia.cl/) (general)
@@ -385,6 +384,7 @@ Total: 525 channels from 42 countries
 - [Radio Cooperativa](https://programas.cooperativa.cl/showalairelibre/) (music)
 - [Copano](https://copano.news/) (news)
 - [Cronicas del Sur TV](https://cronicasdelsur.cl/) (general)
+- [Crtv Chile](https://crtvchile.cl/senal-en-vivo/) (entertainment)
 - [Dance FM Chile TV](https://www.dancefm.cl/) (music)
 - [Décima TV (Ancud)](https://www.decimatv.cl/) (general)
 - [Radio Duna](https://www.duna.cl/tv/) (music)
@@ -396,7 +396,9 @@ Total: 525 channels from 42 countries
 - [Frecuencia 7](https://www.frecuencia7tv.cl) (general)
 - [Frecuencia Cruzada](https://frecuenciacruzada.cl/en-vivo) (sports)
 - [Galería CIMA](https://galeriacima.cl/) (outdoor)
+- [GALERÍA DEPORTIVA Ovalle](https://www.youtube.com/@GALERIADEPORTIVAOVALLE/) (sports)
 - [Girovisual Televisión (Valparaíso)](https://www.girovisual.cl/) (general)
+- [Gobierno de Chile](https://www.youtube.com/@GobiernoDeChile/) (legislative)
 - [Holvoet TV](https://holvoet.cl/en-vivo/) (general)
 - [Huasco Television](https://www.huascotelevisionstreaming.cl/) (general)
 - [Radio Infinita](https://www.infinita.cl/home/) (music)
@@ -433,12 +435,14 @@ Total: 525 channels from 42 countries
 - [Ñuble RVT](https://canalrtv.cl/) (general)
 - [Ñublevision](https://nublevision.cl/) (general)
 - [Nuevas Comunicaciones](https://www.youtube.com/channel/UCMvQGOyumsXP4V7dGAdIKWg) (outdoor)
+- [Once Stream](https://www.youtube.com/@oncestreamcl) (entertainment)
 - [Osorno TV+](https://www.osornotv.cl/envivo.html) (general)
 - [Panoramica Informativa](https://panoramicaysen.cl/) (general)
 - [Halcón Parquemet, Antilén](https://halcon.parquemet.cl/index.html) (outdoor)
 - [Halcón Parquemet, Cumbre](https://halcon.parquemet.cl/index.html) (outdoor)
 - [Halcón Parquemet, Polanco](https://halcon.parquemet.cl/index.html) (outdoor)
 - [Halcón Parquemet, Terraza](https://halcon.parquemet.cl/index.html) (outdoor)
+- [Partido Comunista de Chile](https://www.youtube.com/@PartidoComunistadeChile/) (legislative)
 - [PicadoTV Chile](https://www.youtube.com/channel/UCpANs3C33Ay49hN2JeCV7FQ) (sports)
 - [Pichilemu TV](https://pichilemutv.org) (general)
 - [Pingüino TV](https://elpinguino.com/reproductor/) (general)
@@ -447,6 +451,7 @@ Total: 525 channels from 42 countries
 - [Portal Foxmix Chile](https://www.portalfoxmix.cl/tv/) (music)
 - [Pucón TV](https://www.pucontv.com/) (general)
 - [Puranoticia TV](https://puranoticia.pnt.cl/) (general)
+- [Radio Activa](https://www.radioactiva.cl/) (music)
 - [Radio ADN](https://www.adnradio.cl/noticias/videos/) (music)
 - [Radio AE Radio DuocUC](https://www.aeradio.cl/) (music)
 - [Radio America TV](https://radioamerica.cl/radio-tv-online/) (general)
@@ -468,6 +473,7 @@ Total: 525 channels from 42 countries
 - [Radio Romántica TV](https://www.romantica.cl/romantica-tv/) (music)
 - [RTC Television](https://www.rtctelevision.cl/) (general)
 - [sanantonioimagen - San Antonio](https://www.youtube.com/channel/UCprCdxrg_u9E9hhc-MZDk5A) (outdoor)
+- [Santiago Skyline Live](https://www.youtube.com/@SCLSkylineLive/) (outdoor)
 - [SantiagoCamQuake (Monitor sísmico)](https://www.youtube.com/channel/UCb9_sOwAiakvxWEKDqe0r3g) (outdoor)
 - [Radio El Sembrador](https://tv.radioelsembrador.cl/) (music)
 - [Servicio Electoral de Chile (Servel)](https://www.servel.cl/) (legislative)
@@ -524,6 +530,7 @@ Total: 525 channels from 42 countries
 - [VTV](https://canalvtv.cl/vtv/) (general)
 - [VTV Quillota](https://www.diariovtv.cl/) (general)
 - [Wapp TV](https://www.wapptv.cl/) (general)
+- [webcamsantiago.cl](https://www.webcamsantiago.cl/) (outdoor)
 
 ### 🌍 China
 
@@ -894,14 +901,13 @@ Total: 525 channels from 42 countries
 
 ### 📂 Entertainment
 
-- [13 Entretención](https://www.13.cl/) (Chile)
-- [13 Humor](https://www.13.cl/) (Chile)
 - [13 Pop](https://www.13.cl/) (Chile)
-- [13 Prime](https://www.13.cl/) (Chile)
 - [13 Realities](https://www.13.cl/) (Chile)
 - [13 Teleseries](https://www.13.cl/) (Chile)
+- [Crtv Chile](https://crtvchile.cl/senal-en-vivo/) (Chile)
 - [GELATINA](https://www.youtube.com/channel/UCWSfXECGo1qK_H7SXRaUSMg) (Argentina)
 - [Gogoplaytv](https://www.gogoplaytv.com/) (Bolivia)
+- [Once Stream](https://www.youtube.com/@oncestreamcl) (Chile)
 - [Teleseries y series TVN](https://www.youtube.com/channel/UCJwtKyJIfr31zI077EnQTXg) (Chile)
 - [The Game Awards](https://thegameawards.com/) (Estados Unidos)
 
@@ -1034,7 +1040,9 @@ Total: 525 channels from 42 countries
 ### 📂 Legislative
 
 - [Cámara Diputados](https://www.cdtv.cl/) (Chile)
+- [Gobierno de Chile](https://www.youtube.com/@GobiernoDeChile/) (Chile)
 - [Oficina del Presidente Arg](https://www.youtube.com/channel/UCSfMW32JeKVaYwgvUy5D3fw) (Argentina)
+- [Partido Comunista de Chile](https://www.youtube.com/@PartidoComunistadeChile/) (Chile)
 - [Poder Judicial](https://www.poderjudicialtv.cl/) (Chile)
 - [Servicio Electoral de Chile (Servel)](https://www.servel.cl/) (Chile)
 - [Tribunal Constitucional](https://www2.tribunalconstitucional.cl/) (Chile)
@@ -1096,6 +1104,7 @@ Total: 525 channels from 42 countries
 - [Pop Radio 101.5](https://www.radiopop.fm/) (Argentina)
 - [Portal Foxmix Chile](https://www.portalfoxmix.cl/tv/) (Chile)
 - [Pure Sleeping Vibes](https://www.youtube.com/channel/UCa6DBGeztqfXOwcpUnk0Ccg) (Unknown Country)
+- [Radio Activa](https://www.radioactiva.cl/) (Chile)
 - [Radio ADN](https://www.adnradio.cl/noticias/videos/) (Chile)
 - [Radio AE Radio DuocUC](https://www.aeradio.cl/) (Chile)
 - [Radio Biobio TV](https://www.biobiochile.cl/biobiotv/) (Chile)
@@ -1151,6 +1160,7 @@ Total: 525 channels from 42 countries
 - [1000 Noticias](https://1000noticias.com.py/) (Paraguay)
 - [24 Канал онлайн](https://24tv.ua/online/) (Ucrania)
 - [24 horas](https://www.24horas.cl/envivo/) (Chile)
+- [24 Horas Valparaíso](https://www.youtube.com/@24HorasTVNChile-RedValpara%C3%ADso) (Chile)
 - [A24com](https://www.a24.com/vivo) (Argentina)
 - [ABC News](https://abcnews.go.com/Live) (Estados Unidos)
 - [ABC News AU](https://www.abc.net.au/news/) (Australia)
@@ -1389,6 +1399,7 @@ Total: 525 channels from 42 countries
 - [SISE Argentina](https://siseargentina.com/camaras-en-vivo/) (Argentina)
 - [Aoba traffics](https://www.youtube.com/channel/UCynDLZ-YJnrMLSQvwYi-bUA) (Japón)
 - [sanantonioimagen - San Antonio](https://www.youtube.com/channel/UCprCdxrg_u9E9hhc-MZDk5A) (Chile)
+- [Santiago Skyline Live](https://www.youtube.com/@SCLSkylineLive/) (Chile)
 - [SantiagoCamQuake (Monitor sísmico)](https://www.youtube.com/channel/UCb9_sOwAiakvxWEKDqe0r3g) (Chile)
 - [Times Square Live 4K](https://www.earthcam.net/) (Estados Unidos)
 - [Ushuaia Live](https://www.youtube.com/channel/UC6NTD1HmdaZMbe9K5qADOvw) (Argentina)
@@ -1397,6 +1408,7 @@ Total: 525 channels from 42 countries
 - [Valle Nevado Vista Piscina](https://www.vallenevado.com/es/camaras/) (Chile)
 - [Valle Nevado Vista Hotel Puerta del Sol](https://www.vallenevado.com/es/camaras/) (Chile)
 - [Videos Online Chile (Los Andes, Colina)](https://www.youtube.com/channel/UCkAERiBpuFM5OB2GYgLnHEA) (Chile)
+- [webcamsantiago.cl](https://www.webcamsantiago.cl/) (Chile)
 
 ### 📂 Relax
 
@@ -1430,8 +1442,10 @@ Total: 525 channels from 42 countries
 - [13 Deportes](https://www.13.cl/) (Chile)
 - [13 FutGO](https://www.13.cl/) (Chile)
 - [Balong - MDTPnet](https://www.youtube.com/channel/UCEZEW2z22WBkUB2Fcs8Gq3A) (Chile)
+- [Canal Deportivo de Hualqui](https://www.youtube.com/@canaldeportivodehualqui4582/) (Chile)
 - [CHV Deportes](https://pluto.tv/latam/live-tv/638df6f8b63cf100075ccfa1) (Chile)
 - [Frecuencia Cruzada](https://frecuenciacruzada.cl/en-vivo) (Chile)
+- [GALERÍA DEPORTIVA Ovalle](https://www.youtube.com/@GALERIADEPORTIVAOVALLE/) (Chile)
 - [MegaDeportes](https://www.meganoticias.cl/deportes/) (Chile)
 - [PicadoTV Chile](https://www.youtube.com/channel/UCpANs3C33Ay49hN2JeCV7FQ) (Chile)
 - [Tierra de Dragones](https://tierradedragones.cl/online/) (Chile)
