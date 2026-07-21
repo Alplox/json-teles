@@ -16,7 +16,7 @@ const execFileAsync = util.promisify(execFile);
  * - Retry logic for transient failures
  *
  * Usage:
- *   node scripts/check-youtube-livestreams.js [--dry-run] [--force] [--channel ID] [--from N] [--to N] [--limit N]
+ *   node scripts/check-youtube-livestreams.js [--dry-run] [--force] [--id ID] [--channel ID] [--from N] [--to N] [--limit N]
  */
 
 const COUNTRIES_DIR = path.join(__dirname, "../..", "countries");
@@ -33,6 +33,7 @@ const MAX_RETRIES = 1;
 
 const cliArgs = parseArgs(process.argv.slice(2), [
   { name: "channel", type: "string" },
+  { name: "id", type: "string" },
   { name: "limit", type: "number" },
   { name: "from", type: "number" },
   { name: "to", type: "number" },
@@ -320,7 +321,8 @@ function sleep(ms) {
 
     for (const channel of data.channels) {
       if (!channel.youtube) continue;
-      if (cliArgs.channel && channel.id !== cliArgs.channel) continue;
+      const channelIdFilter = cliArgs.channel || cliArgs.id;
+      if (channelIdFilter && channel.id !== channelIdFilter) continue;
 
       channelsToCheck.push({ file, channel });
     }

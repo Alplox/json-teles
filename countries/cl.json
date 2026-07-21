@@ -3872,37 +3872,135 @@
       "category": "general"
     },
     {
-      "id": "13-entretencion",
-      "name": "13 Entretención",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4f/13entretencion.svg/revision/latest?cb=20221228235322&path-prefix=es",
+      "id": "radio-activa",
+      "name": "Radio Activa",
+      "logo": "https://envivo.radioactiva.cl/build/assets/radioactivachile/img/logo.png",
       "signals": [],
-      "youtube": null,
-      "last_checked": "2026-07-10T04:54:37.057Z",
-      "twitch": null,
-      "website": "https://www.13.cl/",
-      "category": "entertainment"
+      "youtube": "UCvNfoG_LaHXsX67L6Y7OqyQ",
+      "last_youtube_livestreams": [],
+      "website": "https://www.radioactiva.cl/",
+      "country": "cl",
+      "category": "music",
+      "last_checked": "2026-07-21T16:22:22.060Z"
     },
     {
-      "id": "13-prime",
-      "name": "13 Prime",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b6/13prime.svg/revision/latest?cb=20221228234932&path-prefix=es",
+      "id": "once-stream",
+      "name": "Once Stream",
+      "logo": null,
       "signals": [],
-      "youtube": null,
-      "last_checked": "2026-07-10T04:54:37.102Z",
-      "twitch": null,
-      "website": "https://www.13.cl/",
-      "category": "entertainment"
+      "youtube": "UCtAgHOoYy1VO7dOOG-9UeBg",
+      "last_youtube_livestreams": [
+        "11O9D8RpRPc"
+      ],
+      "website": "https://www.youtube.com/@oncestreamcl",
+      "country": "cl",
+      "category": "entertainment",
+      "last_checked": "2026-07-21T16:23:33.000Z"
     },
     {
-      "id": "13-humor",
-      "name": "13 Humor",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/e/ea/13humor.svg/revision/latest?cb=20230902025105&path-prefix=es",
+      "id": "24horas-valparaiso",
+      "name": "24 Horas Valparaíso",
+      "logo": null,
       "signals": [],
-      "youtube": null,
-      "last_checked": "2026-07-10T04:54:41.878Z",
-      "twitch": null,
-      "website": "https://www.13.cl/",
-      "category": "entertainment"
+      "youtube": "UC6gMcvGCTdjceUL3y6BWwWg",
+      "last_youtube_livestreams": [],
+      "website": "https://www.youtube.com/@24HorasTVNChile-RedValpara%C3%ADso",
+      "country": "cl",
+      "category": "news"
+    },
+    {
+      "id": "gobierno-de-chile",
+      "name": "Gobierno de Chile",
+      "logo": null,
+      "signals": [],
+      "youtube": "UC_5Sh9VhJlgCspl4mLM2duw",
+      "last_youtube_livestreams": [],
+      "website": "https://www.youtube.com/@GobiernoDeChile/",
+      "country": "cl",
+      "category": "legislative"
+    },
+    {
+      "id": "webcamsantiago-cl",
+      "name": "webcamsantiago.cl",
+      "logo": null,
+      "signals": [
+        {
+          "type": "iframe",
+          "url": "https://www.webcamsantiago.cl/api/stream"
+        }
+      ],
+      "youtube": "",
+      "last_youtube_livestreams": [],
+      "website": "https://www.webcamsantiago.cl/",
+      "country": "cl",
+      "category": "outdoor"
+    },
+    {
+      "id": "santiago-skyline-live",
+      "name": "Santiago Skyline Live",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCL9TwkqlJCYkgvVuZiV54-g",
+      "last_youtube_livestreams": [
+        "E9FK3QGdpqE"
+      ],
+      "website": "https://www.youtube.com/@SCLSkylineLive/",
+      "country": "cl",
+      "category": "outdoor",
+      "last_checked": "2026-07-21T16:43:22.809Z"
+    },
+    {
+      "id": "crtv-chile",
+      "name": "Crtv Chile",
+      "logo": "https://crtvchile.cl/wp-content/uploads/2026/06/cropped-WhatsApp-Image-2026-06-06-at-13.49.04-1-768x580.jpeg",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCZlvRKdsBXs-uytQeYKQbPw",
+      "last_youtube_livestreams": [],
+      "website": "https://crtvchile.cl/senal-en-vivo/",
+      "country": "cl",
+      "category": "entertainment",
+      "last_checked": "2026-07-21T16:43:22.809Z"
+    },
+    {
+      "id": "galeria-deportiva-ovalle",
+      "name": "GALERÍA DEPORTIVA Ovalle",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCR4i6XEjytgbWbw1WX-42Wg",
+      "last_youtube_livestreams": [],
+      "website": "https://www.youtube.com/@GALERIADEPORTIVAOVALLE/",
+      "country": "cl",
+      "category": "sports",
+      "last_checked": "2026-07-21T16:43:22.809Z"
+    },
+    {
+      "id": "canal-deportivo-de-hualqui",
+      "name": "Canal Deportivo de Hualqui",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCgLFjn9QvOE_T8HdlCebvgw",
+      "last_youtube_livestreams": [],
+      "website": "https://www.youtube.com/@canaldeportivodehualqui4582/",
+      "country": "cl",
+      "category": "sports",
+      "last_checked": "2026-07-21T16:43:22.809Z"
+    },
+    {
+      "id": "partido-comunista-de-chile",
+      "name": "Partido Comunista de Chile",
+      "logo": null,
+      "signals": [],
+      "youtube": "UCDsK-sQQrMpWJT3auRQh6BA",
+      "last_youtube_livestreams": [],
+      "website": "https://www.youtube.com/@PartidoComunistadeChile/",
+      "country": "cl",
+      "category": "legislative",
+      "last_checked": "2026-07-21T16:43:22.809Z"
     }
   ]
 }

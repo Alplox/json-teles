@@ -371,3 +371,5 @@ https://pantera1-100gb-cl-movistar.dps.live/vtvquillota/vtvquillota.smil/playlis
 https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV Quillota" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f45357a0ac66b5dfa35c144/mediaLibrary/photo/6ffc1997-59e5-48d2-83a5-a1392ae981b8-extra-large-standard-q100.webp" group-title="general", VTV Quillota (3) [CL]
 https://unlimited1-cl-isp.dps.live/vtvquillota/vtvquillota.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Crtv Chile" tvg-logo="https://crtvchile.cl/wp-content/uploads/2026/06/cropped-WhatsApp-Image-2026-06-06-at-13.49.04-1-768x580.jpeg" group-title="entertainment", Crtv Chile [CL]
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
