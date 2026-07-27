@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "generated": "2026-07-25T22:35:21.496Z",
+  "generated": "2026-07-27T12:24:41.450Z",
   "total": 532,
   "channels": [
     {
@@ -4953,7 +4953,7 @@
         },
         {
           "type": "iframe",
-          "url": "ttps://rudo.video/live/mediabanco2"
+          "url": "https://rudo.video/live/mediabanco2"
         }
       ],
       "youtube": null,
