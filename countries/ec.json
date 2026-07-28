@@ -8,7 +8,7 @@
       "signals": [],
       "youtube": "UCLCCMz3exOqYc59IN0VOLlA",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-07-25T22:35:56.509Z",
+      "last_checked": "2026-07-28T22:46:48.963Z",
       "twitch": null,
       "website": "https://www.laposta.ec/",
       "category": "news"
@@ -20,7 +20,7 @@
       "signals": [],
       "youtube": "UCzfV4_Fh7BEZxYsqe-vUjNw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-07-25T22:35:56.509Z",
+      "last_checked": "2026-07-28T22:46:48.963Z",
       "twitch": null,
       "website": "https://canaltvdigitalonline.com/",
       "category": "news"
@@ -32,7 +32,7 @@
       "signals": [],
       "youtube": "UCH5499PHqkqKPsGEUJl5lZg",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-07-25T22:36:07.958Z",
+      "last_checked": "2026-07-28T22:46:59.244Z",
       "twitch": null,
       "website": "https://catomedia.net/",
       "category": "news"
@@ -55,7 +55,7 @@
       "last_youtube_livestreams": [
         "1DDokCc5yKo"
       ],
-      "last_checked": "2026-07-25T22:36:07.959Z",
+      "last_checked": "2026-07-28T22:46:59.245Z",
       "twitch": null,
       "website": "https://www.ecotel.tv/",
       "category": "news"
@@ -76,7 +76,7 @@
       ],
       "youtube": "UCRUV3nUNSc-xpBrTwQOCQQg",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-07-25T22:36:07.959Z",
+      "last_checked": "2026-07-28T22:46:59.245Z",
       "twitch": null,
       "website": "https://www.ecuavisa.com/envivo",
       "category": "news"
@@ -88,7 +88,7 @@
       "signals": [],
       "youtube": "UCT9O240oe9HhC0VSSBgrPug",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-07-25T22:36:07.959Z",
+      "last_checked": "2026-07-28T22:46:59.245Z",
       "twitch": null,
       "website": "https://deunanoticias.com/",
       "category": "news"
@@ -104,8 +104,10 @@
         }
       ],
       "youtube": "UCA_UqlgBTc824rRCLv6J_xA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-07-25T22:36:07.959Z",
+      "last_youtube_livestreams": [
+        "qaaAveNSa7w"
+      ],
+      "last_checked": "2026-07-28T22:46:59.245Z",
       "twitch": null,
       "website": "https://radiocentro.com.ec/en-vivo/",
       "category": "music"
@@ -122,7 +124,7 @@
       ],
       "youtube": "UCaFfXFnXsMJKtsmoouxmFVQ",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-07-25T22:36:07.959Z",
+      "last_checked": "2026-07-28T22:46:59.245Z",
       "twitch": null,
       "website": "https://radioelite997.com/online/",
       "category": "music"
@@ -133,8 +135,10 @@
       "logo": "https://graph.facebook.com/PichinchaRadio/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCK0WHZbs_ZJ4r7DMuft7p-g",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-07-25T22:36:07.959Z",
+      "last_youtube_livestreams": [
+        "z1L_JJ282_0"
+      ],
+      "last_checked": "2026-07-28T22:46:59.245Z",
       "twitch": null,
       "website": "https://www.radiopichincha.com/",
       "category": "music"
@@ -153,7 +157,7 @@
       "last_youtube_livestreams": [
         "hK8nNtllnFA"
       ],
-      "last_checked": "2026-07-25T22:36:07.959Z",
+      "last_checked": "2026-07-28T22:46:59.245Z",
       "twitch": null,
       "website": "https://radiorumba.fm/",
       "category": "music"
@@ -170,9 +174,9 @@
       ],
       "youtube": "UCvNwkves6FXLMpdNDwR81lg",
       "last_youtube_livestreams": [
-        "ImvOZEyw3NU"
+        "CsmlzKGNymE"
       ],
-      "last_checked": "2026-07-25T22:36:07.959Z",
+      "last_checked": "2026-07-28T22:46:59.245Z",
       "twitch": null,
       "website": "https://sonoonda.com/tv-online/",
       "category": "music"
@@ -189,7 +193,7 @@
       ],
       "youtube": "UCGDK5KWl0eH_tq8eaZYqIPA",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-07-25T22:36:07.959Z",
+      "last_checked": "2026-07-28T22:46:59.245Z",
       "twitch": null,
       "website": "https://sonorama.com.ec/",
       "category": "music"

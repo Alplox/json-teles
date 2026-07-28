@@ -12,8 +12,10 @@
         }
       ],
       "youtube": "UCIs6fmAXOI1K2jgkoBdWveg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-07-25T22:36:19.064Z",
+      "last_youtube_livestreams": [
+        "GCrWqEX2_bY"
+      ],
+      "last_checked": "2026-07-28T22:47:08.122Z",
       "twitch": null,
       "website": "https://hch.tv/live/",
       "category": "news"
@@ -41,8 +43,10 @@
         }
       ],
       "youtube": "UCblZy4UUsMlqv4gSCNslpWw",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-07-25T22:36:19.064Z",
+      "last_youtube_livestreams": [
+        "Tb_w10T-klQ"
+      ],
+      "last_checked": "2026-07-28T22:47:08.122Z",
       "twitch": null,
       "website": "https://www.lametrohn.com/",
       "category": "news"
