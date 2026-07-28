@@ -37,7 +37,7 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 11 Aysen" tvg-logo="" group-title="general", Canal 11 Aysen [CL]
 https://v2.tustreaming.cl/canal11aysen/index.m3u8
-#EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Emblema_del_Canal_13_Chile.svg" group-title="general", Canal 13 [CL]
+#EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Canal_13_2025.svg" group-title="general", Canal 13 [CL]
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13popup/13popup.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 2 Quellón" tvg-logo="https://graph.facebook.com/canal2quellon/picture?width=800&height=800" group-title="general", Canal 2 Quellón (1) [CL]
 https://unlimited2-cl-isp.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
@@ -185,7 +185,7 @@ https://scl.edge.grupoz.cl/mediabanco_prueba/live/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logotipo_de_Mega_%282015-2020%29.svg" group-title="general", Mega (2) [CL]
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Meganoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png" group-title="news", Meganoticias [CL]
+#EXTINF:-1 tvg-name="Meganoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/MegaNoticias2026.png/330px-MegaNoticias2026.png" group-title="news", Meganoticias [CL]
 https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Mi Radio TV" tvg-logo="https://www.miradiols.cl/wp-content/uploads/2018/02/logo-ok-footer.png" group-title="general", Mi Radio TV [CL]
 https://tls-cl.cdnz.cl/miradio2/live/playlist.m3u8

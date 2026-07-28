@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "generated": "2026-07-27T12:24:41.450Z",
+  "generated": "2026-07-28T04:09:33.182Z",
   "total": 532,
   "channels": [
     {
@@ -1610,7 +1610,7 @@
     {
       "id": "canal-13",
       "name": "Canal 13",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Emblema_del_Canal_13_Chile.svg",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/61/Canal_13_2025.svg",
       "signals": [
         {
           "type": "m3u8",
@@ -5021,7 +5021,7 @@
     {
       "id": "meganoticias",
       "name": "Meganoticias",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/MegaNoticias2026.png/330px-MegaNoticias2026.png",
       "signals": [
         {
           "type": "m3u8",
