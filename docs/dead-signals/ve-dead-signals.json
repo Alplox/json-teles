@@ -128,6 +128,23 @@
       "last_checked": "2026-06-02T23:24:21.410Z",
       "website": "https://televen.com/",
       "category": "news"
+    },
+    {
+      "id": "anzoategui-tv",
+      "name": "Anzoátegui TV",
+      "logo": null,
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
+        }
+      ],
+      "youtube": "UCjTbJ6Obs0yWlL36lw-Tz8w",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-08-09T02:15:49.631Z",
+      "twitch": null,
+      "website": "https://lorini.net/anzoateguitv/",
+      "category": "general"
     }
   ]
 }
