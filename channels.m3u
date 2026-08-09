@@ -25,9 +25,7 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="AGRICULTURA TV" tvg-logo="https://graph.facebook.com/RadioAgricultura/picture?width=800&height=800" group-title="music", AGRICULTURA TV (2) [CL]
 https://unlimited2-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Alternativa FM (Huasco)" tvg-logo="https://i0.wp.com/alternativatv.cl/wp-content/uploads/2022/11/cropped-Logo-Red-Alternativa.png" group-title="music", Radio Alternativa FM (Huasco) (1) [CL]
-https://vs20.live.opencaster.com/alternativatv_859ab4a0/index.m3u8
-#EXTINF:-1 tvg-name="Radio Alternativa FM (Huasco)" tvg-logo="https://i0.wp.com/alternativatv.cl/wp-content/uploads/2022/11/cropped-Logo-Red-Alternativa.png" group-title="music", Radio Alternativa FM (Huasco) (2) [CL]
+#EXTINF:-1 tvg-name="Radio Alternativa FM (Huasco)" tvg-logo="https://i0.wp.com/alternativatv.cl/wp-content/uploads/2022/11/cropped-Logo-Red-Alternativa.png" group-title="music", Radio Alternativa FM (Huasco) [CL]
 https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
 #EXTINF:-1 tvg-name="America TV" tvg-logo="https://radioamerica.cl/wp-content/uploads/2025/07/logo-america.png" group-title="general", America TV [CL]
 https://v2.tustreaming.cl/radioamericatv/index.m3u8
@@ -35,8 +33,6 @@ https://v2.tustreaming.cl/radioamericatv/index.m3u8
 https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Antofagasta TV" tvg-logo="https://graph.facebook.com/AntofagastaTelevision/picture?width=800&height=800" group-title="general", Antofagasta TV (2) [CL]
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Arica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Logo_de_Arica_TV.png/240px-Logo_de_Arica_TV.png" group-title="general", Arica TV [CL]
-https://envivo.arica.tv/hls/Live2025AricaTV.m3u8
 #EXTINF:-1 tvg-name="Atacama TV" tvg-logo="https://graph.facebook.com/tucanalregional/picture?width=800&height=800" group-title="general", Atacama TV (1) [CL]
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:-1 tvg-name="Atacama TV" tvg-logo="https://graph.facebook.com/tucanalregional/picture?width=800&height=800" group-title="general", Atacama TV (2) [CL]
@@ -55,8 +51,6 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 11 Aysen" tvg-logo="" group-title="general", Canal 11 Aysen [CL]
 https://v2.tustreaming.cl/canal11aysen/index.m3u8
-#EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Canal_13_2025.svg" group-title="general", Canal 13 [CL]
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13popup/13popup.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 2 Quellón" tvg-logo="https://graph.facebook.com/canal2quellon/picture?width=800&height=800" group-title="general", Canal 2 Quellón (1) [CL]
 https://unlimited2-cl-isp.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-name="Canal 2 Quellón" tvg-logo="https://graph.facebook.com/canal2quellon/picture?width=800&height=800" group-title="general", Canal 2 Quellón (2) [CL]
@@ -101,8 +95,6 @@ https://v2.tustreaming.cl:443/fmarcoirirs/index.m3u8
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Carolina TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_Radio_Carolina_2020.png" group-title="music", Radio Carolina TV [CL]
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
-#EXTINF:-1 tvg-name="Radio Carolina 2 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_Radio_Carolina_2020.png" group-title="music", Radio Carolina 2 TV [CL]
-https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Chile Channel TV" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/dd/0d/1fdd0d87-c7de-609a-8682-40859129708f/AppIcon-BuildServer-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200ia-75.webp" group-title="outdoor", Chile Channel TV [CL]
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-name="Chilevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Emblema_de_Chilevisi%C3%B3n.svg" group-title="general", Chilevisión [CL]
@@ -117,10 +109,8 @@ https://v2.tustreaming.cl/clicktv/playlist.m3u8
 https://v2.tustreaming.cl/clicktv/index.m3u8
 #EXTINF:-1 tvg-name="Club TV Santa Juana" tvg-logo="https://graph.facebook.com/clubtvcanal/picture?width=800&height=800" group-title="general", Club TV Santa Juana [CL]
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
-#EXTINF:-1 tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="news", CNN Chile (1) [CL]
+#EXTINF:-1 tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="news", CNN Chile [CL]
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="news", CNN Chile (2) [CL]
-https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-name="Concepcion TV" tvg-logo="https://concepciontv.cl/wp-content/uploads/2024/04/logopaginaweb-1-1024x272-1-150x40.png" group-title="general", Concepcion TV [CL]
 https://stream.blserver.cl/hls/ctv/index.m3u8
 #EXTINF:-1 tvg-name="Contivision" tvg-logo="https://graph.facebook.com/TVContivision/picture?width=800&height=800" group-title="general", Contivision (1) [CL]
@@ -157,10 +147,6 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb
 https://v2.tustreaming.cl/frecuencia7/index.m3u8
 #EXTINF:-1 tvg-name="Frecuencia 7" tvg-logo="https://www.frecuencia7tv.cl/logo-f7.png" group-title="general", Frecuencia 7 (2) [CL]
 https://v2.tustreaming.cl:443/frecuencia7/index.m3u8
-#EXTINF:-1 tvg-name="Girovisual Televisión (Valparaíso)" tvg-logo="https://www.girovisual.cl/Girovisual%20logo.png" group-title="general", Girovisual Televisión (Valparaíso) (1) [CL]
-https://pantera1-100gb-cl-movistar.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Girovisual Televisión (Valparaíso)" tvg-logo="https://www.girovisual.cl/Girovisual%20logo.png" group-title="general", Girovisual Televisión (Valparaíso) (2) [CL]
-https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Holvoet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/HolvoetTV.jpg" group-title="general", Holvoet TV (1) [CL]
 https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Holvoet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/HolvoetTV.jpg" group-title="general", Holvoet TV (2) [CL]
@@ -271,8 +257,6 @@ https://ibanez.servercl.com/hls/live.m3u8
 https://mdstrm.com/live-stream-playlist/6580414b99f9d36397019551.m3u8
 #EXTINF:-1 tvg-name="Radio Romántica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Marca-radio-romantica.jpg" group-title="music", Radio Romántica TV [CL]
 https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8
-#EXTINF:-1 tvg-name="RTC Television" tvg-logo="https://www.rtctelevision.cl/images/logortc.png" group-title="general", RTC Television [CL]
-https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Sextavision" tvg-logo="https://sextavision.cl/wp-content/uploads/2024/06/cropped-ojo-SV-32x32.png" group-title="general", Sextavision (1) [CL]
 https://5ff3d9babae13.streamlock.net:443/fzkqsdfray/fzkqsdfray/playlist.m3u8
 #EXTINF:-1 tvg-name="Sextavision" tvg-logo="https://sextavision.cl/wp-content/uploads/2024/06/cropped-ojo-SV-32x32.png" group-title="general", Sextavision (2) [CL]
@@ -303,18 +287,8 @@ https://v4.tustreaming.cl:443/tevexinter/index.m3u8
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 tvg-name="TV Costa" tvg-logo="https://tvcosta.cl/wp-content/uploads/2022/12/TV-Costa.jpg" group-title="general", TV Costa [CL]
 https://tvcosta.gleeze.com/memfs/39cef946-1aac-4418-8df8-6d8ff6d0a680.m3u8
-#EXTINF:-1 tvg-name="T-Vinet Digital" tvg-logo="https://tvinet.cl/site/wp-content/uploads/cropped-channels4_profile-192x192.jpg" group-title="general", T-Vinet Digital (1) [CL]
-https://pantera1-100gb-cl-movistar.dps.live/inet2/inet2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="T-Vinet Digital" tvg-logo="https://tvinet.cl/site/wp-content/uploads/cropped-channels4_profile-192x192.jpg" group-title="general", T-Vinet Digital (2) [CL]
-https://unlimited6-cl.dps.live/inet2/inet2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Senado" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/TV_Senado_Chile.svg" group-title="legislative", TV Senado [CL]
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
-#EXTINF:-1 tvg-name="TV UCT (U. Católica de Temuco)" tvg-logo="https://tvuct.cl/wp-content/uploads/2023/08/logo-white.png" group-title="general", TV UCT (U. Católica de Temuco) (1) [CL]
-https://unlimited1-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TV UCT (U. Católica de Temuco)" tvg-logo="https://tvuct.cl/wp-content/uploads/2023/08/logo-white.png" group-title="general", TV UCT (U. Católica de Temuco) (2) [CL]
-https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TV UCT (U. Católica de Temuco)" tvg-logo="https://tvuct.cl/wp-content/uploads/2023/08/logo-white.png" group-title="general", TV UCT (U. Católica de Temuco) (3) [CL]
-https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TV5 Linares" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f47d1b0c6169d337c4d532e/mediaLibrary/photo/dfc35dae-1ef2-41dc-a0b5-79e0522be723-extra-large-standard-q100.webp" group-title="general", TV5 Linares (1) [CL]
 https://v1.tustreaming.cl/tv5linares/index.m3u8
 #EXTINF:-1 tvg-name="TV5 Linares" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f47d1b0c6169d337c4d532e/mediaLibrary/photo/dfc35dae-1ef2-41dc-a0b5-79e0522be723-extra-large-standard-q100.webp" group-title="general", TV5 Linares (2) [CL]
@@ -369,28 +343,22 @@ https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 https://tv.ulagos.cl/web/live.m3u8
 #EXTINF:-1 tvg-name="UMAG TV (U. de Magallanes)" tvg-logo="https://static.wixstatic.com/media/2daf50_a8f34b3a9e16488ea92343158572f5e4%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/2daf50_a8f34b3a9e16488ea92343158572f5e4%7Emv2.jpg" group-title="general", UMAG TV (U. de Magallanes) [CL]
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
-#EXTINF:-1 tvg-name="UMAG TV 2 (U. de Magallanes)" tvg-logo="https://static.wixstatic.com/media/2daf50_a8f34b3a9e16488ea92343158572f5e4%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/2daf50_a8f34b3a9e16488ea92343158572f5e4%7Emv2.jpg" group-title="general", UMAG TV 2 (U. de Magallanes) [CL]
-https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Vision Plus TV Melipilla" tvg-logo="https://visionplustv.cl/wp-content/uploads/2024/06/VP017.png" group-title="general", Vision Plus TV Melipilla (1) [CL]
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 #EXTINF:-1 tvg-name="Vision Plus TV Melipilla" tvg-logo="https://visionplustv.cl/wp-content/uploads/2024/06/VP017.png" group-title="general", Vision Plus TV Melipilla (2) [CL]
 https://5ff3d9babae13.streamlock.net:443/jwagpqxehu/jwagpqxehu/playlist.m3u8
 #EXTINF:-1 tvg-name="Vision Plus TV Melipilla" tvg-logo="https://visionplustv.cl/wp-content/uploads/2024/06/VP017.png" group-title="general", Vision Plus TV Melipilla (3) [CL]
 https://5ff3d9babae13.streamlock.net:1936/jwagpqxehu/jwagpqxehu/playlist.m3u8
-#EXTINF:-1 tvg-name="VTV" tvg-logo="https://graph.facebook.com/canalvtvcl/picture?width=800&height=800" group-title="general", VTV (1) [CL]
-https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="VTV" tvg-logo="https://graph.facebook.com/canalvtvcl/picture?width=800&height=800" group-title="general", VTV (2) [CL]
-https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="VTV" tvg-logo="https://graph.facebook.com/canalvtvcl/picture?width=800&height=800" group-title="general", VTV (3) [CL]
-https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV Quillota" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f45357a0ac66b5dfa35c144/mediaLibrary/photo/6ffc1997-59e5-48d2-83a5-a1392ae981b8-extra-large-standard-q100.webp" group-title="general", VTV Quillota (1) [CL]
 https://pantera1-100gb-cl-movistar.dps.live/vtvquillota/vtvquillota.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV Quillota" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f45357a0ac66b5dfa35c144/mediaLibrary/photo/6ffc1997-59e5-48d2-83a5-a1392ae981b8-extra-large-standard-q100.webp" group-title="general", VTV Quillota (2) [CL]
-https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="VTV Quillota" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f45357a0ac66b5dfa35c144/mediaLibrary/photo/6ffc1997-59e5-48d2-83a5-a1392ae981b8-extra-large-standard-q100.webp" group-title="general", VTV Quillota (3) [CL]
 https://unlimited1-cl-isp.dps.live/vtvquillota/vtvquillota.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Crtv Chile" tvg-logo="https://crtvchile.cl/wp-content/uploads/2026/06/cropped-WhatsApp-Image-2026-06-06-at-13.49.04-1-768x580.jpeg" group-title="entertainment", Crtv Chile [CL]
 https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Institucional TV (Colombia)" tvg-logo="https://www.canalinstitucional.tv/themes/custom/bootstrap_sass/images/logo.png" group-title="general", Canal Institucional TV (Colombia) [CO]
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Señal Colombia" tvg-logo="https://www.senalcolombia.tv/themes/custom/colombia_subtheme/img/nuevo_home/logo.svg" group-title="general", Señal Colombia [CO]
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="DW Español" tvg-logo="https://deultimominuto.net/wp-content/uploads/2022/03/DW-LOGO.jpg" group-title="news", DW Español [DE]
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-name="Ecuavisa" tvg-logo="https://graph.facebook.com/ecuavisa/picture?width=800&height=800" group-title="news", Ecuavisa (1) [EC]
@@ -479,8 +447,6 @@ https://storage.sardius.media/archives/-K6FGrVYzVr92SDZiDnc/events/site_68FBe1c2
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Naciones Unidas" tvg-logo="https://graph.facebook.com/UNWebTV/picture?width=800&height=800" group-title="general", Naciones Unidas [US]
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-name="Anzoátegui TV" tvg-logo="" group-title="general", Anzoátegui TV [VE]
-https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-name="BTA TV" tvg-logo="" group-title="general", BTA TV [VE]
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:-1 tvg-name="Canal 21 Táchira" tvg-logo="" group-title="general", Canal 21 Táchira [VE]

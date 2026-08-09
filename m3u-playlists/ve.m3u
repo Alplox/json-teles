@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Anzoátegui TV" tvg-logo="" group-title="general", Anzoátegui TV [VE]
-https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-name="BTA TV" tvg-logo="" group-title="general", BTA TV [VE]
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:-1 tvg-name="Canal 21 Táchira" tvg-logo="" group-title="general", Canal 21 Táchira [VE]
