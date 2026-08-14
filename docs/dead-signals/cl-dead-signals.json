@@ -1,21 +1,6 @@
 {
   "channels": [
     {
-      "id": "13-canal-pruebas",
-      "name": "Canal 13 (Señal de Pruebas)",
-      "logo": null,
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://jireh-9-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13live/13live.smil/13live/livestream1/chunks.m3u8"
-        }
-      ],
-      "youtube": null,
-      "twitch": null,
-      "website": "https://www.13.cl/programas/senal-prueba",
-      "category": "general"
-    },
-    {
       "id": "13-entretencion",
       "name": "13 Entretención",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4f/13entretencion.svg",
@@ -121,10 +106,6 @@
         {
           "type": "m3u8",
           "url": "https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://vs20.live.opencaster.com/alternativatv_859ab4a0/index.m3u8"
         }
       ],
       "logo": "https://i0.wp.com/alternativatv.cl/wp-content/uploads/2022/11/cropped-Logo-Red-Alternativa.png",
@@ -233,30 +214,9 @@
       "category": "general"
     },
     {
-      "id": "energeek-radio",
-      "name": "EnerGeek Radio",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=dEmoweBeneRGEek2025"
-        }
-      ],
-      "logo": "https://cdn.energeek.cl/logos/EG-Radio-2025_brand.png",
-      "youtube": "UCBRqdpctXAHLRQMYr14yDgw",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-06-02T23:10:02.095Z",
-      "twitch": "energeekcl",
-      "website": "https://energeek.cl/radio-en-vivo/",
-      "category": "music"
-    },
-    {
       "id": "energeek-retro",
       "name": "EnerGeek Retro",
       "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025"
-        },
         {
           "type": "m3u8",
           "url": "https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=dEmoweBeneRGEek2025"
@@ -998,25 +958,6 @@
       "category": "music"
     },
     {
-      "id": "clicktv-chile",
-      "name": "ClickTv Chile (Coronel)",
-      "logo": "https://graph.facebook.com/clicktvchile/picture?width=800&height=800",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://v2.tustreaming.cl/clicktv/index.m3u8"
-        }
-      ],
-      "youtube": "UCcpaZhIFkrEKJIc9Eadjydw",
-      "last_youtube_livestreams": [
-        "qjjGm00wZwA"
-      ],
-      "last_checked": "2026-08-09T02:14:59.762Z",
-      "twitch": "clicktvchile",
-      "website": "https://clicktvchile.cl",
-      "category": "general"
-    },
-    {
       "id": "girovisual",
       "name": "Girovisual Televisión (Valparaíso)",
       "logo": "https://www.girovisual.cl/Girovisual%20logo.png",
@@ -1038,42 +979,13 @@
       "category": "general"
     },
     {
-      "id": "tv-inet",
-      "name": "T-Vinet Digital",
-      "logo": "https://tvinet.cl/site/wp-content/uploads/cropped-channels4_profile-192x192.jpg",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://pantera1-100gb-cl-movistar.dps.live/inet2/inet2.smil/playlist.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://unlimited6-cl.dps.live/inet2/inet2.smil/playlist.m3u8"
-        }
-      ],
-      "youtube": "UCQTzB6f7Vpx2k7K7zdRTJ7Q",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-08-09T02:15:28.585Z",
-      "twitch": null,
-      "website": "https://tvinet.cl/",
-      "category": "general"
-    },
-    {
       "id": "tv-uct-araucania",
       "name": "TV UCT (U. Católica de Temuco)",
       "logo": "https://tvuct.cl/wp-content/uploads/2023/08/logo-white.png",
       "signals": [
         {
           "type": "m3u8",
-          "url": "https://unlimited1-cl-isp.dps.live/uct/uct.smil/playlist.m3u8"
-        },
-        {
-          "type": "m3u8",
           "url": "https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8"
         }
       ],
       "youtube": "UCdGQHFBFDJoROOVKTCMsDrA",
@@ -1100,35 +1012,10 @@
       "category": "general"
     },
     {
-      "id": "vtv-quillota",
-      "name": "VTV Quillota",
-      "logo": "https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f45357a0ac66b5dfa35c144/mediaLibrary/photo/6ffc1997-59e5-48d2-83a5-a1392ae981b8-extra-large-standard-q100.webp",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8"
-        }
-      ],
-      "youtube": "UCrLZOWYIynXOOGVDmQlLCwQ",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-08-09T02:15:34.614Z",
-      "twitch": null,
-      "website": "https://www.diariovtv.cl/",
-      "category": "general"
-    },
-    {
       "id": "vtv",
       "name": "VTV",
       "logo": "https://graph.facebook.com/canalvtvcl/picture?width=800&height=800",
       "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8"
-        },
         {
           "type": "m3u8",
           "url": "https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8"
