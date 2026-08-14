@@ -191,7 +191,7 @@ Total channels available. M3U version may contain fewer channels.
 (click to expand)
 
 <!-- START:CHANNEL_COUNT -->
-Total: 532 channels from 42 countries
+Total: 533 channels from 42 countries
 
 <!-- END:CHANNEL_COUNT -->
 
@@ -332,6 +332,7 @@ Total: 532 channels from 42 countries
 
 ### 🌍 Chile
 
+- [Canal 13 (Señal de Pruebas)](https://www.13.cl/programas/senal-prueba) (general)
 - [13 Cultura](https://www.13.cl/c) (culture)
 - [13 Deportes](https://www.13.cl/) (sports)
 - [13 Festival](https://www.13.cl/) (music)
@@ -913,6 +914,7 @@ Total: 532 channels from 42 countries
 
 ### 📂 General
 
+- [Canal 13 (Señal de Pruebas)](https://www.13.cl/programas/senal-prueba) (Chile)
 - [ABC-TV (Paraguay)](https://www.abc.com.py/) (Paraguay)
 - [ABN Digital Exclusives](https://www.youtube.com/channel/UCMIobchb8wgycijrgc1UnZw) (India)
 - [America TV](https://radioamerica.cl/) (Chile)
