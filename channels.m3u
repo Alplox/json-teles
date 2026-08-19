@@ -267,6 +267,8 @@ https://ibanez.servercl.com/hls/live.m3u8
 https://mdstrm.com/live-stream-playlist/6580414b99f9d36397019551.m3u8
 #EXTINF:-1 tvg-name="Radio Romántica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Marca-radio-romantica.jpg" group-title="music", Radio Romántica TV [CL]
 https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8
+#EXTINF:-1 tvg-name="RTC Television" tvg-logo="https://www.rtctelevision.cl/images/logortc.png" group-title="general", RTC Television [CL]
+https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Sextavision" tvg-logo="https://sextavision.cl/wp-content/uploads/2024/06/cropped-ojo-SV-32x32.png" group-title="general", Sextavision (1) [CL]
 https://5ff3d9babae13.streamlock.net:443/fzkqsdfray/fzkqsdfray/playlist.m3u8
 #EXTINF:-1 tvg-name="Sextavision" tvg-logo="https://sextavision.cl/wp-content/uploads/2024/06/cropped-ojo-SV-32x32.png" group-title="general", Sextavision (2) [CL]
@@ -309,6 +311,8 @@ https://unlimited1-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
 https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TV UCT (U. Católica de Temuco)" tvg-logo="https://tvuct.cl/wp-content/uploads/2023/08/logo-white.png" group-title="general", TV UCT (U. Católica de Temuco) (3) [CL]
 https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TV UCT (U. Católica de Temuco)" tvg-logo="https://tvuct.cl/wp-content/uploads/2023/08/logo-white.png" group-title="general", TV UCT (U. Católica de Temuco) (4) [CL]
+https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TV5 Linares" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f47d1b0c6169d337c4d532e/mediaLibrary/photo/dfc35dae-1ef2-41dc-a0b5-79e0522be723-extra-large-standard-q100.webp" group-title="general", TV5 Linares (1) [CL]
 https://v1.tustreaming.cl/tv5linares/index.m3u8
 #EXTINF:-1 tvg-name="TV5 Linares" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f47d1b0c6169d337c4d532e/mediaLibrary/photo/dfc35dae-1ef2-41dc-a0b5-79e0522be723-extra-large-standard-q100.webp" group-title="general", TV5 Linares (2) [CL]
@@ -363,6 +367,8 @@ https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 https://tv.ulagos.cl/web/live.m3u8
 #EXTINF:-1 tvg-name="UMAG TV (U. de Magallanes)" tvg-logo="https://static.wixstatic.com/media/2daf50_a8f34b3a9e16488ea92343158572f5e4%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/2daf50_a8f34b3a9e16488ea92343158572f5e4%7Emv2.jpg" group-title="general", UMAG TV (U. de Magallanes) [CL]
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-name="UMAG TV 2 (U. de Magallanes)" tvg-logo="https://static.wixstatic.com/media/2daf50_a8f34b3a9e16488ea92343158572f5e4%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/2daf50_a8f34b3a9e16488ea92343158572f5e4%7Emv2.jpg" group-title="general", UMAG TV 2 (U. de Magallanes) [CL]
+https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Vision Plus TV Melipilla" tvg-logo="https://visionplustv.cl/wp-content/uploads/2024/06/VP017.png" group-title="general", Vision Plus TV Melipilla (1) [CL]
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 #EXTINF:-1 tvg-name="Vision Plus TV Melipilla" tvg-logo="https://visionplustv.cl/wp-content/uploads/2024/06/VP017.png" group-title="general", Vision Plus TV Melipilla (2) [CL]
@@ -374,6 +380,8 @@ https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV" tvg-logo="https://graph.facebook.com/canalvtvcl/picture?width=800&height=800" group-title="general", VTV (2) [CL]
 https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV" tvg-logo="https://graph.facebook.com/canalvtvcl/picture?width=800&height=800" group-title="general", VTV (3) [CL]
+https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="VTV" tvg-logo="https://graph.facebook.com/canalvtvcl/picture?width=800&height=800" group-title="general", VTV (4) [CL]
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV Quillota" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f45357a0ac66b5dfa35c144/mediaLibrary/photo/6ffc1997-59e5-48d2-83a5-a1392ae981b8-extra-large-standard-q100.webp" group-title="general", VTV Quillota (1) [CL]
 https://pantera1-100gb-cl-movistar.dps.live/vtvquillota/vtvquillota.smil/playlist.m3u8
