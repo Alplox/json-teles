@@ -481,10 +481,6 @@
         {
           "type": "m3u8",
           "url": "https://oracle.streaminghd.cl/rtctelevision/rtctelevision/playlist.m3u8"
-        },
-        {
-          "type": "m3u8",
-          "url": "https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8"
         }
       ],
       "logo": "https://www.rtctelevision.cl/images/logortc.png",
@@ -976,56 +972,6 @@
       "last_checked": "2026-08-09T02:15:02.274Z",
       "twitch": null,
       "website": "https://www.girovisual.cl/",
-      "category": "general"
-    },
-    {
-      "id": "tv-uct-araucania",
-      "name": "TV UCT (U. Católica de Temuco)",
-      "logo": "https://tvuct.cl/wp-content/uploads/2023/08/logo-white.png",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8"
-        }
-      ],
-      "youtube": "UCdGQHFBFDJoROOVKTCMsDrA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-08-09T02:15:28.963Z",
-      "twitch": null,
-      "website": "https://www.tvuct.cl/",
-      "category": "general"
-    },
-    {
-      "id": "umag-tv-2",
-      "name": "UMAG TV 2 (U. de Magallanes)",
-      "logo": "https://static.wixstatic.com/media/2daf50_a8f34b3a9e16488ea92343158572f5e4%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/2daf50_a8f34b3a9e16488ea92343158572f5e4%7Emv2.jpg",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8"
-        }
-      ],
-      "youtube": null,
-      "last_checked": "2026-08-09T02:15:31.439Z",
-      "twitch": null,
-      "website": "https://www.umagtv.cl/blank-2",
-      "category": "general"
-    },
-    {
-      "id": "vtv",
-      "name": "VTV",
-      "logo": "https://graph.facebook.com/canalvtvcl/picture?width=800&height=800",
-      "signals": [
-        {
-          "type": "m3u8",
-          "url": "https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8"
-        }
-      ],
-      "youtube": "UCrLZOWYIynXOOGVDmQlLCwQ",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-08-09T02:15:34.971Z",
-      "twitch": null,
-      "website": "https://canalvtv.cl/vtv/",
       "category": "general"
     }
   ]
