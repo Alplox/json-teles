@@ -180,7 +180,7 @@ npm run check-youtube:force # Force check (ignore skip threshold)
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/chart?repos=Alplox/json-teles&type=date&legend=top-left)](https://www.star-history.com/?repos=Alplox%2Fjson-teles&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/chart?repos=Alplox/json-teles&type=date&legend=top-left&sealed_token=uHkwBOBn04m0_TielErOaP4jbJ3ghQMbqYuYt4boxFvjnm4snn9Xx46lwAFkqcSXtKKGE0Y5inZU2UJygmHw9sndQ0SoCvqSfxtMMh-TnBGPzPkUAVGypQ)](https://www.star-history.com/?repos=Alplox%2Fjson-teles&type=date&legend=top-left)
 
 [![Visits Badge](https://badges.strrl.dev/visits/Alplox/json-teles)](https://badges.strrl.dev)
 
@@ -191,7 +191,7 @@ Total channels available. M3U version may contain fewer channels.
 (click to expand)
 
 <!-- START:CHANNEL_COUNT -->
-Total: 533 channels from 42 countries
+Total: 543 channels from 42 countries
 
 <!-- END:CHANNEL_COUNT -->
 
@@ -384,10 +384,12 @@ Total: 533 channels from 42 countries
 - [Contivision](https://contivision.cl/) (general)
 - [Radio Cooperativa](https://programas.cooperativa.cl/showalairelibre/) (music)
 - [Copano](https://copano.news/) (news)
+- [Coquimbo Unido](https://www.coquimbounido.cl/) (sports)
 - [Cronicas del Sur TV](https://cronicasdelsur.cl/) (general)
 - [Crtv Chile](https://crtvchile.cl/senal-en-vivo/) (entertainment)
 - [Dance FM Chile TV](https://www.dancefm.cl/) (music)
 - [Décima TV (Ancud)](https://www.decimatv.cl/) (general)
+- [Desde El Fin Del Mundo TV](https://www.youtube.com/@dfmTV2025-w3u) (sports)
 - [Radio Duna](https://www.duna.cl/tv/) (music)
 - [El Mostrador](https://www.elmostrador.cl/) (news)
 - [EnerGeek Fan](https://neotv.energeek.cl/canal?slug=energeek-fan) (animation)
@@ -433,6 +435,7 @@ Total: 533 channels from 42 countries
 - [NCTV (Centro Cristiano Internacional CCINT - San Joaquín)](https://nctv.cl/en-vivo/) (religious)
 - [Nina FM](https://ninafm.cl/) (music)
 - [NTV](https://www.tvn.cl/ntv) (culture)
+- [Efecto N](https://www.tvn.cl/ntv) (entertainment)
 - [Ñuble RVT](https://canalrtv.cl/) (general)
 - [Ñublevision](https://nublevision.cl/) (general)
 - [Nuevas Comunicaciones](https://www.youtube.com/channel/UCMvQGOyumsXP4V7dGAdIKWg) (outdoor)
@@ -485,9 +488,11 @@ Total: 533 channels from 42 countries
 - [Sur TV](https://www.surtv.cl/) (general)
 - [Suyai TV](https://suyaitv.cl/) (general)
 - [T13 - Teletrece](https://www.t13.cl/en-vivo) (news)
+- [Teatro Municipal de Chillán](https://teatrochillan.cl/) (culture)
 - [Tele13 Radio](https://tele13radio.cl/) (music)
 - [TeleAngol](https://www.teleangol.cl/) (general)
 - [Teleseries y series TVN](https://www.youtube.com/channel/UCJwtKyJIfr31zI077EnQTXg) (entertainment)
+- [Televisión Curacaví](https://www.youtube.com/@Televisioncuracavi/streams) (sports)
 - [Temuco Television](https://temucotelevision.cl/) (general)
 - [Tevex Oficial](https://tevex.cl) (general)
 - [Tierra de Dragones](https://tierradedragones.cl/online/) (sports)
@@ -510,6 +515,7 @@ Total: 533 channels from 42 countries
 - [UTalcaTV (U. de Talca) - Campus TV](https://tv.utalca.cl) (general)
 - [UA TV (U. Autonoma)](https://uatv.cl/) (general)
 - [UATV](https://uatv.cl/uatv-en-vivo/) (general)
+- [UC Chile](https://www.uc.cl/) (general)
 - [UCV TV](https://ucvtv.cl/home.php) (general)
 - [UCV TV Eventos](https://ucvtv.cl/home.php) (general)
 - [UESTV](https://www.uestv.cl/) (general)
@@ -525,6 +531,7 @@ Total: 533 channels from 42 countries
 - [Valle Nevado Vista Hotel Puerta del Sol](https://www.vallenevado.com/es/camaras/) (outdoor)
 - [veoTV](https://www.veotv.cl/) (general)
 - [Vía X](https://canalviax.com/) (music)
+- [Vicuña con Alameda](https://www.youtube.com/@vicunaconalameda/streams) (outdoor)
 - [Videos Online Chile (Los Andes, Colina)](https://www.youtube.com/channel/UCkAERiBpuFM5OB2GYgLnHEA) (outdoor)
 - [Vision Plus TV Melipilla](https://www.visionplustv.cl) (general)
 - [La Voz De Los Que Sobran](https://lavozdelosquesobran.cl/) (general)
@@ -596,6 +603,7 @@ Total: 533 channels from 42 countries
 
 ### 🌍 España
 
+- [AGENCIA EFE](https://www.efe.com/) (news)
 - [Cámaras de tráfico de Vigo](https://www.youtube.com/channel/UC30mmDZa-tMpIS-cIXoErsA) (outdoor)
 - [CNN en Español](https://cnnespanol.cnn.com/) (news)
 - [La Vanguardia](https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg) (news)
@@ -820,7 +828,9 @@ Total: 533 channels from 42 countries
 - [CBSN](https://www.cbsnews.com/live/) (news)
 - [Cheddar](https://cheddar.com/live) (news)
 - [CNBC](https://www.cnbc.com/live-tv/) (news)
+- [El Bananero](https://elbananero.com) (entertainment)
 - [EVTV MIAMI](https://evtv.online/noticias-de-venezuela/) (news)
+- [HLSAW - Black Mesa TV](https://www.youtube.com/channel/UC-0gpzHAKeIZLWCU5y-w-Zw) (entertainment)
 - [International House of Prayer](https://www.ihopkc.org/prayerroom/) (music)
 - [LiveNOW from FOX](https://www.livenowfox.com/) (news)
 - [Lorain Port and Finance Authority](https://www.lorainport.com/) (outdoor)
@@ -898,6 +908,7 @@ Total: 533 channels from 42 countries
 - [Bolivia Al aire TV](https://boliviaalairetv.com/) (Bolivia)
 - [Canal Cultura Venezuela](https://culturavenezuela.com/emision-en-directo/) (Venezuela)
 - [NTV](https://www.tvn.cl/ntv) (Chile)
+- [Teatro Municipal de Chillán](https://teatrochillan.cl/) (Chile)
 - [TVN 3](https://www.tvn.cl/tvn3) (Chile)
 
 ### 📂 Entertainment
@@ -906,8 +917,11 @@ Total: 533 channels from 42 countries
 - [13 Realities](https://www.13.cl/) (Chile)
 - [13 Teleseries](https://www.13.cl/) (Chile)
 - [Crtv Chile](https://crtvchile.cl/senal-en-vivo/) (Chile)
+- [El Bananero](https://elbananero.com) (Estados Unidos)
 - [GELATINA](https://www.youtube.com/channel/UCWSfXECGo1qK_H7SXRaUSMg) (Argentina)
 - [Gogoplaytv](https://www.gogoplaytv.com/) (Bolivia)
+- [HLSAW - Black Mesa TV](https://www.youtube.com/channel/UC-0gpzHAKeIZLWCU5y-w-Zw) (Estados Unidos)
+- [Efecto N](https://www.tvn.cl/ntv) (Chile)
 - [Once Stream](https://www.youtube.com/@oncestreamcl) (Chile)
 - [Teleseries y series TVN](https://www.youtube.com/channel/UCJwtKyJIfr31zI077EnQTXg) (Chile)
 - [The Game Awards](https://thegameawards.com/) (Estados Unidos)
@@ -1013,6 +1027,7 @@ Total: 533 channels from 42 countries
 - [UTalcaTV (U. de Talca) - Campus TV](https://tv.utalca.cl) (Chile)
 - [UA TV (U. Autonoma)](https://uatv.cl/) (Chile)
 - [UATV](https://uatv.cl/uatv-en-vivo/) (Chile)
+- [UC Chile](https://www.uc.cl/) (Chile)
 - [UCV TV](https://ucvtv.cl/home.php) (Chile)
 - [UCV TV Eventos](https://ucvtv.cl/home.php) (Chile)
 - [UESTV](https://www.uestv.cl/) (Chile)
@@ -1172,6 +1187,7 @@ Total: 533 channels from 42 countries
 - [ABP MAJHA](https://marathi.abplive.com/live-tv) (India)
 - [adn40Mx](https://live.adn40.mx/) (México)
 - [africanews](https://www.africanews.com/live/) (República Centroafricana)
+- [AGENCIA EFE](https://www.efe.com/) (España)
 - [Agenda-Free TV](https://twitter.com/agendafreetv) (Estados Unidos)
 - [Ahora Noticias](https://www.youtube.com/channel/UCn161AaU20-UcYeDEvDJyyA) (México)
 - [AlJazeera Arabic  قناة الجزيرة](https://www.aljazeera.com/live/) (Catar)
@@ -1409,6 +1425,7 @@ Total: 533 channels from 42 countries
 - [Valle Nevado Vista La Góndola](https://www.vallenevado.com/es/camaras/) (Chile)
 - [Valle Nevado Vista Piscina](https://www.vallenevado.com/es/camaras/) (Chile)
 - [Valle Nevado Vista Hotel Puerta del Sol](https://www.vallenevado.com/es/camaras/) (Chile)
+- [Vicuña con Alameda](https://www.youtube.com/@vicunaconalameda/streams) (Chile)
 - [Videos Online Chile (Los Andes, Colina)](https://www.youtube.com/channel/UCkAERiBpuFM5OB2GYgLnHEA) (Chile)
 - [webcamsantiago.cl](https://www.webcamsantiago.cl/) (Chile)
 
@@ -1446,10 +1463,13 @@ Total: 533 channels from 42 countries
 - [Balong - MDTPnet](https://www.youtube.com/channel/UCEZEW2z22WBkUB2Fcs8Gq3A) (Chile)
 - [Canal Deportivo de Hualqui](https://www.youtube.com/@canaldeportivodehualqui4582/) (Chile)
 - [CHV Deportes](https://pluto.tv/latam/live-tv/638df6f8b63cf100075ccfa1) (Chile)
+- [Coquimbo Unido](https://www.coquimbounido.cl/) (Chile)
+- [Desde El Fin Del Mundo TV](https://www.youtube.com/@dfmTV2025-w3u) (Chile)
 - [Frecuencia Cruzada](https://frecuenciacruzada.cl/en-vivo) (Chile)
 - [GALERÍA DEPORTIVA Ovalle](https://www.youtube.com/@GALERIADEPORTIVAOVALLE/) (Chile)
 - [MegaDeportes](https://www.meganoticias.cl/deportes/) (Chile)
 - [PicadoTV Chile](https://www.youtube.com/channel/UCpANs3C33Ay49hN2JeCV7FQ) (Chile)
+- [Televisión Curacaví](https://www.youtube.com/@Televisioncuracavi/streams) (Chile)
 - [Tierra de Dragones](https://tierradedragones.cl/online/) (Chile)
 
 ### 📂 Weather
