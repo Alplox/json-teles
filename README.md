@@ -191,7 +191,7 @@ Total channels available. M3U version may contain fewer channels.
 (click to expand)
 
 <!-- START:CHANNEL_COUNT -->
-Total: 543 channels from 42 countries
+Total: 536 channels from 43 countries
 
 <!-- END:CHANNEL_COUNT -->
 
@@ -333,14 +333,6 @@ Total: 543 channels from 42 countries
 ### 🌍 Chile
 
 - [Canal 13 (Señal de Pruebas)](https://www.13.cl/programas/senal-prueba) (general)
-- [13 Cultura](https://www.13.cl/c) (culture)
-- [13 Deportes](https://www.13.cl/) (sports)
-- [13 Festival](https://www.13.cl/) (music)
-- [13 FutGO](https://www.13.cl/) (sports)
-- [13 Kids](https://www.13.cl/) (kids)
-- [13 Pop](https://www.13.cl/) (entertainment)
-- [13 Realities](https://www.13.cl/) (entertainment)
-- [13 Teleseries](https://www.13.cl/) (entertainment)
 - [24 horas](https://www.24horas.cl/envivo/) (news)
 - [24 Horas Valparaíso](https://www.youtube.com/@24HorasTVNChile-RedValpara%C3%ADso) (news)
 - [AGRICULTURA TV](https://www.radioagricultura.cl/en-vivo-3/) (music)
@@ -671,6 +663,10 @@ Total: 543 channels from 42 countries
 - [TV9 Telugu Live](https://tv9telugu.com/live-tv) (news)
 - [WION](https://www.wionews.com/live-tv) (news)
 
+### 🌍 Irak
+
+- [Alabbassia TV](https://alabbassia.com/) (religious)
+
 ### 🌍 Italia
 
 - [Vatican News](https://www.vaticannews.va/en.html) (religious)
@@ -904,7 +900,6 @@ Total: 543 channels from 42 countries
 
 ### 📂 Culture
 
-- [13 Cultura](https://www.13.cl/c) (Chile)
 - [Bolivia Al aire TV](https://boliviaalairetv.com/) (Bolivia)
 - [Canal Cultura Venezuela](https://culturavenezuela.com/emision-en-directo/) (Venezuela)
 - [NTV](https://www.tvn.cl/ntv) (Chile)
@@ -913,9 +908,6 @@ Total: 543 channels from 42 countries
 
 ### 📂 Entertainment
 
-- [13 Pop](https://www.13.cl/) (Chile)
-- [13 Realities](https://www.13.cl/) (Chile)
-- [13 Teleseries](https://www.13.cl/) (Chile)
 - [Crtv Chile](https://crtvchile.cl/senal-en-vivo/) (Chile)
 - [El Bananero](https://elbananero.com) (Estados Unidos)
 - [GELATINA](https://www.youtube.com/channel/UCWSfXECGo1qK_H7SXRaUSMg) (Argentina)
@@ -1046,7 +1038,6 @@ Total: 543 channels from 42 countries
 
 ### 📂 Kids
 
-- [13 Kids](https://www.13.cl/) (Chile)
 - [Cartoon Network LA](https://www.youtube.com/channel/UCQySZQ6rrgJXRuonMwIIGMA) (Unknown Country)
 - [Disney XD](https://www.youtube.com/channel/UCktaw9L-f65LzUUdjmCFkbQ) (Unknown Country)
 - [Nickelodeon en Español](https://www.youtube.com/channel/UCNeq3Obf4zOv5rhORI8Vz5g) (Unknown Country)
@@ -1071,7 +1062,6 @@ Total: 543 channels from 42 countries
 
 ### 📂 Music
 
-- [13 Festival](https://www.13.cl/) (Chile)
 - [AcidJazz](https://www.youtube.com/channel/UC8cRYBn-z6y1EOUeMdJ0VHA) (Unknown Country)
 - [AGRICULTURA TV](https://www.radioagricultura.cl/en-vivo-3/) (Chile)
 - [Radio Alternativa FM (Huasco)](https://www.alternativafm.cl/p/alternativa-tv.html) (Chile)
@@ -1435,6 +1425,7 @@ Total: 543 channels from 42 countries
 
 ### 📂 Religious
 
+- [Alabbassia TV](https://alabbassia.com/) (Irak)
 - [AlQuranHD القران الكريم](https://www.youtube.com/channel/UCraPI8sg-eiNzUrurxhKeEQ) (Pakistán)
 - [Canal ISB (Iglesia San Bernardo)](https://www.canalisb.cl) (Chile)
 - [NCTV (Centro Cristiano Internacional CCINT - San Joaquín)](https://nctv.cl/en-vivo/) (Chile)
@@ -1458,8 +1449,6 @@ Total: 543 channels from 42 countries
 
 ### 📂 Sports
 
-- [13 Deportes](https://www.13.cl/) (Chile)
-- [13 FutGO](https://www.13.cl/) (Chile)
 - [Balong - MDTPnet](https://www.youtube.com/channel/UCEZEW2z22WBkUB2Fcs8Gq3A) (Chile)
 - [Canal Deportivo de Hualqui](https://www.youtube.com/@canaldeportivodehualqui4582/) (Chile)
 - [CHV Deportes](https://pluto.tv/latam/live-tv/638df6f8b63cf100075ccfa1) (Chile)
