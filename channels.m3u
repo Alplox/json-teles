@@ -441,6 +441,8 @@ https://d7x8z4yuq42qn.cloudfront.net/index_4.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-name="WION" tvg-logo="https://graph.facebook.com/WIONews/picture?width=800&height=800" group-title="news", WION (7) [IN]
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
+#EXTINF:-1 tvg-name="Alabbassia TV" tvg-logo="https://raw.githubusercontent.com/Alabbassia2026/Alabbassia-TV-Official/main/Logo%20PNG.png" group-title="religious", Alabbassia TV [IQ]
+https://stream.alabbassia.com/live/alabbassia/index.m3u8
 #EXTINF:-1 tvg-name="AlMayadeen Live - الميادين مباشر" tvg-logo="" group-title="news", AlMayadeen Live - الميادين مباشر [LB]
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="MILENIO" tvg-logo="https://graph.facebook.com/mileniodiario/picture?width=800&height=800" group-title="news", MILENIO [MX]

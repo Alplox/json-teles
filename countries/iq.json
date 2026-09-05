@@ -1,0 +1,22 @@
+{
+  "country": "iq",
+  "channels": [
+    {
+      "id": "alabbassia-tv",
+      "name": "Alabbassia TV",
+      "logo": "https://raw.githubusercontent.com/Alabbassia2026/Alabbassia-TV-Official/main/Logo%20PNG.png",
+      "signals": [
+        {
+          "type": "m3u8",
+          "url": "https://stream.alabbassia.com/live/alabbassia/index.m3u8"
+        }
+      ],
+      "youtube": null,
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-09-05T18:32:46.912Z",
+      "twitch": null,
+      "website": "https://alabbassia.com/",
+      "category": "religious"
+    }
+  ]
+}
