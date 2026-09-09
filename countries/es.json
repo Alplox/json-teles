@@ -20,7 +20,7 @@
         "z1E5ciDe3a0",
         "xrYXDI5uAoA"
       ],
-      "last_checked": "2026-09-05T18:35:51.636Z",
+      "last_checked": "2026-09-09T04:17:27.183Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UC30mmDZa-tMpIS-cIXoErsA",
       "category": "outdoor"
@@ -34,7 +34,7 @@
       "last_youtube_livestreams": [
         "Qr61waJ6AZg"
       ],
-      "last_checked": "2026-09-05T18:35:51.637Z",
+      "last_checked": "2026-09-09T04:17:27.183Z",
       "twitch": null,
       "website": "https://cnnespanol.cnn.com/",
       "category": "news"
@@ -45,8 +45,10 @@
       "logo": "https://graph.facebook.com/LaVanguardia/picture?width=800&height=800",
       "signals": [],
       "youtube": "UClLLRs_mFTsNT5U-DqTYAGg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-09-05T18:35:51.637Z",
+      "last_youtube_livestreams": [
+        "zJ0SqGA7R04"
+      ],
+      "last_checked": "2026-09-09T04:17:27.183Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg",
       "category": "news"
@@ -58,7 +60,7 @@
       "signals": [],
       "youtube": "UCoMWImnPAur6JhXDK63dpAg",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-09-05T18:35:51.637Z",
+      "last_checked": "2026-09-09T04:17:27.183Z",
       "twitch": null,
       "website": "https://malaga24h.com/directo-de-malaga-24-horas/",
       "category": "news"
@@ -72,7 +74,7 @@
       "last_youtube_livestreams": [
         "b4tE5aKhtlg"
       ],
-      "last_checked": "2026-09-05T18:35:51.637Z",
+      "last_checked": "2026-09-09T04:17:27.183Z",
       "twitch": null,
       "website": "https://www.rtve.es/noticias",
       "category": "news"
@@ -96,7 +98,7 @@
         "-TPDdyXedgg",
         "aw8t8b1rN8c"
       ],
-      "last_checked": "2026-09-05T18:35:51.637Z",
+      "last_checked": "2026-09-09T04:17:27.183Z",
       "twitch": null,
       "website": "https://agalega.gal/",
       "category": "news"
@@ -108,10 +110,9 @@
       "signals": [],
       "youtube": "UCTQrUTmzCWIfG6h4EVCdOCQ",
       "last_youtube_livestreams": [
-        "v5hG_DRiD0U",
         "DByMAYdYEmc"
       ],
-      "last_checked": "2026-09-05T18:35:51.637Z",
+      "last_checked": "2026-09-09T04:17:27.183Z",
       "twitch": null,
       "website": "https://rtvc.es/en-directo/",
       "category": "news"
@@ -129,7 +130,7 @@
       "website": "https://www.efe.com/",
       "country": "es",
       "category": "news",
-      "last_checked": "2026-09-05T18:35:51.637Z"
+      "last_checked": "2026-09-09T04:17:27.183Z"
     }
   ]
 }
