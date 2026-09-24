@@ -8,7 +8,7 @@
       "signals": [],
       "youtube": "UCo75W2AP1hnjUF4V_ovOAsg",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-09-09T04:18:30.499Z",
+      "last_checked": "2026-09-24T20:05:01.492Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCo75W2AP1hnjUF4V_ovOAsg",
       "category": "news"
@@ -19,10 +19,8 @@
       "logo": "https://graph.facebook.com/elcomercio.pe/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCLtGUPjKLqa3zgdmhKCZONg",
-      "last_youtube_livestreams": [
-        "6vsSNZalEjM"
-      ],
-      "last_checked": "2026-09-09T04:18:30.499Z",
+      "last_youtube_livestreams": [],
+      "last_checked": "2026-09-24T20:05:01.492Z",
       "twitch": null,
       "website": "https://elcomercio.pe",
       "category": "news"
@@ -34,7 +32,7 @@
       "signals": [],
       "youtube": "UCqURueAPBefOz3YhpfDErmw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-09-09T04:18:30.499Z",
+      "last_checked": "2026-09-24T20:05:01.492Z",
       "twitch": null,
       "website": "https://www.ideeleradio.pe/",
       "category": "music"
@@ -46,9 +44,10 @@
       "signals": [],
       "youtube": "UC-B7Xv56uNRDkj0vC3QW8Cg",
       "last_youtube_livestreams": [
-        "LYVcLOU1c2c"
+        "1rz-aBhCdTc",
+        "23-5mD9DHSU"
       ],
-      "last_checked": "2026-09-09T04:18:30.499Z",
+      "last_checked": "2026-09-24T20:05:01.492Z",
       "twitch": null,
       "website": "https://larepublica.pe/",
       "category": "news"
@@ -65,9 +64,10 @@
       ],
       "youtube": "UCpSJ5fGhmAME9Kx2D3ZvN3Q",
       "last_youtube_livestreams": [
+        "2jKbV5bpBRk",
         "sLzfveqNEJc"
       ],
-      "last_checked": "2026-09-09T04:18:30.499Z",
+      "last_checked": "2026-09-24T20:05:01.493Z",
       "twitch": null,
       "website": "https://www.latina.pe/tvenvivo",
       "category": "news"
@@ -88,7 +88,7 @@
       ],
       "youtube": "UC3rDtLrcgr3JS3_3JOW4BAw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-09-09T04:18:30.499Z",
+      "last_checked": "2026-09-24T20:05:01.493Z",
       "twitch": null,
       "website": "https://www.latina.pe/",
       "category": "news"
@@ -109,7 +109,7 @@
       ],
       "youtube": "UC3rDtLrcgr3JS3_3JOW4BAw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-09-09T04:18:30.499Z",
+      "last_checked": "2026-09-24T20:05:01.493Z",
       "twitch": null,
       "website": "https://www.latina.pe/",
       "category": "music"
@@ -121,7 +121,7 @@
       "signals": [],
       "youtube": "UCa5H2yRYfOlUH4c22uY5JsQ",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-09-09T04:18:30.499Z",
+      "last_checked": "2026-09-24T20:05:01.493Z",
       "twitch": null,
       "website": "https://n60.pe/",
       "category": "news"
@@ -151,8 +151,10 @@
         }
       ],
       "youtube": "UCRk_9ejeHHz-7zuz5n98tKw",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-09-09T04:18:30.499Z",
+      "last_youtube_livestreams": [
+        "R0ncuadI-zU"
+      ],
+      "last_checked": "2026-09-24T20:05:01.493Z",
       "twitch": null,
       "website": "https://ovacion.pe/radio",
       "category": "music"
@@ -168,8 +170,10 @@
         }
       ],
       "youtube": "UCngb4rxO4iUE6BrIs29WXwA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-09-09T04:18:30.499Z",
+      "last_youtube_livestreams": [
+        "FzVSvYUzrak"
+      ],
+      "last_checked": "2026-09-24T20:05:01.493Z",
       "twitch": null,
       "website": "https://panamericana.pe/tvenvivo",
       "category": "news"
@@ -181,9 +185,9 @@
       "signals": [],
       "youtube": "UCgR0st4ZLABi-LQcWNu3wnQ",
       "last_youtube_livestreams": [
-        "GiUTWbx0W50"
+        "6KnrtAOVcrw"
       ],
-      "last_checked": "2026-09-09T04:18:30.499Z",
+      "last_checked": "2026-09-24T20:05:01.493Z",
       "twitch": null,
       "website": "https://pbo.pe/",
       "category": "news"
@@ -200,7 +204,7 @@
       ],
       "youtube": "UCXXxRHhOXI6xFu8kDwV5UnQ",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-09-09T04:18:30.500Z",
+      "last_checked": "2026-09-24T20:05:01.493Z",
       "twitch": null,
       "website": "https://www.ondadigital.pe/",
       "category": "music"
@@ -221,7 +225,7 @@
       ],
       "youtube": "UC1WrIYwcdMJrpWRCAx7DTsA",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-09-09T04:18:30.500Z",
+      "last_checked": "2026-09-24T20:05:01.494Z",
       "twitch": null,
       "website": "https://radiotropical.pe/",
       "category": "music"
@@ -237,8 +241,10 @@
         }
       ],
       "youtube": "UCK0lpuL9PQb3I5CDcu7Y7bA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-09-09T04:18:41.817Z",
+      "last_youtube_livestreams": [
+        "9xdL6gkXq8w"
+      ],
+      "last_checked": "2026-09-24T20:05:12.099Z",
       "twitch": null,
       "website": "https://radiouno.pe/",
       "category": "music"
@@ -255,7 +261,7 @@
       ],
       "youtube": "UCHB6XEoEc7i7Wzst1yLFJXQ",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-09-09T04:18:41.818Z",
+      "last_checked": "2026-09-24T20:05:12.099Z",
       "twitch": null,
       "website": "https://rtvtotal.com.pe/#tvenvivo",
       "category": "news"
@@ -267,7 +273,7 @@
       "signals": [],
       "youtube": "UCRdGjpVs7vnyDXcEs6W8hkA",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-09-09T04:18:41.818Z",
+      "last_checked": "2026-09-24T20:05:12.099Z",
       "twitch": null,
       "website": "https://radiosanborjatv.com/",
       "category": "music"
@@ -283,8 +289,10 @@
         }
       ],
       "youtube": "UCkZCoc42IipR1ucqJmIehsA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-09-09T04:18:41.818Z",
+      "last_youtube_livestreams": [
+        "u5j10CJbVhY"
+      ],
+      "last_checked": "2026-09-24T20:05:12.099Z",
       "twitch": null,
       "website": "https://www.tvperu.gob.pe/noticias/play",
       "category": "news"
@@ -295,8 +303,10 @@
       "logo": "https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png",
       "signals": [],
       "youtube": "UCrAb_x80PtTiN3lCkQOSFPg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-09-09T04:18:41.818Z",
+      "last_youtube_livestreams": [
+        "wLzunCK2vWY"
+      ],
+      "last_checked": "2026-09-24T20:05:12.099Z",
       "twitch": null,
       "website": "https://www.tvperu.gob.pe/",
       "category": "general"
@@ -307,8 +317,10 @@
       "logo": "https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png",
       "signals": [],
       "youtube": "UCkZCoc42IipR1ucqJmIehsA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-09-09T04:18:41.818Z",
+      "last_youtube_livestreams": [
+        "u5j10CJbVhY"
+      ],
+      "last_checked": "2026-09-24T20:05:12.099Z",
       "twitch": null,
       "website": "https://www.tvperu.gob.pe/",
       "category": "news"
@@ -324,8 +336,10 @@
         }
       ],
       "youtube": "UCort3mldTtMErPqprSlSfng",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-09-09T04:18:41.818Z",
+      "last_youtube_livestreams": [
+        "VTmlxAs2YRQ"
+      ],
+      "last_checked": "2026-09-24T20:05:12.099Z",
       "twitch": null,
       "website": "https://willax.pe/en-vivo/",
       "category": "news"
