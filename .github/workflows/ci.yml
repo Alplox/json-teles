@@ -23,29 +23,32 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 24
-          cache: "npm"
+          cache: "pnpm"
 
       - name: Install dependencies
-        run: npm ci
+        run: pnpm install --frozen-lockfile
 
       - name: Validate country files
-        run: npm run validate:country
+        run: pnpm run validate:country
 
       - name: Build channels.json
         run: node scripts/core/build-channels.js
 
       - name: Validate channels.json
-        run: npm run validate
+        run: pnpm run validate
 
       - name: Lint (ESLint)
-        run: npm run lint
+        run: pnpm run lint
 
       - name: Format (Prettier)
-        run: npm run format:check
+        run: pnpm run format:check
 
       - name: Tests
-        run: npm run test
+        run: pnpm run test

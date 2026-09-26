@@ -8,45 +8,45 @@ Este proyecto usa scripts Node.js para construir, validar y mantener el director
 
 | Script                           | Comando           | Propósito                                                                                                         |
 | -------------------------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------- |
-| `scripts/core/build-channels.js` | `npm run build`   | Compila todos los `countries/*.json` en `channels.json`, valida unicidad de IDs y auto-ejecuta `validate-json.js` |
-| `scripts/core/generate-m3u.js`   | `npm run convert` | Genera `channels.m3u` y `m3u-playlists/*.m3u` desde `channels.json`, filtrando señales `type: "m3u8"`             |
-| `scripts/core/watch.js`          | `npm run watch`   | Watcher local que reconstruye `channels.json` al detectar cambios en `countries/`                                 |
+| `scripts/core/build-channels.js` | `pnpm run build`   | Compila todos los `countries/*.json` en `channels.json`, valida unicidad de IDs y auto-ejecuta `validate-json.js` |
+| `scripts/core/generate-m3u.js`   | `pnpm run convert` | Genera `channels.m3u` y `m3u-playlists/*.m3u` desde `channels.json`, filtrando señales `type: "m3u8"`             |
+| `scripts/core/watch.js`          | `pnpm run watch`   | Watcher local que reconstruye `channels.json` al detectar cambios en `countries/`                                 |
 
 ### Scripts de validación (validation/)
 
 | Script                                            | Comando                                      | Propósito                                                                                  |
 | ------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| `scripts/validation/validate-json.js`             | `npm run validate`                           | Valida la estructura de `channels.json` contra esquema Ajv — (CI)                          |
-| `scripts/validation/validate-country.js`          | `npm run validate:country`                   | Valida la estructura de cada `countries/*.json` contra esquema Ajv — (CI)                  |
-| `scripts/validation/check-youtube-livestreams.js` | `npm run check-youtube`                      | Verifica si los canales de YouTube están transmitiendo en vivo (usa yt-dlp + HTML parsing) |
-|                                                   | `npm run check-youtube -- --dry-run`         | Vista previa sin modificar archivos                                                        |
-|                                                   | `npm run check-youtube -- --force`           | Ignora el umbral de salto (revisa todos aunque se hayan revisado hace poco)                |
-|                                                   | `npm run check-youtube -- --channel <id>`    | Revisa un solo canal específico                                                            |
-|                                                   | `npm run check-youtube -- --from <N>`        | Procesa desde el índice N (0-based)                                                        |
-|                                                   | `npm run check-youtube -- --to <N>`          | Procesa hasta el índice N (inclusive)                                                      |
-|                                                   | `npm run check-youtube -- --limit <N>`       | Máximo de canales a revisar                                                                |
-| `scripts/validation/check-m3u8-signals.js`        | `npm run check-m3u8`                         | Verifica si las señales M3U8 responden con HLS válido. No modifica archivos                |
-|                                                   | `npm run check-m3u8 -- --update`             | Mueve las señales muertas a `docs/dead-signals/<country>-dead-signals.json`                |
-|                                                   | `npm run check-m3u8 -- --update --automatic` | Modo no interactivo (no pregunta)                                                          |
-|                                                   | `npm run check-m3u8 -- --restore`            | Revierte: revisa `dead-signals/` y restaura señales que volvieron a funcionar              |
-|                                                   | `npm run check-m3u8:restore`                 | Atajo para `--restore --update --automatic`                                                |
-|                                                   | `npm run check-m3u8 -- --dry-run`            | Vista previa sin modificar archivos                                                        |
-|                                                   | `npm run check-m3u8 -- --country <cc>`       | Valida solo un país (ej: `--country cl`)                                                   |
-|                                                   | `npm run check-m3u8 -- --id <channel-id>`    | Valida solo un canal específico                                                            |
-|                                                   | `npm run check-m3u8 -- --from <N>`           | Procesa desde el índice N (0-based)                                                        |
-|                                                   | `npm run check-m3u8 -- --to <N>`             | Procesa hasta el índice N (inclusive)                                                      |
-|                                                   | `npm run check-m3u8 -- --limit <N>`          | Máximo de canales a revisar                                                                |
-|                                                   | `npm run check-m3u8 -- --verbose`            | Muestra resultado de cada señal individual                                                 |
-| `scripts/validation/test-conversion.js`           | `npm run test`                               | Tests de conversión JSON→M3U                                                               |
+| `scripts/validation/validate-json.js`             | `pnpm run validate`                           | Valida la estructura de `channels.json` contra esquema Ajv — (CI)                          |
+| `scripts/validation/validate-country.js`          | `pnpm run validate:country`                   | Valida la estructura de cada `countries/*.json` contra esquema Ajv — (CI)                  |
+| `scripts/validation/check-youtube-livestreams.js` | `pnpm run check-youtube`                      | Verifica si los canales de YouTube están transmitiendo en vivo (usa yt-dlp + HTML parsing) |
+|                                                   | `pnpm run check-youtube -- --dry-run`         | Vista previa sin modificar archivos                                                        |
+|                                                   | `pnpm run check-youtube -- --force`           | Ignora el umbral de salto (revisa todos aunque se hayan revisado hace poco)                |
+|                                                   | `pnpm run check-youtube -- --channel <id>`    | Revisa un solo canal específico                                                            |
+|                                                   | `pnpm run check-youtube -- --from <N>`        | Procesa desde el índice N (0-based)                                                        |
+|                                                   | `pnpm run check-youtube -- --to <N>`          | Procesa hasta el índice N (inclusive)                                                      |
+|                                                   | `pnpm run check-youtube -- --limit <N>`       | Máximo de canales a revisar                                                                |
+| `scripts/validation/check-m3u8-signals.js`        | `pnpm run check-m3u8`                         | Verifica si las señales M3U8 responden con HLS válido. No modifica archivos                |
+|                                                   | `pnpm run check-m3u8 -- --update`             | Mueve las señales muertas a `docs/dead-signals/<country>-dead-signals.json`                |
+|                                                   | `pnpm run check-m3u8 -- --update --automatic` | Modo no interactivo (no pregunta)                                                          |
+|                                                   | `pnpm run check-m3u8 -- --restore`            | Revierte: revisa `dead-signals/` y restaura señales que volvieron a funcionar              |
+|                                                   | `pnpm run check-m3u8:restore`                 | Atajo para `--restore --update --automatic`                                                |
+|                                                   | `pnpm run check-m3u8 -- --dry-run`            | Vista previa sin modificar archivos                                                        |
+|                                                   | `pnpm run check-m3u8 -- --country <cc>`       | Valida solo un país (ej: `--country cl`)                                                   |
+|                                                   | `pnpm run check-m3u8 -- --id <channel-id>`    | Valida solo un canal específico                                                            |
+|                                                   | `pnpm run check-m3u8 -- --from <N>`           | Procesa desde el índice N (0-based)                                                        |
+|                                                   | `pnpm run check-m3u8 -- --to <N>`             | Procesa hasta el índice N (inclusive)                                                      |
+|                                                   | `pnpm run check-m3u8 -- --limit <N>`          | Máximo de canales a revisar                                                                |
+|                                                   | `pnpm run check-m3u8 -- --verbose`            | Muestra resultado de cada señal individual                                                 |
+| `scripts/validation/test-conversion.js`           | `pnpm run test`                               | Tests de conversión JSON→M3U                                                               |
 
 ### Scripts utilitarios (utils/)
 
 | Script                                    | Comando                   | Propósito                                                                     |
 | ----------------------------------------- | ------------------------- | ----------------------------------------------------------------------------- |
 | `scripts/utils/cli-args.js`               | —                         | Parser compartido de CLI (`parseArgs`, `applyIndexFilters`)                   |
-| `scripts/utils/split-by-country.js`       | `npm run split`           | Divide `channels.json` en archivos individuales por país (`countries/*.json`) |
-| `scripts/utils/reorder-country-fields.js` | `npm run reorder`         | Reordena los campos de los canales en `countries/*.json` para consistencia    |
-| `scripts/utils/generate-readme-lists.js`  | `npm run generate-readme` | Actualiza las listas del README con los canales actuales                      |
+| `scripts/utils/split-by-country.js`       | `pnpm run split`           | Divide `channels.json` en archivos individuales por país (`countries/*.json`) |
+| `scripts/utils/reorder-country-fields.js` | `pnpm run reorder`         | Reordena los campos de los canales en `countries/*.json` para consistencia    |
+| `scripts/utils/generate-readme-lists.js`  | `pnpm run generate-readme` | Actualiza las listas del README con los canales actuales                      |
 
 ### Flujo de trabajo
 
@@ -54,7 +54,7 @@ Este proyecto usa scripts Node.js para construir, validar y mantener el director
 countries/*.json          (editados manualmente)
       │
       ▼
-npm run build ──────────► scripts/core/build-channels.js
+pnpm run build ──────────► scripts/core/build-channels.js
       │                    │
       │                    ├── compila countries/*.json → channels.json
       │                    ├── valida unicidad de IDs
@@ -63,22 +63,22 @@ npm run build ──────────► scripts/core/build-channels.js
       ▼
 channels.json              (auto-generado, no editar)
       │
-      ├── npm run convert ──► scripts/core/generate-m3u.js ──► channels.m3u + m3u-playlists/*.m3u
+      ├── pnpm run convert ──► scripts/core/generate-m3u.js ──► channels.m3u + m3u-playlists/*.m3u
       │
-      └── npm run check-youtube ──► scripts/validation/check-youtube-livestreams.js
+      └── pnpm run check-youtube ──► scripts/validation/check-youtube-livestreams.js
       │
-      ├── npm run check-m3u8 ──► scripts/validation/check-m3u8-signals.js
+      ├── pnpm run check-m3u8 ──► scripts/validation/check-m3u8-signals.js
       │       │                     │
       │       ├── --update ────────► docs/dead-signals/<cc>-dead-signals.json
       │       └── --restore ───────► countries/<cc>.json (desde dead-signals)
       │
 ```
 
-**Para agregar un canal:** edita `countries/<cc>.json` y ejecuta `npm run build` para regenerar `channels.json`.
+**Para agregar un canal:** edita `countries/<cc>.json` y ejecuta `pnpm run build` para regenerar `channels.json`.
 
-**Para reportar una señal muerta:** crea un issue con la plantilla `[NO LIVE]` o ejecuta `npm run check-m3u8 -- --update` para mover señales muertas automáticamente.
+**Para reportar una señal muerta:** crea un issue con la plantilla `[NO LIVE]` o ejecuta `pnpm run check-m3u8 -- --update` para mover señales muertas automáticamente.
 
-**Para restaurar una señal:** mueve manualmente la entrada desde `docs/dead-signals/<cc>-dead-signals.json` de vuelta a `countries/<cc>.json` y ejecuta `npm run build`.
+**Para restaurar una señal:** mueve manualmente la entrada desde `docs/dead-signals/<cc>-dead-signals.json` de vuelta a `countries/<cc>.json` y ejecuta `pnpm run build`.
 
 ## Requisitos
 
@@ -88,38 +88,38 @@ channels.json              (auto-generado, no editar)
 ## Instalación
 
 ```bash
-npm install
+pnpm install
 ```
 
 ## Uso
 
 ```bash
 # Compilar channels.json desde countries/*.json
-npm run build
+pnpm run build
 
 # Generar playlists M3U
-npm run convert
+pnpm run convert
 
 # Validar estructura JSON (CI)
-npm run validate
+pnpm run validate
 
 # Validar señales M3U8 (solo lectura)
-npm run check-m3u8
+pnpm run check-m3u8
 
 # Mover señales muertas a dead-signals
-npm run check-m3u8:update
+pnpm run check-m3u8:update
 
 # Vista previa de señales a mover
-npm run check-m3u8:dry
+pnpm run check-m3u8:dry
 
 # Restaurar señales que volvieron a funcionar (desde dead-signals/)
-npm run check-m3u8:restore
+pnpm run check-m3u8:restore
 
 # Validar señales YouTube
-npm run check-youtube
+pnpm run check-youtube
 
 # CI completa
-npm run ci
+pnpm run ci
 ```
 
 ## Categorías disponibles

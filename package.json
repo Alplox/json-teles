@@ -14,19 +14,22 @@
     "format": "prettier --write \"scripts/**/*.js\"",
     "format:check": "prettier --check \"scripts/**/*.js\"",
     "test": "node scripts/validation/test-conversion.js",
-    "ci": "npm run validate && npm run validate:country && npm run lint && npm run format:check && npm run test",
+    "ci": "pnpm run validate && pnpm run validate:country && pnpm run lint && pnpm run format:check && pnpm run test",
     "watch": "node scripts/core/watch.js",
     "check-youtube": "node scripts/validation/check-youtube-livestreams.js",
     "check-m3u8": "node scripts/validation/check-m3u8-signals.js",
     "reorder": "node scripts/utils/reorder-country-fields.js"
   },
   "devDependencies": {
+    "@eslint/js": "^9.39.4",
     "ajv": "^8.17.1",
     "eslint": "^9.15.0",
+    "globals": "^14.0.0",
     "prettier": "^3.4.1"
   },
   "engines": {
     "node": ">=18.0.0"
   },
+  "packageManager": "pnpm@11.20.0",
   "license": "MIT"
 }

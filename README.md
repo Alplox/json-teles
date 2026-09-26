@@ -138,28 +138,28 @@ To prevent entire repositories from dying.
 ### Setup
 
 ```bash
-npm install
+pnpm install
 ```
 
 ### Available Commands
 
 ```bash
-npm run build              # Compile countries/*.json → channels.json
-npm run split              # Split channels.json → countries/*.json (migration)
-npm run convert            # Generate channels.m3u + m3u-playlists/
-npm run generate-readme    # Update README.md with channel lists
-npm run validate           # Validate channels.json against schema
-npm run validate:country   # Validate all country files
-npm run lint               # Run ESLint on scripts/
-npm run lint:fix           # ESLint with auto-fix
-npm run format             # Run Prettier on scripts/
-npm run format:check       # Check Prettier formatting
-npm run test               # Run M3U conversion tests
-npm run ci                 # Full pipeline: validate + lint + format + test
-npm run watch              # Watch countries/ for changes, auto-rebuild
-npm run check-youtube      # Check YouTube livestreams (manual)
-npm run check-youtube:dry  # Dry run (no file writes)
-npm run check-youtube:force # Force check (ignore skip threshold)
+pnpm run build              # Compile countries/*.json → channels.json
+pnpm run split              # Split channels.json → countries/*.json (migration)
+pnpm run convert            # Generate channels.m3u + m3u-playlists/
+pnpm run generate-readme    # Update README.md with channel lists
+pnpm run validate           # Validate channels.json against schema
+pnpm run validate:country   # Validate all country files
+pnpm run lint               # Run ESLint on scripts/
+pnpm run lint:fix           # ESLint with auto-fix
+pnpm run format             # Run Prettier on scripts/
+pnpm run format:check       # Check Prettier formatting
+pnpm run test               # Run M3U conversion tests
+pnpm run ci                 # Full pipeline: validate + lint + format + test
+pnpm run watch              # Watch countries/ for changes, auto-rebuild
+pnpm run check-youtube      # Check YouTube livestreams (manual)
+pnpm run check-youtube:dry  # Dry run (no file writes)
+pnpm run check-youtube:force # Force check (ignore skip threshold)
 ```
 
 > **Tip:** Install [deno](https://deno.com) for better yt-dlp YouTube detection.
@@ -168,15 +168,15 @@ npm run check-youtube:force # Force check (ignore skip threshold)
 
 1. Edit the country file (e.g., countries/cl.json)
 2. Add the channel to the channels array
-3. Run `npm run build` to compile
-4. Run `npm run ci` to verify
+3. Run `pnpm run build` to compile
+4. Run `pnpm run ci` to verify
 5. Commit all changes
 
 ### How to Add a New Country
 
 1. Create a new file countries/xx.json (where xx is the ISO 3166 country code, see <https://flagcdn.com/en/codes.json>)
 2. Follow the country file format above
-3. Run `npm run build` to compile
+3. Run `pnpm run build` to compile
 
 ## Star History
 
