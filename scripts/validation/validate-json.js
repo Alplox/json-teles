@@ -90,7 +90,7 @@ const baseDir = process.cwd();
 const resolvedPath = path.resolve(baseDir, filePath);
 
 if (resolvedPath !== baseDir && !resolvedPath.startsWith(baseDir + path.sep)) {
-  console.error(`Error: ${filePath} is outside the allowed directory`);
+  console.error(`Error: file path is outside the allowed directory (${baseDir})`);
   process.exit(1);
 }
 
