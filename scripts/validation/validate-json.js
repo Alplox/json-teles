@@ -1,4 +1,5 @@
 const fs = require("fs");
+const path = require("path");
 const Ajv = require("ajv");
 
 /**
@@ -85,9 +86,16 @@ const ajv = new Ajv({ allErrors: true });
 const validate = ajv.compile(rootSchema);
 
 const filePath = process.argv[2] || "channels.json";
+const baseDir = process.cwd();
+const resolvedPath = path.resolve(baseDir, filePath);
+
+if (resolvedPath !== baseDir && !resolvedPath.startsWith(baseDir + path.sep)) {
+  console.error(`Error: file path is outside the allowed directory (${baseDir})`);
+  process.exit(1);
+}
 
 try {
-  const raw = fs.readFileSync(filePath, "utf-8");
+  const raw = fs.readFileSync(resolvedPath, "utf-8");
   const data = JSON.parse(raw);
 
   const valid = validate(data);
