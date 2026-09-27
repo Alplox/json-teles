@@ -4,13 +4,13 @@
     {
       "id": "nmas",
       "name": "NMás",
+      "logo": "https://graph.facebook.com/nmas.com.mx/picture?width=800&height=800",
       "signals": [
         {
           "type": "m3u8",
           "url": "https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8"
         }
       ],
-      "logo": "https://graph.facebook.com/nmas.com.mx/picture?width=800&height=800",
       "youtube": "UCUsm-fannqOY02PNN67C0KA",
       "last_youtube_livestreams": [
         "p2AzyIEuFak"

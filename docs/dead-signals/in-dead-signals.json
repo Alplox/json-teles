@@ -4,13 +4,13 @@
     {
       "id": "cnbctv18india",
       "name": "CNBC-TV18",
+      "logo": "https://graph.facebook.com/cnbctv18india/picture?width=800&height=800",
       "signals": [
         {
           "type": "m3u8",
           "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8"
         }
       ],
-      "logo": "https://graph.facebook.com/cnbctv18india/picture?width=800&height=800",
       "youtube": "UCmRbHAgG2k2vDUvb3xsEunQ",
       "last_youtube_livestreams": [
         "vObXEcu01Gw",

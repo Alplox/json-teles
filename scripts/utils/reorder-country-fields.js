@@ -2,13 +2,16 @@ const fs = require("fs");
 const path = require("path");
 
 /**
- * Reorders channel fields in all country files to match the standard structure.
+ * Reorders channel fields in country files (and optionally dead-signals files)
+ * to match the standard structure.
  *
  * Usage:
  *   node scripts/reorder-country-fields.js
+ *   node scripts/reorder-country-fields.js --dead-signals
  */
 
 const COUNTRIES_DIR = path.join(__dirname, "../..", "countries");
+const DEAD_SIGNALS_DIR = path.join(__dirname, "../..", "docs", "dead-signals");
 
 const CHANNEL_FIELDS = [
   "id",
@@ -39,25 +42,36 @@ function orderChannelFields(ch) {
   return ordered;
 }
 
-const files = fs.readdirSync(COUNTRIES_DIR).filter((f) => f.endsWith(".json"));
+const includeDeadSignals = process.argv.includes("--dead-signals");
+
+const dirs = [COUNTRIES_DIR];
+if (includeDeadSignals) dirs.push(DEAD_SIGNALS_DIR);
+
 let totalFiles = 0;
 let totalChannels = 0;
 
-for (const file of files) {
-  const filePath = path.join(COUNTRIES_DIR, file);
-  const data = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+for (const dir of dirs) {
+  if (!fs.existsSync(dir)) continue;
 
-  if (!Array.isArray(data.channels)) continue;
+  const files = fs.readdirSync(dir).filter((f) => f.endsWith(".json"));
 
-  const original = JSON.stringify(data);
-  data.channels = data.channels.map(orderChannelFields);
-  const updated = JSON.stringify(data);
+  for (const file of files) {
+    const filePath = path.join(dir, file);
+    const data = JSON.parse(fs.readFileSync(filePath, "utf-8"));
 
-  if (original !== updated) {
-    fs.writeFileSync(filePath, `${JSON.stringify(data, null, 2)}\n`);
-    totalFiles++;
-    totalChannels += data.channels.length;
+    if (!Array.isArray(data.channels)) continue;
+
+    const original = JSON.stringify(data);
+    data.channels = data.channels.map(orderChannelFields);
+    const updated = JSON.stringify(data);
+
+    if (original !== updated) {
+      fs.writeFileSync(filePath, `${JSON.stringify(data, null, 2)}\n`);
+      totalFiles++;
+      totalChannels += data.channels.length;
+    }
   }
 }
 
-console.log(`Reordered: ${totalChannels} channels in ${totalFiles} files`);
+const scope = includeDeadSignals ? "countries + dead-signals" : "countries";
+console.log(`Reordered: ${totalChannels} channels in ${totalFiles} files (${scope})`);

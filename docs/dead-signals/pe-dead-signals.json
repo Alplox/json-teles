@@ -3,13 +3,13 @@
   "channels": [
     {
       "id": "radio-onda-digital",
+      "name": "Radio Onda Digital",
       "signals": [
         {
           "type": "m3u8",
           "url": "https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8"
         }
       ],
-      "name": "Radio Onda Digital",
       "youtube": "UCXXxRHhOXI6xFu8kDwV5UnQ",
       "last_youtube_livestreams": [],
       "last_checked": "2026-06-02T23:20:46.914Z",
@@ -96,13 +96,13 @@
     {
       "id": "tvperu",
       "name": "TVPerú",
+      "logo": "https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png",
       "signals": [
         {
           "type": "m3u8",
           "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8"
         }
       ],
-      "logo": "https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png",
       "youtube": "UCrAb_x80PtTiN3lCkQOSFPg",
       "last_youtube_livestreams": [
         "NUz_1qCR_us"
@@ -114,13 +114,13 @@
     {
       "id": "tvperu-noticias",
       "name": "TVPerú Noticias",
+      "logo": "https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png",
       "signals": [
         {
           "type": "m3u8",
           "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8"
         }
       ],
-      "logo": "https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png",
       "youtube": "UCkZCoc42IipR1ucqJmIehsA",
       "last_youtube_livestreams": [
         "GfcMdb8an6k"

@@ -3,13 +3,13 @@
   "channels": [
     {
       "id": "globovision",
+      "name": "Globovisión En Vivo",
       "signals": [
         {
           "type": "m3u8",
           "url": "https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8"
         }
       ],
-      "name": "Globovisión En Vivo",
       "youtube": "UC0nGYg5JpX7tIeQw_-DQTLw",
       "last_youtube_livestreams": [
         "hqJQtnigPPo"
@@ -33,6 +33,7 @@
     {
       "id": "telesurenespanol",
       "name": "teleSURtv",
+      "logo": "https://graph.facebook.com/teleSUR/picture?width=800&height=800",
       "signals": [
         {
           "type": "m3u8",
@@ -47,7 +48,6 @@
           "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8"
         }
       ],
-      "logo": "https://graph.facebook.com/teleSUR/picture?width=800&height=800",
       "youtube": "UCZSdNK_ZmMQcLTz-obKr-Dw",
       "last_youtube_livestreams": [
         "OiV3tZGxNYc"
@@ -116,13 +116,13 @@
     {
       "id": "televentv",
       "name": "TelevenTV",
+      "logo": "https://graph.facebook.com/TelevenTV/picture?width=800&height=800",
       "signals": [
         {
           "type": "m3u8",
           "url": "https://vcp2.myplaytv.com/televen/televen/playlist.m3u8"
         }
       ],
-      "logo": "https://graph.facebook.com/TelevenTV/picture?width=800&height=800",
       "youtube": "UCPxs1siPSF6YKGtKP_Zyvtw",
       "last_youtube_livestreams": [],
       "last_checked": "2026-06-02T23:24:21.410Z",
