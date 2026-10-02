@@ -8,7 +8,7 @@
       "signals": [],
       "youtube": "UC4RoqlERckC4gIhLEGb9Jjw",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-09-26T23:44:34.930Z",
+      "last_checked": "2026-10-02T17:11:52.987Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UC4RoqlERckC4gIhLEGb9Jjw",
       "category": "news"
@@ -19,8 +19,10 @@
       "logo": "https://graph.facebook.com/elcirculotv1/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCDPbA7nEEmzhRb5NnItyKag",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-09-26T23:44:34.930Z",
+      "last_youtube_livestreams": [
+        "zWXKKRiUvZY"
+      ],
+      "last_checked": "2026-10-02T17:11:52.987Z",
       "twitch": "circulotv",
       "website": "https://www.youtube.com/channel/UCDPbA7nEEmzhRb5NnItyKag",
       "category": "news"
@@ -32,7 +34,7 @@
       "signals": [],
       "youtube": "UCH70iZotY9DHPZA_XCJbXGQ",
       "last_youtube_livestreams": [],
-      "last_checked": "2026-09-26T23:44:46.296Z",
+      "last_checked": "2026-10-02T17:12:04.214Z",
       "twitch": null,
       "website": "https://www.youtube.com/channel/UCH70iZotY9DHPZA_XCJbXGQ",
       "category": "news"
@@ -44,9 +46,10 @@
       "signals": [],
       "youtube": "UCeFTJ001tE38wOXKgPvK1XQ",
       "last_youtube_livestreams": [
+        "stQ9xwnAi34",
         "C_Sp0td_xjU"
       ],
-      "last_checked": "2026-09-26T23:44:46.296Z",
+      "last_checked": "2026-10-02T17:12:04.215Z",
       "twitch": null,
       "website": "https://www.telemetro.com/endirecto",
       "category": "news"
@@ -57,8 +60,10 @@
       "logo": "https://graph.facebook.com/telemetro/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCm-EJjdw2bKskUFF5YyWYog",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-09-26T23:44:46.296Z",
+      "last_youtube_livestreams": [
+        "3bQHgEHNu2U"
+      ],
+      "last_checked": "2026-10-02T17:12:04.215Z",
       "twitch": null,
       "website": "https://www.telemetro.com/endirecto",
       "category": "general"
