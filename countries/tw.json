@@ -7,8 +7,11 @@
       "logo": "https://graph.facebook.com/TBSCTS/picture?width=800&height=800",
       "signals": [],
       "youtube": "UCDCJyLpbfgeVE9iZiEam-Kg",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-10-02T17:12:22.970Z",
+      "last_youtube_livestreams": [
+        "KMMHw8rllic",
+        "wM0g8EoUZ_E"
+      ],
+      "last_checked": "2026-10-08T20:50:46.814Z",
       "twitch": null,
       "website": "https://news.cts.com.tw/",
       "category": "news"
