@@ -12,8 +12,10 @@
         }
       ],
       "youtube": "UC16niRr50-MSBwiO3YDb3RA",
-      "last_youtube_livestreams": [],
-      "last_checked": "2026-10-08T20:49:43.226Z",
+      "last_youtube_livestreams": [
+        "zzdQU1JVpIQ"
+      ],
+      "last_checked": "2026-10-09T19:42:38.568Z",
       "twitch": null,
       "website": "https://www.bbc.com/",
       "category": "news"
@@ -40,7 +42,7 @@
       "last_youtube_livestreams": [
         "O1pGmVtj2Y8"
       ],
-      "last_checked": "2026-10-08T20:49:43.226Z",
+      "last_checked": "2026-10-09T19:42:38.568Z",
       "twitch": null,
       "website": "https://www.bbc.com/arabic",
       "category": "news"
